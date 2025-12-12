@@ -1,0 +1,15 @@
+title: Tobias Stål
+description: Academic Homepage
+url: https://tobbetripitaka.github.io/Tobias_Staal/
+
+# Jekyll Scholar configuration
+plugins:
+  - jekyll-scholar
+
+scholar:
+  style: ieee
+  locale: en
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_list_tag: ul
+  entry_spacing: 1
