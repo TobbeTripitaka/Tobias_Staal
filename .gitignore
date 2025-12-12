@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+._*
+
+# Thumbnails
+.Trashes
+.Spotlight-V100
+.fseventsd
+
+# macOS volume-specific
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Git
+*.orig
+*.rej
+
+# VS Code (if you use it)
+.vscode/
+
+# Node / tooling (safe to keep even if unused)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (if ever used)
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
