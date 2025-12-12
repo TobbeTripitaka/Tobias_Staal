@@ -14,7 +14,3 @@ I am a geophysicist specialising in Antarctic research. My background is in geol
 
 ![Denman](images/denman.jpg)
 
-
-## Publications
-
-{% bibliography %}
