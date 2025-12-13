@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tobias Stål Bio</title>
+    <style>
+        :root {
+            --color-bg: #f5f5f5;
+            --color-surface: #ffffff;
+            --color-text: #1a1a1a;
+            --color-text-secondary: #666666;
+            --color-border: #e0e0e0;
+            --color-primary: #000000;
+            --color-accent: #d97706;
+            --spacing-sm: 12px;
+            --spacing-md: 16px;
+            --spacing-lg: 24px;
+            --spacing-xl: 32px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background-color: var(--color-bg);
+            color: var(--color-text);
+            line-height: 1.5;
+        }
+
+        .container {
+            display: flex;
+            height: 100vh;
+            gap: var(--spacing-lg);
+            padding: var(--spacing-lg);
+            max-width: 1600px;
+            margin: 0 auto;
+        }
+
+        .column {
+            flex: 1;
+            background-color: var(--color-surface);
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            overflow-y: auto;
+            padding: var(--spacing-xl);
+        }
+
+        .column::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .column::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .column::-webkit-scrollbar-thumb {
+            background: #ccc;
+            border-radius: 4px;
+        }
+
+        .column::-webkit-scrollbar-thumb:hover {
+            background: #999;
+        }
+
+        /* Left Column */
+        .left-column {
+            display: flex;
+            flex-direction: column;
+            gap: var(--spacing-lg);
+        }
+
+        .section {
+            margin-bottom: var(--spacing-lg);
+        }
+
+        .section h2 {
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: var(--spacing-md);
+            color: var(--color-primary);
+            border-bottom: 2px solid var(--color-accent);
+            padding-bottom: var(--spacing-sm);
+        }
+
+        .section p {
+            color: var(--color-text-secondary);
+            margin-bottom: var(--spacing-md);
+            line-height: 1.8;
+        }
+
+        .photo-gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: var(--spacing-md);
+            margin-top: var(--spacing-md);
+        }
+
+        .photo {
+            width: 100%;
+            height: 200px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-radius: 6px;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 14px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .photo img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* Right Column */
+        .right-column {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .header-info {
+            text-align: center;
+            margin-bottom: var(--spacing-xl);
+            padding-bottom: var(--spacing-lg);
+            border-bottom: 2px solid var(--color-border);
+        }
+
+        .header-info h1 {
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: var(--spacing-sm);
+            color: var(--color-primary);
+        }
+
+        .header-info .title {
+            font-size: 16px;
+            color: var(--color-accent);
+            font-weight: 500;
+            margin-bottom: var(--spacing-sm);
+        }
+
+        .header-info .subtitle {
+            font-size: 14px;
+            color: var(--color-text-secondary);
+            line-height: 1.6;
+        }
+
+        .bio-section {
+            margin-bottom: var(--spacing-xl);
+        }
+
+        .bio-section h3 {
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--color-primary);
+            margin-bottom: var(--spacing-md);
+            text-transform: uppercase;
+            font-size: 14px;
+            letter-spacing: 0.5px;
+        }
+
+        .bio-list {
+            list-style: none;
+        }
+
+        .bio-item {
+            margin-bottom: var(--spacing-md);
+            padding-left: var(--spacing-lg);
+            position: relative;
+            font-size: 14px;
+            line-height: 1.7;
+            color: var(--color-text-secondary);
+        }
+
+        .bio-item::before {
+            content: "▸";
+            position: absolute;
+            left: 0;
+            color: var(--color-accent);
+            font-weight: bold;
+        }
+
+        .bio-item .year {
+            font-weight: 600;
+            color: var(--color-primary);
+            display: block;
+            margin-bottom: 2px;
+        }
+
+        .bio-item .description {
+            display: block;
+            color: var(--color-text-secondary);
+        }
+
+        /* Responsive */
+        @media (max-width: 900px) {
+            .container {
+                flex-direction: column;
+                height: auto;
+                padding: var(--spacing-md);
+                gap: var(--spacing-md);
+            }
+
+            .column {
+                max-height: 600px;
+                min-height: 400px;
+            }
+
+            .header-info h1 {
+                font-size: 24px;
+            }
+
+            .section h2 {
+                font-size: 18px;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: var(--spacing-sm);
+                gap: var(--spacing-sm);
+            }
+
+            .column {
+                padding: var(--spacing-md);
+            }
+
+            .photo-gallery {
+                grid-template-columns: 1fr;
+            }
+
+            .header-info h1 {
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Left Column: Content and Photos -->
+        <div class="column left-column">
+            <section class="section">
+                <h2>About</h2>
+                <p>
+                    I am a geophysicist specialising in Antarctic research. My background is in geology and geomorphology, previously working in the Arctic and Europe. I also have a professional background and education in art and engineering. 
+                </p>
+                <p>
+                    The Antarctic continent, surpassing Australia in size, remains largely unexplored due to its extensive ice cover and challenging accessibility. Understanding Antarctica's geology and lithospheric structure is compounded by the uncertain effects of ongoing global warming that vary across different regions.
+                </p>
+            </section>
+
+            <section class="section">
+                <h2>Work & Projects</h2>
+                <p>
+                    Please feel free to connect with me to discuss potential collaborations. I am here to share knowledge and contribute to the community.
+                </p>
+                <div class="photo-gallery">
+                    <div class="photo"><img src="images/denman.jpg" alt="Denman Glacier"></div>
+                </div>
+            </section>
+
+            <section class="section">
+                <h2>Expertise</h2>
+                <p>
+                    My research is focused on merging data from geology, geophysics, and statistical computer models. By integrating diverse disciplines, I aim to comprehensively understand the continent's structure, particularly within the ice-covered interior. Through models, we can illuminate the intricate interactions between the massive ice sheet and the underlying subglacial geology and better prepare for the Antarctic response to global warming and rising sea levels.
+                </p>
+            </section>
+
+            <section class="section">
+                <h2>Other interests</h2>
+                <p>
+                    In addition to my work on Antarctica, I study geothermal heat, explore innovative applications of geophysics and instrumentation and learn from the history of polar science.
+                </p>
+            </section>
+        </div>
+
+        <!-- Right Column: Bio Information -->
+        <div class="column right-column">
+            <div class="header-info">
+                <h1>Tobias Stål</h1>
+                <div class="title">Geoscientist and engineer</div>
+                <div class="subtitle">
+                    Tasmania, Australia<br>
+                    <a href="mailto:tobbetripitaka@gmail.com">tobbetripitaka@gmail.com</a>
+                </div>
+            </div>
+
+            <section class="bio-section">
+                <h3>Publications</h3>
+                <ul class="bio-list">
+                    <li class="bio-item">
+                        <span class="year">2025</span>
+                        <span class="description">Abram, Nerilie J, Purich, Ariaan, England, Matthew H, McCormack, Felicity S, Strugnell, Jan M, Bergstrom, Dana M, Vance, Tessa R, Stål, Tobias, Wienecke, Barbara, Heil, Petra et al. — Emerging evidence of abrupt changes in the Antarctic environment. <i>Nature</i>, 644(8077), pp. 621–633. <a href="https://doi.org/10.1038/s41586-025-07234-2" target="_blank">doi:10.1038/s41586-025-07234-2</a></span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2025</span>
+                        <span class="description">Al-Aghbary, Magued, Awaleh, Mohamed Osman, Jalludin, Mohamed, Sobh, Mohamed, Gerhards, Christian, Staal, Tobias — Improving Geothermal Heat Flow Predictions and Uncertainty Quantification using Clustering-based Quantile Regression Forests. <i>Authorea Preprints</i>. <a href="https://doi.org/10.22541/au.171720566.99919145/v1" target="_blank">Preprint</a></span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2025</span>
+                        <span class="description">Lösing, Mareen, Colgan, William, Stål, Tobias, Ebbing, Jörg, Busck, Anne G, Zhang, Tong, Seroussi, Hélène, McCormack, Felicity, Fahrner, Dominik, Stearns, Leigh et al. — Community heat flow recommendations: Suitable basal boundary conditions for Greenland and Antarctica in ISMIP7. <i>EarthArXiv</i>. <a href="https://doi.org/10.31223/X5TP9X" target="_blank">Preprint</a></span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2025</span>
+                        <span class="description">Manassero, María Constanza, Selway, Kate, Staal, Tobias, Scheiter, Matthias, McCormack, Felicity S, Lösing, Mareen, Halpin, Jacqueline Ann, Kulessa, Bernd, Reading, Anya M — Bed topography and subglacial conditions of Denman Glacier, East Antarctica: Insights from magnetotelluric data and interdisciplinary studies. <i>In review</i></span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2024</span>
+                        <span class="description">Stål, Tobias, Halpin, Jacqueline A, Goodge, John W, Reading, Anya M — Geology matters for Antarctic geothermal heat. <i>Geophysical Research Letters</i>, 51(13), e2024GL110098. <a href="https://doi.org/10.1029/2024GL110098" target="_blank">doi:10.1029/2024GL110098</a></span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2024</span>
+                        <span class="description">Lösing, Mareen, Aitken, Alan RA, Ebbing, Jörg, Halpin, Jacqueline Ann, Li, Lu, Moorkamp, Max, Reading, Anya M, Staal, Tobias — Linking Tectonics and Crustal Thermal Properties in Southwestern Australia and East Antarctica Through Coupled Gravity and Magnetic Analysis. <i>Authorea Preprints</i>. <a href="https://doi.org/10.31223/X5TP9X" target="_blank">Preprint</a></span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2023</span>
+                        <span class="description">Fuchs, Sven, Neumann, Florian, Norden, Ben, Beardsmore, Graeme, Chiozzi, Paolo, Colgan, William, Dominguez, Ana Paulina, Duque, Maria Rosa Alves, Ojeda Espinoza, Orlando Miguel, Forster, Florian et al. — The Global Heat Flow Database: Update 2023. GFZ Data Services. <a href="https://doi.org/10.5880/fidgeo.2023.023" target="_blank">doi:10.5880/fidgeo.2023.023</a></span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2022</span>
+                        <span class="description">McCormack, Felicity S, Roberts, Jason L, Dow, Christine F, Stål, Tobias, Halpin, Jacqueline A, Reading, Anya M, Siegert, Martin J — Fine-scale geothermal heat flow in Antarctica can increase simulated subglacial melt estimates. <i>Geophysical Research Letters</i>, 49(15), e2022GL098539. <a href="https://doi.org/10.1029/2022GL098539" target="_blank">doi:10.1029/2022GL098539</a></span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2022</span>
+                        <span class="description">Stål, Tobias, Reading, Anya M, Fuchs, Sven, Halpin, Jacqueline A, Lösing, Mareen, Turner, Ross J — Properties and biases of the global heat flow compilation. <i>Frontiers in Earth Science</i>, 10, 963525. <a href="https://doi.org/10.3389/feart.2022.963525" target="_blank">doi:10.3389/feart.2022.963525</a></span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2022</span>
+                        <span class="description">Reading, Anya M, Stål, Tobias, Halpin, Jacqueline A, Lösing, Mareen, Ebbing, Jörg, Shen, Weisen, McCormack, Felicity S, Siddoway, Christine S, Hasterok, Derrick — Antarctic geothermal heat flow and its implications for tectonics and ice sheets. <i>Nature Reviews Earth &amp; Environment</i>, 3(12), pp. 814–831. <a href="https://doi.org/10.1038/s43247-022-00579-3" target="_blank">doi:10.1038/s43247-022-00579-3</a></span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2021</span>
+                        <span class="description">Stål, Tobias, Reading, Anya M, Halpin, Jacqueline A, Whittaker, Joanne M — Antarctic geothermal heat flow model: Aq1. <i>Geochemistry, Geophysics, Geosystems</i>, 22(2), e2020GC009428. <a href="https://doi.org/10.1029/2020GC009428" target="_blank">doi:10.1029/2020GC009428</a></span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2021</span>
+                        <span class="description">Sanchez, Guillaume, Halpin, Jacqueline Ann, Gard, Matthew, Hasterok, Derrick, Staal, Tobias, Raimondo, Tom, Peters, Stefan, Burton-Johnson, Alex — PetroChron Antarctica: A geological database for interdisciplinary use. <i>Geochemistry, Geophysics, Geosystems</i>, 22(12), e2021GC010154. <a href="https://doi.org/10.1029/2021GC010154" target="_blank">doi:10.1029/2021GC010154</a></span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2020</span>
+                        <span class="description">Stål, Tobias, Reading, Anya M, Halpin, Jacqueline A, Phipps, Steven J, Whittaker, Joanne M — The Antarctic crust and upper mantle: A flexible 3D model and software framework for interdisciplinary research. <i>Frontiers in Earth Science</i>, 8, 577502. <a href="https://doi.org/10.3389/feart.2020.577502" target="_blank">doi:10.3389/feart.2020.577502</a></span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2020</span>
+                        <span class="description">Morse, Peter E, Reading, Anya M, Stål, Tobias — Exploratory volumetric deep Earth visualization by 2.5 D interactive compositing. <i>IEEE Transactions on Visualization and Computer Graphics</i>, 28(7), pp. 2641–2653</span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2020</span>
+                        <span class="description">Stål, Tobias, Reading, Anya — A grid for multidimensional and multivariate spatial representation and data processing. University of Tasmania</span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2019</span>
+                        <span class="description">Stål, Tobias, Reading, Anya M, Halpin, Jacqueline A, Whittaker, Joanne M — A multivariate approach for mapping lithospheric domain boundaries in East Antarctica. <i>Geophysical Research Letters</i>, 46(17–18), pp. 10404–10416. <a href="https://doi.org/10.1029/2019GL083453" target="_blank">doi:10.1029/2019GL083453</a></span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2019</span>
+                        <span class="description">Morse, Peter E, Reading, Anya M, Stål, Tobias — Well-posed geoscientific visualization through interactive color mapping. <i>Frontiers in Earth Science</i>, 7, 274. <a href="https://doi.org/10.3389/feart.2019.00274" target="_blank">doi:10.3389/feart.2019.00274</a></span>
+                    </li>
+                </ul>
+            </section>
+
+            <section class="bio-section">
+                <h3>Positions</h3>
+                <ul class="bio-list">
+                    <li class="bio-item">
+                        <span class="year">2022 – Present</span>
+                        <span class="description">Research Associate in Computational Physics (Geophysics).</span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2021 – 2022</span>
+                        <span class="description">Research Fellow in Antarctic Seismology</span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2020 – 2021</span>
+                        <span class="description">Research Assistant</span>
+                    </li>
+                </ul>
+            </section>
+
+            <section class="bio-section">
+                <h3>Awards & Recognition</h3>
+                <ul class="bio-list">
+                    <li class="bio-item">
+                        <span class="year">2023</span>
+                        <span class="description">Royal Society of Tasmania 2023 Doctoral Award</span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2020</span>
+                        <span class="description">PhD Award for Outstanding Performance during Postgraduate Studies</span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2019</span>
+                        <span class="description">Progress in Inclusion, Diversity & Equity</span>
+                    </li>
+                </ul>
+            </section>
+
+            <section class="bio-section">
+                <h3>Education</h3>
+                <ul class="bio-list">
+                    <li class="bio-item">
+                        <span class="year">2021</span>
+                        <span class="description">PhD, University of Tasmania, Australia</span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2016</span>
+                        <span class="description">MSc University of Copenhagen, Denmark</span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">2011</span>
+                        <span class="description">BSc University of Copenhagen, Denmark</span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">1998</span>
+                        <span class="description">AD, Luleå University of Technology, Luleå, Sweden</span>
+                    </li>
+                </ul>
+            </section>
+        </div>
+    </div>
+</body>
+</html>
