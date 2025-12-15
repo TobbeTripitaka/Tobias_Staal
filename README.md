@@ -2,7 +2,11 @@
 
 ---
 
+<<<<<<< HEAD
 Here is my bio and links. 
+=======
+Here is my bio and links to other profiles. 
+>>>>>>> 929375d (README)
 
 ---
 
