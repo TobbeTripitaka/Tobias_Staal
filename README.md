@@ -2,7 +2,7 @@
 
 ---
 
-Here is my bio and links to other profiles. 
+Here is my bio and links. 
 
 ---
 
