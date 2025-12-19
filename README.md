@@ -2,8 +2,6 @@
 
 Geophysist, engineer 
 ---
-Here is my bio and links. 
----
 
 ## Links
 
