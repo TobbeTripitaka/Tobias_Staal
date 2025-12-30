@@ -1,5 +1,7 @@
 # Tobias Stål
 
+<img src="images/mountain.jpg" alt="Mountain" width="340" />
+
 Geophysist, engineer 
 ---
 
