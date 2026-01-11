@@ -10,5 +10,5 @@ Geophysist, engineer
 - [Google Scholar](https://scholar.google.com/citations?user=2W1UzuQAAAAJ&hl)
 - [ResearchGate](https://www.researchgate.net/profile/Tobias-Stal)
 
-![Stratigraphy, Svalbard](https://github.com/TobbeTripitaka/Tobias_Staal/blob/main/images/mountain.jpg?raw=true)
+![Mt Strathcona, Antarctica](https://github.com/TobbeTripitaka/Tobias_Staal/blob/main/images/mountain.jpg?raw=true)
 _photo: Tobias Stål_
