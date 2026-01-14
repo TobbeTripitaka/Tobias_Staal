@@ -11,4 +11,4 @@ Geophysist, engineer
 - [ResearchGate](https://www.researchgate.net/profile/Tobias-Stal)
 
 ![Mt Strathcona, Antarctica](https://github.com/TobbeTripitaka/Tobias_Staal/blob/main/images/mountain.jpg?raw=true)
-_photo: Tobias Stål_
+_Photo: Tobias Stål_
