@@ -1,0 +1,39 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+
+% Biblatex setup: biber backend is standard these days
+\usepackage[
+  backend=biber,
+  style=authoryear,
+  citestyle=authoryear
+]{biblatex}
+
+% Your .bib file
+\addbibresource{references.bib}
+
+\title{Annotated Reference List}
+\author{Your Name}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+List of my publications in peer reviewed journals, preprints, reports and outreach material. 
+\end{abstract}
+
+\section*{Peer Reviewed Publications}
+
+
+% Cite *all* entries from references.bib
+\nocite{*} 
+
+\section*{Bibliography}
+
+\printbibliography
+
+\end{document}
