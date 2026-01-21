@@ -1,18 +1,14 @@
+##################
 # macOS
+##################
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# Icon files
 Icon?
 ._*
-
-# Thumbnails
 .Trashes
 .Spotlight-V100
 .fseventsd
-
-# macOS volume-specific
 .VolumeIcon.icns
 .AppleDB
 .AppleDesktop
@@ -20,22 +16,104 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+##################
 # Git
+##################
 *.orig
 *.rej
 
-# VS Code (if you use it)
+##################
+# Editors / IDEs
+##################
+# VS Code
 .vscode/
 
-# Node / tooling (safe to keep even if unused)
+# Swap / backup files
+*.swp
+*.swx
+*~
+Thumbs.db
+
+##################
+# Node / JS tooling
+##################
 node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Python (if ever used)
+##################
+# Python
+##################
 __pycache__/
 *.py[cod]
 *.pyo
 .env
 .venv
+
+##################
+# LaTeX
+##################
+
+# Keep sources
+!*.tex
+!*.bib
+
+# Core LaTeX aux files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+# Intermediate / output
+*.dvi
+*.xdv
+*.pdf
+*.ps
+*.eps
+
+# BibTeX / Biber
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+
+# Index, glossary, listings
+*.idx
+*.ilg
+*.ind
+*.ist
+*.glo
+*.glg
+*.gls
+*.glsdefs
+*.acn
+*.acr
+*.alg
+*.lol
+
+# SyncTeX and similar
+*.synctex
+*.synctex.gz
+*.synctex(busy)
+*.synctex.gz(busy)
+*.pdfsync
+
+# Latexmk and other build tools
+*.fdb_latexmk
+*.auxlock
+*.run.xml
+
+# Beamer
+*.nav
+*.snm
+*.vrb
