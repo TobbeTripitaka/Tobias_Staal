@@ -8,13 +8,15 @@
 \usepackage[
   backend=biber,
   style=authoryear,
-  citestyle=authoryear
+  citestyle=authoryear,
+  sorting=ydnt
 ]{biblatex}
 
 % Your .bib file
 \addbibresource{references.bib}
 
 \title{Annotated Reference List}
+%
 \author{Tobias Stål}
 \date{\today}
 
@@ -24,17 +26,36 @@
 
 \maketitle
 
-\begin{abstract}
+\begin{abstract}%
+%
+
 List of my publications in peer reviewed journals, preprints, reports and outreach material. 
 \end{abstract}
 
-\section*{Peer Reviewed Publications}
+\nocite{*}
+
+\section*{Peer reviewed publications\footnote{Including Accepted, In REview and Submitted}}
+\printbibliography[
+keyword={peer-reviewed},
+sorting=ydnt,
+heading=none
+]
+
+\section*{Datasets}
+\printbibliography[
+keyword={dataset},
+sorting=ydnt,
+heading=none
+]
+
+\section*{Other}
+\printbibliography[
+notkeyword={peer-reviewed},
+notkeyword={dataset},
+sorting=ydnt,
+heading=none
+]
 
 
-\nocite{*} 
-
-\section*{Bibliography}
-
-\printbibliography
 
 \end{document}
