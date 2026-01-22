@@ -1,4 +1,4 @@
-Compile with:
+Uses Compile with:
 
 ```
 pdflatex publication_list.tex
@@ -7,5 +7,3 @@ pdflatex publication_list.tex
 pdflatex publication_list.tex
 
 ```
-
-

@@ -4,15 +4,21 @@
 \usepackage[T1]{fontenc}
 \usepackage[english]{babel}
 
-% Biblatex setup: biber backend is standard these days
+\usepackage{helvet}                 % Helvetica-like sans
+\renewcommand{\familydefault}{\sfdefault}
+
+
+
 \usepackage[
   backend=biber,
   style=authoryear,
   citestyle=authoryear,
-  sorting=ydnt
+  sorting=ydnt,
+  maxbibnames=99,
+  minbibnames=1
 ]{biblatex}
 
-% Your .bib file
+
 \addbibresource{references.bib}
 
 \title{Annotated Reference List}
@@ -20,39 +26,45 @@
 \author{Tobias Stål}
 \date{\today}
 
-\begin{document}
 
+
+
+
+
+\begin{document}
 
 
 \maketitle
 
 \begin{abstract}%
-%
 
+\noindent
 List of my publications in peer reviewed journals, preprints, reports and outreach material. 
 \end{abstract}
 
 \nocite{*}
 
-\section*{Peer reviewed publications\footnote{Including Accepted, In REview and Submitted}}
+\section*{Peer reviewed publications\footnote{Including Accepted, In Review and Submitted. Preprint DOI provided where applicable}}
 \printbibliography[
 keyword={peer-reviewed},
-sorting=ydnt,
+notkeyword={dataset},
+notkeyword={report},
 heading=none
 ]
 
 \section*{Datasets}
 \printbibliography[
 keyword={dataset},
-sorting=ydnt,
+notkeyword={peer-reviewed},
+notkeyword={report},
 heading=none
 ]
 
-\section*{Other}
+\section*{Reports and Outreach}
 \printbibliography[
-notkeyword={peer-reviewed},
+keyword={report},
 notkeyword={dataset},
-sorting=ydnt,
+notkeyword={peer-reviewed},
 heading=none
 ]
 
