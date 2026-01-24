@@ -1,4 +1,6 @@
-Uses Compile with:
+Publication list in BibTeX format. 
+
+Compile with:
 
 ```
 pdflatex publication_list.tex
