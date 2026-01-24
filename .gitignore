@@ -76,7 +76,6 @@ __pycache__/
 # Intermediate / output
 *.dvi
 *.xdv
-*.pdf
 *.ps
 *.eps
 
