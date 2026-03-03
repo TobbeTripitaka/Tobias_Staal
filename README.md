@@ -1,6 +1,6 @@
 # Tobias Stål
 
-Geophysist, engineer 
+## Geophysist, engineer 
 ---
 
 - [Tobias Stål Portfolio](https://tobbetripitaka.github.io/Tobias_Staal/)
