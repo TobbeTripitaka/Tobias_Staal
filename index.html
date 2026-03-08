@@ -3,20 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tobias Stål Bio</title>
+    <title>Tobias Stål — Geoscientist</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --color-bg: #f5f5f5;
+            --color-bg: #f0f0f0;
             --color-surface: #ffffff;
-            --color-text: #1a1a1a;
-            --color-text-secondary: #666666;
-            --color-border: #e0e0e0;
-            --color-primary: #000000;
-            --color-accent: #d97706;
+            --color-text: #2a2a2a;
+            --color-text-secondary: #555555;
+            --color-text-muted: #888888;
+            --color-border: #e2e2e2;
+            --color-primary: #1a1a1a;
+            --color-accent: #3d7c98;
+            --color-accent-subtle: rgba(61, 124, 152, 0.08);
+            --radius: 4px;
+            --spacing-xs: 8px;
             --spacing-sm: 12px;
-            --spacing-md: 16px;
-            --spacing-lg: 24px;
-            --spacing-xl: 32px;
+            --spacing-md: 20px;
+            --spacing-lg: 32px;
+            --spacing-xl: 48px;
+            --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
         }
 
         * {
@@ -25,49 +33,51 @@
             box-sizing: border-box;
         }
 
+        html {
+            font-size: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             background-color: var(--color-bg);
             color: var(--color-text);
-            line-height: 1.5;
+            line-height: 1.65;
         }
 
         .container {
             display: flex;
             height: 100vh;
-            gap: var(--spacing-lg);
-            padding: var(--spacing-lg);
-            max-width: 1600px;
+            gap: 1px;
+            max-width: 1800px;
             margin: 0 auto;
+            background-color: var(--color-border);
         }
 
         .column {
             flex: 1;
             background-color: var(--color-surface);
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
             overflow-y: auto;
-            padding: var(--spacing-xl);
+            padding: var(--spacing-xl) var(--spacing-lg);
         }
 
+        /* Minimal scrollbar */
         .column::-webkit-scrollbar {
-            width: 8px;
+            width: 5px;
         }
-
         .column::-webkit-scrollbar-track {
             background: transparent;
         }
-
         .column::-webkit-scrollbar-thumb {
-            background: #ccc;
-            border-radius: 4px;
+            background: #d0d0d0;
+            border-radius: 3px;
         }
-
         .column::-webkit-scrollbar-thumb:hover {
-            background: #999;
+            background: #aaa;
         }
 
-        /* Left Column */
+        /* ==================== LEFT COLUMN ==================== */
         .left-column {
             display: flex;
             flex-direction: column;
@@ -75,109 +85,109 @@
         }
 
         .section {
-            margin-bottom: var(--spacing-lg);
+            margin-bottom: var(--spacing-md);
         }
 
         .section h2 {
-            font-size: 20px;
+            font-size: 0.7rem;
             font-weight: 600;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: var(--color-accent);
             margin-bottom: var(--spacing-md);
-            color: var(--color-primary);
-            border-bottom: 2px solid var(--color-accent);
-            padding-bottom: var(--spacing-sm);
         }
 
         .section p {
             color: var(--color-text-secondary);
             margin-bottom: var(--spacing-md);
-            line-height: 1.8;
+            line-height: 1.75;
+            font-size: 0.95rem;
+            max-width: 680px;
         }
 
         .photo-gallery {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: var(--spacing-md);
-            margin-top: var(--spacing-md);
+            grid-template-columns: 1fr;
+            gap: var(--spacing-sm);
+            margin: var(--spacing-md) 0;
         }
-
-        .photo-credit {
-          display: block;
-          text-align: right;
-          font-size: 0.8rem;
-          margin-top: 0.25rem;
-          color: #666;
-        }
-
-
 
         .photo {
             width: 100%;
-            height: 200px;
-            background: linear-gradient(135deg, #777777 0%, #434343 100%);
-            border-radius: 6px;
+            height: auto;
+            max-height: 320px;
+            background: #e8e8e8;
+            border-radius: var(--radius);
             overflow: hidden;
             display: flex;
             align-items: center;
             justify-content: center;
-            color: white;
-            font-size: 14px;
-            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
         }
 
         .photo img {
             width: 100%;
             height: 100%;
             object-fit: cover;
+            display: block;
         }
 
+        .photo-credit {
+            display: block;
+            text-align: right;
+            font-size: 0.7rem;
+            margin-top: 4px;
+            color: var(--color-text-muted);
+            font-style: italic;
+            letter-spacing: 0.02em;
+        }
 
-
-
-        /* Right Column */
+        /* ==================== RIGHT COLUMN ==================== */
         .right-column {
             display: flex;
             flex-direction: column;
         }
 
         .header-info {
-            text-align: center;
             margin-bottom: var(--spacing-xl);
             padding-bottom: var(--spacing-lg);
-            border-bottom: 2px solid var(--color-border);
+            border-bottom: 1px solid var(--color-border);
         }
 
         .header-info h1 {
-            font-size: 28px;
+            font-size: 1.75rem;
             font-weight: 700;
-            margin-bottom: var(--spacing-sm);
+            letter-spacing: -0.02em;
             color: var(--color-primary);
+            margin-bottom: 4px;
         }
 
         .header-info .title {
-            font-size: 16px;
+            font-size: 0.9rem;
             color: var(--color-accent);
             font-weight: 500;
-            margin-bottom: var(--spacing-sm);
+            margin-bottom: 4px;
         }
 
         .header-info .subtitle {
-            font-size: 14px;
-            color: var(--color-text-secondary);
-            line-height: 1.6;
+            font-size: 0.8rem;
+            color: var(--color-text-muted);
+            letter-spacing: 0.02em;
         }
 
+        /* Bio sections */
         .bio-section {
-            margin-bottom: var(--spacing-xl);
+            margin-bottom: var(--spacing-lg);
         }
 
         .bio-section h3 {
-            font-size: 16px;
+            font-size: 0.7rem;
             font-weight: 600;
-            color: var(--color-primary);
-            margin-bottom: var(--spacing-md);
+            color: var(--color-accent);
             text-transform: uppercase;
-            font-size: 14px;
-            letter-spacing: 0.5px;
+            letter-spacing: 0.12em;
+            margin-bottom: var(--spacing-md);
+            padding-bottom: var(--spacing-xs);
+            border-bottom: 1px solid var(--color-border);
         }
 
         .bio-list {
@@ -186,26 +196,25 @@
 
         .bio-item {
             margin-bottom: var(--spacing-md);
-            padding-left: var(--spacing-lg);
+            padding-left: 0;
             position: relative;
-            font-size: 14px;
-            line-height: 1.7;
+            font-size: 0.88rem;
+            line-height: 1.65;
             color: var(--color-text-secondary);
         }
 
         .bio-item::before {
-            content: "▸";
-            position: absolute;
-            left: 0;
-            color: var(--color-accent);
-            font-weight: bold;
+            content: none;
         }
 
         .bio-item .year {
             font-weight: 600;
-            color: var(--color-primary);
+            font-size: 0.75rem;
+            color: var(--color-text-muted);
             display: block;
             margin-bottom: 2px;
+            font-family: var(--font-mono);
+            letter-spacing: 0.03em;
         }
 
         .bio-item .description {
@@ -213,45 +222,60 @@
             color: var(--color-text-secondary);
         }
 
-        /* Responsive */
-        @media (max-width: 900px) {
+        .bio-item .description a {
+            color: var(--color-accent);
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: border-color 0.2s ease;
+        }
+
+        .bio-item .description a:hover {
+            border-bottom-color: var(--color-accent);
+        }
+
+        .bio-item .description i {
+            font-style: italic;
+        }
+
+        /* Online profiles - special treatment */
+        .bio-section:first-of-type .bio-item .year {
+            color: var(--color-text-muted);
+        }
+
+        /* ==================== RESPONSIVE ==================== */
+        @media (max-width: 1000px) {
             .container {
                 flex-direction: column;
                 height: auto;
-                padding: var(--spacing-md);
-                gap: var(--spacing-md);
+                gap: 0;
+                border-top: 1px solid var(--color-border);
             }
-
             .column {
-                max-height: 600px;
-                min-height: 400px;
-            }
-
-            .header-info h1 {
-                font-size: 24px;
-            }
-
-            .section h2 {
-                font-size: 18px;
+                padding: var(--spacing-lg) var(--spacing-md);
             }
         }
 
         @media (max-width: 600px) {
-            .container {
-                padding: var(--spacing-sm);
-                gap: var(--spacing-sm);
+            html {
+                font-size: 14px;
             }
-
             .column {
-                padding: var(--spacing-md);
+                padding: var(--spacing-md) var(--spacing-sm);
             }
-
-            .photo-gallery {
-                grid-template-columns: 1fr;
-            }
-
             .header-info h1 {
-                font-size: 20px;
+                font-size: 1.4rem;
+            }
+        }
+
+        /* Print styles */
+        @media print {
+            .container {
+                flex-direction: column;
+                height: auto;
+            }
+            .column {
+                overflow: visible;
+                box-shadow: none;
             }
         }
     </style>
@@ -261,32 +285,29 @@
         <!-- Left Column: Content and Photos -->
         <div class="column left-column">
             <section class="section">
-                <h2>Nice to meet you!</h2>
+                <h2>Nice to meet you</h2>
                 <p>
-                    I am Tobias Stål, geophysicist specialising in Antarctic research. My background is in geology and geomorphology, previously working in the Arctic and Europe. I also have a professional background and education in art and electrical engineering. 
+                    I am Tobias Stål, geophysicist specialising in Antarctic research. My background is in geology and geomorphology, previously working in the Arctic and Europe. I also have a professional background and education in art and electrical engineering.
                     I am here to learn, share knowledge and contribute to the community.
                 </p>
                 <div class="photo-gallery">
                     <div class="photo"><img src="images/svalbard_river.jpg" alt="Svalbard"></div>
-
                 </div>
-                <i class="photo-credit">Photo: Derrick Midwinter</i>
+                <span class="photo-credit">Photo: Derrick Midwinter</span>
                 <p>
-                    I get excited about fieldwork logistics. My work has taken me to the Arctic, Antarctic, across Europe, Africa, and the Middle East; projects and places where limited resources force you to prioritise and solve problems with whatever you have, and being well prepared. Turns out this constraint-driven approach works remarkably well. It also makes interdisciplinary and international collaboration not just possible, but essential. When depending on other people’s skills and experience, you cannot afford to be judgmental. 
+                    I get excited about fieldwork logistics. My work has taken me to the Arctic, Antarctic, across Europe, Africa, and the Middle East; projects and places where limited resources force you to prioritise and solve problems with whatever you have, and being well prepared. Turns out this constraint-driven approach works remarkably well. It also makes interdisciplinary and international collaboration not just possible, but essential. When depending on other people's skills and experience, you cannot afford to be judgmental.
                 </p>
             </section>
 
             <section class="section">
-                <h2>Fieldwork and Instrumenation</h2>
+                <h2>Fieldwork and Instrumentation</h2>
                 <div class="photo-gallery">
                     <div class="photo"><img src="images/denman.jpg" alt="Denman Glacier"></div>
-                    
                 </div>
-                <i class="photo-credit">Photo: Tobias Stål</i>
+                <span class="photo-credit">Photo: Tobias Stål</span>
                 <p>
-                   I work in complex environments, build collaborations across disciplines and continents, and love learning while exploring this planet. I enjoy the process and don’t take myself too seriously; however, I take my science extremely seriously.
+                   I work in complex environments, build collaborations across disciplines and continents, and love learning while exploring this planet. I enjoy the process and don't take myself too seriously; however, I take my science extremely seriously.
                 </p>
-
             </section>
 
             <section class="section">
@@ -294,99 +315,53 @@
                 <div class="photo-gallery">
                     <div class="photo"><img src="images/model_aus.jpg" alt="Boundary model"></div>
                 </div>
-                <i class="photo-credit">Stål et al. (GRL, 2019) </i>
-
+                <span class="photo-credit">Stål et al. (GRL, 2019)</span>
                 <p>
-                    My own research is focused on merging data from geology, geophysics, and statistical computer models. By integrating such diverse disciplines, I aim to comprehensively understand the continent's structure, particularly within the ice-covered interior. Through models, we can illuminate the intricate interactions between the massive ice sheet and the underlying subglacial geology and better prepare for the Antarctic response to global warming and rising sea levels. I like to develop new ways to run models; finding new angles to study fenomena. In addition to my work on Antarctica, I study geothermal heat, explore innovative applications of geophysics and instrumentation and learn from the history of polar science. 
-                </p>
-
-
-            <section class="section">
-                <h2>Impact and Society</h2>
-                <div class="photo-gallery">
-                    <div class="photo"><img src="images/delta.JPG" alt="Delta"></div>
-                </div>
-                <i class="photo-credit">Photo: Tobias Stål</i>
-            </section>
-                <p>
-                    I am not optimistic about the future; however, history is not linear, and there is still time and space to shape a better world. 
+                    My own research is focused on merging data from geology, geophysics, and statistical computer models. By integrating such diverse disciplines, I aim to comprehensively understand the continent's structure, particularly within the ice-covered interior. Through models, we can illuminate the intricate interactions between the massive ice sheet and the underlying subglacial geology and better prepare for the Antarctic response to global warming and rising sea levels. I like to develop new ways to run models; finding new angles to study fenomena. In addition to my work on Antarctica, I study geothermal heat, explore innovative applications of geophysics and instrumentation and learn from the history of polar science.
                 </p>
             </section>
 
-
-<!--             <section class="section">
-                <h2>Positive Change</h2>
-                <div class="photo-gallery">
-                    <div class="photo"><img src="images/mir.jpg" alt="Delta"></div>
-                </div>
-                <i class="photo-credit">Photo: Tobias Stål</i>
-                <p>
-                    At the very least, humanity can work to avert the worst catastrophes. We need to reclaim and direct technology for the good of the Earth, through genuine collaboration and with no place for prejudice.
-                </p>
-            </section> -->
-
-
-<section class="bio-section">
-    <h3>Online Profiles</h3>
-    <ul class="bio-list">
-        <li class="bio-item">
-            <span class="year">Github</span>
-            <span class="description">
-                <a href="https://github.com/TobbeTripitaka" target="_blank" rel="noopener noreferrer">
-                    Tobias Stål – Github repo
-                </a>
-            </span>
-        </li>
-        <li class="bio-item">
-            <span class="year">Bluesky</span>
-            <span class="description">
-                <a href="https://bsky.app/profile/tobiasstl.bsky.social" target="_blank" rel="noopener noreferrer">
-                    @tobiasstl.bsky.social
-                </a>
-            </span>
-        </li>
-        <li class="bio-item">
-            <span class="year">UTAS</span>
-            <span class="description">
-                <a href="https://discover.utas.edu.au/Tobias.Staal/about" target="_blank" rel="noopener noreferrer">
-                    University of Tasmania profile
-                </a>
-            </span>
-        </li>
-        <li class="bio-item">
-            <span class="year">Google Scholar</span>
-            <span class="description">
-                <a href="https://scholar.google.com/citations?user=2W1UzuQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
-                    Google Scholar – Tobias Stål
-                </a>
-            </span>
-        </li>
-        <li class="bio-item">
-            <span class="year">Orcid</span>
-            <span class="description">
-                <a href="https://orcid.org/0000-0002-4323-6748" target="_blank" rel="noopener noreferrer">
-                    ORCID – Tobias Stål
-                </a>
-            </span>
-        </li>
-
-
-<li class="bio-item">
-    <span class="year">Contact</span>
-    <span class="description">
-        <a href="mailto:tobbetripitaka@gmail.com">
-            Email – Tobias Stål (he/him)
-        </a><br>
-    </span>
-</li>
-
-
-        
-    </ul>
-</section>
-
-
-
+            <section class="bio-section">
+                <h3>Online Profiles</h3>
+                <ul class="bio-list">
+                    <li class="bio-item">
+                        <span class="year">Github</span>
+                        <span class="description">
+                            <a href="https://github.com/TobbeTripitaka" target="_blank" rel="noopener noreferrer">Tobias Stål — Github repo</a>
+                        </span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">Bluesky</span>
+                        <span class="description">
+                            <a href="https://bsky.app/profile/tobiasstl.bsky.social" target="_blank" rel="noopener noreferrer">@tobiasstl.bsky.social</a>
+                        </span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">UTAS</span>
+                        <span class="description">
+                            <a href="https://discover.utas.edu.au/Tobias.Staal/about" target="_blank" rel="noopener noreferrer">University of Tasmania profile</a>
+                        </span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">Google Scholar</span>
+                        <span class="description">
+                            <a href="https://scholar.google.com/citations?user=2W1UzuQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar — Tobias Stål</a>
+                        </span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">Orcid</span>
+                        <span class="description">
+                            <a href="https://orcid.org/0000-0002-4323-6748" target="_blank" rel="noopener noreferrer">ORCID — Tobias Stål</a>
+                        </span>
+                    </li>
+                    <li class="bio-item">
+                        <span class="year">Contact</span>
+                        <span class="description">
+                            <a href="mailto:tobbetripitaka@gmail.com">Email — Tobias Stål (he/him)</a>
+                        </span>
+                    </li>
+                </ul>
+            </section>
         </div>
 
         <!-- Right Column: Bio Information -->
@@ -394,12 +369,9 @@
             <div class="header-info">
                 <h1>Tobias Stål</h1>
                 <div class="title">Geoscientist and engineer</div>
-                <div class="subtitle">
-                    Tasmania, Australia<br>
-                </div>
+                <div class="subtitle">Tasmania, Australia</div>
             </div>
-
-            <section class="bio-section">
+<section class="bio-section">
                 <h3>Peer Reviewed Publications</h3>
 
                     <li class="bio-item">
@@ -530,6 +502,7 @@
     </li>
 
     </ul>
+</section>
 
 <section class="bio-section">
     <h3>Education</h3>
@@ -908,6 +881,7 @@
 </section>
 
 
+        
         </div>
     </div>
 </body>
