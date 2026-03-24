@@ -1,7 +1,7 @@
 # Tobias Stål
 
 ## Geophysist, engineer 
----
+--- 
 
 - [Tobias Stål Portfolio](https://tobbetripitaka.github.io/Tobias_Staal/)
 - [Bluesky Social Profile](https://bsky.app/profile/tobiasstl.bsky.social)
@@ -12,3 +12,4 @@
 
 ![Mt Strathcona, Antarctica](https://github.com/TobbeTripitaka/Tobias_Staal/blob/main/images/mountain.jpg?raw=true)
 _Photo: Tobias Stål_
+
