@@ -8,8 +8,9 @@ pdflatex -interaction=batchmode publications/publication_list.tex
 
 echo "✓ PDF built"
 
-git add .
-git commit -m "Add new papers"
+MSG="${*:-update}"          # all args joined; default "update" if none given
+git add -A
+git commit -m "$MSG"
 git push origin main
 
-echo "✓ Pushed"
+echo "✓ Pushed $MSG"
