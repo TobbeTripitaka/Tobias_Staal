@@ -1,0 +1,317 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2026,
+    4,
+    13
+   ]
+  ],
+  "date-time": "2026-04-13T19:04:48Z",
+  "timestamp": 1776107088365,
+  "version": "3.50.1"
+ },
+ "reference-count": 0,
+ "publisher": "Geological Survey of Denmark and Greenland",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      27
+     ]
+    ],
+    "date-time": "2026-03-27T00:00:00Z",
+    "timestamp": 1774569600000
+   },
+   "content-version": "unspecified",
+   "delay-in-days": 0,
+   "URL": "https://creativecommons.org/licenses/by/4.0"
+  }
+ ],
+ "content-domain": {
+  "domain": [],
+  "crossmark-restriction": false
+ },
+ "abstract": "<jats:p>Geothermal heat flow (GHF) influences ice sheet thermal conditions, affecting ice flow by sliding and deformation. However, GHF distribution under polar ice sheets remains poorly constrained, with few direct borehole-derived estimates and large discrepancies between glaciological and geophysical models caused by methodological differences and data limitations. As a result, many ice sheet models rely on uniform GHF estimates, ensemble averages or outdated fields that oversimplify reality. The choice of GHF product can lead to significantly different thermal conditions simulated at the ice-bed interface, which affects the projected evolution of ice sheets under climate warming. Therefore, we conducted an expert elicitation survey to identify the most suitable GHF fields for use as basal boundary conditions in ice sheet modelling, particularly for the Ice Sheet Modelling Intercomparison Project for CMIP7 (ISMIP7). GHF fields generally fall into three categories: (1) outdated due to improved data availability, (2) overly simplified parameterisations and (3) current and preferred. For GHF fields that rank highly in the survey, we discuss uncertainty and data dependency and guide their use in different applications. Finally, we recommend two Antarctic and one Greenlandic GHF fields for ISMIP7.</jats:p>",
+ "DOI": "10.34194/r0w9rf81",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2026,
+    4,
+    8
+   ]
+  ],
+  "date-time": "2026-04-08T12:50:17Z",
+  "timestamp": 1775652617000
+ },
+ "source": "Crossref",
+ "is-referenced-by-count": 0,
+ "title": "Community heat flow recommendations: suitable basal boundary conditions for Greenland and Antarctica in ISMIP7",
+ "prefix": "10.34194",
+ "volume": "62",
+ "author": [
+  {
+   "ORCID": "https://orcid.org/0000-0002-9222-2107",
+   "authenticated-orcid": false,
+   "given": "Mareen",
+   "family": "Lösing",
+   "sequence": "first",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0001-6334-1660",
+   "authenticated-orcid": false,
+   "given": "William",
+   "family": "Colgan",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4323-6748",
+   "authenticated-orcid": false,
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0001-7492-5338",
+   "authenticated-orcid": false,
+   "given": "Jörg",
+   "family": "Ebbing",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-7328-795X",
+   "authenticated-orcid": false,
+   "given": "Anne G.",
+   "family": "Busck",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0001-9074-4166",
+   "authenticated-orcid": false,
+   "given": "Tong",
+   "family": "Zhang",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0001-9201-1644",
+   "authenticated-orcid": false,
+   "given": "Hélène L.",
+   "family": "Seroussi",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-2324-2120",
+   "authenticated-orcid": false,
+   "given": "Felicity",
+   "family": "McCormack",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-7895-1557",
+   "authenticated-orcid": false,
+   "given": "Dominik",
+   "family": "Fahrner",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0001-7358-7015",
+   "authenticated-orcid": false,
+   "given": "Leigh",
+   "family": "Stearns",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0009-0005-6911-6890",
+   "authenticated-orcid": false,
+   "given": "Synne H.",
+   "family": "Svendsen",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-9316-7605",
+   "authenticated-orcid": false,
+   "given": "Anya",
+   "family": "Reading",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  }
+ ],
+ "member": "20093",
+ "published-online": {
+  "date-parts": [
+   [
+    2026,
+    3,
+    27
+   ]
+  ]
+ },
+ "container-title": "GEUS Bulletin",
+ "original-title": [],
+ "link": [
+  {
+   "URL": "https://geusbulletin.org/index.php/geusb/article/download/8411/14641",
+   "content-type": "application/pdf",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://geusbulletin.org/index.php/geusb/article/download/8411/14638",
+   "content-type": "text/html",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://geusbulletin.org/index.php/geusb/article/download/8411/14640",
+   "content-type": "text/xml",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://geusbulletin.org/index.php/geusb/article/download/8411/14639",
+   "content-type": "application/epub+zip",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://geusbulletin.org/index.php/geusb/article/download/8411/14641",
+   "content-type": "unspecified",
+   "content-version": "vor",
+   "intended-application": "similarity-checking"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2026,
+    4,
+    13
+   ]
+  ],
+  "date-time": "2026-04-13T17:40:15Z",
+  "timestamp": 1776102015000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://geusbulletin.org/index.php/geusb/article/view/8411"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2026,
+    3,
+    27
+   ]
+  ]
+ },
+ "references-count": 0,
+ "URL": "http://dx.doi.org/10.34194/r0w9rf81",
+ "relation": {},
+ "ISSN": [
+  "2597-2154",
+  "2597-2162"
+ ],
+ "subject": [],
+ "container-title-short": "GEUS Bulletin",
+ "published": {
+  "date-parts": [
+   [
+    2026,
+    3,
+    27
+   ]
+  ]
+ }
+}

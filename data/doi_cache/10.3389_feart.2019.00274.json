@@ -1,0 +1,938 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2026,
+    9,
+    11
+   ]
+  ],
+  "date-time": "2026-09-11T21:36:00Z",
+  "timestamp": 1789162560687,
+  "version": "build-2803163510"
+ },
+ "reference-count": 94,
+ "publisher": "Frontiers Media SA",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2019,
+      10,
+      22
+     ]
+    ],
+    "date-time": "2019-10-22T00:00:00Z",
+    "timestamp": 1571702400000
+   },
+   "content-version": "vor",
+   "delay-in-days": 0,
+   "URL": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "funder": [
+  {
+   "DOI": "10.13039/501100001249",
+   "name": "University of Tasmania",
+   "doi-asserted-by": "publisher",
+   "id": [
+    {
+     "id": "10.13039/501100001249",
+     "id-type": "DOI",
+     "asserted-by": "publisher"
+    }
+   ]
+  }
+ ],
+ "content-domain": {
+  "domain": [
+   "frontiersin.org"
+  ],
+  "crossmark-restriction": true
+ },
+ "DOI": "10.3389/feart.2019.00274",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2019,
+    10,
+    22
+   ]
+  ],
+  "date-time": "2019-10-22T04:28:36Z",
+  "timestamp": 1571718516000
+ },
+ "update-policy": "https://doi.org/10.3389/crossmark-policy",
+ "source": "Crossref",
+ "is-referenced-by-count": 11,
+ "title": "Well-Posed Geoscientific Visualization Through Interactive Color Mapping",
+ "prefix": "10.3389",
+ "volume": "7",
+ "author": [
+  {
+   "given": "Peter E.",
+   "family": "Morse",
+   "sequence": "first",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Anya M.",
+   "family": "Reading",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  }
+ ],
+ "member": "1965",
+ "published-online": {
+  "date-parts": [
+   [
+    2019,
+    10,
+    22
+   ]
+  ]
+ },
+ "reference": [
+  {
+   "key": "B1",
+   "first-page": "238",
+   "article-title": "Proposal for a standard default color space for the internet – sRGB",
+   "volume-title": "Color and Imaging Conference, Vol. 1996",
+   "author": "Anderson",
+   "year": "1996"
+  },
+  {
+   "key": "B2",
+   "doi-asserted-by": "publisher",
+   "first-page": "e0145671",
+   "DOI": "10.1371/journal.pone.0145671",
+   "article-title": "Individual colorimetric observer model",
+   "volume": "11",
+   "author": "Asano",
+   "year": "2016",
+   "journal-title": "PLoS ONE"
+  },
+  {
+   "key": "B3",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1109/VISUAL.1995.480803",
+   "article-title": "A rule-based tool for assisting colormap selection",
+   "volume-title": "Proceedings of the 6th Conference on Visualization'95",
+   "author": "Bergman",
+   "year": "1995"
+  },
+  {
+   "key": "B4",
+   "volume-title": "Semiology of Graphics: Diagrams, Networks, Maps, Vol. 1",
+   "author": "Bertin",
+   "year": "1983"
+  },
+  {
+   "key": "B5",
+   "doi-asserted-by": "crossref",
+   "first-page": "191",
+   "DOI": "10.1016/B978-044451251-2/50006-4",
+   "article-title": "Color appearance and color difference specification",
+   "volume-title": "The Science of Color",
+   "author": "Brainard",
+   "year": "2003"
+  },
+  {
+   "key": "B6",
+   "doi-asserted-by": "publisher",
+   "first-page": "4361",
+   "DOI": "10.1098/rsta.2009.0120",
+   "article-title": "Statistical inference for exploratory data analysis and model diagnostics",
+   "volume": "367",
+   "author": "Buja",
+   "year": "2009",
+   "journal-title": "Philos. Trans. R. Soc. Lond."
+  },
+  {
+   "key": "B7",
+   "doi-asserted-by": "publisher",
+   "first-page": "923",
+   "DOI": "10.1109/TVCG.2017.2743978",
+   "article-title": "The good, the bad, and the ugly: a theoretical framework for the assessment of continuous colormaps",
+   "volume": "24",
+   "author": "Bujack",
+   "year": "2018",
+   "journal-title": "IEEE Trans. Visual. Comput. Graph."
+  },
+  {
+   "key": "B8",
+   "unstructured": "ButterworthT.\n            MariniA.\n            ContributorsS.\n          Syphon Framework [Objective-C, MacOS]2018"
+  },
+  {
+   "key": "B9",
+   "year": "2004",
+   "journal-title": "Technical Report: Colorimetry, 3rd Edn, Vol. 15"
+  },
+  {
+   "key": "B10",
+   "unstructured": "Colorimetry — Part 4: CIE1976 L2007"
+  },
+  {
+   "key": "B11",
+   "unstructured": "Myth Busting and Apophenia in Data Visualisation: Is What You See Really There?\n            CookD.\n          2017"
+  },
+  {
+   "key": "B12",
+   "doi-asserted-by": "publisher",
+   "first-page": "133",
+   "DOI": "10.1146/annurev-statistics-041715-033420",
+   "article-title": "Data visualization and statistical graphics in big data analysis",
+   "volume": "3",
+   "author": "Cook",
+   "year": "2016",
+   "journal-title": "Annu. Rev. Stat. Appl."
+  },
+  {
+   "key": "B13",
+   "doi-asserted-by": "publisher",
+   "first-page": "2541",
+   "DOI": "10.5194/gmd-11-2541-2018",
+   "article-title": "Geodynamic diagnostics, scientific visualisation and StagLab 3.0",
+   "volume": "11",
+   "author": "Crameri",
+   "year": "",
+   "journal-title": "Geosci. Model Dev."
+  },
+  {
+   "key": "B14",
+   "volume-title": "Scientific Colour Maps",
+   "author": "Crameri",
+   "year": ""
+  },
+  {
+   "key": "B15",
+   "unstructured": "31501465Derivative TouchDesigner2019"
+  },
+  {
+   "key": "B16",
+   "doi-asserted-by": "publisher",
+   "first-page": "96",
+   "DOI": "10.1145/318009.318011",
+   "article-title": "Model and representation: the effect of visual feedback on human performance in a color picker interface",
+   "volume": "18",
+   "author": "Douglas",
+   "year": "1999",
+   "journal-title": "ACM Trans. Graph."
+  },
+  {
+   "key": "B17",
+   "unstructured": "EddinsS.\n          Rainbow Color Map Critiques: An Overview and Annotated Bibliography2014"
+  },
+  {
+   "key": "B18",
+   "article-title": "Data driven color mapping",
+   "volume-title": "Proceedings of EuroVA: International Workshop on Visual Analytics",
+   "author": "Eisemann",
+   "year": "2011"
+  },
+  {
+   "key": "B19",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1002/9781118653128",
+   "volume-title": "Color Appearance Models",
+   "author": "Fairchild",
+   "year": "2013"
+  },
+  {
+   "key": "B20",
+   "doi-asserted-by": "crossref",
+   "first-page": "119",
+   "DOI": "10.1016/B978-012370880-9.00303-0",
+   "article-title": "Color appearance",
+   "volume-title": "The Senses: A Comprehensive Reference, Vol. 2",
+   "author": "Foster",
+   "year": "2008"
+  },
+  {
+   "key": "B21",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.4324/9780203502259",
+   "volume-title": "Theories of Visual Perception, 3 Edn",
+   "author": "Gordon",
+   "year": "2004"
+  },
+  {
+   "key": "B22",
+   "first-page": "93",
+   "article-title": "Visualization idioms: a conceptual model for scientific visualization systems",
+   "volume": "74",
+   "author": "Haber",
+   "year": "1990",
+   "journal-title": "Visual. Sci. Comput."
+  },
+  {
+   "key": "B23",
+   "volume-title": "The Visualization Handbook",
+   "author": "Hansen",
+   "year": "2005"
+  },
+  {
+   "key": "B24",
+   "doi-asserted-by": "publisher",
+   "first-page": "1080",
+   "DOI": "10.1038/nclimate3162",
+   "article-title": "Cognitive and psychological science insights to improve climate change data visualization",
+   "volume": "6",
+   "author": "Harold",
+   "year": "2016",
+   "journal-title": "Nat. Clim. Change"
+  },
+  {
+   "key": "B25",
+   "doi-asserted-by": "publisher",
+   "first-page": "291",
+   "DOI": "10.1038/519291d",
+   "article-title": "Graphics: scrap rainbow colour scales",
+   "volume": "519",
+   "author": "Hawkins",
+   "year": "2015",
+   "journal-title": "Nature"
+  },
+  {
+   "key": "B26",
+   "doi-asserted-by": "publisher",
+   "first-page": "1170",
+   "DOI": "10.1109/TVCG.2011.127",
+   "article-title": "Attention and visual memory in visualization and computer graphics",
+   "volume": "18",
+   "author": "Healey",
+   "year": "2012",
+   "journal-title": "Visual. Computer Graph. IEEE Trans."
+  },
+  {
+   "key": "B27",
+   "unstructured": "HoffmannG.\n          CIE Color Space [Professional]2000"
+  },
+  {
+   "key": "B28",
+   "unstructured": "HoffmannG.\n          CIELab Color Space [Professional]2008"
+  },
+  {
+   "key": "B29",
+   "unstructured": "Brief Explanation of delta E or delta E*2018"
+  },
+  {
+   "key": "B30",
+   "unstructured": "IEC 61966-2-1:1999. Multimedia Systems and Equipment - Colour Measurement and management - Part 2-1: Colour Management - Default RGB Colour Space - sRGB1999"
+  },
+  {
+   "key": "B31",
+   "unstructured": "Math|EasyRGB2019"
+  },
+  {
+   "key": "B32",
+   "doi-asserted-by": "publisher",
+   "first-page": "38",
+   "DOI": "10.1145/381641.381656",
+   "article-title": "Visual exploration of large data sets",
+   "volume": "44",
+   "author": "Keim",
+   "year": "2001",
+   "journal-title": "Commun. ACM"
+  },
+  {
+   "key": "B33",
+   "unstructured": "Mastering the information age solving problems with visual analytics\n            KeimD. A.\n            KohlhammerJ.\n            EllisG.\n            MansmannF.\n          \n            KeimD.\n            KohlhammerJ.\n            EllisG.\n            MansmannF.\n          Eurographics2010"
+  },
+  {
+   "key": "B34",
+   "doi-asserted-by": "publisher",
+   "first-page": "9",
+   "DOI": "10.1109/IV.2006.31",
+   "article-title": "Challenges in visual data analysis",
+   "author": "Keim",
+   "year": "2006",
+   "journal-title": "Tenth International Conference on Information Visualisation (IV'06)"
+  },
+  {
+   "key": "B35",
+   "doi-asserted-by": "publisher",
+   "first-page": "108",
+   "DOI": "10.1111/j.1365-246X.1995.tb03540.x",
+   "article-title": "Constraints on seismic velocities in the Earth from traveltimes",
+   "volume": "122",
+   "author": "Kennett",
+   "year": "1995",
+   "journal-title": "Geophys. J. Int."
+  },
+  {
+   "key": "B36",
+   "doi-asserted-by": "publisher",
+   "first-page": "871",
+   "DOI": "10.1093/gji/ggs065",
+   "article-title": "Australian Seismological Reference Model (AuSREM): mantle component",
+   "volume": "192",
+   "author": "Kennett",
+   "year": "2013",
+   "journal-title": "Geophys. J. Int."
+  },
+  {
+   "key": "B37",
+   "unstructured": "KovesiP.\n          Good colour maps: how to design them. arxiv:1509.03700 [Cs]2015"
+  },
+  {
+   "key": "B38",
+   "doi-asserted-by": "publisher",
+   "first-page": "385",
+   "DOI": "10.1029/2004EO400002",
+   "article-title": "The end of the rainbow? Color schemes for improved data graphics",
+   "volume": "85",
+   "author": "Light",
+   "year": "2004",
+   "journal-title": "Eos Trans. Am. Geophys. Union"
+  },
+  {
+   "key": "B39",
+   "unstructured": "LindbloomB.\n          Useful Color Equations2013"
+  },
+  {
+   "key": "B40",
+   "unstructured": "Delta E (CIE 1976)\n            LindbloomB.\n          2017"
+  },
+  {
+   "key": "B41",
+   "doi-asserted-by": "publisher",
+   "first-page": "1373",
+   "DOI": "10.1007/s00371-013-0892-3",
+   "article-title": "A survey on information visualization: recent advances and challenges",
+   "volume": "30",
+   "author": "Liu",
+   "year": "2014",
+   "journal-title": "Vis. Comput."
+  },
+  {
+   "key": "B42",
+   "doi-asserted-by": "publisher",
+   "first-page": "320",
+   "DOI": "10.1002/col.20227",
+   "article-title": "Uniform colour spaces based on CIECAM02 colour appearance model",
+   "volume": "31",
+   "author": "Luo",
+   "year": "2006",
+   "journal-title": "Color Res. Appl."
+  },
+  {
+   "key": "B43",
+   "doi-asserted-by": "publisher",
+   "first-page": "2496",
+   "DOI": "10.1109/TVCG.2012.279",
+   "article-title": "Visual semiotics and uncertainty visualization: an empirical study",
+   "volume": "18",
+   "author": "MacEachren",
+   "year": "2012",
+   "journal-title": "IEEE Trans. Visual. Comput. Graph."
+  },
+  {
+   "key": "B44",
+   "doi-asserted-by": "publisher",
+   "first-page": "264",
+   "DOI": "10.1364/JOSAA.30.000264",
+   "article-title": "Number of discernible object colors is a conundrum",
+   "volume": "30",
+   "author": "Masaoka",
+   "year": "2013",
+   "journal-title": "J. Opt. Soc. Am."
+  },
+  {
+   "key": "B45",
+   "doi-asserted-by": "publisher",
+   "first-page": "64",
+   "DOI": "10.1109/MCG.2004.1297012",
+   "article-title": "Interactive color palette tools",
+   "volume": "24",
+   "author": "Meier",
+   "year": "2004",
+   "journal-title": "IEEE Comput. Graph. Appl."
+  },
+  {
+   "key": "B46",
+   "doi-asserted-by": "publisher",
+   "first-page": "254",
+   "DOI": "10.1145/965105.807502",
+   "article-title": "Perceptual color spaces for computer graphics",
+   "volume": "14",
+   "author": "Meyer",
+   "year": "1980",
+   "journal-title": "ACM SIGGRAPH Comput. Graph."
+  },
+  {
+   "key": "B47",
+   "article-title": "A taxonomy of mixed reality visual displays",
+   "volume-title": "IEICE Transactions on Information System",
+   "author": "Milgram",
+   "year": "1994"
+  },
+  {
+   "key": "B48",
+   "doi-asserted-by": "publisher",
+   "first-page": "211",
+   "DOI": "10.1111/cgf.12633",
+   "article-title": "Efficient contrast effect compensation with personalized perception models",
+   "volume": "34",
+   "author": "Mittelstädt",
+   "year": "2015",
+   "journal-title": "Comput. Graph. Forum"
+  },
+  {
+   "key": "B49",
+   "unstructured": "Colour difference ΔE - A survey383411\n            MokrzyckiW. S.\n            TatolM.\n          Mach. Graph. Vis.202011"
+  },
+  {
+   "key": "B50",
+   "doi-asserted-by": "publisher",
+   "first-page": "1",
+   "DOI": "10.2352/ISSN.2470-1173.2016.16.HVEI-133",
+   "article-title": "Why we use bad color maps and what you can do about it",
+   "volume": "2016",
+   "author": "Moreland",
+   "year": "2016",
+   "journal-title": "Electron. Imaging"
+  },
+  {
+   "key": "B51",
+   "unstructured": "The fundamentals of gamut mapping: a survey283290\n            MorovicJ.\n            LuoM. R.\n          J. Imaging Sci. Technol.452001"
+  },
+  {
+   "key": "B52",
+   "volume-title": "Pemorse/Data-Visualisation-Tools: Gradient Designer Suite. V.0.9-Alpha Release",
+   "author": "Morse",
+   "year": "2019"
+  },
+  {
+   "key": "B53",
+   "unstructured": "“Hemispherical dome adventures,” Presented at iVEC (University of Western Australia)\n            MorseP. E.\n            BourkeP. D.\n          2012"
+  },
+  {
+   "key": "B54",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1201/b17511",
+   "volume-title": "Visualization Analysis and Design",
+   "author": "Munzner",
+   "year": "2014"
+  },
+  {
+   "key": "B55",
+   "unstructured": "NewTek NDI Tools2019"
+  },
+  {
+   "key": "B56",
+   "doi-asserted-by": "publisher",
+   "first-page": "7",
+   "DOI": "10.1145/964965.808606",
+   "article-title": "Compositing digital images",
+   "volume": "18",
+   "author": "Porter",
+   "year": "1984",
+   "journal-title": "Comput. Graph."
+  },
+  {
+   "key": "B57",
+   "doi-asserted-by": "crossref",
+   "first-page": "218",
+   "DOI": "10.1049/cp:19940755",
+   "article-title": "Wide gamut device-independent colour image interchange",
+   "volume-title": "International Broadcasting Convention - IBC '94",
+   "author": "Poynton",
+   "year": "1994"
+  },
+  {
+   "key": "B58",
+   "unstructured": "PoyntonC. A.\n          Frequently asked questions about color [Professional]2006"
+  },
+  {
+   "key": "B59",
+   "volume-title": "Digital Video and HD: Algorithms and Interfaces",
+   "author": "Poynton",
+   "year": "2012"
+  },
+  {
+   "key": "B60",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2005JB003803",
+   "article-title": "Lithospheric structure of Tasmania from a novel form of teleseismic tomography",
+   "author": "Rawlinson",
+   "year": "2006",
+   "journal-title": "J. Geophys. Res."
+  },
+  {
+   "key": "B61",
+   "first-page": "252",
+   "article-title": "Color, change, and control of quantitative data display",
+   "volume-title": "IEEE Conference on Visualization, 1992, Visualization'92",
+   "author": "Rheingans",
+   "year": "1992"
+  },
+  {
+   "key": "B62",
+   "unstructured": "Task-based color scale design\n            RheingansP.\n          28th AIPR Workshop: 3D Visualization for Data Exploration and Decision Making, Vol. 39052000"
+  },
+  {
+   "key": "B63",
+   "doi-asserted-by": "publisher",
+   "first-page": "145",
+   "DOI": "10.1145/91394.91436",
+   "article-title": "A tool for dynamic explorations of color mappings",
+   "volume": "24",
+   "author": "Rheingans",
+   "year": "1990",
+   "journal-title": "ACM SIGGRAPH Comput. Graph."
+  },
+  {
+   "key": "B64",
+   "doi-asserted-by": "publisher",
+   "first-page": "50",
+   "DOI": "10.1109/38.7761",
+   "article-title": "Visualizing color gamuts: a user interface for the effective use of perceptual color spaces in data displays",
+   "volume": "8",
+   "author": "Robertson",
+   "year": "1988",
+   "journal-title": "IEEE Comput. Graph. Appl."
+  },
+  {
+   "key": "B65",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1117/12.915887",
+   "article-title": "Integrating human- and computer-based approaches for feature extraction and analysis",
+   "volume-title": "Proceedings of the SPIE",
+   "author": "Rogowitz",
+   "year": "2012"
+  },
+  {
+   "key": "B66",
+   "doi-asserted-by": "publisher",
+   "first-page": "52",
+   "DOI": "10.1109/6.736450",
+   "article-title": "Data visualisation: the end of the rainbow",
+   "volume": "35",
+   "author": "Rogowitz",
+   "year": "1998",
+   "journal-title": "IEEE Spectr."
+  },
+  {
+   "key": "B67",
+   "doi-asserted-by": "publisher",
+   "first-page": "e1003833",
+   "DOI": "10.1371/journal.pcbi.1003833",
+   "article-title": "Ten simple rules for better figures",
+   "volume": "10",
+   "author": "Rougier",
+   "year": "2014",
+   "journal-title": "PLoS Computat. Biol."
+  },
+  {
+   "key": "B68",
+   "doi-asserted-by": "publisher",
+   "first-page": "2366",
+   "DOI": "10.1109/TVCG.2013.120",
+   "article-title": "A design space of visualization tasks",
+   "volume": "19",
+   "author": "Schulz",
+   "year": "2013",
+   "journal-title": "IEEE Trans. Visual. Comput. Graph."
+  },
+  {
+   "key": "B69",
+   "unstructured": "The dark side of CIELAB\n            SharmaG.\n            Rodriguez-PardoC. E.\n          Color Imaging XVII: Displaying, Processing, Hardcopy, and Applications, Vol. 82922012"
+  },
+  {
+   "key": "B70",
+   "doi-asserted-by": "publisher",
+   "first-page": "901",
+   "DOI": "10.1109/83.597268",
+   "article-title": "Digital color imaging",
+   "volume": "6",
+   "author": "Sharma",
+   "year": "1997",
+   "journal-title": "IEEE Trans. Image Process."
+  },
+  {
+   "key": "B71",
+   "doi-asserted-by": "publisher",
+   "first-page": "320",
+   "DOI": "10.1016/j.cag.2010.11.015",
+   "article-title": "Using color in visualization: a survey",
+   "volume": "35",
+   "author": "Silva",
+   "year": "2011",
+   "journal-title": "Comput. Graph."
+  },
+  {
+   "key": "B72",
+   "doi-asserted-by": "publisher",
+   "first-page": "12",
+   "DOI": "10.1145/965139.807361",
+   "article-title": "Color gamut transform pairs",
+   "volume": "12",
+   "author": "Smith",
+   "year": "1978",
+   "journal-title": "ACM Siggraph Comput. Graph."
+  },
+  {
+   "key": "B73",
+   "unstructured": "SmithN.\n            van der WaltS.\n            FiringE.\n          Matplotlib Colormaps2015"
+  },
+  {
+   "key": "B74",
+   "unstructured": "StålT.\n          TobbeTripitaka/Grid: First Frame (Version 0.3.0)2019"
+  },
+  {
+   "key": "B75",
+   "doi-asserted-by": "publisher",
+   "first-page": "203",
+   "DOI": "10.1175/BAMS-D-13-00155.1",
+   "article-title": "Somewhere over the rainbow: how to make effective use of colors in meteorological visualizations",
+   "volume": "96",
+   "author": "Stauffer",
+   "year": "2015",
+   "journal-title": "Bull. Am. Meteorol. Soc."
+  },
+  {
+   "key": "B76",
+   "doi-asserted-by": "crossref",
+   "first-page": "27",
+   "DOI": "10.1017/CBO9781107337930.004",
+   "article-title": "Fundamentals of color vision I: color processing in the eye",
+   "volume-title": "Handbook of Color Psychology",
+   "author": "Stockman",
+   "year": "2015"
+  },
+  {
+   "key": "B77",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1201/b10679",
+   "volume-title": "Data Visualization: Principles and Practice",
+   "author": "Telea",
+   "year": "2007"
+  },
+  {
+   "key": "B78",
+   "doi-asserted-by": "crossref",
+   "first-page": "304",
+   "DOI": "10.1109/EURCON.2003.1248032",
+   "article-title": "Colour spaces: perceptual, historical and applicational background",
+   "volume-title": "The IEEE Region 8 EUROCON 2003 Computer as a Tool",
+   "author": "Tkalcic",
+   "year": "2003"
+  },
+  {
+   "key": "B79",
+   "volume-title": "Envisioning Information.",
+   "author": "Tufte",
+   "year": "1990"
+  },
+  {
+   "key": "B80",
+   "volume-title": "Exploratory Data Analysis",
+   "author": "Tukey",
+   "year": "1977"
+  },
+  {
+   "key": "B81",
+   "doi-asserted-by": "publisher",
+   "first-page": "327",
+   "DOI": "10.1214/ss/1177012101",
+   "article-title": "Data-based graphics: visual display in the decades to come",
+   "volume": "5",
+   "author": "Tukey",
+   "year": "1990",
+   "journal-title": "Stat. Sci."
+  },
+  {
+   "key": "B82",
+   "unstructured": "15053951Unity2019"
+  },
+  {
+   "key": "B83",
+   "doi-asserted-by": "crossref",
+   "first-page": "79",
+   "DOI": "10.1109/VISUAL.2005.1532781",
+   "article-title": "The value of visualization",
+   "volume-title": "Visualization, 2005. VIS 05",
+   "author": "Van Wijk",
+   "year": "2005"
+  },
+  {
+   "key": "B84",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1201/b10683",
+   "volume-title": "Interactive Data Visualization: Foundations, Techniques, and Applications.",
+   "author": "Ward",
+   "year": "2010"
+  },
+  {
+   "key": "B85",
+   "doi-asserted-by": "publisher",
+   "first-page": "41",
+   "DOI": "10.1109/38.7760",
+   "article-title": "Color sequences for univariate maps: theory, experiments and principles",
+   "volume": "8",
+   "author": "Ware",
+   "year": "1988",
+   "journal-title": "IEEE Comput. Graph. Appl."
+  },
+  {
+   "key": "B86",
+   "volume-title": "Information Visualization: Perception for Design, 3rd Edn.",
+   "author": "Ware",
+   "year": "2013"
+  },
+  {
+   "key": "B87",
+   "doi-asserted-by": "publisher",
+   "first-page": "2777",
+   "DOI": "10.1109/TVCG.2018.2855742",
+   "article-title": "Measuring and modeling the feature detection threshold functions of colormaps",
+   "volume": "25",
+   "author": "Ware",
+   "year": "2018",
+   "journal-title": "IEEE Trans. Vis. Comput. Graph."
+  },
+  {
+   "key": "B88",
+   "doi-asserted-by": "publisher",
+   "first-page": "409",
+   "DOI": "10.1002/2013EO450001",
+   "article-title": "Generic mapping tools: improved version released",
+   "volume": "94",
+   "author": "Wessel",
+   "year": "2013",
+   "journal-title": "Eos Trans. Am. Geophys. Union"
+  },
+  {
+   "key": "B89",
+   "doi-asserted-by": "publisher",
+   "first-page": "973",
+   "DOI": "10.1109/TVCG.2010.161",
+   "article-title": "Graphical inference for infovis",
+   "volume": "16",
+   "author": "Wickham",
+   "year": "2010",
+   "journal-title": "IEEE Trans. Visual. Comput. Graph."
+  },
+  {
+   "key": "B90",
+   "volume-title": "The Grammar of Graphics, 2nd Edn",
+   "author": "Wilkinson",
+   "year": "2005"
+  },
+  {
+   "key": "B91",
+   "volume-title": "Color Science, Vol. 8",
+   "author": "Wyszecki",
+   "year": "1982"
+  },
+  {
+   "key": "B92",
+   "unstructured": "Choosing Color Palettes for Statistical Graphics (No. 41)\n            ZeileisA.\n            HornikK.\n          ViennaDepartment of Statistics and Mathematics, WU Vienna University of Economics and Business2006"
+  },
+  {
+   "key": "B93",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1109/SciVis.2018.8823597",
+   "volume-title": "Color Interpolation for Non-Euclidean Color Spaces",
+   "author": "Zeyen",
+   "year": "2018"
+  },
+  {
+   "key": "B94",
+   "doi-asserted-by": "publisher",
+   "first-page": "2051",
+   "DOI": "10.1109/TVCG.2015.2489649",
+   "article-title": "A survey of colormaps in visualization",
+   "volume": "22",
+   "author": "Zhou",
+   "year": "2016",
+   "journal-title": "IEEE Trans. Visual. Comput. Graph."
+  }
+ ],
+ "container-title": "Frontiers in Earth Science",
+ "original-title": [],
+ "link": [
+  {
+   "URL": "https://www.frontiersin.org/article/10.3389/feart.2019.00274/full",
+   "content-type": "unspecified",
+   "content-version": "vor",
+   "intended-application": "similarity-checking"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2019,
+    10,
+    22
+   ]
+  ],
+  "date-time": "2019-10-22T04:28:51Z",
+  "timestamp": 1571718531000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://www.frontiersin.org/article/10.3389/feart.2019.00274/full"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2019,
+    10,
+    22
+   ]
+  ]
+ },
+ "references-count": 94,
+ "alternative-id": [
+  "10.3389/feart.2019.00274"
+ ],
+ "URL": "http://dx.doi.org/10.3389/feart.2019.00274",
+ "relation": {},
+ "ISSN": [
+  "2296-6463"
+ ],
+ "subject": [],
+ "container-title-short": "Front. Earth Sci.",
+ "published": {
+  "date-parts": [
+   [
+    2019,
+    10,
+    22
+   ]
+  ]
+ },
+ "article-number": "274"
+}

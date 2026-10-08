@@ -1,0 +1,2192 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2026,
+    9,
+    30
+   ]
+  ],
+  "date-time": "2026-09-30T21:49:25Z",
+  "timestamp": 1790804965397,
+  "version": "4.1.0"
+ },
+ "reference-count": 180,
+ "publisher": "Springer Science and Business Media LLC",
+ "issue": "12",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2022,
+      10,
+      26
+     ]
+    ],
+    "date-time": "2022-10-26T00:00:00Z",
+    "timestamp": 1666742400000
+   },
+   "content-version": "tdm",
+   "delay-in-days": 0,
+   "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+  },
+  {
+   "start": {
+    "date-parts": [
+     [
+      2022,
+      10,
+      26
+     ]
+    ],
+    "date-time": "2022-10-26T00:00:00Z",
+    "timestamp": 1666742400000
+   },
+   "content-version": "vor",
+   "delay-in-days": 0,
+   "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+  }
+ ],
+ "content-domain": {
+  "domain": [
+   "link.springer.com"
+  ],
+  "crossmark-restriction": false
+ },
+ "DOI": "10.1038/s43017-022-00348-y",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2022,
+    10,
+    26
+   ]
+  ],
+  "date-time": "2022-10-26T15:02:57Z",
+  "timestamp": 1666796577000
+ },
+ "page": "814-831",
+ "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+ "source": "Crossref",
+ "is-referenced-by-count": 31,
+ "title": "Antarctic geothermal heat flow and its implications for tectonics and ice sheets",
+ "prefix": "10.1038",
+ "volume": "3",
+ "author": [
+  {
+   "ORCID": "https://orcid.org/0000-0002-9316-7605",
+   "authenticated-orcid": false,
+   "given": "Anya M.",
+   "family": "Reading",
+   "sequence": "first",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4323-6748",
+   "authenticated-orcid": false,
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4992-8681",
+   "authenticated-orcid": false,
+   "given": "Jacqueline A.",
+   "family": "Halpin",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-9222-2107",
+   "authenticated-orcid": false,
+   "given": "Mareen",
+   "family": "Lösing",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0001-7492-5338",
+   "authenticated-orcid": false,
+   "given": "Jörg",
+   "family": "Ebbing",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-3766-632X",
+   "authenticated-orcid": false,
+   "given": "Weisen",
+   "family": "Shen",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-2324-2120",
+   "authenticated-orcid": false,
+   "given": "Felicity S.",
+   "family": "McCormack",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0003-0478-6138",
+   "authenticated-orcid": false,
+   "given": "Christine S.",
+   "family": "Siddoway",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-8257-7975",
+   "authenticated-orcid": false,
+   "given": "Derrick",
+   "family": "Hasterok",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  }
+ ],
+ "member": "297",
+ "published-online": {
+  "date-parts": [
+   [
+    2022,
+    10,
+    26
+   ]
+  ]
+ },
+ "reference": [
+  {
+   "key": "348_CR1",
+   "doi-asserted-by": "crossref",
+   "unstructured": "Fowler, C. M. R. The Solid Earth: An Introduction to Global Geophysics (Cambridge Univ. Press, 2004).",
+   "DOI": "10.1017/CBO9780511819643"
+  },
+  {
+   "key": "348_CR2",
+   "doi-asserted-by": "crossref",
+   "unstructured": "Jaupart, C. & Mareschal, J.-C. in Treatise on Geophysics 2nd edn, Vol. 6 (ed. Schubert, G.) 217–253 (Elsevier, 2015). Detailed review covering many aspects of heat flow and the thermal structure of the lithosphere.",
+   "DOI": "10.1016/B978-0-444-53802-4.00114-7"
+  },
+  {
+   "key": "348_CR3",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41467-018-08068-y",
+   "volume": "10",
+   "author": "PL Whitehouse",
+   "year": "2019",
+   "unstructured": "Whitehouse, P. L., Gomez, N., King, M. A. & Wiens, D. A. Solid Earth change and the evolution of the Antarctic Ice Sheet. Nat. Commun. 10, 503 (2019).",
+   "journal-title": "Nat. Commun."
+  },
+  {
+   "key": "348_CR4",
+   "doi-asserted-by": "publisher",
+   "first-page": "2335",
+   "DOI": "10.5194/cp-9-2335-2013",
+   "volume": "9",
+   "author": "B Van Liefferinge",
+   "year": "2013",
+   "unstructured": "Van Liefferinge, B. & Pattyn, F. Using ice-flow models to evaluate potential sites of million year-old ice in Antarctica. Clim. Past. 9, 2335–2345 (2013).",
+   "journal-title": "Clim. Past."
+  },
+  {
+   "key": "348_CR5",
+   "doi-asserted-by": "publisher",
+   "first-page": "20140293",
+   "DOI": "10.1098/rsta.2014.0293",
+   "volume": "374",
+   "author": "J Parnell",
+   "year": "2016",
+   "unstructured": "Parnell, J. & McMahon, S. Physical and chemical controls on habitats for life in the deep subsurface beneath continents and ice. Phil. Trans. R. Soc. A 374, 20140293 (2016).",
+   "journal-title": "Phil. Trans. R. Soc. A"
+  },
+  {
+   "key": "348_CR6",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2011JF002140",
+   "author": "E Larour",
+   "year": "2012",
+   "unstructured": "Larour, E., Seroussi, H., Morlighem, M. & Rignot, E. Continental scale, high order, high spatial resolution, ice sheet modeling using the ice sheet system model (ISSM). J. Geophys. Res. Earth Surf. https://doi.org/10.1029/2011JF002140 (2012).",
+   "journal-title": "J. Geophys. Res. Earth Surf."
+  },
+  {
+   "key": "348_CR7",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/d41586-019-03595-0",
+   "author": "TM Lenton",
+   "year": "2019",
+   "unstructured": "Lenton, T. M. et al. Climate tipping points — too risky to bet against. Nature https://doi.org/10.1038/d41586-019-03595-0 (2019).",
+   "journal-title": "Nature"
+  },
+  {
+   "key": "348_CR8",
+   "unstructured": "Meredith, M. et al. in Special Report on the Ocean and Cryosphere in a Changing Climate (eds Pörtner, H.-O. et al.) Ch. 3 (IPCC, Cambridge Univ. Press, 2019)."
+  },
+  {
+   "key": "348_CR9",
+   "doi-asserted-by": "crossref",
+   "unstructured": "Turcotte, D. & Schubert, M. Geodynamics (Cambridge Univ. Press, 2014).",
+   "DOI": "10.1017/CBO9780511843877"
+  },
+  {
+   "key": "348_CR10",
+   "doi-asserted-by": "publisher",
+   "first-page": "4608",
+   "DOI": "10.1002/ggge.20271",
+   "volume": "14",
+   "author": "JH Davies",
+   "year": "2013",
+   "unstructured": "Davies, J. H. Global map of solid Earth surface heat flow. Geochem. Geophys. Geosyst. 14, 4608–4622 (2013).",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "key": "348_CR11",
+   "doi-asserted-by": "publisher",
+   "first-page": "4001",
+   "DOI": "10.1029/2019GC008389",
+   "volume": "20",
+   "author": "F Lucazeau",
+   "year": "2019",
+   "unstructured": "Lucazeau, F. Analysis and mapping of an updated terrestrial heat flow data set. Geochem. Geophys. Geosyst. 20, 4001–4024 (2019). Analysis of a global dataset including quantitative support for representative values in different tectonic settings, and uncertainty estimates.",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "key": "348_CR12",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3389/feart.2022.963525",
+   "author": "T Stål",
+   "year": "2022",
+   "unstructured": "Stål, T. et al. Properties and biases of the global heat flow compilation. Front. Earth Sci. https://doi.org/10.3389/feart.2022.963525 (2022).",
+   "journal-title": "Front. Earth Sci."
+  },
+  {
+   "key": "348_CR13",
+   "doi-asserted-by": "publisher",
+   "first-page": "213",
+   "DOI": "10.1016/j.epsl.2004.04.011",
+   "volume": "223",
+   "author": "NM Shapiro",
+   "year": "2004",
+   "unstructured": "Shapiro, N. M. & Ritzwoller, M. H. Inferring surface heat flux distributions guided by a global seismic model: particular application to Antarctica. Earth Planet. Sci. Lett. 223, 213–224 (2004).",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "348_CR14",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/srep45129",
+   "volume": "7",
+   "author": "CF Li",
+   "year": "2017",
+   "unstructured": "Li, C. F., Lu, Y. & Wang, J. A global reference model of Curie-point depths based on EMAG2. Sci. Rep. 7, 45129 (2017).",
+   "journal-title": "Sci. Rep."
+  },
+  {
+   "key": "348_CR15",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc-2020-59",
+   "author": "A Burton-Johnson",
+   "year": "2020",
+   "unstructured": "Burton-Johnson, A., Dziadek, R. & Martin, C. Geothermal heat flow in Antarctica: current and future directions. Cryosphere https://doi.org/10.5194/tc-2020-59 (2020). Review of geothermal heat flow (GHF) in Antarctica of broad scope that includes glaciological, geophysical, geological and marine geoscience approaches.",
+   "journal-title": "Cryosphere"
+  },
+  {
+   "key": "348_CR16",
+   "doi-asserted-by": "publisher",
+   "first-page": "0",
+   "DOI": "10.1029/2020GL086955",
+   "volume": "47",
+   "author": "W Shen",
+   "year": "2020",
+   "unstructured": "Shen, W., Wiens, D. A., Lloyd, A. J. & Nyblade, A. A. A. A geothermal heat flux map of Antarctica empirically constrained by seismic structure. Geophys. Res. Lett. 47, 0–2 (2020). GHF of Antarctica modelled on high quality datasets from the USA using seismic tomography and a similarity approach.",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "348_CR17",
+   "doi-asserted-by": "publisher",
+   "first-page": "e2020GC009428",
+   "DOI": "10.1029/2020GC009428",
+   "volume": "22",
+   "author": "T Stål",
+   "year": "2021",
+   "unstructured": "Stål, T., Reading, A. M., Halpin, J. A. & Whittaker, J. M. Antarctic geothermal heat flow model: Aq1. Geochem. Geophys. Geosyst. 22, e2020GC009428 (2021). GHF of Antarctica modelled on global datasets using a refined similarity approach.",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "key": "348_CR18",
+   "doi-asserted-by": "publisher",
+   "first-page": "e2020JB021499",
+   "DOI": "10.1029/2020JB021499",
+   "volume": "126",
+   "author": "M Lösing",
+   "year": "2021",
+   "unstructured": "Lösing, M. & Ebbing, J. Predicting geothermal heat flow in Antarctica with a machine learning approach. J. Geophys. Res. Solid Earth 126, e2020JB021499 (2021). GHF of Antarctica modelled on global datasets using a machine learning approach.",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "key": "348_CR19",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Stål, T. & Reading, A. M. A grid for multidimensional and multivariate spatial representation and data processing. J. Open. Res. Softw. 8, https://doi.org/10.5334/jors.287 (2020).",
+   "DOI": "10.5334/jors.287"
+  },
+  {
+   "key": "348_CR20",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3389/feart.2020.577502",
+   "author": "T Stål",
+   "year": "2020",
+   "unstructured": "Stål, T., Reading, A. M., Halpin, J. A., Steven J, P. & Whittaker, J. M. The Antarctic crust and upper mantle: a flexible 3D model and framework for interdisciplinary research. Front. Earth Sci. https://doi.org/10.3389/feart.2020.577502 (2020). A computational framework that enables model calculation and comparison.",
+   "journal-title": "Front. Earth Sci."
+  },
+  {
+   "key": "348_CR21",
+   "doi-asserted-by": "publisher",
+   "first-page": "1665",
+   "DOI": "10.5194/tc-10-1665-2016",
+   "volume": "10",
+   "author": "A Burton-Johnson",
+   "year": "2016",
+   "unstructured": "Burton-Johnson, A., Black, M., Peter, T. F. & Kaluza-Gilbert, J. An automated methodology for differentiating rock from snow, clouds and sea in Antarctica from Landsat 8 imagery: a new rock outcrop map and area estimation for the entire Antarctic continent. Cryosphere 10, 1665–1677 (2016).",
+   "journal-title": "Cryosphere"
+  },
+  {
+   "key": "348_CR22",
+   "doi-asserted-by": "crossref",
+   "unstructured": "Foulger, G. R., Lustrino, M. & King, S. D. The Interdisciplinary Earth: A Volume in Honor of Don L. Anderson (Geological Society of America, 2015).",
+   "DOI": "10.1130/SPE514"
+  },
+  {
+   "key": "348_CR23",
+   "doi-asserted-by": "publisher",
+   "first-page": "25",
+   "DOI": "10.1038/ngeo.2007.44",
+   "volume": "1",
+   "author": "T Lay",
+   "year": "2008",
+   "unstructured": "Lay, T., Hernlund, J. & Buffett, B. A. Core–mantle boundary heat flow. Nat. Geosci. 1, 25–32 (2008).",
+   "journal-title": "Nat. Geosci."
+  },
+  {
+   "key": "348_CR24",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2012RG000400",
+   "author": "S Dye",
+   "year": "2012",
+   "unstructured": "Dye, S. Geoneutrinos and the radioactive power of the Earth. Rev. Geophys. https://doi.org/10.1029/2012RG000400 (2012).",
+   "journal-title": "Rev. Geophys."
+  },
+  {
+   "key": "348_CR25",
+   "doi-asserted-by": "publisher",
+   "first-page": "361",
+   "DOI": "10.1016/j.epsl.2008.12.023",
+   "volume": "278",
+   "author": "R Arevalo",
+   "year": "2009",
+   "unstructured": "Arevalo, R., McDonough, W. F. & Luong, M. The K/U ratio of the silicate earth: insights into mantle composition, structure and thermal evolution. Earth Planet. Sci. Lett. 278, 361–369 (2009).",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "348_CR26",
+   "doi-asserted-by": "publisher",
+   "first-page": "63",
+   "DOI": "10.1144/GSL.SP.1986.024.01.07",
+   "volume": "24",
+   "author": "DS Chapman",
+   "year": "1986",
+   "unstructured": "Chapman, D. S. Thermal gradients in the continental crust. Geol. Soc. Spec. Publ. 24, 63–70 (1986).",
+   "journal-title": "Geol. Soc. Spec. Publ."
+  },
+  {
+   "key": "348_CR27",
+   "doi-asserted-by": "publisher",
+   "first-page": "1405",
+   "DOI": "10.1111/j.1365-246X.2011.05228.x",
+   "volume": "187",
+   "author": "B Goutorbe",
+   "year": "2011",
+   "unstructured": "Goutorbe, B., Poort, J., Lucazeau, F. & Raillard, S. Global heat flow trends resolved from multiple geological and geophysical proxies. Geophys. J. Int. 187, 1405–1419 (2011).",
+   "journal-title": "Geophys. J. Int."
+  },
+  {
+   "key": "348_CR28",
+   "doi-asserted-by": "publisher",
+   "first-page": "1",
+   "DOI": "10.1016/j.earscirev.2017.07.003",
+   "volume": "172",
+   "author": "IM Artemieva",
+   "year": "2017",
+   "unstructured": "Artemieva, I. M., Thybo, H., Jakobsen, K., Sorensen, N. K. & Nielsen, L. S. Heat production in granitic rocks: global analysis based on a new data compilation. Earth Sci. Rev. 172, 1–26 (2017).",
+   "journal-title": "Earth Sci. Rev."
+  },
+  {
+   "key": "348_CR29",
+   "doi-asserted-by": "publisher",
+   "first-page": "105375",
+   "DOI": "10.1016/j.precamres.2019.105375",
+   "volume": "331",
+   "author": "D Hasterok",
+   "year": "2019",
+   "unstructured": "Hasterok, D., Gard, M., Cox, G. & Hand, M. A 4 Ga record of granitic heat production: implications for geodynamic evolution and crustal composition of the early Earth. Precambrian Res. 331, 105375 (2019).",
+   "journal-title": "Precambrian Res."
+  },
+  {
+   "key": "348_CR30",
+   "doi-asserted-by": "publisher",
+   "first-page": "398",
+   "DOI": "10.1016/j.lithos.2016.07.017",
+   "volume": "262",
+   "author": "C Jaupart",
+   "year": "2016",
+   "unstructured": "Jaupart, C., Mareschal, J. C. & Iarotsky, L. Radiogenic heat production in the continental crust. Lithos 262, 398–427 (2016).",
+   "journal-title": "Lithos"
+  },
+  {
+   "key": "348_CR31",
+   "doi-asserted-by": "publisher",
+   "first-page": "1553",
+   "DOI": "10.5194/essd-11-1553-2019",
+   "volume": "11",
+   "author": "M Gard",
+   "year": "2019",
+   "unstructured": "Gard, M., Hasterok, D. & Halpin, J. A. Global whole-rock geochemical database compilation. Earth Syst. Sci. Data 11, 1553–1566 (2019).",
+   "journal-title": "Earth Syst. Sci. Data"
+  },
+  {
+   "key": "348_CR32",
+   "doi-asserted-by": "publisher",
+   "first-page": "391",
+   "DOI": "10.1016/j.lithos.2019.05.034",
+   "volume": "342–343",
+   "author": "M Gard",
+   "year": "2019",
+   "unstructured": "Gard, M., Hasterok, D., Hand, M. & Cox, G. Variations in continental heat production from 4 Ga to the present: evidence from geochemical data. Lithos 342–343, 391–406 (2019).",
+   "journal-title": "Lithos"
+  },
+  {
+   "key": "348_CR33",
+   "doi-asserted-by": "publisher",
+   "first-page": "106509",
+   "DOI": "10.1016/j.pepi.2020.106509",
+   "volume": "306",
+   "author": "S Goes",
+   "year": "2020",
+   "unstructured": "Goes, S., Hasterok, D., Schutt, D. L. & Klocking, M. Continental lithospheric temperatures: a review. Phys. Earth Planet. Inter. 306, 106509 (2020).",
+   "journal-title": "Phys. Earth Planet. Inter."
+  },
+  {
+   "key": "348_CR34",
+   "doi-asserted-by": "publisher",
+   "first-page": "501",
+   "DOI": "10.1016/j.epsl.2011.05.024",
+   "volume": "307",
+   "author": "BR Hacker",
+   "year": "2011",
+   "unstructured": "Hacker, B. R., Kelemen, P. B. & Behn, M. D. Differentiation of the continental crust by relamination. Earth Planet. Sci. Lett. 307, 501–516 (2011).",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "348_CR35",
+   "first-page": "1",
+   "volume": "4",
+   "author": "RL Rudnick",
+   "year": "2014",
+   "unstructured": "Rudnick, R. L. & Gao, S. Composition of the continental crust. Treatise Geochem. 4, 1–51 (2014).",
+   "journal-title": "Treatise Geochem."
+  },
+  {
+   "key": "348_CR36",
+   "doi-asserted-by": "crossref",
+   "unstructured": "Beardsmore, G. R. & Cull, J. P. Crustal Heat Flow (Cambridge Univ. Press, 2001).",
+   "DOI": "10.1017/CBO9780511606021"
+  },
+  {
+   "key": "348_CR37",
+   "doi-asserted-by": "publisher",
+   "first-page": "339",
+   "DOI": "10.1098/rspa.1910.0022",
+   "volume": "83",
+   "author": "CH Lees",
+   "year": "1910",
+   "unstructured": "Lees, C. H. On the shapes of the isogeotherms under mountain ranges in radio-active districts. Proc. R. Soc. Lond. A 83, 339–346 (1910).",
+   "journal-title": "Proc. R. Soc. Lond. A"
+  },
+  {
+   "key": "348_CR38",
+   "first-page": "99",
+   "volume": "11",
+   "author": "T Slagstad",
+   "year": "2008",
+   "unstructured": "Slagstad, T., Midttømme, K., Ramstad, R. K. & Slagstad, D. Factors influencing shallow (<1000 m depth) temperatures and their significance for extraction of ground-source heat. Geol. Soc. Spec. Publ. 11, 99–109 (2008).",
+   "journal-title": "Geol. Soc. Spec. Publ."
+  },
+  {
+   "key": "348_CR39",
+   "doi-asserted-by": "publisher",
+   "first-page": "509",
+   "DOI": "10.1017/jog.2020.27",
+   "volume": "66",
+   "author": "L Mony",
+   "year": "2020",
+   "unstructured": "Mony, L., Roberts, J. L. & Halpin, J. A. Inferring geothermal heat flux from an ice-borehole temperature profile at Law Dome, East Antarctica. J. Glaciol. 66, 509–519 (2020).",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "key": "348_CR40",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1126/sciadv.1500093",
+   "author": "AT Fisher",
+   "year": "2015",
+   "unstructured": "Fisher, A. T., Mankoff, K. D., Tulaczyk, S. M., Tyler, S. W. & Foley, N. High geothermal heat flux measured below the West Antarctic Ice Sheet. Sci. Adv. https://doi.org/10.1126/sciadv.1500093 (2015).",
+   "journal-title": "Sci. Adv."
+  },
+  {
+   "key": "348_CR41",
+   "doi-asserted-by": "publisher",
+   "first-page": "9823",
+   "DOI": "10.1002/2017GL075579",
+   "volume": "44",
+   "author": "CB Begeman",
+   "year": "2017",
+   "unstructured": "Begeman, C. B., Tulaczyk, S. M. & Fisher, A. T. Spatially variable geothermal heat flux in West Antarctica: evidence and implications. Geophys. Res. Lett. 44, 9823–9832 (2017).",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "348_CR42",
+   "doi-asserted-by": "publisher",
+   "first-page": "875",
+   "DOI": "10.1017/jog.2021.38",
+   "volume": "67",
+   "author": "S Willcocks",
+   "year": "2021",
+   "unstructured": "Willcocks, S., Hasterok, D. & Jennings, S. Thermal refraction: implications for subglacial heat flux. J. Glaciol. 67, 875–884 (2021). An exploration of GHF anomalies owing to refraction of heat associated with subglacial topography and contrasts in the thermal properties of geological materials.",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "key": "348_CR43",
+   "doi-asserted-by": "publisher",
+   "first-page": "451",
+   "DOI": "10.1016/j.epsl.2010.04.025",
+   "volume": "295",
+   "author": "F Pattyn",
+   "year": "2010",
+   "unstructured": "Pattyn, F. Antarctic subglacial conditions inferred from a hybrid ice sheet/ice stream model. Earth Planet. Sci. Lett. 295, 451–461 (2010).",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "348_CR44",
+   "doi-asserted-by": "publisher",
+   "first-page": "197",
+   "DOI": "10.1144/SP461.8",
+   "volume": "461",
+   "author": "MJ Siegert",
+   "year": "2018",
+   "unstructured": "Siegert, M. J. et al. Antarctic subglacial groundwater: a concept paper on its measurement and potential influence on ice flow. Geol. Soc. Spec. Publ. 461, 197–213 (2018).",
+   "journal-title": "Geol. Soc. Spec. Publ."
+  },
+  {
+   "key": "348_CR45",
+   "doi-asserted-by": "publisher",
+   "first-page": "115961",
+   "DOI": "10.1016/j.epsl.2019.115961",
+   "volume": "531",
+   "author": "C Dow",
+   "year": "2020",
+   "unstructured": "Dow, C. et al. Totten glacier subglacial hydrology determined from geophysics and modeling. Earth Planet. Sci. Lett. 531, 115961 (2020).",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "348_CR46",
+   "doi-asserted-by": "publisher",
+   "first-page": "9070",
+   "DOI": "10.1073/pnas.1405184111",
+   "volume": "111",
+   "author": "DM Schroeder",
+   "year": "2014",
+   "unstructured": "Schroeder, D. M., Blankenship, D. D., Young, D. A. & Quartini, E. Evidence for elevated and spatially variable geothermal flux beneath the West Antarctic Ice Sheet. Proc. Natl Acad. Sci. USA 111, 9070–9072 (2014).",
+   "journal-title": "Proc. Natl Acad. Sci. USA"
+  },
+  {
+   "key": "348_CR47",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598-018-35182-0",
+   "volume": "8",
+   "author": "TA Jordan",
+   "year": "2018",
+   "unstructured": "Jordan, T. A. et al. Anomalously high geothermal flux near the South Pole. Sci. Rep. 8, 16785 (2018).",
+   "journal-title": "Sci. Rep."
+  },
+  {
+   "key": "348_CR48",
+   "doi-asserted-by": "publisher",
+   "first-page": "666",
+   "DOI": "10.1109/JPROC.2010.2043032",
+   "volume": "98",
+   "author": "YH Kerr",
+   "year": "2010",
+   "unstructured": "Kerr, Y. H. et al. The SMOS mission: new tool for monitoring key elements of the global water cycle. Proc. IEEE 98, 666–687 (2010).",
+   "journal-title": "Proc. IEEE"
+  },
+  {
+   "key": "348_CR49",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s43017-021-00246-9",
+   "author": "SJ Livingstone",
+   "year": "2022",
+   "unstructured": "Livingstone, S. J. et al. Subglacial lakes and their changing role in a warming climate. Nat. Rev. Earth Environ. https://doi.org/10.1038/s43017-021-00246-9 (2022).",
+   "journal-title": "Nat. Rev. Earth Environ."
+  },
+  {
+   "key": "348_CR50",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3390/rs10121954",
+   "author": "O Passalacqua",
+   "year": "2018",
+   "unstructured": "Passalacqua, O. et al. Retrieval of the absorption coefficient of L-band radiation in Antarctica from SMOS observations. Remote Sens. https://doi.org/10.3390/rs10121954 (2018).",
+   "journal-title": "Remote Sens."
+  },
+  {
+   "key": "348_CR51",
+   "doi-asserted-by": "publisher",
+   "first-page": "111405",
+   "DOI": "10.1016/j.rse.2019.111405",
+   "volume": "233",
+   "author": "G Macelloni",
+   "year": "2019",
+   "unstructured": "Macelloni, G. et al. On the retrieval of internal temperature of Antarctica Ice Sheet by using SMOS observations. Remote. Sens. Environ. 233, 111405 (2019).",
+   "journal-title": "Remote. Sens. Environ."
+  },
+  {
+   "key": "348_CR52",
+   "doi-asserted-by": "publisher",
+   "first-page": "13090",
+   "DOI": "10.1029/2019GL084332",
+   "volume": "46",
+   "author": "TJ Fudge",
+   "year": "2019",
+   "unstructured": "Fudge, T. J., Biyani, S. C., Clemens-Sewall, D. & Hawley, R. L. Constraining geothermal flux at coastal domes of the Ross Ice Sheet, Antarctica. Geophys. Res. Lett. 46, 13090–13098 (2019).",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "348_CR53",
+   "unstructured": "Kleinschmidt, G. (ed.) The Geology of the Antarctic Continent (Schweizerbart Science, 2021)."
+  },
+  {
+   "key": "348_CR54",
+   "doi-asserted-by": "publisher",
+   "first-page": "117",
+   "DOI": "10.1038/s43017-019-0013-6",
+   "volume": "1",
+   "author": "TA Jordan",
+   "year": "2020",
+   "unstructured": "Jordan, T. A., Riley, T. R. & Siddoway, C. S. The geological history and evolution of West Antarctica. Nat. Rev. Earth Environ. 1, 117–133 (2020). Review paper on the geology and tectonic evolution of West Antarctica.",
+   "journal-title": "Nat. Rev. Earth Environ."
+  },
+  {
+   "key": "348_CR55",
+   "doi-asserted-by": "publisher",
+   "first-page": "1",
+   "DOI": "10.1144/SP383.9",
+   "volume": "383",
+   "author": "SL Harley",
+   "year": "2013",
+   "unstructured": "Harley, S. L., Fitzsimons, I. C. & Zhao, Y. Antarctica and supercontinent evolution: historical perspectives, recent advances and unresolved issues. Geol. Soc. Spec. Publ. 383, 1–34 (2013). Review paper on the geology and tectonic evolution of East Antarctica.",
+   "journal-title": "Geol. Soc. Spec. Publ."
+  },
+  {
+   "key": "348_CR56",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2021GC010154",
+   "author": "G Sanchez",
+   "year": "2021",
+   "unstructured": "Sanchez, G. et al. PetroChron Antarctica: a geological database for interdisciplinary use. Geochem. Geophys. Geosyst. https://doi.org/10.1029/2021GC010154 (2021).",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "key": "348_CR57",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Cox, S. C., Smith Lyttle, B. & the GeoMAP team. ATA SCAR GeoMAP geology (v.2022-08)(GNS Science, 2022); https://doi.org/10.21420/7SH-6K05.",
+   "DOI": "10.21420/7SH-6K05"
+  },
+  {
+   "key": "348_CR58",
+   "unstructured": "Siddoway, C. in The Geology of the Antarctic Continent (ed. Kleinschmidt, G.) 87–131 (Schweizerbart Science, 2021)."
+  },
+  {
+   "key": "348_CR59",
+   "doi-asserted-by": "publisher",
+   "first-page": "537",
+   "DOI": "10.1093/gji/ggu140",
+   "volume": "198",
+   "author": "DF Argus",
+   "year": "2014",
+   "unstructured": "Argus, D. F., Peltier, W. R., Drummond, R. & Moore, A. W. The Antarctica component of postglacial rebound model ICE-6G_C (VM5a) based on GPS positioning, exposure age dating of ice thicknesses, and relative sea level histories. Geophys. J. Int. 198, 537–563 (2014).",
+   "journal-title": "Geophys. J. Int."
+  },
+  {
+   "key": "348_CR60",
+   "doi-asserted-by": "publisher",
+   "first-page": "7824",
+   "DOI": "10.1029/2017JB015346",
+   "volume": "123",
+   "author": "W Shen",
+   "year": "2018",
+   "unstructured": "Shen, W. et al. The crust and upper mantle structure of Central and West Antarctica from Bayesian inversion of Rayleigh wave and receiver functions. J. Geophys. Res. Solid Earth 123, 7824–7849 (2018).",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "key": "348_CR61",
+   "unstructured": "Smellie, J. in The Geology of the Antarctic Continent (ed. Kleinschmidt, G.) 18–86 (Schweizerbart Science, 2021)."
+  },
+  {
+   "key": "348_CR62",
+   "doi-asserted-by": "publisher",
+   "first-page": "103106",
+   "DOI": "10.1016/j.earscirev.2020.103106",
+   "volume": "202",
+   "author": "IM Artemieva",
+   "year": "2020",
+   "unstructured": "Artemieva, I. M. & Thybo, H. Continent size revisited: geophysical evidence for West Antarctica as a back-arc system. Earth Sci. Rev. 202, 103106 (2020).",
+   "journal-title": "Earth Sci. Rev."
+  },
+  {
+   "key": "348_CR63",
+   "doi-asserted-by": "publisher",
+   "first-page": "335",
+   "DOI": "10.1016/j.gr.2010.09.003",
+   "volume": "19",
+   "author": "SD Boger",
+   "year": "2011",
+   "unstructured": "Boger, S. D. Antarctica — before and after Gondwana. Gondwana Res. 19, 335–371 (2011).",
+   "journal-title": "Gondwana Res."
+  },
+  {
+   "key": "348_CR64",
+   "doi-asserted-by": "publisher",
+   "first-page": "1555",
+   "DOI": "10.1093/gji/ggaa265",
+   "volume": "222",
+   "author": "RJ Turner",
+   "year": "2020",
+   "unstructured": "Turner, R. J., Reading, A. M. & King, M. A. Separation of tectonic and local components of horizontal GPS station velocities: a case study for glacial isostatic adjustment in East Antarctica. Geophys. J. Int. 222, 1555–1569 (2020).",
+   "journal-title": "Geophys. J. Int."
+  },
+  {
+   "key": "348_CR65",
+   "doi-asserted-by": "publisher",
+   "first-page": "388",
+   "DOI": "10.1038/nature10566",
+   "volume": "479",
+   "author": "F Ferraccioli",
+   "year": "2011",
+   "unstructured": "Ferraccioli, F. et al. East Antarctic rifting triggers uplift of the Gamburtsev Mountains. Nature 479, 388–392 (2011).",
+   "journal-title": "Nature"
+  },
+  {
+   "key": "348_CR66",
+   "first-page": "4305",
+   "volume": "6",
+   "author": "P Fretwell",
+   "year": "2012",
+   "unstructured": "Fretwell, P. et al. Bedmap2: improved ice bed, surface and thickness datasets for Antarctica. Cryosphere 6, 4305–4361 (2012).",
+   "journal-title": "Cryosphere"
+  },
+  {
+   "key": "348_CR67",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41561-019-0510-8",
+   "author": "M Morlighem",
+   "year": "2019",
+   "unstructured": "Morlighem, M. et al. Deep glacial troughs and stabilizing ridges unveiled beneath the margins of the Antarctic ice sheet. Nat. Geosci. https://doi.org/10.1038/s41561-019-0510-8 (2019).",
+   "journal-title": "Nat. Geosci."
+  },
+  {
+   "key": "348_CR68",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598-019-46612-y",
+   "volume": "9",
+   "author": "A Maritati",
+   "year": "2019",
+   "unstructured": "Maritati, A., Halpin, J. A., Whittaker, J. M. & Daczko, N. R. Fingerprinting Proterozoic bedrock in interior Wilkes Land, East Antarctica. Sci. Rep. 9, 10192 (2019).",
+   "journal-title": "Sci. Rep."
+  },
+  {
+   "key": "348_CR69",
+   "doi-asserted-by": "publisher",
+   "first-page": "2390",
+   "DOI": "10.1002/2014GL059405",
+   "volume": "41",
+   "author": "AR Aitken",
+   "year": "2014",
+   "unstructured": "Aitken, A. R. et al. The subglacial geology of Wilkes Land, East Antarctica. Geophys. Res. Lett. 41, 2390–2400 (2014).",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "348_CR70",
+   "doi-asserted-by": "publisher",
+   "first-page": "10404",
+   "DOI": "10.1029/2019GL083453",
+   "volume": "46",
+   "author": "T Stål",
+   "year": "2019",
+   "unstructured": "Stål, T., Reading, A. M., Halpin, J. A. & Whittaker, J. M. A multivariate approach for mapping lithospheric domain boundaries in East Antarctica. Geophys. Res. Lett. 46, 10404–10416 (2019).",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "348_CR71",
+   "doi-asserted-by": "publisher",
+   "first-page": "645",
+   "DOI": "10.1130/G45952.1",
+   "volume": "47",
+   "author": "JA Mulder",
+   "year": "2019",
+   "unstructured": "Mulder, J. A. et al. A multiproxy provenance approach to uncovering the assembly of East Gondwana in Antarctica. Geology 47, 645–649 (2019).",
+   "journal-title": "Geology"
+  },
+  {
+   "key": "348_CR72",
+   "doi-asserted-by": "publisher",
+   "first-page": "162",
+   "DOI": "10.1038/s43247-021-00242-3",
+   "volume": "2",
+   "author": "R Dziadek",
+   "year": "2021",
+   "unstructured": "Dziadek, R., Ferraccioli, F. & Gohl, K. High geothermal heat flow beneath Thwaites Glacier in West Antarctica inferred from aeromagnetic data. Commun. Earth Environ. 2, 162 (2021).",
+   "journal-title": "Commun. Earth Environ."
+  },
+  {
+   "key": "348_CR73",
+   "doi-asserted-by": "publisher",
+   "first-page": "2019JB017823",
+   "DOI": "10.1029/2019JB017823",
+   "volume": "125",
+   "author": "AJ Lloyd",
+   "year": "2020",
+   "unstructured": "Lloyd, A. J. et al. Seismic structure of the Antarctic upper mantle imaged with adjoint tomography. J. Geophys. Res. Solid Earth 125, 2019JB017823 (2020).",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "key": "348_CR74",
+   "doi-asserted-by": "publisher",
+   "first-page": "11417",
+   "DOI": "10.1002/2017GL075609",
+   "volume": "44",
+   "author": "YM Martos",
+   "year": "2017",
+   "unstructured": "Martos, Y. M. et al. Heat flux distribution of Antarctica unveiled. Geophys. Res. Lett. 44, 11417–11426 (2017).",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "348_CR75",
+   "doi-asserted-by": "publisher",
+   "first-page": "464",
+   "DOI": "10.1126/science.1106888",
+   "volume": "309",
+   "author": "C Fox Maule",
+   "year": "2005",
+   "unstructured": "Fox Maule, C., Purucker, M. E., Olsen, N. & Mosegaard, K. Heat flux anomalies in Antarctica revealed by satellite magnetic data. Science 309, 464–467 (2005).",
+   "journal-title": "Science"
+  },
+  {
+   "key": "348_CR76",
+   "doi-asserted-by": "publisher",
+   "first-page": "8720",
+   "DOI": "10.1002/2015JB011917",
+   "volume": "120",
+   "author": "M An",
+   "year": "2015",
+   "unstructured": "An, M. et al. Temperature, lithosphere-asthenosphere boundary, and heat flux beneath the Antarctic Plate inferred from seismic velocities. J. Geophys. Res. Solid Earth 120, 8720–8742 (2015).",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "key": "348_CR77",
+   "doi-asserted-by": "publisher",
+   "first-page": "5436",
+   "DOI": "10.1002/2017GL073596",
+   "volume": "44",
+   "author": "A Burton-Johnson",
+   "year": "2017",
+   "unstructured": "Burton-Johnson, A., Halpin, J. A., Whittaker, J. M., Graham, F. S. & Watson, S. J. A new heat flux model for the Antarctic Peninsula incorporating spatially variable upper crustal radiogenic heat production. Geophys. Res. Lett. 44, 5436–5446 (2017).",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "348_CR78",
+   "doi-asserted-by": "publisher",
+   "first-page": "665",
+   "DOI": "10.1111/j.1365-2478.2009.00800.x",
+   "volume": "57",
+   "author": "J Ebbing",
+   "year": "2009",
+   "unstructured": "Ebbing, J., Gernigon, L., Pascal, C., Olesen, O. & Osmundsen, P. T. A discussion of structural and thermal control of magnetic anomalies on the mid-Norwegian margin. Geophys. Prospect. 57, 665–681 (2009).",
+   "journal-title": "Geophys. Prospect."
+  },
+  {
+   "key": "348_CR79",
+   "doi-asserted-by": "publisher",
+   "first-page": "106672",
+   "DOI": "10.1016/j.pepi.2021.106672",
+   "volume": "313",
+   "author": "M Gard",
+   "year": "2021",
+   "unstructured": "Gard, M. & Hasterok, D. A global Curie depth model utilising the equivalent source magnetic dipole method. Phys. Earth Planet. Inter. 313, 106672 (2021).",
+   "journal-title": "Phys. Earth Planet. Inter."
+  },
+  {
+   "key": "348_CR80",
+   "doi-asserted-by": "publisher",
+   "first-page": "359",
+   "DOI": "10.1002/2014JB011332",
+   "volume": "120",
+   "author": "M An",
+   "year": "2015",
+   "unstructured": "An, M. et al. S-velocity model and inferred Moho topography beneath the Antarctic Plate from Rayleigh waves. J. Geophys. Res. Solid. Earth 120, 359–383 (2015).",
+   "journal-title": "J. Geophys. Res. Solid. Earth"
+  },
+  {
+   "key": "348_CR81",
+   "doi-asserted-by": "publisher",
+   "first-page": "11153",
+   "DOI": "10.1029/1999JB900300",
+   "volume": "105",
+   "author": "S Goes",
+   "year": "2000",
+   "unstructured": "Goes, S., Govers, R. & Vacher, P. Shallow mantle temperatures under Europe from P and S wave tomography. J. Geophys. Res. Solid Earth 105, 11153–11169 (2000).",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "key": "348_CR82",
+   "doi-asserted-by": "publisher",
+   "first-page": "1441",
+   "DOI": "10.1007/s11430-007-0071-3",
+   "volume": "50",
+   "author": "M An",
+   "year": "2007",
+   "unstructured": "An, M. & Shi, Y. Three-dimensional thermal structure of the Chinese continental crust and upper mantle. Sci. China D Earth Sci. 50, 1441–1451 (2007).",
+   "journal-title": "Sci. China D Earth Sci."
+  },
+  {
+   "key": "348_CR83",
+   "doi-asserted-by": "publisher",
+   "first-page": "688",
+   "DOI": "10.1029/2018GC008033",
+   "volume": "20",
+   "author": "C Haeger",
+   "year": "2019",
+   "unstructured": "Haeger, C., Kaban, M. K., Tesauro, M., Petrunin, A. G. & Mooney, W. D. 3-D density, thermal, and compositional model of the Antarctic lithosphere and implications for its evolution. Geochem. Geophys. Geosyst. 20, 688–707 (2019).",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "key": "348_CR84",
+   "doi-asserted-by": "publisher",
+   "first-page": "417",
+   "DOI": "10.1093/gji/ggt095",
+   "volume": "194",
+   "author": "AJ Schaeffer",
+   "year": "2013",
+   "unstructured": "Schaeffer, A. J. & Lebedev, S. Global shear speed structure of the upper mantle and transition zone. Geophys. J. Int. 194, 417–449 (2013).",
+   "journal-title": "Geophys. J. Int."
+  },
+  {
+   "key": "348_CR85",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3389/feart.2020.00105",
+   "author": "M Lösing",
+   "year": "2020",
+   "unstructured": "Lösing, M., Ebbing, J. & Szwillus, W. Geothermal heat flux in Antarctica: assessing models and observations by Bayesian inversion. Front. Earth Sci. https://doi.org/10.3389/feart.2020.00105 (2020). Assessment of the influence of different lithospheric models on heat flow calculations for Antarctica.",
+   "journal-title": "Front. Earth Sci."
+  },
+  {
+   "key": "348_CR86",
+   "doi-asserted-by": "publisher",
+   "first-page": "1777",
+   "DOI": "10.1016/j.gsf.2017.10.012",
+   "volume": "9",
+   "author": "D Hasterok",
+   "year": "2018",
+   "unstructured": "Hasterok, D., Gard, M. & Webb, J. On the radiogenic heat production of metamorphic, igneous, and sedimentary rocks. Geosci. Front. 9, 1777–1794 (2018). Appraisal of radiogenic heat production in upper crustal rocks.",
+   "journal-title": "Geosci. Front."
+  },
+  {
+   "key": "348_CR87",
+   "doi-asserted-by": "publisher",
+   "first-page": "491",
+   "DOI": "10.5194/tc-12-491-2018",
+   "volume": "12",
+   "author": "JW Goodge",
+   "year": "2018",
+   "unstructured": "Goodge, J. W. Crustal heat production and estimate of terrestrial heat flow in central East Antarctica, with implications for thermal input to the East Antarctic ice sheet. Cryosphere 12, 491–504 (2018).",
+   "journal-title": "Cryosphere"
+  },
+  {
+   "key": "348_CR88",
+   "doi-asserted-by": "publisher",
+   "first-page": "110053",
+   "DOI": "10.1016/j.palaeo.2020.110053",
+   "volume": "561",
+   "author": "A Aitken",
+   "year": "2021",
+   "unstructured": "Aitken, A. & Urosevic, L. A probabilistic and model-based approach to the assessment of glacial detritus from ice sheet change. Palaeogeogr. Palaeoclimatol. Palaeoecol. 561, 110053 (2021).",
+   "journal-title": "Palaeogeogr. Palaeoclimatol. Palaeoecol."
+  },
+  {
+   "key": "348_CR89",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Venzke, E. (ed.) in Volcanoes of the World v. 4.9.0., https://doi.org/10.5479/si.GVP.VOTW4-2013 (Smithsonian Institution, 2013).",
+   "DOI": "10.5479/si.GVP.VOTW4-2013"
+  },
+  {
+   "key": "348_CR90",
+   "doi-asserted-by": "crossref",
+   "unstructured": "Schaeffer, A. J. & Lebedev, S. in Earth’s Heterogeneous Mantle, 3–46 (Springer, 2015).",
+   "DOI": "10.1007/978-3-319-15627-9_1"
+  },
+  {
+   "key": "348_CR91",
+   "doi-asserted-by": "publisher",
+   "first-page": "9",
+   "DOI": "10.1144/jgs2013-030",
+   "volume": "171",
+   "author": "CJ Carson",
+   "year": "2014",
+   "unstructured": "Carson, C. J., McLaren, S., Roberts, J. L., Boger, S. D. & Blankenship, D. D. Hot rocks in a cold place: high sub-glacial heat flow in East Antarctica. J. Geol. Soc. 171, 9–12 (2014).",
+   "journal-title": "J. Geol. Soc."
+  },
+  {
+   "key": "348_CR92",
+   "doi-asserted-by": "publisher",
+   "first-page": "258",
+   "DOI": "10.1007/BF01624599",
+   "volume": "37",
+   "author": "F Mongelli",
+   "year": "1993",
+   "unstructured": "Mongelli, F. & Zito, G. The contemporary effect of erosion/sedimentation and past climate on the geothermal gradient. Stud. Geophys. Geod. 37, 258–264 (1993).",
+   "journal-title": "Stud. Geophys. Geod."
+  },
+  {
+   "key": "348_CR93",
+   "doi-asserted-by": "publisher",
+   "first-page": "197",
+   "DOI": "10.1016/S0031-9201(03)00156-0",
+   "volume": "138",
+   "author": "F Cammarano",
+   "year": "2003",
+   "unstructured": "Cammarano, F., Goes, S., Vacher, P. & Giardini, D. Inferring upper-mantle temperatures from seismic velocities. Phys. Earth Planet. Inter. 138, 197–222 (2003).",
+   "journal-title": "Phys. Earth Planet. Inter."
+  },
+  {
+   "key": "348_CR94",
+   "doi-asserted-by": "publisher",
+   "first-page": "4781",
+   "DOI": "10.1002/2014GC005483",
+   "volume": "15",
+   "author": "MK Kaban",
+   "year": "2014",
+   "unstructured": "Kaban, M. K., Tesauro, M., Mooney, W. D. & Cloetingh, S. A. P. L. Density, temperature, and composition of the North American lithosphere — new insights from a joint analysis of seismic, gravity, and mineral physics data: 1. Density structure of the crust and upper mantle. Geochem. Geophys. Geosyst. 15, 4781–4807 (2014).",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "key": "348_CR95",
+   "doi-asserted-by": "publisher",
+   "first-page": "1602",
+   "DOI": "10.1093/gji/ggz094",
+   "volume": "217",
+   "author": "JC Afonso",
+   "year": "2019",
+   "unstructured": "Afonso, J. C., Salajegheh, F., Szwillus, W., Ebbing, J. & Gaina, C. A global reference model of the lithosphere and upper mantle from joint inversion and analysis of multiple data sets. Geophys. J. Int. 217, 1602–1628 (2019).",
+   "journal-title": "Geophys. J. Int."
+  },
+  {
+   "key": "348_CR96",
+   "doi-asserted-by": "publisher",
+   "first-page": "e2019JB019011",
+   "DOI": "10.1029/2019JB019011",
+   "volume": "125",
+   "author": "LG Sammon",
+   "year": "2020",
+   "unstructured": "Sammon, L. G., Gao, C. & McDonough, W. F. Lower crustal composition in the southwestern United States. J. Geophys. Res. Solid Earth 125, e2019JB019011 (2020).",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "key": "348_CR97",
+   "unstructured": "Sui, S., Shen, W., Schulte-Pelkum, V. & Mahan, K. Constraining the crustal composition of the continental U.S. using seismic observables. GSA Bull. (in the press)."
+  },
+  {
+   "key": "348_CR98",
+   "doi-asserted-by": "publisher",
+   "first-page": "12053",
+   "DOI": "10.1029/2019JB017997",
+   "volume": "124",
+   "author": "F Pappa",
+   "year": "2019",
+   "unstructured": "Pappa, F., Ebbing, J., Ferraccioli, F. & van der Wal, W. Modeling satellite gravity gradient data to derive density, temperature, and viscosity structure of the Antarctic lithosphere. J. Geophys. Res. Solid Earth 124, 12053–12076 (2019).",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "key": "348_CR99",
+   "doi-asserted-by": "publisher",
+   "first-page": "197",
+   "DOI": "10.1016/j.epsl.2016.06.037",
+   "volume": "450",
+   "author": "D Hasterok",
+   "year": "2016",
+   "unstructured": "Hasterok, D. & Gard, M. Utilizing thermal isostasy to estimate sub-lithospheric heat flow and anomalous crustal radioactivity. Earth Planet. Sci. Lett. 450, 197–207 (2016).",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "348_CR100",
+   "doi-asserted-by": "publisher",
+   "first-page": "103954",
+   "DOI": "10.1016/j.earscirev.2022.103954",
+   "volume": "226",
+   "author": "IM Artemieva",
+   "year": "2022",
+   "unstructured": "Artemieva, I. M. Antarctica ice sheet basal melting enhanced by high mantle heat. Earth Sci. Rev. 226, 103954 (2022).",
+   "journal-title": "Earth Sci. Rev."
+  },
+  {
+   "key": "348_CR101",
+   "doi-asserted-by": "publisher",
+   "first-page": "1456",
+   "DOI": "10.1002/2016JF003855",
+   "volume": "121",
+   "author": "NT Stevens",
+   "year": "2016",
+   "unstructured": "Stevens, N. T., Parizek, B. R. & Alley, R. B. Enhancement of volcanism and geothermal heat flux by ice-age cycling: a stress modeling study of Greenland. J. Geophys. Res. Earth Surf. 121, 1456–1471 (2016).",
+   "journal-title": "J. Geophys. Res. Earth Surf."
+  },
+  {
+   "key": "348_CR102",
+   "doi-asserted-by": "publisher",
+   "first-page": "1203",
+   "DOI": "10.1016/j.ijthermalsci.2004.04.009",
+   "volume": "43",
+   "author": "N Diao",
+   "year": "2004",
+   "unstructured": "Diao, N., Li, Q. & Fang, Z. Heat transfer in ground heat exchangers with groundwater advection. Int. J. Therm. Sci. 43, 1203–1211 (2004).",
+   "journal-title": "Int. J. Therm. Sci."
+  },
+  {
+   "key": "348_CR103",
+   "doi-asserted-by": "publisher",
+   "first-page": "WB113",
+   "DOI": "10.1190/geo2012-0411.1",
+   "volume": "78",
+   "author": "MJ Cracknell",
+   "year": "2013",
+   "unstructured": "Cracknell, M. J. & Reading, A. M. The upside of uncertainty: identification of lithology contact zones from airborne geophysics and satellite data using random forests and support vector machines. Geophysics 78, WB113–WB126 (2013).",
+   "journal-title": "Geophysics"
+  },
+  {
+   "key": "348_CR104",
+   "doi-asserted-by": "publisher",
+   "first-page": "1464",
+   "DOI": "10.3390/e15041464",
+   "volume": "15",
+   "author": "JF Wellmann",
+   "year": "2013",
+   "unstructured": "Wellmann, J. F. Information theory for correlation analysis and estimation of uncertainty reduction in maps and models. Entropy 15, 1464–1485 (2013).",
+   "journal-title": "Entropy"
+  },
+  {
+   "key": "348_CR105",
+   "doi-asserted-by": "crossref",
+   "unstructured": "Jaupart, C. & Mareschal, J. C. in Treatise on Geochemistry 2nd edn, Vol. 4, 53–73 (Elsevier, 2013).",
+   "DOI": "10.1016/B978-0-08-095975-7.00302-8"
+  },
+  {
+   "key": "348_CR106",
+   "doi-asserted-by": "publisher",
+   "first-page": "25",
+   "DOI": "10.1016/S0921-8181(99)00049-1",
+   "volume": "23",
+   "author": "JC Behrendt",
+   "year": "1999",
+   "unstructured": "Behrendt, J. C. Crustal and lithospheric structure of the West Antarctic Rift System from geophysical investigations — a review. Glob. Planet. Change 23, 25–44 (1999).",
+   "journal-title": "Glob. Planet. Change"
+  },
+  {
+   "key": "348_CR107",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Siddoway, C. S. in Antarctica: A Keystone in a Changing World (eds Cooper, A. K. et al.) (National Academies Press, 2008); https://doi.org/10.3133/ofr20071047KP09.",
+   "DOI": "10.3133/ofr20071047KP09"
+  },
+  {
+   "key": "348_CR108",
+   "doi-asserted-by": "publisher",
+   "first-page": "16",
+   "DOI": "10.1016/j.gloplacha.2017.04.008",
+   "volume": "153",
+   "author": "T Scambos",
+   "year": "2017",
+   "unstructured": "Scambos, T. et al. How much, how fast? A science review and outlook for research on the instability of Antarctica’s Thwaites Glacier in the 21st century. Glob. Planet. Change 153, 16–34 (2017).",
+   "journal-title": "Glob. Planet. Change"
+  },
+  {
+   "key": "348_CR109",
+   "doi-asserted-by": "publisher",
+   "first-page": "231",
+   "DOI": "10.1144/SP461.7",
+   "volume": "461",
+   "author": "M van Wyk de Vries",
+   "year": "2018",
+   "unstructured": "van Wyk de Vries, M., Bingham, R. G. & Hein, A. S. A new volcanic province: an inventory of subglacial volcanoes in West Antarctica. Geol. Soc. Spec. Publ. 461, 231–248 (2018).",
+   "journal-title": "Geol. Soc. Spec. Publ."
+  },
+  {
+   "key": "348_CR110",
+   "doi-asserted-by": "publisher",
+   "first-page": "58",
+   "DOI": "10.1038/27883",
+   "volume": "394",
+   "author": "RE Bell",
+   "year": "1998",
+   "unstructured": "Bell, R. E. et al. Influence of subglacial geology on the onset of a West Antarctic ice stream from aerogeophysical observations. Nature 394, 58–62 (1998).",
+   "journal-title": "Nature"
+  },
+  {
+   "key": "348_CR111",
+   "unstructured": "Bell, R., Studinger, M., Karner, G., Finn, C. & Blankenship, D. in Antarctica (eds Fütterer, D. et al.) 117–121 (Springer, 2006)."
+  },
+  {
+   "key": "348_CR112",
+   "doi-asserted-by": "publisher",
+   "first-page": "660",
+   "DOI": "10.1029/95TC03500",
+   "volume": "15",
+   "author": "JC Behrendt",
+   "year": "1996",
+   "unstructured": "Behrendt, J. C. et al. Patterns of late Cenozoic volcanic and tectonic activity in the West Antarctic rift system revealed by aeromagnetic surveys. Tectonics 15, 660–676 (1996).",
+   "journal-title": "Tectonics"
+  },
+  {
+   "key": "348_CR113",
+   "doi-asserted-by": "publisher",
+   "first-page": "e2021GL097371",
+   "DOI": "10.1029/2021GL097371",
+   "volume": "49",
+   "author": "MD Tankersley",
+   "year": "2022",
+   "unstructured": "Tankersley, M. D., Horgan, H. J., Siddoway, C. S., Caratori Tontini, F. & Tinto, K. J. Basement topography and sediment thickness beneath Antarctica’s Ross Ice Shelf. Geophys. Res. Lett. 49, e2021GL097371 (2022).",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "348_CR114",
+   "doi-asserted-by": "publisher",
+   "first-page": "7127",
+   "DOI": "10.1002/2017JB014423",
+   "volume": "122",
+   "author": "H Seroussi",
+   "year": "2017",
+   "unstructured": "Seroussi, H., Ivins, E. R., Wiens, D. A. & Bondzio, J. Influence of a West Antarctic mantle plume on ice sheet basal conditions. J. Geophys. Res. Solid Earth 122, 7127–7155 (2017).",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "key": "348_CR115",
+   "doi-asserted-by": "publisher",
+   "first-page": "66",
+   "DOI": "10.1016/j.epsl.2014.09.043",
+   "volume": "408",
+   "author": "SE Hansen",
+   "year": "2014",
+   "unstructured": "Hansen, S. E. et al. Imaging the Antarctic mantle using adaptively parameterized P-wave tomography: evidence for heterogeneous structure beneath West Antarctica. Earth Planet. Sci. Lett. 408, 66–78 (2014).",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "348_CR116",
+   "doi-asserted-by": "publisher",
+   "first-page": "219",
+   "DOI": "10.1016/j.epsl.2019.06.024",
+   "volume": "522",
+   "author": "JP O’Donnell",
+   "year": "2019",
+   "unstructured": "O’Donnell, J. P. et al. The uppermost mantle seismic velocity structure of West Antarctica from Rayleigh wave tomography: insights into tectonic structure and geothermal heat flow. Earth Planet. Sci. Lett. 522, 219–233 (2019).",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "348_CR117",
+   "doi-asserted-by": "publisher",
+   "first-page": "116437",
+   "DOI": "10.1016/j.epsl.2020.116437",
+   "volume": "546",
+   "author": "EM Lucas",
+   "year": "2020",
+   "unstructured": "Lucas, E. M. et al. P- and S-wave velocity structure of central West Antarctica: implications for the tectonic evolution of the West Antarctic Rift System. Earth Planet. Sci. Lett. 546, 116437 (2020).",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "348_CR118",
+   "doi-asserted-by": "publisher",
+   "first-page": "e2020GC009471",
+   "DOI": "10.1029/2020GC009471",
+   "volume": "22",
+   "author": "EM Lucas",
+   "year": "2021",
+   "unstructured": "Lucas, E. M. et al. Seismicity and Pn velocity structure of Central West Antarctica. Geochem. Geophys. Geosyst. 22, e2020GC009471 (2021).",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "key": "348_CR119",
+   "doi-asserted-by": "publisher",
+   "first-page": "1033",
+   "DOI": "10.1080/08120090701615691",
+   "volume": "54",
+   "author": "RD Muller",
+   "year": "2007",
+   "unstructured": "Muller, R. D., Gohl, K., Cande, S. C., Goncharov, A. & Golynsky, A. V. Eocene to Miocene geometry of the West Antarctic Rift System. Aust. J. Earth Sci. 54, 1033–1045 (2007).",
+   "journal-title": "Aust. J. Earth Sci."
+  },
+  {
+   "key": "348_CR120",
+   "doi-asserted-by": "publisher",
+   "first-page": "5831",
+   "DOI": "10.1029/2019GC008667",
+   "volume": "20",
+   "author": "M Zundel",
+   "year": "2019",
+   "unstructured": "Zundel, M., Spiegel, C., Lisker, F. & Monien, P. Post mid-Cretaceous tectonic and topographic evolution of Western Marie Byrd Land, West Antarctica: insights from apatite fission track and (U-Th-Sm)/He data. Geochem. Geophys. Geosyst. 20, 5831–5848 (2019).",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "key": "348_CR121",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1186/s40517-019-0150-7",
+   "volume": "7",
+   "author": "H Duwiquet",
+   "year": "2019",
+   "unstructured": "Duwiquet, H., Arbaret, L., Guillou-Frottier, L., Heap, M. J. & Bellanger, M. On the geothermal potential of crustal fault zones: a case study from the Pontgibaud area (French Massif Central, France). Geotherm. Energy 7, 33 (2019).",
+   "journal-title": "Geotherm. Energy"
+  },
+  {
+   "key": "348_CR122",
+   "doi-asserted-by": "publisher",
+   "first-page": "515",
+   "DOI": "10.1144/M55-2019-39",
+   "volume": "55",
+   "author": "TI Wilch",
+   "year": "2021",
+   "unstructured": "Wilch, T. I., McIntosh, W. C. & Panter, K. S. Chapter 5.4a Marie Byrd Land and Ellsworth Land: volcanology. Geol. Soc. Lond. Mem. 55, 515–576 (2021).",
+   "journal-title": "Geol. Soc. Lond. Mem."
+  },
+  {
+   "key": "348_CR123",
+   "doi-asserted-by": "publisher",
+   "first-page": "362",
+   "DOI": "10.1016/j.epsl.2014.10.034",
+   "volume": "408",
+   "author": "N Holschuh",
+   "year": "2014",
+   "unstructured": "Holschuh, N., Pollard, D., Alley, R. & Anandakrishnan, S. Evaluating Marie Byrd Land stability using an improved basal topography. Earth Planet. Sci. Lett. 408, 362–369 (2014).",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "348_CR124",
+   "doi-asserted-by": "publisher",
+   "first-page": "878",
+   "DOI": "10.1029/2018TC005150",
+   "volume": "38",
+   "author": "M Zundel",
+   "year": "2019",
+   "unstructured": "Zundel, M. et al. Thurston Island (West Antarctica) between Gondwana subduction and continental separation: a multistage evolution revealed by apatite thermochronology. Tectonics 38, 878–897 (2019).",
+   "journal-title": "Tectonics"
+  },
+  {
+   "key": "348_CR125",
+   "doi-asserted-by": "publisher",
+   "first-page": "249",
+   "DOI": "10.1016/j.tecto.2017.11.011",
+   "volume": "722",
+   "author": "PT Leat",
+   "year": "2018",
+   "unstructured": "Leat, P. T. et al. Jurassic high heat production granites associated with the Weddell Sea rift system, Antarctica. Tectonophysics 722, 249–264 (2018).",
+   "journal-title": "Tectonophysics"
+  },
+  {
+   "key": "348_CR126",
+   "doi-asserted-by": "publisher",
+   "first-page": "50",
+   "DOI": "10.1016/j.gr.2019.11.001",
+   "volume": "80",
+   "author": "JW Goodge",
+   "year": "2020",
+   "unstructured": "Goodge, J. W. Geological and tectonic evolution of the Transantarctic Mountains, from ancient craton to recent enigma. Gondwana Res. 80, 50–122 (2020).",
+   "journal-title": "Gondwana Res."
+  },
+  {
+   "key": "348_CR127",
+   "unstructured": "Goodge, J. in The Geology of the Antarctic Continent (ed. Kleinschmidt, G.) 132–217 (Schweizerbart Science, 2021)."
+  },
+  {
+   "key": "348_CR128",
+   "doi-asserted-by": "publisher",
+   "first-page": "347",
+   "DOI": "10.1144/M55-2018-60",
+   "volume": "55",
+   "author": "JL Smellie",
+   "year": "2021",
+   "unstructured": "Smellie, J. L. & Rocchi, S. Chapter 5.1a. Northern Victoria Land: volcanology. Geol. Soc. Lond. Mem. 55, 347–381 (2021).",
+   "journal-title": "Geol. Soc. Lond. Mem."
+  },
+  {
+   "key": "348_CR129",
+   "doi-asserted-by": "publisher",
+   "first-page": "463",
+   "DOI": "10.1130/G38784.1",
+   "volume": "45",
+   "author": "GR Brenn",
+   "year": "2017",
+   "unstructured": "Brenn, G. R., Hansen, S. E. & Park, Y. Variable thermal loading and flexural uplift along the Transantarctic Mountains, Antarctica. Geology 45, 463–466 (2017).",
+   "journal-title": "Geology"
+  },
+  {
+   "key": "348_CR130",
+   "doi-asserted-by": "publisher",
+   "first-page": "71",
+   "DOI": "10.1130/G39555.1",
+   "volume": "46",
+   "author": "W Shen",
+   "year": "2017",
+   "unstructured": "Shen, W. et al. Seismic evidence for lithospheric foundering beneath the southern Transantarctic Mountains, Antarctica. Geology 46, 71–74 (2017).",
+   "journal-title": "Geology"
+  },
+  {
+   "key": "348_CR131",
+   "unstructured": "Läufer, A. in The Geology of the Antarctic Continent (ed. Kleinschmidt, G.) 254–295 (Schweizerbart Science, 2021)."
+  },
+  {
+   "key": "348_CR132",
+   "doi-asserted-by": "publisher",
+   "first-page": "97",
+   "DOI": "10.1016/j.gr.2018.02.019",
+   "volume": "59",
+   "author": "A Ruppel",
+   "year": "2018",
+   "unstructured": "Ruppel, A., Jacobs, J., Eagles, G., Läufer, A. & Jokat, W. New geophysical data from a key region in East Antarctica: estimates for the spatial extent of the Tonian Oceanic Arc Super Terrane (TOAST). Gondwana Res. 59, 97–107 (2018).",
+   "journal-title": "Gondwana Res."
+  },
+  {
+   "key": "348_CR133",
+   "doi-asserted-by": "publisher",
+   "first-page": "343",
+   "DOI": "10.1016/0301-9268(86)90036-7",
+   "volume": "32",
+   "author": "L Black",
+   "year": "1986",
+   "unstructured": "Black, L., Sheraton, J. & James, P. Late Archaean granites of the Napier Complex, Enderby Land, Antarctica: a comparison of Rb-Sr, Sm-Nd and U-Pb isotopic systematics in a complex terrain. Precambrian Res. 32, 343–368 (1986).",
+   "journal-title": "Precambrian Res."
+  },
+  {
+   "key": "348_CR134",
+   "doi-asserted-by": "publisher",
+   "first-page": "689",
+   "DOI": "10.1007/s00410-004-0627-6",
+   "volume": "148",
+   "author": "J Halpin",
+   "year": "2005",
+   "unstructured": "Halpin, J., Gerakiteys, C., Clarke, G., Belousova, E. & Griffin, W. In-situ U–Pb geochronology and Hf isotope analyses of the Rayner Complex, east Antarctica. Contrib. Mineral. Petrol. 148, 689–706 (2005).",
+   "journal-title": "Contrib. Mineral. Petrol."
+  },
+  {
+   "key": "348_CR135",
+   "doi-asserted-by": "publisher",
+   "first-page": "241",
+   "DOI": "10.1080/00167618308729251",
+   "volume": "30",
+   "author": "RJ Tingey",
+   "year": "1983",
+   "unstructured": "Tingey, R. J., McDougall, I. & Gleadow, A. J. W. The age and mode of formation of Gaussberg, Antarctica. J. Geol. Soc. Aust. 30, 241–246 (1983).",
+   "journal-title": "J. Geol. Soc. Aust."
+  },
+  {
+   "key": "348_CR136",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/M55-2018-85",
+   "author": "JL Smellie",
+   "year": "2021",
+   "unstructured": "Smellie, J. L. & Collerson, K. D. Chapter 5.5. Gaussberg: volcanology and petrology. Geol. Soc. Lond. Mem. https://doi.org/10.1144/M55-2018-85 (2021).",
+   "journal-title": "Geol. Soc. Lond. Mem."
+  },
+  {
+   "key": "348_CR137",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598-018-26530-1",
+   "volume": "8",
+   "author": "NR Daczko",
+   "year": "2018",
+   "unstructured": "Daczko, N. R., Halpin, J. A., Fitzsimons, I. C. W. & Whittaker, J. M. A cryptic Gondwana-forming orogen located in Antarctica. Sci. Rep. 8, 8371 (2018).",
+   "journal-title": "Sci. Rep."
+  },
+  {
+   "key": "348_CR138",
+   "unstructured": "Ferraccioli, F. et al. Gaussberg rift — illusion or reality? In Antarctica: A Keystone in a Changing World – Online Proceedings of the 10th ISAES X (eds Cooper, A. K. et al.) USGS Open-File Report 2007-1047, 1996 (US Geological Survey and The National Academies, 2007)."
+  },
+  {
+   "key": "348_CR139",
+   "doi-asserted-by": "publisher",
+   "first-page": "137",
+   "DOI": "10.1016/j.gr.2017.08.002",
+   "volume": "51",
+   "author": "JA Halpin",
+   "year": "2017",
+   "unstructured": "Halpin, J. A., Daczko, N. R., Kobler, M. E. & Whittaker, J. M. Strike-slip tectonics during the Neoproterozoic–Cambrian assembly of East Gondwana: evidence from a newly discovered microcontinent in the Indian Ocean (Batavia Knoll). Gondwana Res. 51, 137–148 (2017).",
+   "journal-title": "Gondwana Res."
+  },
+  {
+   "key": "348_CR140",
+   "doi-asserted-by": "publisher",
+   "first-page": "10728",
+   "DOI": "10.1002/2016GL071063",
+   "volume": "43",
+   "author": "A Maritati",
+   "year": "2016",
+   "unstructured": "Maritati, A. et al. The tectonic development and erosion of the Knox Subglacial Sedimentary Basin, East Antarctica. Geophys. Res. Lett. 43, 10728–10737 (2016).",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "348_CR141",
+   "doi-asserted-by": "publisher",
+   "first-page": "e2020TC006180",
+   "DOI": "10.1029/2020TC006180",
+   "volume": "39",
+   "author": "A Maritati",
+   "year": "2020",
+   "unstructured": "Maritati, A., Danisik, M., Halpin, J. A., Whittaker, J. M. & Aitken, A. R. A. Pangea rifting shaped the East Antarctic landscape. Tectonics 39, e2020TC006180 (2020).",
+   "journal-title": "Tectonics"
+  },
+  {
+   "key": "348_CR142",
+   "doi-asserted-by": "publisher",
+   "first-page": "136",
+   "DOI": "10.1016/j.gr.2014.10.019",
+   "volume": "29",
+   "author": "A Aitken",
+   "year": "2016",
+   "unstructured": "Aitken, A. et al. The Australo-Antarctic Columbia to Gondwana transition. Gondwana Res. 29, 136–152 (2016).",
+   "journal-title": "Gondwana Res."
+  },
+  {
+   "key": "348_CR143",
+   "doi-asserted-by": "publisher",
+   "first-page": "41",
+   "DOI": "10.1016/j.earscirev.2018.10.011",
+   "volume": "188",
+   "author": "SE Williams",
+   "year": "2019",
+   "unstructured": "Williams, S. E., Whittaker, J. M., Halpin, J. A. & Muller, R. D. Australian-Antarctic breakup and seafloor spreading: balancing geological and geophysical constraints. Earth Sci. Rev. 188, 41–58 (2019).",
+   "journal-title": "Earth Sci. Rev."
+  },
+  {
+   "key": "348_CR144",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598-021-84834-1",
+   "volume": "11",
+   "author": "J Ebbing",
+   "year": "2021",
+   "unstructured": "Ebbing, J., Dilixiati, Y., Haas, P., Ferraccioli, F. & Scheiber-Enslin, S. East Antarctica magnetically linked to its ancient neighbours in Gondwana. Sci. Rep. 11, 5513 (2021).",
+   "journal-title": "Sci. Rep."
+  },
+  {
+   "key": "348_CR145",
+   "doi-asserted-by": "publisher",
+   "first-page": "5352",
+   "DOI": "10.1029/2019GC008418",
+   "volume": "20",
+   "author": "A Pollett",
+   "year": "2019",
+   "unstructured": "Pollett, A. et al. Heat flow in Southern Australia and connections with East Antarctica. Geochem. Geophys. Geosyst. 20, 5352–5370 (2019).",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "key": "348_CR146",
+   "doi-asserted-by": "publisher",
+   "first-page": "109346",
+   "DOI": "10.1016/j.palaeo.2019.109346",
+   "volume": "535",
+   "author": "GJ Paxman",
+   "year": "2019",
+   "unstructured": "Paxman, G. J. et al. Reconstructions of Antarctic topography since the Eocene–Oligocene boundary. Palaeogeogr. Palaeoclimatol. Palaeoecol. 535, 109346 (2019).",
+   "journal-title": "Palaeogeogr. Palaeoclimatol. Palaeoecol."
+  },
+  {
+   "key": "348_CR147",
+   "doi-asserted-by": "publisher",
+   "first-page": "7699",
+   "DOI": "10.1029/2018JB016683",
+   "volume": "124",
+   "author": "I Sauermilch",
+   "year": "2019",
+   "unstructured": "Sauermilch, I., Whittaker, J. M., Bijl, P. K., Totterdell, J. M. & Jokat, W. Tectonic, oceanographic, and climatic controls on the Cretaceous-Cenozoic sedimentary record of the Australian-Antarctic Basin. J. Geophys. Res. Solid Earth 124, 7699–7724 (2019).",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "key": "348_CR148",
+   "doi-asserted-by": "publisher",
+   "first-page": "316",
+   "DOI": "10.1016/j.precamres.2008.09.009",
+   "volume": "167",
+   "author": "G Duclaux",
+   "year": "2008",
+   "unstructured": "Duclaux, G. et al. Superimposed Neoarchaean and Paleoproterozoic tectonics in the Terre Adélie Craton (East Antarctica): evidence from Th–U–Pb ages on monazite and 40Ar/39Ar ages. Precambrian Res. 167, 316–338 (2008).",
+   "journal-title": "Precambrian Res."
+  },
+  {
+   "key": "348_CR149",
+   "doi-asserted-by": "publisher",
+   "first-page": "1321",
+   "DOI": "10.1093/petrology/egm020",
+   "volume": "48",
+   "author": "JA Halpin",
+   "year": "2007",
+   "unstructured": "Halpin, J. A., White, R. W., Clarke, G. L. & Kelsey, D. E. The Proterozoic P–T–t evolution of the Kemp Land Coast, East Antarctica; constraints from Si-saturated and Si-undersaturated metapelites. J. Petrol. 48, 1321–1349 (2007).",
+   "journal-title": "J. Petrol."
+  },
+  {
+   "key": "348_CR150",
+   "doi-asserted-by": "publisher",
+   "first-page": "137",
+   "DOI": "10.1016/j.precamres.2015.06.003",
+   "volume": "267",
+   "author": "LJ Morrissey",
+   "year": "2015",
+   "unstructured": "Morrissey, L. J., Hand, M. & Kelsey, D. E. Multi-stage metamorphism in the Rayner–Eastern Ghats Terrane: P–T–t constraints from the northern Prince Charles Mountains, east Antarctica. Precambrian Res. 267, 137–163 (2015).",
+   "journal-title": "Precambrian Res."
+  },
+  {
+   "key": "348_CR151",
+   "doi-asserted-by": "publisher",
+   "first-page": "16",
+   "DOI": "10.1016/j.precamres.2017.05.013",
+   "volume": "298",
+   "author": "NM Tucker",
+   "year": "2017",
+   "unstructured": "Tucker, N. M. et al. Proterozoic reworking of Archean (Yilgarn) basement in the Bunger Hills, East Antarctica. Precambrian Res. 298, 16–38 (2017).",
+   "journal-title": "Precambrian Res."
+  },
+  {
+   "key": "348_CR152",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41467-018-07083-3",
+   "volume": "9",
+   "author": "GJ-MC Leysinger Vieli",
+   "year": "2018",
+   "unstructured": "Leysinger Vieli, G. J.-M. C., Martín, C., Hindmarsh, R. C. A. & Lüthi, M. P. Basal freeze-on generates complex ice-sheet stratigraphy. Nat. Commun. 9, 4669 (2018).",
+   "journal-title": "Nat. Commun."
+  },
+  {
+   "key": "348_CR153",
+   "doi-asserted-by": "publisher",
+   "first-page": "395",
+   "DOI": "10.1002/2015GC006117",
+   "volume": "17",
+   "author": "BT Gooch",
+   "year": "2016",
+   "unstructured": "Gooch, B. T., Young, D. A. & Blankenship, D. D. Potential groundwater and heterogeneous heat source contributions to ice sheet dynamics in critical submarine basins of East Antarctica. Geochem. Geophys. Geosyst. 17, 395–409 (2016).",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "key": "348_CR154",
+   "doi-asserted-by": "publisher",
+   "first-page": "655",
+   "DOI": "10.1016/j.epsl.2005.10.040",
+   "volume": "241",
+   "author": "M Llubes",
+   "year": "2006",
+   "unstructured": "Llubes, M., Lanseau, C. & Remy, F. Relations between basal condition, subglacial hydrological networks and geothermal flux in Antarctica. Earth Planet. Sci. Lett. 241, 655–662 (2006).",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "348_CR155",
+   "doi-asserted-by": "publisher",
+   "first-page": "5",
+   "DOI": "10.5194/se-1-5-2010",
+   "volume": "1",
+   "author": "JH Davies",
+   "year": "2010",
+   "unstructured": "Davies, J. H. & Davies, D. R. Earth’s surface heat flux. Solid. Earth 1, 5–24 (2010).",
+   "journal-title": "Solid. Earth"
+  },
+  {
+   "key": "348_CR156",
+   "doi-asserted-by": "publisher",
+   "first-page": "6443",
+   "DOI": "10.1080/01431160802168210",
+   "volume": "29",
+   "author": "R Wright",
+   "year": "2008",
+   "unstructured": "Wright, R. & Pilger, E. Radiant flux from Earth’s subaerially erupting volcanoes. Int. J. Remote Sens. 29, 6443–6466 (2008).",
+   "journal-title": "Int. J. Remote Sens."
+  },
+  {
+   "key": "348_CR157",
+   "doi-asserted-by": "publisher",
+   "first-page": "2557",
+   "DOI": "10.1029/2003JB002565",
+   "volume": "108",
+   "author": "S Hurwitz",
+   "year": "2003",
+   "unstructured": "Hurwitz, S. Groundwater flow, heat transport, and water table position within volcanic edifices: implications for volcanic processes in the Cascade Range. J. Geophys. Res. 108, 2557 (2003).",
+   "journal-title": "J. Geophys. Res."
+  },
+  {
+   "key": "348_CR158",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2022GL098539",
+   "author": "FS McCormack",
+   "year": "2022",
+   "unstructured": "McCormack, F. S. et al. Fine-scale geothermal heat flow in Antarctica can increase simulated subglacial melt estimates. Geophys. Res. Lett. https://doi.org/10.1029/2022GL098539 (2022).",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "348_CR159",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2007GL030046",
+   "author": "CJ van der Veen",
+   "year": "2007",
+   "unstructured": "van der Veen, C. J., Leftwich, T., von Frese, R., Csatho, B. M. & Li, J. Subglacial topography and geothermal heat flux: Potential interactions with drainage of the Greenland ice sheet. Geophys. Res. Lett. https://doi.org/10.1029/2007GL030046 (2007).",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "348_CR160",
+   "doi-asserted-by": "publisher",
+   "first-page": "e2020JF005598",
+   "DOI": "10.1029/2020JF005598",
+   "volume": "126",
+   "author": "W Colgan",
+   "year": "2021",
+   "unstructured": "Colgan, W. et al. Topographic correction of geothermal heat flux in Greenland and Antarctica. J. Geophys. Res. Earth Surf. 126, e2020JF005598 (2021).",
+   "journal-title": "J. Geophys. Res. Earth Surf."
+  },
+  {
+   "key": "348_CR161",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41467-018-04583-0",
+   "volume": "9",
+   "author": "F Colleoni",
+   "year": "2018",
+   "unstructured": "Colleoni, F. et al. Spatio-temporal variability of processes across Antarctic ice-bed–ocean interfaces. Nat. Commun. 9, 2289 (2018).",
+   "journal-title": "Nat. Commun."
+  },
+  {
+   "key": "348_CR162",
+   "doi-asserted-by": "publisher",
+   "first-page": "591",
+   "DOI": "10.1038/nature17145",
+   "volume": "531",
+   "author": "RM DeConto",
+   "year": "2016",
+   "unstructured": "DeConto, R. M. & Pollard, D. Contribution of Antarctica to past and future sea-level rise. Nature 531, 591–597 (2016).",
+   "journal-title": "Nature"
+  },
+  {
+   "key": "348_CR163",
+   "doi-asserted-by": "publisher",
+   "first-page": "1427",
+   "DOI": "10.5194/tc-9-1427-2015",
+   "volume": "9",
+   "author": "JJ Fürst",
+   "year": "2015",
+   "unstructured": "Fürst, J. J. et al. Assimilation of Antarctic velocity observations provides evidence for uncharted pinning points. Cryosphere 9, 1427–1443 (2015).",
+   "journal-title": "Cryosphere"
+  },
+  {
+   "key": "348_CR164",
+   "doi-asserted-by": "publisher",
+   "first-page": "451",
+   "DOI": "10.1038/nclimate2226",
+   "volume": "4",
+   "author": "M Mengel",
+   "year": "2014",
+   "unstructured": "Mengel, M. & Levermann, A. Ice plug prevents irreversible discharge from East Antarctica. Nat. Clim. Change 4, 451–455 (2014).",
+   "journal-title": "Nat. Clim. Change"
+  },
+  {
+   "key": "348_CR165",
+   "doi-asserted-by": "publisher",
+   "first-page": "225",
+   "DOI": "10.1038/nature25026",
+   "volume": "552",
+   "author": "SPS Gulick",
+   "year": "2017",
+   "unstructured": "Gulick, S. P. S. et al. Initiation and long-term instability of the East Antarctic Ice Sheet. Nature 552, 225–229 (2017).",
+   "journal-title": "Nature"
+  },
+  {
+   "key": "348_CR166",
+   "doi-asserted-by": "publisher",
+   "first-page": "14887",
+   "DOI": "10.1073/pnas.1904822116",
+   "volume": "116",
+   "author": "AA Robel",
+   "year": "2019",
+   "unstructured": "Robel, A. A., Seroussi, H. & Roe, G. H. Marine ice sheet instability amplifies and skews uncertainty in projections of future sea-level rise. Proc. Natl Acad. Sci. USA 116, 14887–14892 (2019).",
+   "journal-title": "Proc. Natl Acad. Sci. USA"
+  },
+  {
+   "key": "348_CR167",
+   "doi-asserted-by": "publisher",
+   "first-page": "2773",
+   "DOI": "10.5194/tc-12-2773-2018",
+   "volume": "12",
+   "author": "B Van Liefferinge",
+   "year": "2018",
+   "unstructured": "Van Liefferinge, B. et al. Promising oldest ice sites in East Antarctica based on thermodynamical modelling. Cryosphere 12, 2773–2787 (2018).",
+   "journal-title": "Cryosphere"
+  },
+  {
+   "key": "348_CR168",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2012JF002371",
+   "author": "E Larour",
+   "year": "2012",
+   "unstructured": "Larour, E., Morlighem, M., Seroussi, H., Schiermeier, J. & Rignot, E. Ice flow sensitivity to geothermal heat flux of Pine Island Glacier, Antarctica. J. Geophys. Res. Earth Surf. https://doi.org/10.1029/2012JF002371 (2012).",
+   "journal-title": "J. Geophys. Res. Earth Surf."
+  },
+  {
+   "key": "348_CR169",
+   "doi-asserted-by": "publisher",
+   "first-page": "3033",
+   "DOI": "10.5194/tc-14-3033-2020",
+   "volume": "14",
+   "author": "H Seroussi",
+   "year": "2020",
+   "unstructured": "Seroussi, H. et al. ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century. Cryosphere 14, 3033–3070 (2020).",
+   "journal-title": "Cryosphere"
+  },
+  {
+   "key": "348_CR170",
+   "doi-asserted-by": "publisher",
+   "first-page": "3342",
+   "DOI": "10.1002/2016GL068436",
+   "volume": "43",
+   "author": "ML Pittard",
+   "year": "2016",
+   "unstructured": "Pittard, M. L., Galton-Fenzi, B. K., Roberts, J. L. & Watson, C. S. Organization of ice flow by localized regions of elevated geothermal heat flux. Geophys. Res. Lett. 43, 3342–3350 (2016).",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "348_CR171",
+   "doi-asserted-by": "publisher",
+   "first-page": "e2019JF005252",
+   "DOI": "10.1029/2019JF005252",
+   "volume": "125",
+   "author": "S Smith-Johnsen",
+   "year": "2020",
+   "unstructured": "Smith-Johnsen, S., Schlegel, N.-J., De Fleurian, B. & Nisancioglu, K. H. Sensitivity of the Northeast Greenland Ice Stream to geothermal heat. J. Geophys. Res. Earth Surf. 125, e2019JF005252 (2020).",
+   "journal-title": "J. Geophys. Res. Earth Surf."
+  },
+  {
+   "key": "348_CR172",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2007JF000929",
+   "author": "JM Lemieux",
+   "year": "2008",
+   "unstructured": "Lemieux, J. M., Sudicky, E. A., Peltier, W. R. & Tarasov, L. Simulating the impact of glaciations on continental groundwater flow systems: 2. Model application to the Wisconsinian glaciation over the Canadian landscape. J. Geophys. Res. Earth Surf. https://doi.org/10.1029/2007JF000929 (2008).",
+   "journal-title": "J. Geophys. Res. Earth Surf."
+  },
+  {
+   "key": "348_CR173",
+   "doi-asserted-by": "publisher",
+   "first-page": "206",
+   "DOI": "10.1017/aog.2019.41",
+   "volume": "61",
+   "author": "CW Elsworth",
+   "year": "2020",
+   "unstructured": "Elsworth, C. W., Schroeder, D. M. & Siegfried, M. R. Interpreting englacial layer deformation in the presence of complex ice flow history with synthetic radargrams. Ann. Glaciol. 61, 206–213 (2020).",
+   "journal-title": "Ann. Glaciol."
+  },
+  {
+   "key": "348_CR174",
+   "first-page": "1",
+   "volume": "3",
+   "author": "SNP Guimarães",
+   "year": "2020",
+   "unstructured": "Guimarães, S. N. P., Vieira, F. P. & Hamza, V. M. Heat flow variations in the Antarctic Continent. Int. J. Terr. Heat. Flow. Appl. 3, 1–10 (2020).",
+   "journal-title": "Int. J. Terr. Heat. Flow. Appl."
+  },
+  {
+   "key": "348_CR175",
+   "unstructured": "Purucker, M. Antarctica Basal Heat Flux (University of Montana, accessed 1 October 2012); http://websrv.cs.umt.edu/isis/index.php/Antarctica_Basal_Heat_Flux."
+  },
+  {
+   "key": "348_CR176",
+   "doi-asserted-by": "publisher",
+   "first-page": "0",
+   "DOI": "10.3389/feart.2019.00274",
+   "volume": "7",
+   "author": "PE Morse",
+   "year": "2019",
+   "unstructured": "Morse, P. E., Reading, A. M. & Stål, T. Well-posed geoscientific visualization through interactive color mapping. Front. Earth Sci. 7, 0–17 (2019).",
+   "journal-title": "Front. Earth Sci."
+  },
+  {
+   "key": "348_CR177",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Crameri, F. & Shephard, G. E. Scientific colour maps, https://doi.org/10.5281/zenodo.3596401 (Zenodo, 2019).",
+   "DOI": "10.5281/zenodo.3596401"
+  },
+  {
+   "key": "348_CR178",
+   "doi-asserted-by": "publisher",
+   "first-page": "3",
+   "DOI": "10.1029/TC001i001p00003",
+   "volume": "1",
+   "author": "IWD Dalziel",
+   "year": "1982",
+   "unstructured": "Dalziel, I. W. D. & Elliot, D. H. West Antarctica: problem child of Gondwanaland. Tectonics 1, 3–19 (1982).",
+   "journal-title": "Tectonics"
+  },
+  {
+   "key": "348_CR179",
+   "doi-asserted-by": "crossref",
+   "unstructured": "Cottrell, E. in Volcanic Hazards, Risks and Disasters (eds. Shroder, J. F. & Papale, P.) 1–16 (Elsevier, 2015).",
+   "DOI": "10.1016/B978-0-12-396453-3.00001-0"
+  },
+  {
+   "key": "348_CR180",
+   "doi-asserted-by": "publisher",
+   "first-page": "1",
+   "DOI": "10.1029/2007JF000838",
+   "volume": "113",
+   "author": "JM Lemieux",
+   "year": "2008",
+   "unstructured": "Lemieux, J. M., Sudicky, E. A., Peltier, W. R. & Tarasov, L. Dynamics of groundwater recharge and seepage over the Canadian landscape during the Wisconsinian glaciation. J. Geophys. Res. Earth Surf. 113, 1–18 (2008).",
+   "journal-title": "J. Geophys. Res. Earth Surf."
+  }
+ ],
+ "updated-by": [
+  {
+   "DOI": "10.1038/s43017-022-00377-7",
+   "type": "correction",
+   "label": "Correction",
+   "source": "publisher",
+   "updated": {
+    "date-parts": [
+     [
+      2022,
+      11,
+      18
+     ]
+    ],
+    "date-time": "2022-11-18T00:00:00Z",
+    "timestamp": 1668729600000
+   }
+  }
+ ],
+ "container-title": "Nature Reviews Earth &amp; Environment",
+ "original-title": [],
+ "language": "en",
+ "link": [
+  {
+   "URL": "https://www.nature.com/articles/s43017-022-00348-y.pdf",
+   "content-type": "application/pdf",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://www.nature.com/articles/s43017-022-00348-y",
+   "content-type": "text/html",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://www.nature.com/articles/s43017-022-00348-y.pdf",
+   "content-type": "application/pdf",
+   "content-version": "vor",
+   "intended-application": "similarity-checking"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2022,
+    12,
+    7
+   ]
+  ],
+  "date-time": "2022-12-07T14:18:48Z",
+  "timestamp": 1670422728000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://www.nature.com/articles/s43017-022-00348-y"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2022,
+    10,
+    26
+   ]
+  ]
+ },
+ "references-count": 180,
+ "journal-issue": {
+  "issue": "12",
+  "published-online": {
+   "date-parts": [
+    [
+     2022,
+     12
+    ]
+   ]
+  }
+ },
+ "alternative-id": [
+  "348"
+ ],
+ "URL": "http://dx.doi.org/10.1038/s43017-022-00348-y",
+ "relation": {
+  "correction": [
+   {
+    "id-type": "doi",
+    "id": "10.1038/s43017-022-00377-7",
+    "asserted-by": "object"
+   }
+  ]
+ },
+ "ISSN": [
+  "2662-138X"
+ ],
+ "subject": [],
+ "container-title-short": "Nat Rev Earth Environ",
+ "published": {
+  "date-parts": [
+   [
+    2022,
+    10,
+    26
+   ]
+  ]
+ },
+ "assertion": [
+  {
+   "value": "26 August 2022",
+   "order": 1,
+   "name": "accepted",
+   "label": "Accepted",
+   "group": {
+    "name": "ArticleHistory",
+    "label": "Article History"
+   }
+  },
+  {
+   "value": "26 October 2022",
+   "order": 2,
+   "name": "first_online",
+   "label": "First Online",
+   "group": {
+    "name": "ArticleHistory",
+    "label": "Article History"
+   }
+  },
+  {
+   "value": "18 November 2022",
+   "order": 3,
+   "name": "change_date",
+   "label": "Change Date",
+   "group": {
+    "name": "ArticleHistory",
+    "label": "Article History"
+   }
+  },
+  {
+   "value": "Correction",
+   "order": 4,
+   "name": "change_type",
+   "label": "Change Type",
+   "group": {
+    "name": "ArticleHistory",
+    "label": "Article History"
+   }
+  },
+  {
+   "value": "A Correction to this paper has been published:",
+   "order": 5,
+   "name": "change_details",
+   "label": "Change Details",
+   "group": {
+    "name": "ArticleHistory",
+    "label": "Article History"
+   }
+  },
+  {
+   "value": "https://doi.org/10.1038/s43017-022-00377-7",
+   "URL": "https://doi.org/10.1038/s43017-022-00377-7",
+   "order": 6,
+   "name": "change_details",
+   "label": "Change Details",
+   "group": {
+    "name": "ArticleHistory",
+    "label": "Article History"
+   }
+  },
+  {
+   "value": "The authors declare no competing interests.",
+   "order": 1,
+   "name": "Ethics",
+   "group": {
+    "name": "EthicsHeading",
+    "label": "Competing interests"
+   }
+  }
+ ]
+}

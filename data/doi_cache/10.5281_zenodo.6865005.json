@@ -1,0 +1,26 @@
+{
+ "type": "software",
+ "id": "https://doi.org/10.5281/zenodo.6865005",
+ "author": [
+  {
+   "family": "Stål",
+   "given": "Tobias"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2022,
+    7,
+    20
+   ]
+  ]
+ },
+ "abstract": "Fast code to calculate Ripley's K and L functions for a sphere (e.g. a planet)",
+ "DOI": "10.5281/ZENODO.6865005",
+ "publisher": "Zenodo",
+ "title": "TobbeTripitaka/ripley:",
+ "URL": "https://zenodo.org/record/6865005",
+ "copyright": "Open Access",
+ "version": "0.0.1c"
+}

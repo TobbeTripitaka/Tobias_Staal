@@ -1,0 +1,1737 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2026,
+    7,
+    17
+   ]
+  ],
+  "date-time": "2026-07-17T17:16:44Z",
+  "timestamp": 1784308604130,
+  "version": "3.55.0"
+ },
+ "reference-count": 129,
+ "publisher": "The Royal Society",
+ "issue": "2319",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      23
+     ]
+    ],
+    "date-time": "2026-04-23T00:00:00Z",
+    "timestamp": 1776902400000
+   },
+   "content-version": "vor",
+   "delay-in-days": 0,
+   "URL": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "start": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      23
+     ]
+    ],
+    "date-time": "2026-04-23T00:00:00Z",
+    "timestamp": 1776902400000
+   },
+   "content-version": "vor",
+   "delay-in-days": 0,
+   "URL": "http://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "funder": [
+  {
+   "name": "Australian Research Council Discovery Early Career Award"
+  },
+  {
+   "name": "Australian Research Council Special Research Initiative Australian Centre for Excellence in Antarctic Science"
+  },
+  {
+   "name": "Australian Antarctic Science"
+  },
+  {
+   "name": "Australian Research Council Special Research Initiative Securing Antarctica's Environmental Future"
+  },
+  {
+   "DOI": "10.13039/501100000038",
+   "name": "Natural Sciences and Engineering Research Council of Canada",
+   "doi-asserted-by": "publisher",
+   "id": [
+    {
+     "id": "10.13039/501100000038",
+     "id-type": "DOI",
+     "asserted-by": "publisher"
+    }
+   ]
+  },
+  {
+   "name": "National Science Foundation, Kavli Institute for Theoretical Physics"
+  },
+  {
+   "DOI": "10.13039/501100001804",
+   "name": "Canada Research Chairs Program",
+   "doi-asserted-by": "crossref",
+   "id": [
+    {
+     "id": "10.13039/501100001804",
+     "id-type": "DOI",
+     "asserted-by": "crossref"
+    }
+   ]
+  },
+  {
+   "name": "Australian Research Council Discovery Project"
+  }
+ ],
+ "content-domain": {
+  "domain": [],
+  "crossmark-restriction": false
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2026,
+    4,
+    23
+   ]
+  ]
+ },
+ "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Bed topography is a key control on the evolution of the Antarctic Ice Sheet, influencing ice flow, grounding line retreat and the rate and timing of ice mass loss. To assess the sensitivity of ice sheet evolution to bed variability in ice sheet models, synthetic gridded bed topography datasets are often used. Here, we review methods commonly used to generate synthetic beds, their associated uncertainties and the influence of the approach on the characteristics of the resulting bed. Using the Aurora Subglacial Basin in East Antarctica as a case study, we evaluate the impact of five synthetic bed generation methods on projected ice mass loss under a high emission scenario. Sea-level rise estimates vary by up to 11% (SSP5-8.5 forcing scenario) and 32% (RCP2.6) at 2300 CE when basal friction coefficients from the friction law are optimized for each bed, and by up to 23% (SSP5-8.5) and 51% (RCP2.6) at 2300 CE when using non-optimized coefficients. Our results highlight the importance of relatively small bed variations on the timing and extent of grounding line retreat and the need for process-informed representation of the basal friction in decadal- to centennial-scale sea-level projections.</jats:p>\n                  <jats:p>This article is part of the Theo Murphy meeting issue ‘Next generation ice-sheet bed measurements’.</jats:p>",
+ "DOI": "10.1098/rsta.2024.0537",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2026,
+    4,
+    23
+   ]
+  ],
+  "date-time": "2026-04-23T08:07:11Z",
+  "timestamp": 1776931631000
+ },
+ "source": "Crossref",
+ "is-referenced-by-count": 2,
+ "title": "Synthetic bed topographies for Antarctica and their utility in ice sheet modelling",
+ "prefix": "10.1098",
+ "volume": "384",
+ "author": [
+  {
+   "ORCID": "https://orcid.org/0000-0002-2324-2120",
+   "authenticated-orcid": false,
+   "given": "Felicity S.",
+   "family": "McCormack",
+   "sequence": "first",
+   "affiliation": [
+    {
+     "name": "Monash University 1 , , ,",
+     "place": [
+      "Clayton, Kulin Nations, Victoria, Australia"
+     ],
+     "department": [
+      "Securing Antarctica's Environmental Future, School of Earth, Atmosphere & Environment"
+     ]
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "University of Tasmania 2 , , ,",
+     "place": [
+      "Hobart, Tasmania, Australia"
+     ],
+     "department": [
+      "School of Natural Sciences"
+     ]
+    },
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science (ACEAS) 3 , ,",
+     "place": [
+      "Hobart, Australia"
+     ]
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0009-0003-3298-7719",
+   "authenticated-orcid": false,
+   "given": "Niya",
+   "family": "Shao",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "University of Florida 4 , , ,",
+     "place": [
+      "Gainesville, FL, USA"
+     ],
+     "department": [
+      "Department of Geological Sciences"
+     ]
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Emma",
+   "family": "MacKie",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "University of Florida 5 , , ,",
+     "place": [
+      "Gainesville, FL, USA"
+     ]
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Ana",
+   "family": "Fabela Hinojosa",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Monash University 1 , , ,",
+     "place": [
+      "Clayton, Kulin Nations, Victoria, Australia"
+     ],
+     "department": [
+      "Securing Antarctica's Environmental Future, School of Earth, Atmosphere & Environment"
+     ]
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Mareen",
+   "family": "Lösing",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science (ACEAS) 3 , ,",
+     "place": [
+      "Hobart, Australia"
+     ]
+    },
+    {
+     "name": "University of Western Australia 6 , , ,",
+     "place": [
+      "Perth, Western Australia, Australia"
+     ],
+     "department": [
+      "School of Earth and Oceans"
+     ]
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Jason",
+   "family": "Roberts",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Australian Antarctic Division 7 , , ,",
+     "place": [
+      "Kingston, Tasmania, Australia"
+     ]
+    },
+    {
+     "name": "University of Tasmania 8 , , ,",
+     "place": [
+      "Hobart, Tasmania, Australia"
+     ],
+     "department": [
+      "Australian Antarctic Program Partnership, Institute for Marine and Antarctic Studies"
+     ]
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Shivani",
+   "family": "Ehrenfeucht",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Potsdam Institute for Climate Impact Research 9 , , ,",
+     "place": [
+      "Potsdam, Brandenburg, Germany"
+     ]
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Christine",
+   "family": "Dow",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "University of Waterloo 10 , , ,",
+     "place": [
+      "Waterloo, Ontario, Canada"
+     ],
+     "department": [
+      "Geography and Environmental Management"
+     ]
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  }
+ ],
+ "member": "175",
+ "published-online": {
+  "date-parts": [
+   [
+    2026,
+    4,
+    23
+   ]
+  ]
+ },
+ "reference": [
+  {
+   "key": "2026051410225159300_R1",
+   "doi-asserted-by": "crossref",
+   "first-page": "761",
+   "DOI": "10.5194/tc-16-761-2022",
+   "article-title": "Derivation of bedrock topography measurement requirements for the reduction of uncertainty in ice-sheet model projections of Thwaites Glacier",
+   "volume": "16",
+   "author": "Castleman",
+   "year": "2022",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R2",
+   "doi-asserted-by": "crossref",
+   "first-page": "4355",
+   "DOI": "10.5194/tc-19-4355-2025",
+   "article-title": "Reinforced ridges in Thwaites Glacier yield insights into resolution requirements for coupled ice sheet and solid Earth models",
+   "volume": "19",
+   "author": "Houriez",
+   "year": "2025",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R3",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2020GL091790",
+   "article-title": "The impact of variable ocean temperatures on Totten Glacier stability and discharge",
+   "volume": "48",
+   "author": "McCormack",
+   "year": "2021",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "2026051410225159300_R4",
+   "doi-asserted-by": "crossref",
+   "first-page": "1177",
+   "DOI": "10.1017/jog.2022.31",
+   "article-title": "Ambiguous stability of glaciers at bed peaks",
+   "volume": "68",
+   "author": "Robel",
+   "year": "2022",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "key": "2026051410225159300_R5",
+   "first-page": "175",
+   "volume-title": "Geological society",
+   "author": "Roberts",
+   "year": "2018"
+  },
+  {
+   "key": "2026051410225159300_R6",
+   "doi-asserted-by": "crossref",
+   "first-page": "27",
+   "DOI": "10.1017/S0022112006003570",
+   "article-title": "Marine ice-sheet dynamics. Part 1. The case of rapid sliding",
+   "volume": "573",
+   "author": "Schoof",
+   "year": "2007",
+   "journal-title": "J. Fluid Mech."
+  },
+  {
+   "key": "2026051410225159300_R7",
+   "doi-asserted-by": "crossref",
+   "first-page": "62",
+   "DOI": "10.1017/jfm.2012.43",
+   "article-title": "Marine ice sheet stability",
+   "volume": "698",
+   "author": "Schoof",
+   "year": "2012",
+   "journal-title": "J. Fluid Mech."
+  },
+  {
+   "key": "2026051410225159300_R8",
+   "doi-asserted-by": "crossref",
+   "first-page": "124",
+   "DOI": "10.1017/jog.2021.79",
+   "article-title": "Bed topography and marine ice-sheet stability",
+   "volume": "68",
+   "author": "Sergienko",
+   "year": "2022",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "key": "2026051410225159300_R9",
+   "doi-asserted-by": "crossref",
+   "first-page": "3",
+   "DOI": "10.3189/S0022143000023327",
+   "article-title": "Stability of the junction of an ice sheet and an ice shelf",
+   "volume": "13",
+   "author": "Weertman",
+   "year": "1974",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "key": "2026051410225159300_R10",
+   "doi-asserted-by": "crossref",
+   "first-page": "724",
+   "DOI": "10.1016/j.earscirev.2015.09.004",
+   "article-title": "Antarctic ice rises and rumples: their properties and significance for ice-sheet dynamics and evolution",
+   "volume": "150",
+   "author": "Matsuoka",
+   "year": "2015",
+   "journal-title": "Earth Sci. Rev."
+  },
+  {
+   "key": "2026051410225159300_R11",
+   "doi-asserted-by": "crossref",
+   "first-page": "13903",
+   "DOI": "10.1029/2019GL085027",
+   "article-title": "Instantaneous Antarctic ice sheet mass loss driven by thinning ice shelves",
+   "volume": "46",
+   "author": "Gudmundsson",
+   "year": "2019",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "2026051410225159300_R12",
+   "doi-asserted-by": "crossref",
+   "first-page": "53",
+   "DOI": "10.1038/s41558-017-0020-x",
+   "article-title": "The far reach of ice-shelf thinning in Antarctica",
+   "volume": "8",
+   "author": "Reese",
+   "year": "2018",
+   "journal-title": "Nat. Clim. Chang."
+  },
+  {
+   "key": "2026051410225159300_R13",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1126/sciadv.abq5180",
+   "article-title": "Complex motion of Greenland Ice Sheet outlet glaciers with basal temperate ice",
+   "volume": "9",
+   "author": "Law",
+   "year": "2023",
+   "journal-title": "Sci. Adv."
+  },
+  {
+   "key": "2026051410225159300_R14",
+   "article-title": "What is glacier sliding?",
+   "author": "Law",
+   "year": "2025"
+  },
+  {
+   "key": "2026051410225159300_R15",
+   "article-title": "Modeling the deformation regime of Thwaites Glacier, West Antarctica, using a simple flow relation for ice anisotropy (ESTAR)",
+   "volume": "127",
+   "author": "McCormack",
+   "year": "2022",
+   "journal-title": "J. Geophys. Res."
+  },
+  {
+   "key": "2026051410225159300_R16",
+   "doi-asserted-by": "crossref",
+   "first-page": "451",
+   "DOI": "10.1016/j.epsl.2010.04.025",
+   "article-title": "Antarctic subglacial conditions inferred from a hybrid ice sheet/ice stream model",
+   "volume": "295",
+   "author": "Pattyn",
+   "year": "2010",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "2026051410225159300_R17",
+   "doi-asserted-by": "crossref",
+   "first-page": "1",
+   "DOI": "10.1017/jog.2025.10087",
+   "article-title": "Estimates of basal and englacial thermal conditions of the Antarctic ice sheet",
+   "volume": "71",
+   "author": "Raspoet",
+   "year": "2025",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "key": "2026051410225159300_R18",
+   "doi-asserted-by": "crossref",
+   "first-page": "115961",
+   "DOI": "10.1016/j.epsl.2019.115961",
+   "article-title": "Totten Glacier subglacial hydrology determined from geophysics and modeling",
+   "volume": "531",
+   "author": "Dow",
+   "year": "2020",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "2026051410225159300_R19",
+   "doi-asserted-by": "crossref",
+   "first-page": "892",
+   "DOI": "10.1038/s41561-022-01059-1",
+   "article-title": "Antarctic basal environment shaped by high-pressure flow through a subglacial river system",
+   "volume": "15",
+   "author": "Dow",
+   "year": "2022",
+   "journal-title": "Nat. Geosci."
+  },
+  {
+   "key": "2026051410225159300_R20",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2024GL111386",
+   "article-title": "Antarctic wide subglacial hydrology modeling",
+   "volume": "52",
+   "author": "Ehrenfeucht",
+   "year": "2025",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "2026051410225159300_R21",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1126/sciadv.adi9014",
+   "article-title": "Subglacial discharge accelerates future retreat of Denman and Scott Glaciers, East Antarctica",
+   "volume": "9",
+   "author": "Pelle",
+   "year": "2023",
+   "journal-title": "Sci. Adv."
+  },
+  {
+   "key": "2026051410225159300_R22",
+   "article-title": "Subglacial discharge accelerates dynamic retreat of aurora subglacial basin outlet glaciers, East Antarctica, over the 21st century",
+   "volume": "129",
+   "author": "Pelle",
+   "year": "2024",
+   "journal-title": "J. Geophys. Res."
+  },
+  {
+   "key": "2026051410225159300_R23",
+   "doi-asserted-by": "crossref",
+   "first-page": "294",
+   "DOI": "10.1038/ngeo2388",
+   "article-title": "Ocean access to a cavity beneath Totten Glacier in East Antarctica",
+   "volume": "8",
+   "author": "Greenbaum",
+   "year": "2015",
+   "journal-title": "Nat. Geosci."
+  },
+  {
+   "key": "2026051410225159300_R24",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2020JC016370",
+   "article-title": "Bathymetric influences on Antarctic ice-shelf melt rates",
+   "volume": "125",
+   "author": "Goldberg",
+   "year": "2020",
+   "journal-title": "J. Geophys. Res."
+  },
+  {
+   "key": "2026051410225159300_R25",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2022JC019460",
+   "article-title": "The influence of bathymetry over heat transport onto the amundsen sea continental shelf",
+   "volume": "128",
+   "author": "Haigh",
+   "year": "2023",
+   "journal-title": "J. Geophys. Res."
+  },
+  {
+   "key": "2026051410225159300_R26",
+   "article-title": "Topographic correction of geothermal heat flux in Greenland and Antarctica",
+   "volume": "126",
+   "author": "Colgan",
+   "year": "2021",
+   "journal-title": "J. Geophys. Res."
+  },
+  {
+   "key": "2026051410225159300_R27",
+   "doi-asserted-by": "crossref",
+   "first-page": "875",
+   "DOI": "10.1017/jog.2021.38",
+   "article-title": "Thermal refraction: implications for subglacial heat flux",
+   "volume": "67",
+   "author": "Willcocks",
+   "year": "2021",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "key": "2026051410225159300_R28",
+   "doi-asserted-by": "crossref",
+   "first-page": "2695",
+   "DOI": "10.5194/essd-15-2695-2023",
+   "article-title": "Antarctic bedmap data: findable, accessible, interoperable, and reusable (FAIR) sharing of 60 years of ice bed, surface, and thickness data",
+   "volume": "15",
+   "author": "Frémand",
+   "year": "2023",
+   "journal-title": "Earth Syst. Sci. Data"
+  },
+  {
+   "key": "2026051410225159300_R29",
+   "doi-asserted-by": "crossref",
+   "first-page": "116543",
+   "DOI": "10.1016/j.epsl.2020.116543",
+   "article-title": "Interpretation of topography and bed properties beneath Thwaites Glacier, West Antarctica using seismic reflection methods",
+   "volume": "550",
+   "author": "Clyne",
+   "year": "2020",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "2026051410225159300_R30",
+   "doi-asserted-by": "crossref",
+   "first-page": "2967",
+   "DOI": "10.5194/tc-16-2967-2022",
+   "article-title": "High-resolution subglacial topography around Dome Fuji, Antarctica, based on ground-based radar surveys over 30 years",
+   "volume": "16",
+   "author": "Tsutaki",
+   "year": "2022",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R31",
+   "article-title": "Towards an improved understanding of the Antarctic coastal zone and its contribution to future global sea level",
+   "author": "Matsuoka",
+   "year": "2025",
+   "journal-title": "ESS Open Archive"
+  },
+  {
+   "key": "2026051410225159300_R32",
+   "first-page": "1",
+   "article-title": "Sensitivity analysis of Pine Island Glacier ice flow using ISSM and DAKOTA",
+   "volume": "117",
+   "author": "Larour",
+   "year": "2012",
+   "journal-title": "J. Geophys. Res."
+  },
+  {
+   "key": "2026051410225159300_R33",
+   "doi-asserted-by": "crossref",
+   "first-page": "3511",
+   "DOI": "10.5194/tc-12-3511-2018",
+   "article-title": "Exploration of Antarctic Ice Sheet 100-year contribution to sea level rise and associated model uncertainties using the ISSM framework",
+   "volume": "12",
+   "author": "Schlegel",
+   "year": "2018",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R34",
+   "doi-asserted-by": "crossref",
+   "first-page": "1",
+   "DOI": "10.1029/2011GL047338",
+   "article-title": "Ice flux divergence anomalies on 79north Glacier, Greenland",
+   "volume": "38",
+   "author": "Seroussi",
+   "year": "2011",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "2026051410225159300_R35",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1038/s41597-022-01366-7",
+   "article-title": "The international bathymetric chart of the Southern Ocean version 2",
+   "volume": "9",
+   "author": "Dorschel",
+   "year": "2022",
+   "journal-title": "Sci. Data"
+  },
+  {
+   "key": "2026051410225159300_R36",
+   "doi-asserted-by": "crossref",
+   "first-page": "3355",
+   "DOI": "10.5194/tc-19-3355-2025",
+   "article-title": "Gravity-derived Antarctic bathymetry using the Tomofast-x open-source code: a case study of Vincennes Bay",
+   "volume": "19",
+   "author": "Bird",
+   "year": "2025",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R37",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1038/s41598-024-81599-1",
+   "article-title": "Bathymetry of the Antarctic continental shelf and ice shelf cavities from circumpolar gravity anomalies and other data",
+   "volume": "15",
+   "author": "Charrassin",
+   "year": "2025",
+   "journal-title": "Sci. Rep."
+  },
+  {
+   "key": "2026051410225159300_R38",
+   "doi-asserted-by": "crossref",
+   "first-page": "600",
+   "DOI": "10.1002/2015GL067439",
+   "article-title": "New Antarctic gravity anomaly grid for enhanced geodetic and geophysical studies in Antarctica",
+   "volume": "43",
+   "author": "Scheinert",
+   "year": "2016",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "2026051410225159300_R39",
+   "unstructured": "Scheinert\n              M\n            , ZingerleP, SchallerT, PailR, WillbergM. 2021Towards an updated, enhanced regional gravity field solution for Antarctica. InvEGU21, the 23rd EGU General Assembly, held online 19–30 April, ID, EGU21-9873EGU General Assembly Conference Abstracts. (doi:10.5194/egusphere-egu21-9873)"
+  },
+  {
+   "key": "2026051410225159300_R40",
+   "doi-asserted-by": "crossref",
+   "unstructured": "MacKie\n              EJ\n            , SchroederDM. 2020Geostatistically simulating subglacial topography with synthetic training data. InIGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium, Waikoloa, HI, pp. 2991–2994. IEEE. (doi:10.1109/IGARSS39084.2020.9324563). https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=9323073.",
+   "DOI": "10.1109/IGARSS39084.2020.9324563"
+  },
+  {
+   "key": "2026051410225159300_R41",
+   "doi-asserted-by": "crossref",
+   "first-page": "3765",
+   "DOI": "10.5194/gmd-16-3765-2023",
+   "article-title": "GStatSim V1.0: a python package for geostatistical interpolation and conditional simulation",
+   "volume": "16",
+   "author": "MacKie",
+   "year": "2023",
+   "journal-title": "Geosci. Model Dev."
+  },
+  {
+   "key": "2026051410225159300_R42",
+   "doi-asserted-by": "crossref",
+   "first-page": "11335",
+   "DOI": "10.1029/2000JB900449",
+   "article-title": "BEDMAP: a new ice thickness and subglacial topographic model of Antarctica",
+   "volume": "106",
+   "author": "Lythe",
+   "year": "2001",
+   "journal-title": "J. Geophys. Res."
+  },
+  {
+   "key": "2026051410225159300_R43",
+   "doi-asserted-by": "crossref",
+   "first-page": "375",
+   "DOI": "10.5194/tc-7-375-2013",
+   "article-title": "Bedmap2: improved ice bed, surface and thickness datasets for Antarctica",
+   "volume": "7",
+   "author": "Fretwell",
+   "year": "2013",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R44",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1038/s41597-025-04672-y",
+   "article-title": "Bedmap3 updated ice bed, surface and thickness gridded datasets for Antarctica",
+   "volume": "12",
+   "author": "Pritchard",
+   "year": "2025",
+   "journal-title": "Sci. Data"
+  },
+  {
+   "key": "2026051410225159300_R45",
+   "doi-asserted-by": "crossref",
+   "first-page": "211",
+   "DOI": "10.1016/0022-1694(89)90073-5",
+   "article-title": "A new procedure for gridding elevation and stream line data with automatic removal of spurious pits",
+   "volume": "106",
+   "author": "Hutchinson",
+   "year": "1989",
+   "journal-title": "J. Hydrol."
+  },
+  {
+   "key": "2026051410225159300_R46",
+   "article-title": "Antarctic bed topography estimation using a stochastic meshless uncertainty gridding (SMUG) method",
+   "author": "Jong",
+   "year": "2025"
+  },
+  {
+   "key": "2026051410225159300_R47",
+   "doi-asserted-by": "crossref",
+   "first-page": "103753",
+   "DOI": "10.1016/j.advengsoft.2024.103753",
+   "article-title": "Meshless weighting coefficients for arbitrary nodes: the efficient computation to machine precision using hyper-dual numbers",
+   "volume": "197",
+   "author": "Roberts",
+   "year": "2024",
+   "journal-title": "Adv. Eng. Softw."
+  },
+  {
+   "key": "2026051410225159300_R48",
+   "doi-asserted-by": "crossref",
+   "first-page": "29",
+   "DOI": "10.3189/S0022143000026770",
+   "article-title": "Ice flow over bedrock perturbations",
+   "volume": "9",
+   "author": "Budd",
+   "year": "1970",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "key": "2026051410225159300_R49",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2002JB002107",
+   "article-title": "Transmission of basal variability to a glacier surface",
+   "volume": "108",
+   "author": "Gudmundsson",
+   "year": "2003",
+   "journal-title": "J. Geophys. Res."
+  },
+  {
+   "key": "2026051410225159300_R50",
+   "doi-asserted-by": "crossref",
+   "first-page": "3867",
+   "DOI": "10.5194/tc-16-3867-2022",
+   "article-title": "Inverting ice surface elevation and velocity for bed topography and slipperiness beneath Thwaites Glacier",
+   "volume": "16",
+   "author": "Ockenden",
+   "year": "2022",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R51",
+   "doi-asserted-by": "crossref",
+   "first-page": "1677",
+   "DOI": "10.1017/jog.2023.50",
+   "article-title": "Ice-flow perturbation analysis: a method to estimate ice-sheet bed topography and conditions from surface datasets",
+   "volume": "69",
+   "author": "Ockenden",
+   "year": "2023",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "key": "2026051410225159300_R52",
+   "doi-asserted-by": "crossref",
+   "first-page": "11051",
+   "DOI": "10.1002/2017GL074954",
+   "article-title": "BedMachine v3: complete bed topography and ocean bathymetry mapping of Greenland from multibeam echo sounding combined with mass conservation",
+   "volume": "44",
+   "author": "Morlighem",
+   "year": "2017",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "2026051410225159300_R53",
+   "doi-asserted-by": "crossref",
+   "first-page": "132",
+   "DOI": "10.1038/s41561-019-0510-8",
+   "article-title": "Deep glacial troughs and stabilizing ridges unveiled beneath the margins of the Antarctic ice sheet",
+   "volume": "13",
+   "author": "Morlighem",
+   "year": "2020",
+   "journal-title": "Nat. Geosci."
+  },
+  {
+   "key": "2026051410225159300_R54",
+   "doi-asserted-by": "crossref",
+   "first-page": "418",
+   "DOI": "10.1038/ngeo2167",
+   "article-title": "Deeply incised submarine glacial valleys beneath the Greenland Ice Sheet",
+   "volume": "7",
+   "author": "Morlighem",
+   "year": "2014",
+   "journal-title": "Nat. Geosci."
+  },
+  {
+   "key": "2026051410225159300_R55",
+   "doi-asserted-by": "crossref",
+   "first-page": "1433",
+   "DOI": "10.5194/tc-12-1433-2018",
+   "article-title": "Design and results of the ice sheet model initialisation experiments initMIP-Greenland: an ISMIP6 intercomparison",
+   "volume": "12",
+   "author": "Goelzer",
+   "year": "2018",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R56",
+   "doi-asserted-by": "crossref",
+   "first-page": "3071",
+   "DOI": "10.5194/tc-14-3071-2020",
+   "article-title": "The future sea-level contribution of the Greenland ice sheet: a multi-model ensemble study of ISMIP6",
+   "volume": "14",
+   "author": "Goelzer",
+   "year": "2020",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R57",
+   "doi-asserted-by": "crossref",
+   "first-page": "3033",
+   "DOI": "10.5194/tc-14-3033-2020",
+   "article-title": "ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century",
+   "volume": "14",
+   "author": "Seroussi",
+   "year": "2020",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R58",
+   "doi-asserted-by": "crossref",
+   "first-page": "5197",
+   "DOI": "10.5194/tc-17-5197-2023",
+   "article-title": "Insights into the vulnerability of Antarctic glaciers from the ISMIP6 ice sheet model ensemble and associated uncertainty",
+   "volume": "17",
+   "author": "Seroussi",
+   "year": "2023",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R59",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2024EF004561",
+   "article-title": "Evolution of the Antarctic ice sheet over the next three centuries from an ISMIP6 model ensemble",
+   "volume": "12",
+   "author": "Seroussi",
+   "year": "2024",
+   "journal-title": "Earths. Future"
+  },
+  {
+   "key": "2026051410225159300_R60",
+   "doi-asserted-by": "crossref",
+   "first-page": "75",
+   "DOI": "10.1029/2011GL048659",
+   "article-title": "A mass conservation approach for mapping glacier ice thickness",
+   "volume": "38",
+   "author": "Morlighem",
+   "year": "2011",
+   "journal-title": "Geophys. Res. Lett"
+  },
+  {
+   "key": "2026051410225159300_R61",
+   "article-title": "MEaSUREs BedMachine Antarctica, Version 3. Boulder, CO. NASA National Snow and Ice Data Center Distributed Active Archive Center [16 January 2023].",
+   "author": "Morlighem",
+   "year": "2022"
+  },
+  {
+   "key": "2026051410225159300_R62",
+   "doi-asserted-by": "crossref",
+   "first-page": "551",
+   "DOI": "10.5194/tc-5-551-2011",
+   "article-title": "Refined broad-scale sub-glacial morphology of Aurora Subglacial Basin, East Antarctica derived by an ice-dynamics-based interpolation scheme",
+   "volume": "5",
+   "author": "Roberts",
+   "year": "2011",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R63",
+   "doi-asserted-by": "crossref",
+   "first-page": "75",
+   "DOI": "10.1017/jog.2020.84",
+   "article-title": "Stochastic modeling of subglacial topography exposes uncertainty in water routing at Jakobshavn Glacier",
+   "volume": "67",
+   "author": "MacKie",
+   "year": "2021",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "key": "2026051410225159300_R64",
+   "doi-asserted-by": "crossref",
+   "first-page": "1246",
+   "DOI": "10.2113/gsecongeo.58.8.1246",
+   "article-title": "Principles of geostatistics",
+   "volume": "58",
+   "author": "Matheron",
+   "year": "1963",
+   "journal-title": "Economic Geology"
+  },
+  {
+   "key": "2026051410225159300_R65",
+   "volume-title": "GSLIB geostatistical software library and user’s guide",
+   "author": "Deutsch",
+   "year": "1992",
+   "edition": "2nd edn"
+  },
+  {
+   "key": "2026051410225159300_R66",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1002/9781118662953",
+   "volume-title": "Multiple-point geostatistics: stochastic modeling with training images",
+   "author": "Mariethoz",
+   "year": "2014"
+  },
+  {
+   "key": "2026051410225159300_R67",
+   "doi-asserted-by": "crossref",
+   "first-page": "1477",
+   "DOI": "10.5194/gmd-15-1477-2022",
+   "article-title": "Mapping high-resolution basal topography of West Antarctica from radar data using non-stationary multiple-point geostatistics (MPS-BedMappingV1)",
+   "volume": "15",
+   "author": "Yin",
+   "year": "2022",
+   "journal-title": "Geosci. Model Dev."
+  },
+  {
+   "key": "2026051410225159300_R68",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2019WR026130",
+   "article-title": "A tree-based direct sampling method for stochastic surface and subsurface hydrological modeling",
+   "volume": "56",
+   "author": "Zuo",
+   "year": "2020",
+   "journal-title": "Water Resour. Res."
+  },
+  {
+   "key": "2026051410225159300_R69",
+   "first-page": "1",
+   "volume-title": "Ninth International Geostatistics Congress",
+   "author": "Nunes",
+   "year": "2012"
+  },
+  {
+   "key": "2026051410225159300_R70",
+   "doi-asserted-by": "crossref",
+   "first-page": "103614",
+   "DOI": "10.1016/j.advwatres.2020.103614",
+   "article-title": "Bayesian inversion of hierarchical geostatistical models using a parallel-tempering sequential Gibbs MCMC",
+   "volume": "141",
+   "author": "Reuschen",
+   "year": "2020",
+   "journal-title": "Adv. Water Resour."
+  },
+  {
+   "key": "2026051410225159300_R71",
+   "doi-asserted-by": "crossref",
+   "first-page": "G15",
+   "DOI": "10.1190/geo2012-0122.1",
+   "article-title": "3D stochastic gravity inversion using nonstationary covariances",
+   "volume": "78",
+   "author": "Shamsipour",
+   "year": "2013",
+   "journal-title": "Geophysics"
+  },
+  {
+   "key": "2026051410225159300_R72",
+   "doi-asserted-by": "crossref",
+   "unstructured": "Volkova\n              A\n            , MerkulovV. 2019Iterative approach of gravity and magnetic inversion through geostatistics. InPetroleum Geostatistics 2019, Florence, Italy, vol. 2019, pp. 1–5, Florence, Italy: European Association of Geoscientists & Engineers. (doi:10.3997/2214-4609.201902257)",
+   "DOI": "10.3997/2214-4609.201902257"
+  },
+  {
+   "key": "2026051410225159300_R73",
+   "article-title": "A Markov chain Monte Carlo approach for geostatistically simulating mass-conserving subglacial topography",
+   "author": "Shao",
+   "year": "2025",
+   "journal-title": "Glaciology"
+  },
+  {
+   "key": "2026051410225159300_R74",
+   "doi-asserted-by": "crossref",
+   "first-page": "105857",
+   "DOI": "10.1016/j.cageo.2025.105857",
+   "article-title": "Siamese topographic generation model: A deep learning model for generating Antarctic subglacial topography with fine details",
+   "volume": "196",
+   "author": "Cai",
+   "year": "2025",
+   "journal-title": "Comput. Geosci."
+  },
+  {
+   "key": "2026051410225159300_R75",
+   "doi-asserted-by": "crossref",
+   "first-page": "3687",
+   "DOI": "10.5194/tc-14-3687-2020",
+   "article-title": "DeepBedMap: a deep neural network for resolving the bed topography of Antarctica",
+   "volume": "14",
+   "author": "Leong",
+   "year": "2020",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R76",
+   "first-page": "651",
+   "article-title": "Experimenting XGBoost algorithm for prediction and classification of different datasets",
+   "volume": "9",
+   "author": "Ramraj",
+   "year": "2016",
+   "journal-title": "Int. J. Control Theory Appl"
+  },
+  {
+   "key": "2026051410225159300_R77",
+   "doi-asserted-by": "crossref",
+   "unstructured": "Yi\n              K\n            \n            et al\n          . Evaluating machine learning and statistical models for Greenland subglacial bed topography. In2023 International Conference on Machine Learning and Applications (ICMLA), Jacksonville, FL, pp. 659–666. IEEE. (doi:10.1109/ICMLA58977.2023.00097)",
+   "DOI": "10.1109/ICMLA58977.2023.00097"
+  },
+  {
+   "key": "2026051410225159300_R78",
+   "doi-asserted-by": "crossref",
+   "unstructured": "Liu\n              Z\n            , RahnemoonfarM. 2025Accurate 3D reconstruction of ice-bed topography via graph transformer. InAlgorithms for Synthetic Aperture Radar Imagery XXXII, Orlando, FL, vol. 13456, pp. 19–26. Orlando, FL: SPIE. (doi:10.1117/12.3053945)",
+   "DOI": "10.1117/12.3053945"
+  },
+  {
+   "key": "2026051410225159300_R79",
+   "doi-asserted-by": "crossref",
+   "first-page": "3193",
+   "DOI": "10.1016/j.jhydrol.2014.10.040",
+   "article-title": "A spatio-temporal hybrid neural network-Kriging model for groundwater level simulation",
+   "volume": "519",
+   "author": "Tapoglou",
+   "year": "2014",
+   "journal-title": "J. Hydrol."
+  },
+  {
+   "key": "2026051410225159300_R80",
+   "doi-asserted-by": "crossref",
+   "first-page": "94",
+   "DOI": "10.1007/s10462-023-10698-8",
+   "article-title": "A review of predictive uncertainty estimation with machine learning",
+   "volume": "57",
+   "author": "Tyralis",
+   "year": "2024",
+   "journal-title": "Artif. Intell. Rev."
+  },
+  {
+   "key": "2026051410225159300_R81",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1038/s41467-017-01597-y",
+   "article-title": "Diverse landscapes beneath Pine Island Glacier influence ice flow",
+   "volume": "8",
+   "author": "Bingham",
+   "year": "2017",
+   "journal-title": "Nat. Commun."
+  },
+  {
+   "key": "2026051410225159300_R82",
+   "doi-asserted-by": "crossref",
+   "first-page": "236",
+   "DOI": "10.1017/jog.2021.88",
+   "article-title": "Inferred basal friction and mass flux affected by crystal-orientation fabrics",
+   "volume": "68",
+   "author": "Rathmann",
+   "year": "2022",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "key": "2026051410225159300_R83",
+   "doi-asserted-by": "crossref",
+   "first-page": "1",
+   "DOI": "10.3389/feart.2016.00008",
+   "article-title": "Bayesian inference of subglacial topography using mass conservation",
+   "volume": "4",
+   "author": "Brinkerhoff",
+   "year": "2016",
+   "journal-title": "Front. Earth Sci"
+  },
+  {
+   "key": "2026051410225159300_R84",
+   "doi-asserted-by": "crossref",
+   "first-page": "5423",
+   "DOI": "10.5194/tc-19-5423-2025",
+   "article-title": "Estimation of the state and parameters in ice sheet model using an ensemble Kalman filter and observing system simulation experiments",
+   "volume": "19",
+   "author": "Choi",
+   "year": "2025",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R85",
+   "doi-asserted-by": "crossref",
+   "first-page": "811",
+   "DOI": "10.5194/tc-14-811-2020",
+   "article-title": "Assimilation of surface observations in a transient marine ice sheet model using an ensemble Kalman filter",
+   "volume": "14",
+   "author": "Gillet-Chaulet",
+   "year": "2020",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R86",
+   "doi-asserted-by": "crossref",
+   "first-page": "167",
+   "DOI": "10.5194/tc-2-167-2008",
+   "article-title": "On the limit to resolution and information on basal properties obtainable from surface data on ice streams",
+   "volume": "2",
+   "author": "Gudmundsson",
+   "year": "2008",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R87",
+   "doi-asserted-by": "crossref",
+   "first-page": "93",
+   "DOI": "10.1017/9781009180412.007",
+   "volume-title": "Applications of data assimilation and inverse problems in the earth sciences",
+   "author": "Morlighem",
+   "year": "2023",
+   "edition": "1st"
+  },
+  {
+   "key": "2026051410225159300_R88",
+   "doi-asserted-by": "crossref",
+   "first-page": "481",
+   "DOI": "10.3189/172756503781830502",
+   "article-title": "Bed topography and lubrication inferred from surface measurements on fast-flowing ice streams",
+   "volume": "49",
+   "author": "Thorsteinsson",
+   "year": "2003",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "key": "2026051410225159300_R89",
+   "doi-asserted-by": "crossref",
+   "first-page": "4705",
+   "DOI": "10.5194/tc-17-4705-2023",
+   "article-title": "Basal conditions of Denman Glacier from glacier hydrology and ice dynamics modeling",
+   "volume": "17",
+   "author": "McArthur",
+   "year": "2023",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R90",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2021GL096589",
+   "article-title": "Quantifying the impact of bedrock topography uncertainty in Pine Island Glacier projections for this century",
+   "volume": "49",
+   "author": "Wernecke",
+   "year": "2022",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "2026051410225159300_R91",
+   "doi-asserted-by": "crossref",
+   "first-page": "5372",
+   "DOI": "10.1002/2015GL064322",
+   "article-title": "Antarctic bedrock topography uncertainty and ice sheet stability",
+   "volume": "42",
+   "author": "Gasson",
+   "year": "2015",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "2026051410225159300_R92",
+   "doi-asserted-by": "crossref",
+   "first-page": "1561",
+   "DOI": "10.5194/tc-8-1561-2014",
+   "article-title": "Dynamic response of Antarctic ice shelves to bedrock uncertainty",
+   "volume": "8",
+   "author": "Sun",
+   "year": "2014",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R93",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2021GL095440",
+   "article-title": "Mapping the sensitivity of the amundsen sea embayment to changes in external forcings using automatic differentiation",
+   "volume": "48",
+   "author": "Morlighem",
+   "year": "2021",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "2026051410225159300_R94",
+   "doi-asserted-by": "crossref",
+   "first-page": "1",
+   "DOI": "10.1145/1377596.1377598",
+   "article-title": "OpenAD/F: a modular open-source tool for automatic differentiation of fortran codes",
+   "volume": "34",
+   "author": "Utke",
+   "year": "2008",
+   "journal-title": "ACM Trans. Math. Softw."
+  },
+  {
+   "key": "2026051410225159300_R95",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2011JF002140",
+   "article-title": "Continental scale, high order, high spatial resolution, ice sheet modeling using the Ice Sheet System Model (ISSM)",
+   "volume": "117",
+   "author": "Larour",
+   "year": "2012",
+   "journal-title": "J. Geophys. Res"
+  },
+  {
+   "key": "2026051410225159300_R96",
+   "doi-asserted-by": "crossref",
+   "first-page": "1239",
+   "DOI": "10.1126/science.aaz5845",
+   "article-title": "Pervasive ice sheet mass loss reflects competing ocean and atmosphere processes",
+   "volume": "368",
+   "author": "Smith",
+   "year": "2020",
+   "journal-title": "Science"
+  },
+  {
+   "key": "2026051410225159300_R97",
+   "doi-asserted-by": "crossref",
+   "first-page": "1095",
+   "DOI": "10.1073/pnas.1812883116",
+   "article-title": "Four decades of Antarctic Ice Sheet mass balance from 1979–2017",
+   "volume": "116",
+   "author": "Rignot",
+   "year": "2019",
+   "journal-title": "Proc. Natl Acad. Sci. USA"
+  },
+  {
+   "key": "2026051410225159300_R98",
+   "doi-asserted-by": "crossref",
+   "first-page": "955",
+   "DOI": "10.5194/tc-19-955-2025",
+   "article-title": "Assessing the sensitivity of the Vanderford Glacier, East Antarctica, to basal melt and calving",
+   "volume": "19",
+   "author": "Bird",
+   "year": "2025",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R99",
+   "doi-asserted-by": "crossref",
+   "first-page": "219",
+   "DOI": "10.1038/s41586-018-0179-y",
+   "article-title": "Mass balance of the Antarctic Ice Sheet from 1992 to 2017",
+   "volume": "558",
+   "author": "Shepherd",
+   "year": "2018",
+   "journal-title": "Nature"
+  },
+  {
+   "key": "2026051410225159300_R100",
+   "doi-asserted-by": "crossref",
+   "first-page": "4549",
+   "DOI": "10.5194/tc-17-4549-2023",
+   "article-title": "Assessing the potential for ice flow piracy between the Totten and Vanderford glaciers, East Antarctica",
+   "volume": "17",
+   "author": "McCormack",
+   "year": "2023",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R101",
+   "doi-asserted-by": "crossref",
+   "first-page": "1427",
+   "DOI": "10.1126/science.1208336",
+   "article-title": "Ice flow of the Antarctic Ice Sheet",
+   "volume": "333",
+   "author": "Rignot",
+   "year": "2011",
+   "journal-title": "Science"
+  },
+  {
+   "key": "2026051410225159300_R102",
+   "article-title": "MEaSUREs InSAR-based Antarctica Ice VelocityMap, Version 2. Boulder, CO. NASA National Snow and Ice Data Center Distributed Active Archive Center. See https://doi.org/10.5067/D7GK8F5J8M8R [23 November 2018]",
+   "author": "Rignot",
+   "year": "2017"
+  },
+  {
+   "key": "2026051410225159300_R103",
+   "doi-asserted-by": "crossref",
+   "first-page": "1746",
+   "DOI": "10.1002/jgrf.20125",
+   "article-title": "Inversion of basal friction in Antarctica using exact and incomplete adjoints of a higher-order model",
+   "volume": "118",
+   "author": "Morlighem",
+   "year": "2013",
+   "journal-title": "J. Geophys. Res."
+  },
+  {
+   "key": "2026051410225159300_R104",
+   "doi-asserted-by": "crossref",
+   "first-page": "721",
+   "DOI": "10.1038/172721a0",
+   "article-title": "Rate of flow of polycrystalline ice",
+   "volume": "172",
+   "author": "Glen",
+   "year": "1953",
+   "journal-title": "Nature"
+  },
+  {
+   "key": "2026051410225159300_R105",
+   "first-page": "519",
+   "article-title": "The creep of polycrystalline ice",
+   "volume": "228",
+   "author": "Glen",
+   "year": "1955",
+   "journal-title": "Proc. R. Soc. Lond. A Math. Phys. Sci."
+  },
+  {
+   "key": "2026051410225159300_R106",
+   "doi-asserted-by": "crossref",
+   "first-page": "609",
+   "DOI": "10.1098/rspa.2004.1350",
+   "article-title": "The effect of cavitation on glacier sliding",
+   "volume": "461",
+   "author": "Schoof",
+   "year": "2005",
+   "journal-title": "Proc. R. Soc. A."
+  },
+  {
+   "key": "2026051410225159300_R107",
+   "doi-asserted-by": "crossref",
+   "first-page": "157",
+   "DOI": "10.1142/S0218202510004180",
+   "article-title": "Coulomb friction and other sliding laws in a higher-order glacier flow model.",
+   "volume": "20",
+   "author": "Schoof",
+   "year": "2010",
+   "journal-title": "Math. Models Methods Appl. Sci."
+  },
+  {
+   "key": "2026051410225159300_R108",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2022GL098009",
+   "article-title": "Seasonal acceleration of petermann glacier, Greenland, from changes in subglacial hydrology",
+   "volume": "50",
+   "author": "Ehrenfeucht",
+   "year": "2023",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "2026051410225159300_R109",
+   "doi-asserted-by": "crossref",
+   "first-page": "266",
+   "DOI": "10.1126/science.1235798",
+   "article-title": "Ice-shelf melting around Antarctica",
+   "volume": "341",
+   "author": "Rignot",
+   "year": "2013",
+   "journal-title": "Science"
+  },
+  {
+   "key": "2026051410225159300_R110",
+   "doi-asserted-by": "crossref",
+   "first-page": "2331",
+   "DOI": "10.5194/tc-14-2331-2020",
+   "article-title": "Experimental protocol for sea level projections from ISMIP6 stand-alone ice sheet models",
+   "volume": "14",
+   "author": "Nowicki",
+   "year": "2020",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R111",
+   "doi-asserted-by": "crossref",
+   "first-page": "3111",
+   "DOI": "10.5194/tc-14-3111-2020",
+   "article-title": "A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections",
+   "volume": "14",
+   "author": "Jourdain",
+   "year": "2020",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R112",
+   "article-title": "High spatial melt rate variability near the Totten Glacier grounding line in East Antarctica",
+   "volume": "50",
+   "author": "Vanˇková",
+   "year": "2023",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "2026051410225159300_R113",
+   "doi-asserted-by": "crossref",
+   "first-page": "385",
+   "DOI": "10.1038/nature17447",
+   "article-title": "Repeated large-scale retreat and advance of Totten Glacier indicated by inland bed erosion",
+   "volume": "533",
+   "author": "Aitken",
+   "year": "2016",
+   "journal-title": "Nature New Biol."
+  },
+  {
+   "key": "2026051410225159300_R114",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2019GL086821",
+   "article-title": "Aurora Basin, the Weak Underbelly of East Antarctica",
+   "volume": "47",
+   "author": "Pelle",
+   "year": "2020",
+   "journal-title": "Geophys. Res. Lett"
+  },
+  {
+   "key": "2026051410225159300_R115",
+   "doi-asserted-by": "crossref",
+   "first-page": "79",
+   "DOI": "10.1017/aog.2016.27",
+   "article-title": "Impact of ocean forcing on the Aurora Basin in the 21st and 22nd centuries",
+   "volume": "57",
+   "author": "Sun",
+   "year": "2016",
+   "journal-title": "Ann. Glaciol."
+  },
+  {
+   "key": "2026051410225159300_R116",
+   "article-title": "Impacts of bed topography resolution on sea-level rise projections from coupled subglacial hydrology and ice dynamics for Thwaites Glacier, West Antarctica",
+   "volume": "384",
+   "author": "Ehrenfeucht",
+   "year": "2025",
+   "journal-title": "Phil. Trans. R. Soc. A"
+  },
+  {
+   "key": "2026051410225159300_R117",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1073/pnas.2411904122",
+   "article-title": "Increased sea-level contribution from northwestern Greenland for models that reproduce observations",
+   "volume": "122",
+   "author": "Badgeley",
+   "year": "2025",
+   "journal-title": "Proc. Natl. Acad. Sci. USA"
+  },
+  {
+   "key": "2026051410225159300_R118",
+   "doi-asserted-by": "crossref",
+   "first-page": "111",
+   "DOI": "10.3189/S0022143000034067",
+   "article-title": "Experiments on the Deformation of Ice",
+   "volume": "2",
+   "author": "Glen",
+   "year": "1952",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "key": "2026051410225159300_R119",
+   "doi-asserted-by": "crossref",
+   "first-page": "2133",
+   "DOI": "10.5194/tc-19-2133-2025",
+   "article-title": "Improved basal drag of the West Antarctic Ice Sheet from L-curve analysis of inverse models utilizing subglacial hydrology simulations",
+   "volume": "19",
+   "author": "Höyns",
+   "year": "2025",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R120",
+   "doi-asserted-by": "crossref",
+   "first-page": "5027",
+   "DOI": "10.5194/tc-17-5027-2023",
+   "article-title": "Regularization and L-curves in ice sheet inverse models: a case study in the Filchner–Ronne catchment",
+   "volume": "17",
+   "author": "Wolovick",
+   "year": "2023",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "2026051410225159300_R121",
+   "doi-asserted-by": "crossref",
+   "first-page": "33",
+   "DOI": "10.3189/S0022143000024709",
+   "article-title": "On the sliding of glaciers",
+   "volume": "3",
+   "author": "Weertman",
+   "year": "1957",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "key": "2026051410225159300_R122",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.3389/feart.2018.00033",
+   "article-title": "Relevance of detail in basal topography for basal slipperiness inversions: a case study on Pine Island Glacier, Antarctica",
+   "volume": "6",
+   "author": "Kyrke-Smith",
+   "year": "2018",
+   "journal-title": "Front. Earth Sci."
+  },
+  {
+   "key": "2026051410225159300_R123",
+   "doi-asserted-by": "crossref",
+   "first-page": "76",
+   "DOI": "10.1126/science.aaz1183",
+   "article-title": "A slip law for glaciers on deformable beds",
+   "volume": "368",
+   "author": "Zoet",
+   "year": "2020",
+   "journal-title": "Science"
+  },
+  {
+   "key": "2026051410225159300_R124",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2022GL098539",
+   "article-title": "Fine-scale geothermal heat flow in antarctica can increase simulated subglacial melt estimates",
+   "volume": "49",
+   "author": "McCormack",
+   "year": "2022",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "2026051410225159300_R125",
+   "doi-asserted-by": "crossref",
+   "first-page": "814",
+   "DOI": "10.1038/s43017-022-00348-y",
+   "article-title": "Antarctic geothermal heat flow and its implications for tectonics and ice sheets",
+   "volume": "3",
+   "author": "Reading",
+   "year": "2022",
+   "journal-title": "Nat. Rev. Earth Environ."
+  },
+  {
+   "key": "2026051410225159300_R126",
+   "article-title": "Sensitivity of the Northeast Greenland Ice Stream to Geothermal Heat",
+   "volume": "125",
+   "author": "Smith-Johnsen",
+   "year": "2020",
+   "journal-title": "J. Geophys. Res"
+  },
+  {
+   "key": "2026051410225159300_R127",
+   "doi-asserted-by": "crossref",
+   "first-page": "242",
+   "DOI": "10.1016/j.epsl.2008.02.023",
+   "article-title": "Sensitivity of subglacial Lake Vostok’s flow regime on environmental parameters",
+   "volume": "269",
+   "author": "Thoma",
+   "year": "2008",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "2026051410225159300_R128",
+   "doi-asserted-by": "crossref",
+   "first-page": "8471",
+   "DOI": "10.1002/2015GL065782",
+   "article-title": "Reactivation of Kamb Ice Stream tributaries triggers century-scale reorganization of Siple Coast ice flow in West Antarctica",
+   "volume": "42",
+   "author": "Bougamont",
+   "year": "2015",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "2026051410225159300_R129",
+   "article-title": "Supplementary material from: Synthetic bed topographies for Antarctica and their utility in ice sheet modelling. Figshare.",
+   "author": "McCormack",
+   "year": "2026"
+  }
+ ],
+ "container-title": "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+ "original-title": [],
+ "language": "en",
+ "link": [
+  {
+   "URL": "https://royalsocietypublishing.org/rsta/article-pdf/doi/10.1098/rsta.2024.0537/6134280/rsta.2024.0537.pdf",
+   "content-type": "application/pdf",
+   "content-version": "vor",
+   "intended-application": "syndication"
+  },
+  {
+   "URL": "https://royalsocietypublishing.org/rsta/article-pdf/doi/10.1098/rsta.2024.0537/6134280/rsta.2024.0537.pdf",
+   "content-type": "unspecified",
+   "content-version": "vor",
+   "intended-application": "similarity-checking"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2026,
+    5,
+    14
+   ]
+  ],
+  "date-time": "2026-05-14T14:41:28Z",
+  "timestamp": 1778769688000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://royalsocietypublishing.org/rsta/article/384/2319/20240537/481463/Synthetic-bed-topographies-for-Antarctica-and"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2026,
+    4,
+    23
+   ]
+  ]
+ },
+ "references-count": 129,
+ "journal-issue": {
+  "issue": "2319",
+  "published-online": {
+   "date-parts": [
+    [
+     2026,
+     4,
+     23
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2026,
+     4,
+     23
+    ]
+   ]
+  }
+ },
+ "URL": "http://dx.doi.org/10.1098/rsta.2024.0537",
+ "relation": {},
+ "ISSN": [
+  "1364-503X",
+  "1471-2962"
+ ],
+ "subject": [],
+ "published": {
+  "date-parts": [
+   [
+    2026,
+    4,
+    23
+   ]
+  ]
+ },
+ "article-number": "20240537"
+}

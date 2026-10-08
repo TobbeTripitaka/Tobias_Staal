@@ -1,0 +1,160 @@
+{
+ "type": "dataset",
+ "id": "https://doi.org/10.5880/fidgeo.2024.014",
+ "categories": [
+  "heat flow density",
+  "Global Heat Flow Database",
+  "International Heat Flow Commission",
+  "EARTH SCIENCE &gt; OCEANS &gt; MARINE VOLCANISM &gt; BENTHIC HEAT FLOW",
+  "EARTH SCIENCE &gt; OCEANS &gt; OCEAN HEAT BUDGET &gt; HEAT FLUX",
+  "physical property &gt; temperature"
+ ],
+ "author": [
+  {
+   "family": "Group",
+   "given": "Global Heat Flow Data Assessment"
+  },
+  {
+   "family": "Fuchs",
+   "given": "Sven"
+  },
+  {
+   "family": "Neumann",
+   "given": "Florian"
+  },
+  {
+   "family": "Norden",
+   "given": "Ben"
+  },
+  {
+   "family": "Balkan-Pazvantoglu",
+   "given": "Elif"
+  },
+  {
+   "family": "Elbarbary",
+   "given": "Samah"
+  },
+  {
+   "family": "Petrunin",
+   "given": "Alexey"
+  },
+  {
+   "family": "Beardsmore",
+   "given": "Graeme"
+  },
+  {
+   "family": "Harris",
+   "given": "Robert"
+  },
+  {
+   "family": "Negrete-Aranda",
+   "given": "Raquel"
+  },
+  {
+   "family": "Poort",
+   "given": "Jeffrey"
+  },
+  {
+   "family": "Verdoya",
+   "given": "Massimo"
+  },
+  {
+   "family": "Liu",
+   "given": "Shaowen"
+  },
+  {
+   "family": "Chambers",
+   "given": "Emma"
+  },
+  {
+   "family": "Fuentes",
+   "given": "Karina"
+  },
+  {
+   "family": "Sidigam",
+   "given": "Eswara Rao"
+  },
+  {
+   "family": "Matiz-Leon",
+   "given": "Jhon Camilo"
+  },
+  {
+   "family": "Bencharef",
+   "given": "Mohammed Hichem"
+  },
+  {
+   "family": "Mino",
+   "given": "Belay G."
+  },
+  {
+   "family": "Khaled",
+   "given": "Mohamed Shafik"
+  },
+  {
+   "family": "Verch",
+   "given": "Denise"
+  },
+  {
+   "family": "Berger",
+   "given": "Leonard"
+  },
+  {
+   "family": "Chishti",
+   "given": "Saman Firdaus"
+  },
+  {
+   "family": "Dergunova",
+   "given": "Viktoria"
+  },
+  {
+   "family": "Liebing",
+   "given": "Helena"
+  },
+  {
+   "family": "Schulz",
+   "given": "Marvin"
+  },
+  {
+   "family": "Schuppe",
+   "given": "Pia"
+  },
+  {
+   "family": "Trepalova",
+   "given": "Zlata"
+  },
+  {
+   "family": "Chiozzi",
+   "given": "Paolo"
+  },
+  {
+   "family": "Duque",
+   "given": "Maria Rosa Alves"
+  },
+  {
+   "family": "Forster",
+   "given": "Florian"
+  },
+  {
+   "family": "Leveni",
+   "given": "Martina"
+  },
+  {
+   "family": "Stål",
+   "given": "Tobias"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2024
+   ]
+  ]
+ },
+ "abstract": "The data publication contains the compilation of global heat-flow data by the International Heat Flow Commission (IHFC; www.ihfc-iugg.org) of the International Association of Seismology and Physics of the Earth's Interior (IASPEI). The presented data update release 2024 contains data generated between 1939 and 2024 and constitutes the second intermediate update benefiting from the global collaborative assessment and quality control of the Global Heat Flow Database running since May 2021 (http://assessment.ihfc-iugg.org). The data release comprises new original heat-flow data published since April 2023 (the update 2023). It contains 91,182 heat-flow data from 1,586 publications. 57% of the reported heat-flow values are from the continental domain (n ~ 54,553), while the remaining 43% are located in the oceanic domain (n ~ 36,692).",
+ "DOI": "10.5880/FIDGEO.2024.014",
+ "publisher": "GFZ Data Services",
+ "title": "The Global Heat Flow Database: Release 2024",
+ "URL": "https://dataservices.gfz.de/10.5880/fidgeo.2024.014/the-global-heat-flow-database-release-2024",
+ "copyright": "Creative Commons Attribution 4.0 International",
+ "version": "2026.03"
+}

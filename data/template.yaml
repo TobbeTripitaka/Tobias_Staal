@@ -1,0 +1,116 @@
+# =============================================================================
+#  template.yaml — copy a block into data/new_entries.yaml, fill in, build.
+# =============================================================================
+#  * Every field is optional except `section`. Leave anything blank.
+#  * With a DOI, the build fills title, authors, journal, volume, pages,
+#    publisher, url and abstract — but only fields you left blank.
+#    Anything you type wins.
+#  * `id` is only needed to UPDATE an existing row in records.csv
+#    (use its id; non-empty values here replace the CSV values).
+#    For new items it is generated automatically (e.g. staal2026geology).
+#  * Authors: "Family, Given" — one per list item, in order, full names if
+#    you have them. Corporate authors in braces: "{Global Heat Flow Group}".
+#  * include: yes / no, or leave out to use the section default (below).
+#  * In free text, *stars* make italics and " | " starts a new line.
+#
+#  section       default include (homepage / cv_long / cv_short / reflist)
+#  ----------    -------------------------------------------------------
+#  article       yes / yes / no / yes    peer-reviewed journal article
+#  submitted     yes / yes / no / yes    submitted, in review (status!)
+#  chapter       yes / yes / no / yes    book or book chapter
+#  report        yes / yes / no / yes    report, non-peer-reviewed
+#  outreach      yes / yes / no / yes    outreach articles
+#  dataset       yes / yes / no / yes
+#  software      yes / yes / no / yes
+#  abstract      no  / no  / no / yes    conference abstract (reference list only)
+#  thesis        no  / no  / no / yes
+#  position      yes / yes / yes / -     academic appointment
+#  education     yes / yes / yes / -
+#  conference    yes / yes / no  / -     talks, workshops, hackathons
+#  work          yes / yes / no  / -     non-academic work
+#  award         yes / yes / yes / -
+#  service       yes / yes / yes / -     memberships, committees
+#  art           yes / yes / no  / -     art collaborations
+#  skill         yes / yes / no  / -     skills, languages, certificates
+# =============================================================================
+
+entries:
+
+  # --- A paper: usually the DOI is all you need --------------------------------
+  - section: article
+    doi: 10.1029/2024GL110098
+    include: {homepage: yes, cv_long: yes, cv_short: no, reflist: yes}
+
+  # --- Everything a publication can hold ----------------------------------------
+  - id:                       # blank = generate
+    section: article          # see table above
+    status: published         # published / accepted / in press / in review / submitted / preprint
+    year: 2026
+    title:
+    authors:
+      - Stål, Tobias
+      - Reading, Anya M.
+    venue:                    # journal / book / conference / repository
+    volume:
+    issue:
+    pages:                    # or article number, e.g. e2024GL110098
+    publisher:
+    doi:
+    url:
+    abstract:
+    note:                     # free text, shown in the publication list
+    bibtype:                  # override BibTeX type (article, misc, inproceedings ...)
+    include: {homepage: , cv_long: , cv_short: , reflist: }
+
+  # --- A job (academic: position, other: work) ----------------------------------
+  - section: position
+    title: Research Associate in Computational Physics (Geophysics)
+    organisation: ACEAS, University of Tasmania
+    location: Tasmania, Australia
+    year: 2022                # start
+    end: Present
+    description:              # long CV + homepage; " | " = new line
+    short:                    # one-line version for the one-page CV
+
+  # --- Education -----------------------------------------------------------------
+  - section: education
+    title: PhD, Geophysics
+    organisation: University of Tasmania
+    location: Australia
+    year: 2021
+    description: "Thesis: *Title* | Supervisors: AM Reading"
+
+  # --- Conference, workshop or hackathon ----------------------------------------
+  - section: conference
+    title: EGU General Assembly
+    location: Vienna, Austria
+    year: 2027
+    description: "Talk title | Convened a session on ..."
+    url:
+
+  # --- Award, service ---------------------------------------------------------------
+  - section: award
+    title: Name of award
+    organisation: Who gave it
+    year: 2027
+  - section: service
+    title: Co-chair           # role
+    organisation: Committee name
+    year: 2027
+    end: Present
+
+  # --- Art collaboration ------------------------------------------------------------
+  - section: art
+    title: Name of the work
+    authors: ["Bleach, Lucy"] # artists / collaborators
+    venue: Exhibition or festival
+    location: City
+    year: 2027
+    description: What it was and what I contributed
+    short: One line for the short CV
+
+  # --- Skill line ---------------------------------------------------------------------
+  - section: skill
+    title: Languages
+    description: Full list for the homepage and long CV
+    short: Short list for the one-page CV

@@ -1,0 +1,293 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2025,
+    7,
+    30
+   ]
+  ],
+  "date-time": "2025-07-30T16:32:44Z",
+  "timestamp": 1753893164171,
+  "version": "3.41.2"
+ },
+ "reference-count": 8,
+ "publisher": "Frontiers Media SA",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2024,
+      2,
+      5
+     ]
+    ],
+    "date-time": "2024-02-05T00:00:00Z",
+    "timestamp": 1707091200000
+   },
+   "content-version": "vor",
+   "delay-in-days": 0,
+   "URL": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "content-domain": {
+  "domain": [
+   "frontiersin.org"
+  ],
+  "crossmark-restriction": true
+ },
+ "abstract": "<jats:p>Antarctica’s ice sheet is constantly on the move, flowing from the deep, frozen interior of the continent toward the ocean, where it melts. In fact, because the oceans are getting warmer, the Antarctic ice sheet melts faster, and therefore, the sea level is rising. However, predicting how the ice sheet will flow differently from place to place is complicated. The landscape beneath the ice sheet helps to control how fast the ice moves. For example, the ice can stick and deform, or slide smoothly across the land under the ice. Naturally occurring heat from inside the Earth can cause the base of the ice sheet to melt and soften so that it flows more easily, sliding on the meltwater formed. The amount of this geothermal heat varies across Antarctica and is difficult to measure. However, scientists with various expertise can collaborate to understand how much heat there is and how it shapes the ice sheet.</jats:p>",
+ "DOI": "10.3389/frym.2023.1178537",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2024,
+    2,
+    5
+   ]
+  ],
+  "date-time": "2024-02-05T04:36:30Z",
+  "timestamp": 1707107790000
+ },
+ "update-policy": "https://doi.org/10.3389/crossmark-policy",
+ "source": "Crossref",
+ "is-referenced-by-count": 0,
+ "title": "Geothermal Heat Shapes the Antarctic Ice Sheet From Below",
+ "prefix": "10.3389",
+ "volume": "11",
+ "author": [
+  {
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "first",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Felicity S.",
+   "family": "McCormack",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Anya M.",
+   "family": "Reading",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Niam",
+   "family": "Askey-Doran",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Jacqueline A.",
+   "family": "Halpin",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Mareen",
+   "family": "Lösing",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  }
+ ],
+ "member": "1965",
+ "published-online": {
+  "date-parts": [
+   [
+    2024,
+    2,
+    5
+   ]
+  ]
+ },
+ "reference": [
+  {
+   "key": "B1",
+   "doi-asserted-by": "publisher",
+   "first-page": "106",
+   "DOI": "10.1038/s43017-021-00246-9",
+   "article-title": "Subglacial lakes and their changing role in a warming climate",
+   "volume": "3",
+   "author": "Livingstone",
+   "year": "2022",
+   "journal-title": "Nat. Rev. Earth Environ."
+  },
+  {
+   "key": "B2",
+   "doi-asserted-by": "publisher",
+   "first-page": "e2019",
+   "DOI": "10.1029/2019RG000663",
+   "article-title": "The sensitivity of the antarctic ice sheet to a changing climate: past, present, and future",
+   "volume": "58",
+   "author": "Noble",
+   "year": "2020",
+   "journal-title": "Rev. Geophys."
+  },
+  {
+   "key": "B3",
+   "doi-asserted-by": "publisher",
+   "first-page": "814",
+   "DOI": "10.1038/s43017-022-00348-y",
+   "article-title": "Antarctic geothermal heat flow and its implications for tectonics and ice sheets",
+   "volume": "3",
+   "author": "Reading",
+   "year": "2022",
+   "journal-title": "Nat. Rev. Earth Environ."
+  },
+  {
+   "key": "B4",
+   "doi-asserted-by": "publisher",
+   "first-page": "e2021",
+   "DOI": "10.1029/2021GC010154",
+   "article-title": "PetroChron Antarctica: a geological database for interdisciplinary use",
+   "volume": "22",
+   "author": "Sanchez",
+   "year": "2021",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "key": "B5",
+   "doi-asserted-by": "publisher",
+   "first-page": "1",
+   "DOI": "10.5194/tc-2020-59",
+   "article-title": "Geothermal heat flow in Antarctica: current and future directions",
+   "volume": "14",
+   "author": "Burton-Johnson",
+   "year": "2020",
+   "journal-title": "Cryosphere Discuss."
+  },
+  {
+   "key": "B6",
+   "doi-asserted-by": "publisher",
+   "first-page": "105",
+   "DOI": "10.3389/feart.2020.00105",
+   "article-title": "Geothermal heat flux in Antarctica: assessing models and observations by Bayesian inversion",
+   "volume": "8",
+   "author": "Lösing",
+   "year": "2020",
+   "journal-title": "Front. Earth Sci."
+  },
+  {
+   "key": "B7",
+   "doi-asserted-by": "publisher",
+   "first-page": "1",
+   "DOI": "10.1029/2020GC009428",
+   "article-title": "Antarctic geothermal heat flow model: Aq1",
+   "volume": "22",
+   "author": "Stål",
+   "year": "2020",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "key": "B8",
+   "doi-asserted-by": "publisher",
+   "first-page": "e2022GL098539",
+   "DOI": "10.1029/2022GL098539",
+   "article-title": "Fine-scale geothermal heat flow in Antarctica can increase simulated subglacial melt estimates",
+   "volume": "49",
+   "author": "McCormack",
+   "year": "2022",
+   "journal-title": "Geophys. Res. Lett."
+  }
+ ],
+ "container-title": "Frontiers for Young Minds",
+ "original-title": [],
+ "link": [
+  {
+   "URL": "https://www.frontiersin.org/articles/10.3389/frym.2023.1178537/full",
+   "content-type": "unspecified",
+   "content-version": "vor",
+   "intended-application": "similarity-checking"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2024,
+    2,
+    5
+   ]
+  ],
+  "date-time": "2024-02-05T04:36:32Z",
+  "timestamp": 1707107792000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://www.frontiersin.org/articles/10.3389/frym.2023.1178537/full"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2024,
+    2,
+    5
+   ]
+  ]
+ },
+ "references-count": 8,
+ "alternative-id": [
+  "10.3389/frym.2023.1178537"
+ ],
+ "URL": "http://dx.doi.org/10.3389/frym.2023.1178537",
+ "relation": {},
+ "ISSN": [
+  "2296-6846"
+ ],
+ "subject": [],
+ "container-title-short": "Front. Young Minds",
+ "published": {
+  "date-parts": [
+   [
+    2024,
+    2,
+    5
+   ]
+  ]
+ },
+ "article-number": "1178537"
+}

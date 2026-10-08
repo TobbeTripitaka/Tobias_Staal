@@ -1,0 +1,23 @@
+% ---------------------------------------------------------------------------
+% Shared layout macros for cv_long.tex, cv_short.tex and publication_list.tex
+% (input by each template; lives in templates/, copied next to the .tex)
+% ---------------------------------------------------------------------------
+\colorlet{awesome}{awesome-red}          % the CV orange-red (#DC3522)
+\definecolor{accent2}{HTML}{E3B23C}      % muted yellow, used sparingly
+\setlength{\parskip}{0pt}
+\urlstyle{same}
+
+% A hanging list: year (or label) on the left, text on the right
+\newlength{\cvlabelwidth}\setlength{\cvlabelwidth}{2.45cm}
+\newlength{\cvitemsep}\setlength{\cvitemsep}{1.4mm}
+\newenvironment{cvlist}{%
+  \vspace{1.2mm}%
+  \begin{list}{}{%
+    \setlength{\leftmargin}{\cvlabelwidth}\setlength{\labelwidth}{\dimexpr\cvlabelwidth-3mm\relax}%
+    \setlength{\labelsep}{3mm}\setlength{\itemsep}{\cvitemsep}%
+    \setlength{\parsep}{0pt}\setlength{\topsep}{0pt}\setlength{\partopsep}{0pt}}%
+  \fontsize{9pt}{11.5pt}\bodyfontlight\color{text}\raggedright}%
+  {\end{list}\vspace{1mm}}
+\newcommand{\cvitem}[2]{\item[{\fontsize{8.5pt}{10pt}\bodyfont\color{graytext}#1\hfill}]#2}
+\newcommand{\skilllabel}[1]{{\bodyfont\color{darktext}#1}}
+\renewcommand{\textbf}[1]{{\bodyfont\bfseries\color{darktext}#1}}

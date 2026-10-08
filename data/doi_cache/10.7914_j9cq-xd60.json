@@ -1,0 +1,32 @@
+{
+ "type": "dataset",
+ "id": "https://doi.org/10.7914/j9cq-xd60",
+ "author": [
+  {
+   "literal": "Anya M. Reading"
+  },
+  {
+   "literal": "Tobias Stål"
+  },
+  {
+   "literal": "Ian Kelly"
+  }
+ ],
+ "contributor": [
+  {
+   "literal": "AuScope"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2024
+   ]
+  ]
+ },
+ "abstract": "Broadband and node-type sensors deployed with the aim of understanding ice sheets, the ice-bedrock interface zone, and Earth-ice interactions in Dronning Maud Land and Coats Land, Antarctica.",
+ "DOI": "10.7914/J9CQ-XD60",
+ "publisher": "International Federation of Digital Seismograph Networks",
+ "title": "Australia",
+ "URL": "https://www.fdsn.org/networks/detail/8G_2024/"
+}

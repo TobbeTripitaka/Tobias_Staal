@@ -1,0 +1,770 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2025,
+    11,
+    11
+   ]
+  ],
+  "date-time": "2025-11-11T13:38:58Z",
+  "timestamp": 1762868338101,
+  "version": "3.37.3"
+ },
+ "reference-count": 94,
+ "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+ "issue": "7",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2022,
+      7,
+      1
+     ]
+    ],
+    "date-time": "2022-07-01T00:00:00Z",
+    "timestamp": 1656633600000
+   },
+   "content-version": "vor",
+   "delay-in-days": 0,
+   "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+  },
+  {
+   "start": {
+    "date-parts": [
+     [
+      2022,
+      7,
+      1
+     ]
+    ],
+    "date-time": "2022-07-01T00:00:00Z",
+    "timestamp": 1656633600000
+   },
+   "content-version": "stm-asf",
+   "delay-in-days": 0,
+   "URL": "https://doi.org/10.15223/policy-029"
+  },
+  {
+   "start": {
+    "date-parts": [
+     [
+      2022,
+      7,
+      1
+     ]
+    ],
+    "date-time": "2022-07-01T00:00:00Z",
+    "timestamp": 1656633600000
+   },
+   "content-version": "stm-asf",
+   "delay-in-days": 0,
+   "URL": "https://doi.org/10.15223/policy-037"
+  }
+ ],
+ "funder": [
+  {
+   "DOI": "10.13039/501100000923",
+   "name": "Australian Research Council",
+   "doi-asserted-by": "publisher",
+   "award": [
+    "SR140300001"
+   ],
+   "award-info": [
+    {
+     "award-number": [
+      "SR140300001"
+     ]
+    }
+   ],
+   "id": [
+    {
+     "id": "10.13039/501100000923",
+     "id-type": "DOI",
+     "asserted-by": "publisher"
+    }
+   ]
+  },
+  {
+   "name": "ARC Research Hub for Transforming the Mining Value Chain",
+   "award": [
+    "IH130200004"
+   ],
+   "award-info": [
+    {
+     "award-number": [
+      "IH130200004"
+     ]
+    }
+   ]
+  }
+ ],
+ "content-domain": {
+  "domain": [],
+  "crossmark-restriction": false
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2022,
+    7,
+    1
+   ]
+  ]
+ },
+ "DOI": "10.1109/tvcg.2020.3037226",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2020,
+    11,
+    10
+   ]
+  ],
+  "date-time": "2020-11-10T21:35:41Z",
+  "timestamp": 1605044141000
+ },
+ "page": "2641-2653",
+ "source": "Crossref",
+ "is-referenced-by-count": 2,
+ "title": "Exploratory Volumetric Deep Earth Visualization by 2.5D Interactive Compositing",
+ "prefix": "10.1109",
+ "volume": "28",
+ "author": [
+  {
+   "ORCID": "https://orcid.org/0000-0001-9315-1374",
+   "authenticated-orcid": false,
+   "given": "Peter E.",
+   "family": "Morse",
+   "sequence": "first",
+   "affiliation": [
+    {
+     "name": "Department of Earth Sciences, Private Bag 79, University of Tasmania, Hobart, TAS, Australia"
+    }
+   ],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Anya M.",
+   "family": "Reading",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Department of Physics, Private Bag 37, University of Tasmania, Hobart, TAS, Australia"
+    }
+   ],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Tobias",
+   "family": "Stal",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Department of Earth Sciences and the Institute for Marine and Antarctic Studies, Private Bag 79, University of Tasmania, Hobart, TAS, Australia"
+    }
+   ],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  }
+ ],
+ "member": "263",
+ "reference": [
+  {
+   "key": "ref73",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1145/329129.329356"
+  },
+  {
+   "key": "ref72",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1117/12.2037942"
+  },
+  {
+   "key": "ref71",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/cgf.13320"
+  },
+  {
+   "key": "ref70",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1126/science.236.4797.37"
+  },
+  {
+   "article-title": "Syphon framework",
+   "year": "2018",
+   "author": "butterworth",
+   "key": "ref76"
+  },
+  {
+   "journal-title": "Adobe Systems Incorporated PDF Reference",
+   "article-title": "Adobe Systems Incorporated",
+   "year": "2006",
+   "key": "ref77"
+  },
+  {
+   "key": "ref74",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2018GC007431"
+  },
+  {
+   "key": "ref39",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1201/9781439865583"
+  },
+  {
+   "article-title": "Stellarium user guide 0.20.2",
+   "year": "2020",
+   "author": "zotti",
+   "key": "ref75"
+  },
+  {
+   "key": "ref38",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s12145-018-0350-x"
+  },
+  {
+   "article-title": "pemorse/data-visualization-tools: Gradient designer suite",
+   "year": "2020",
+   "author": "morse",
+   "key": "ref78"
+  },
+  {
+   "key": "ref79",
+   "article-title": "SMEAN2 composite tomography model",
+   "author": "becker",
+   "year": "2016",
+   "journal-title": "Chair in Geophysics Seismic Tomography Repository"
+  },
+  {
+   "key": "ref33",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1109/AERO.2007.352954"
+  },
+  {
+   "key": "ref32",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.cageo.2009.08.007"
+  },
+  {
+   "key": "ref31",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.cageo.2010.05.003"
+  },
+  {
+   "key": "ref30",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.cageo.2010.05.004"
+  },
+  {
+   "key": "ref37",
+   "article-title": "The IDV at 5: New features and future plans",
+   "volume": "7",
+   "author": "murray",
+   "year": "2009",
+   "journal-title": "Proc 25th Conf Int Interactive Inf Process Syst Meteorol Oceanogr Hydrol"
+  },
+  {
+   "key": "ref36",
+   "doi-asserted-by": "crossref",
+   "first-page": "802",
+   "DOI": "10.1109/TVCG.2017.2743958",
+   "article-title": "Globe browsing: Contextualized spatio-temporal planetary surface visualization",
+   "volume": "24",
+   "author": "bladin",
+   "year": "2018",
+   "journal-title": "IEEE Trans Visual Comput Graphics"
+  },
+  {
+   "year": "2019",
+   "key": "ref35",
+   "article-title": "ArcGIS earth"
+  },
+  {
+   "key": "ref34",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.cageo.2010.02.006"
+  },
+  {
+   "key": "ref60",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1109/SIBGRAPI.2013.26"
+  },
+  {
+   "key": "ref62",
+   "article-title": "Layers for effective volume rendering",
+   "author": "raman",
+   "year": "2008",
+   "journal-title": "Proc Eurographics/IEEE VGTC Workshop Volume Graph 2008"
+  },
+  {
+   "key": "ref61",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1201/b10679"
+  },
+  {
+   "key": "ref63",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3389/feart.2019.00274"
+  },
+  {
+   "key": "ref28",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.cageo.2010.06.001"
+  },
+  {
+   "key": "ref64",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.advengsoft.2017.10.002"
+  },
+  {
+   "key": "ref27",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/9780470689813"
+  },
+  {
+   "key": "ref65",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1109/MCG.2005.60"
+  },
+  {
+   "key": "ref66",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1109/TVCG.2007.70591"
+  },
+  {
+   "key": "ref29",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.isprsjprs.2018.08.019"
+  },
+  {
+   "key": "ref67",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/978-3-030-19385-0_6"
+  },
+  {
+   "key": "ref68",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.pepi.2009.10.002"
+  },
+  {
+   "key": "ref69",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2001GC000168"
+  },
+  {
+   "journal-title": "Introduction to Geographic Information Systems",
+   "year": "2018",
+   "author": "chang",
+   "key": "ref2"
+  },
+  {
+   "key": "ref1",
+   "article-title": "Modeling terrains and subsurface geology",
+   "author": "natali",
+   "year": "2012",
+   "journal-title": "Proc Eurographics State Art Rep"
+  },
+  {
+   "key": "ref20",
+   "first-page": "ed54a",
+   "article-title": "Stellarium as an educational resource in planetary astronomy",
+   "volume": "54",
+   "author": "connors",
+   "year": "2009",
+   "journal-title": "AGU Fall Meeting Abstracts"
+  },
+  {
+   "key": "ref22",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.cageo.2013.05.001"
+  },
+  {
+   "key": "ref21",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1177/0309132508094076"
+  },
+  {
+   "key": "ref24",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1109/TVCG.2016.2599030"
+  },
+  {
+   "key": "ref23",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1109/TVCG.2011.185"
+  },
+  {
+   "key": "ref26",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1109/3DVis.2014.7160094"
+  },
+  {
+   "key": "ref25",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.compenvurbsys.2007.11.001"
+  },
+  {
+   "key": "ref50",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1145/280814.280860"
+  },
+  {
+   "key": "ref51",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/B978-012387582-2/50009-5"
+  },
+  {
+   "key": "ref94",
+   "article-title": "Fisheye warping for spherical mirror fulldome projection",
+   "author": "bourke",
+   "year": "2012",
+   "journal-title": "Paul Bourke Personal Pages"
+  },
+  {
+   "key": "ref93",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/cgf.12934"
+  },
+  {
+   "key": "ref92",
+   "article-title": "Continents of the underworld come into focus",
+   "author": "sokol",
+   "year": "2020",
+   "journal-title": "Quanta Magazine"
+  },
+  {
+   "key": "ref91",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019EO117193"
+  },
+  {
+   "key": "ref90",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2006GC001248"
+  },
+  {
+   "key": "ref59",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1109/PACIFICVIS.2010.5429595"
+  },
+  {
+   "key": "ref58",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2018GC007584"
+  },
+  {
+   "key": "ref57",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1117/12.935640"
+  },
+  {
+   "article-title": "VisIt: Experiences with sustainable software",
+   "year": "2013",
+   "author": "ahern",
+   "key": "ref56"
+  },
+  {
+   "journal-title": "The ParaView Guide A Parallel Visualization Application",
+   "year": "2020",
+   "author": "ayachit",
+   "key": "ref55"
+  },
+  {
+   "key": "ref54",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/cgf.12929"
+  },
+  {
+   "key": "ref53",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1109/HPCC.2012.58"
+  },
+  {
+   "journal-title": "Real-Time Volume Graphics",
+   "year": "0",
+   "author": "engel",
+   "key": "ref52"
+  },
+  {
+   "key": "ref10",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/978-1-4471-2804-5"
+  },
+  {
+   "journal-title": "The Visualization Handbook",
+   "year": "2005",
+   "author": "hansen",
+   "key": "ref11"
+  },
+  {
+   "key": "ref40",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1145/985040.985043"
+  },
+  {
+   "key": "ref12",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1109/TVCG.2009.111"
+  },
+  {
+   "key": "ref13",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/978-3-540-71949-6_6"
+  },
+  {
+   "key": "ref14",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.20870/IJVR.2010.9.2.2767"
+  },
+  {
+   "key": "ref15",
+   "article-title": "Scientific visualisation and 3D modelling applications for mineral exploration and environmental management",
+   "volume": "31",
+   "author": "wilford",
+   "year": "1999",
+   "journal-title": "AGSO Research Newsletter"
+  },
+  {
+   "key": "ref82",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2013JB010773"
+  },
+  {
+   "key": "ref16",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5176/978-981-08-3190-5_458"
+  },
+  {
+   "key": "ref81",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2010JB007631"
+  },
+  {
+   "key": "ref17",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1145/2617841.2620693"
+  },
+  {
+   "key": "ref84",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5334/jors.287"
+  },
+  {
+   "key": "ref18",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/978-3-030-01388-2_2"
+  },
+  {
+   "key": "ref83",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.30638/eemj.2011.079"
+  },
+  {
+   "key": "ref19",
+   "first-page": "633",
+   "article-title": "OpenSpace: A system for astrographics",
+   "volume": "26",
+   "author": "bock",
+   "year": "2020",
+   "journal-title": "IEEE Trans Vis Comput Graphics"
+  },
+  {
+   "key": "ref80",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/j.1365-246X.2010.04884.x"
+  },
+  {
+   "key": "ref89",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1109/TVCG.2008.118"
+  },
+  {
+   "key": "ref4",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1080/17538947.2016.1196505"
+  },
+  {
+   "key": "ref3",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1080/01431161.2011.636081"
+  },
+  {
+   "journal-title": "Interactive Data Visualization Foundations Techniques and Applications",
+   "year": "2010",
+   "author": "ward",
+   "key": "ref6"
+  },
+  {
+   "journal-title": "The Solid Earth An Introduction to Global Geophysics",
+   "year": "2008",
+   "author": "fowler",
+   "key": "ref5"
+  },
+  {
+   "key": "ref85",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/0031-9201(81)90046-7"
+  },
+  {
+   "key": "ref8",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1080/23729333.2017.1302910"
+  },
+  {
+   "journal-title": "Rheology of the Earth",
+   "year": "1995",
+   "author": "ranalli",
+   "key": "ref86"
+  },
+  {
+   "key": "ref7",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.jvlc.2011.04.001"
+  },
+  {
+   "key": "ref49",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s10064-005-0015-0"
+  },
+  {
+   "key": "ref87",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2012.08.016"
+  },
+  {
+   "key": "ref88",
+   "article-title": "Harmonic colormaps for volume visualization",
+   "author": "wang",
+   "year": "2008",
+   "journal-title": "Proc IEEE/EG Symp Volume Point-Based Graph"
+  },
+  {
+   "key": "ref9",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1559/152304001782173970"
+  },
+  {
+   "article-title": "TerraVis: A stereoscopic viewer for interactive seismic data visualization",
+   "year": "2011",
+   "author": "stoecker",
+   "key": "ref46"
+  },
+  {
+   "key": "ref45",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2017EA000349"
+  },
+  {
+   "key": "ref48",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.cageo.2016.06.003"
+  },
+  {
+   "key": "ref47",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1145/2775292.2775315"
+  },
+  {
+   "key": "ref42",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1371/journal.pone.0150883"
+  },
+  {
+   "key": "ref41",
+   "first-page": "50",
+   "article-title": "Is there life in virtual globes?",
+   "volume": "16",
+   "author": "evangelidis",
+   "year": "2016",
+   "journal-title": "Proc Conf Free Open Source Softw Geospatial"
+  },
+  {
+   "key": "ref44",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s11707-014-0438-7"
+  },
+  {
+   "key": "ref43",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/GES00156.1"
+  }
+ ],
+ "container-title": "IEEE Transactions on Visualization and Computer Graphics",
+ "original-title": [],
+ "link": [
+  {
+   "URL": "http://xplorestaging.ieee.org/ielx7/2945/9782589/09253688.pdf?arnumber=9253688",
+   "content-type": "unspecified",
+   "content-version": "vor",
+   "intended-application": "similarity-checking"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2022,
+    6,
+    20
+   ]
+  ],
+  "date-time": "2022-06-20T20:24:15Z",
+  "timestamp": 1655756655000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://ieeexplore.ieee.org/document/9253688/"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2022,
+    7,
+    1
+   ]
+  ]
+ },
+ "references-count": 94,
+ "journal-issue": {
+  "issue": "7"
+ },
+ "URL": "http://dx.doi.org/10.1109/TVCG.2020.3037226",
+ "relation": {},
+ "ISSN": [
+  "1077-2626",
+  "1941-0506",
+  "2160-9306"
+ ],
+ "subject": [],
+ "container-title-short": "IEEE Trans. Visual. Comput. Graphics",
+ "published": {
+  "date-parts": [
+   [
+    2022,
+    7,
+    1
+   ]
+  ]
+ }
+}

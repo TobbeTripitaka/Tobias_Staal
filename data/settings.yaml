@@ -1,0 +1,147 @@
+# =============================================================================
+#  settings.yaml — what to build, who you are, and how pages are laid out
+# =============================================================================
+#  Items (papers, jobs, skills ...) live in data/records.csv.
+#  New items can be typed into data/new_entries.yaml (see data/template.yaml).
+#  This file holds everything that is NOT a list item.
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# 1. Which outputs to (re)build when you run ./update.sh or tools/build.py
+# -----------------------------------------------------------------------------
+build:
+  homepage: yes        # index.html
+  cv_long: yes         # cv/Tobias_Staal_CV_long.pdf
+  cv_short: yes        # cv/Tobias_Staal_CV_short.pdf (strictly one A4 page)
+  reflist: yes         # publications/references.bib + publication_list.pdf
+  compile_pdf: yes     # run XeLaTeX after writing the .tex files
+  fetch_doi: yes       # look up DOIs that are not yet in data/doi_cache/
+
+# -----------------------------------------------------------------------------
+# 2. Profile
+# -----------------------------------------------------------------------------
+profile:
+  first_name: Tobias
+  last_name: Stål
+  position: Geoscientist and engineer
+  location: Tasmania, Australia
+  pronouns: he/him
+  email: tobbetripitaka@gmail.com          # shown on the homepage
+  cv_email: tobias.staal@utas.edu.au       # shown on the CVs
+  phone: +61 4 4749 4089                   # CVs only; leave blank to hide
+  website: tobbetripitaka.github.io/Tobias_Staal
+  github: TobbeTripitaka
+  orcid: 0000-0002-4323-6748
+  photo_cv: Tobias_Staal_square            # file in cv/tex/ (no extension)
+  photo_web: cv/tex/Tobias_Staal_square.JPG
+
+  # How your own name may appear in author lists. These are shown in bold
+  # and always kept when long author lists are shortened.
+  my_names: [Stål, Staal, Stal]
+  my_short_name: T Stål
+
+# -----------------------------------------------------------------------------
+# 3. Links (homepage sidebar; README is edited by hand)
+# -----------------------------------------------------------------------------
+links:
+  - {label: GitHub,         text: github.com/TobbeTripitaka,          url: "https://github.com/TobbeTripitaka"}
+  - {label: Bluesky,        text: "@tobiasstl.bsky.social",           url: "https://bsky.app/profile/tobiasstl.bsky.social"}
+  - {label: UTAS,           text: University of Tasmania profile,     url: "https://discover.utas.edu.au/Tobias.Staal/about"}
+  - {label: Google Scholar, text: Google Scholar — Tobias Stål,       url: "https://scholar.google.com/citations?user=2W1UzuQAAAAJ&hl=en"}
+  - {label: ORCID,          text: 0000-0002-4323-6748,                url: "https://orcid.org/0000-0002-4323-6748"}
+  - {label: ResearchGate,   text: ResearchGate — Tobias Stål,         url: "https://www.researchgate.net/profile/Tobias-Stal"}
+
+# Download buttons at the top of the homepage
+downloads:
+  - {text: CV (full),         url: cv/Tobias_Staal_CV_long.pdf}
+  - {text: CV (one page),     url: cv/Tobias_Staal_CV_short.pdf}
+  - {text: Publication list,  url: publication_list.pdf}
+  - {text: BibTeX,            url: publications/references.bib}
+
+# -----------------------------------------------------------------------------
+# 4. Text blocks
+# -----------------------------------------------------------------------------
+# Short profile used at the top of both CVs
+cv_summary: >-
+  Geophysicist working on Antarctica's ice-covered interior. I integrate geology,
+  geophysics and statistical modelling to understand interactions between the ice
+  sheet and the solid Earth, with a focus on geothermal heat, subglacial geology and
+  instrumentation. Background in geology and geomorphology from the Arctic and Europe,
+  and an earlier professional career in sound, lighting and electrical engineering.
+
+# Left column of the homepage: one block per heading, optional photo
+homepage_blocks:
+  - heading: Nice to meet you
+    text: >-
+      I am Tobias Stål, a geophysicist specialising in Antarctic research. My background
+      is in geology and geomorphology, previously working in the Arctic and Europe. I also
+      have a professional background and education in art and electrical engineering.
+      I am here to learn, share knowledge and contribute to the community.
+    image: images/svalbard_river.jpg
+    alt: Svalbard
+    credit: "Photo: Derrick Midwinter"
+  - heading: ""
+    text: >-
+      I get excited about fieldwork logistics. My work has taken me to the Arctic, the
+      Antarctic, across Europe, Africa and the Middle East; projects and places where
+      limited resources force you to prioritise, solve problems with whatever you have,
+      and be well prepared. It turns out this constraint-driven approach works remarkably
+      well. It also makes interdisciplinary and international collaboration not just
+      possible, but essential. When you depend on other people's skills and experience,
+      you cannot afford to be judgemental.
+  - heading: Fieldwork and instrumentation
+    text: >-
+      I work in complex environments, build collaborations across disciplines and
+      continents, and love learning while exploring this planet. I enjoy the process and
+      don't take myself too seriously; however, I take my science extremely seriously.
+    image: images/denman.jpg
+    alt: Denman Glacier
+    credit: "Photo: Tobias Stål"
+  - heading: Modelling and analysis
+    text: >-
+      My research integrates geology, geophysics and statistical modelling to better
+      understand Antarctica's ice-covered interior. I investigate interactions between the
+      ice sheet and subglacial geology to improve projections of Antarctic change, sea-level
+      rise and global warming impacts. I also develop new modelling approaches, study
+      geothermal heat, explore geophysical instrumentation, and draw on the history of
+      polar science.
+    image: images/model_aus.jpg
+    alt: Lithospheric boundary model
+    credit: Stål et al. (GRL, 2019)
+
+# -----------------------------------------------------------------------------
+# 5. Layout: which sections appear in each output, in which order.
+#    Section keys are the values allowed in the `section` column of records.csv.
+#    Labels can be renamed freely here.
+# -----------------------------------------------------------------------------
+labels:
+  article:    Peer-reviewed publications
+  submitted:  Submitted and in review
+  chapter:    Books and book chapters
+  report:     Reports
+  outreach:   Outreach
+  dataset:    Datasets
+  software:   Software and code
+  abstract:   Conference abstracts
+  thesis:     Theses
+  position:   Academic positions
+  education:  Education
+  conference: Selected conferences, workshops and hackathons
+  work:       Selected non-academic work experience
+  award:      Awards and recognition
+  service:    Memberships and service
+  art:        Art collaborations (as a scientist)
+  skill:      Other skills and experience
+
+layout:
+  homepage:  [position, article, submitted, dataset, software, outreach, report, education, conference, work, award, service, art, skill]
+  cv_long:   [position, education, article, submitted, chapter, report, outreach, dataset, software, conference, award, service, work, art, skill]
+  cv_short:  [position, work, education, article, dataset, award, service, art, skill]
+  reflist:   [article, submitted, chapter, report, outreach, dataset, software, abstract, thesis]
+
+# Maximum number of authors shown before shortening to "…, T Stål et al."
+# (the full list is always kept in the .bib file and publication list)
+max_authors:
+  homepage: 6
+  cv_long: 10
+  cv_short: 3

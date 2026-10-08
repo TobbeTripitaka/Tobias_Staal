@@ -1,0 +1,143 @@
+{
+ "type": "dataset",
+ "id": "https://doi.org/10.5880/fidgeo.2023.008",
+ "categories": [
+  "heat flow density",
+  "Global Heat Flow Database",
+  "International Heat Flow Commission",
+  "EARTH SCIENCE &gt; OCEANS &gt; MARINE VOLCANISM &gt; BENTHIC HEAT FLOW",
+  "EARTH SCIENCE &gt; OCEANS &gt; OCEAN HEAT BUDGET &gt; HEAT FLUX",
+  "physical property &gt; temperature"
+ ],
+ "author": [
+  {
+   "literal": "Global Heat Flow Data Assessment Group"
+  },
+  {
+   "family": "Fuchs",
+   "given": "Sven"
+  },
+  {
+   "family": "Neumann",
+   "given": "Florian"
+  },
+  {
+   "family": "Norden",
+   "given": "Ben"
+  },
+  {
+   "family": "Beardsmore",
+   "given": "Graeme"
+  },
+  {
+   "family": "Chiozzi",
+   "given": "Paolo"
+  },
+  {
+   "family": "Colgan",
+   "given": "William"
+  },
+  {
+   "family": "Anguiano Dominguez",
+   "given": "Ana Paulina"
+  },
+  {
+   "family": "Duque",
+   "given": "Maria Rosa Alves"
+  },
+  {
+   "family": "Ojeda Espinoza",
+   "given": "Orlando Miguel"
+  },
+  {
+   "family": "Forster",
+   "given": "Florian"
+  },
+  {
+   "family": "Förster",
+   "given": "Andrea"
+  },
+  {
+   "family": "Fröhder",
+   "given": "Robert"
+  },
+  {
+   "family": "Fuentes",
+   "given": "Karina"
+  },
+  {
+   "family": "Hajto",
+   "given": "Marek"
+  },
+  {
+   "family": "Harris",
+   "given": "Robert"
+  },
+  {
+   "family": "Jõeleht",
+   "given": "Argo"
+  },
+  {
+   "family": "Liebing",
+   "given": "Helena"
+  },
+  {
+   "family": "Liu",
+   "given": "Shaowen"
+  },
+  {
+   "family": "Lüdtke",
+   "given": "Gwendolin"
+  },
+  {
+   "family": "Madon",
+   "given": "Mazlan"
+  },
+  {
+   "family": "Negrete-Aranda",
+   "given": "Raquel"
+  },
+  {
+   "family": "Poort",
+   "given": "Jeffrey"
+  },
+  {
+   "family": "Reznik",
+   "given": "Itay J."
+  },
+  {
+   "family": "Riedel",
+   "given": "Michael"
+  },
+  {
+   "family": "Rolandone",
+   "given": "Frédérique"
+  },
+  {
+   "family": "Stål",
+   "given": "Tobias"
+  },
+  {
+   "family": "Verdoya",
+   "given": "Massimo"
+  },
+  {
+   "family": "Wu",
+   "given": "Jyun-Nai"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2023
+   ]
+  ]
+ },
+ "abstract": "The data publication contains the compilation of global heat-flow data by the International Heat Flow Commission (IHFC; www.ihfc-iugg.org) of the International Association of Seismology and Physics of the Earth's Interior (IASPEI). The presented data update 2023 contains data generated between 1939 and 2022 and constitutes the first intermediate update benefiting from the global collaborative assessment and quality control of the Global Heat Flow Database running since May 2021 (http://assessment.ihfc-iugg.org).",
+ "DOI": "10.5880/FIDGEO.2023.008",
+ "publisher": "GFZ Data Services",
+ "title": "The Global Heat Flow Database: Update 2023",
+ "URL": "https://dataservices.gfz.de/10.5880/fidgeo.2023.008/the-global-heat-flow-database-update-2023",
+ "copyright": "Creative Commons Attribution 4.0 International",
+ "version": "1"
+}

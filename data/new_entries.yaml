@@ -1,0 +1,10 @@
+# =============================================================================
+#  new_entries.yaml — inbox for new or updated items
+# =============================================================================
+#  Copy a block from data/template.yaml below `entries:`, fill in what you know
+#  (blank fields are fine; a DOI fills the rest) and run ./update.sh.
+#  The build moves the entries into data/records.csv and archives this file in
+#  data/imported/. To change an existing item, use its id: non-empty values
+#  here replace the values in the CSV.
+# =============================================================================
+entries: []

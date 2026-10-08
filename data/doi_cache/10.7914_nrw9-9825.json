@@ -1,0 +1,30 @@
+{
+ "type": "dataset",
+ "id": "https://doi.org/10.7914/nrw9-9825",
+ "author": [
+  {
+   "literal": "Anya M. Reading"
+  },
+  {
+   "literal": "Tobias Stål"
+  }
+ ],
+ "contributor": [
+  {
+   "literal": "Seismological Facility for the Advancement of Geoscience"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2015
+   ]
+  ]
+ },
+ "abstract": "A sparse seismic instrument deployment between Casey and Davis stations in East Antarctica, also extending to the east of Casey.  Co-located with GNSS stations and magnetotelluric recording sites.  The network aims to collect data to inform the Earth response to ice sheet change.",
+ "DOI": "10.7914/NRW9-9825",
+ "publisher": "University of Tasmania",
+ "title": "CAD Seismic Deployment, Casey-Davis Region, East Antarctica",
+ "URL": "https://www.fdsn.org/networks/detail/9V_2015/",
+ "copyright": "Creative Commons Attribution 4.0 International"
+}

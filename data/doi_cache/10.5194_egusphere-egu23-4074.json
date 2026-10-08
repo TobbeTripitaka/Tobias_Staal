@@ -1,0 +1,227 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2025,
+    5,
+    14
+   ]
+  ],
+  "date-time": "2025-05-14T13:02:27Z",
+  "timestamp": 1747227747751,
+  "version": "3.40.5"
+ },
+ "posted": {
+  "date-parts": [
+   [
+    2023,
+    5,
+    15
+   ]
+  ]
+ },
+ "group-title": "oral",
+ "reference-count": 0,
+ "publisher": "Copernicus GmbH",
+ "content-domain": {
+  "domain": [],
+  "crossmark-restriction": false
+ },
+ "abstract": "<jats:p>Antarctic subglacial properties impact geothermal heat, subglacial sedimentation, and glacial isostatic adjustment; critical parameters for predicting the ice sheet's response to warming oceans. However, the tectonic architecture of the Antarctic interior is unresolved, with results dependent on datasets or extrapolation used. Most existing deterministic suggestions are derived from qualitative observations and often presented as robust results; however, they hide possible alternative interpretations.&amp;#160;Using information entropy as a measure of certainty, we present a robust tectonic segmentation model generated from similarity analysis of multiple geophysical and geological datasets. The use of information entropy provides us with an unbiased and transparent metric to communicate the ambiguities from the uncertainties of qualitative classifications. Information theory also allows us to test and optimise the methods and data to evaluate how choices impact the distribution of alternative output maps. We further discuss how this metric can quantify the predictive power of parameters as a function of regions with different tectonic settings.</jats:p>",
+ "DOI": "10.5194/egusphere-egu23-4074",
+ "type": "posted-content",
+ "created": {
+  "date-parts": [
+   [
+    2023,
+    2,
+    22
+   ]
+  ],
+  "date-time": "2023-02-22T16:44:33Z",
+  "timestamp": 1677084273000
+ },
+ "source": "Crossref",
+ "is-referenced-by-count": 0,
+ "title": "Using information entropy to optimise and communicate certainty of continental scale tectonic models",
+ "prefix": "10.5194",
+ "author": [
+  {
+   "ORCID": "https://orcid.org/0000-0002-4323-6748",
+   "authenticated-orcid": false,
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "first",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-9316-7605",
+   "authenticated-orcid": false,
+   "given": "Anya M.",
+   "family": "Reading",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Matthew J.",
+   "family": "Cracknell",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0001-7492-5338",
+   "authenticated-orcid": false,
+   "given": "Jörg",
+   "family": "Ebbing",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4992-8681",
+   "authenticated-orcid": false,
+   "given": "Jacqueline A.",
+   "family": "Halpin",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-5511-078X",
+   "authenticated-orcid": false,
+   "given": "Ian D.",
+   "family": "Kelly",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Emma J.",
+   "family": "MacKie",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Mohamed",
+   "family": "Sobh",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4376-5455",
+   "authenticated-orcid": false,
+   "given": "Ross J.",
+   "family": "Turner",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Joanne M.",
+   "family": "Whittaker",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  }
+ ],
+ "member": "3145",
+ "container-title": [],
+ "original-title": [],
+ "deposited": {
+  "date-parts": [
+   [
+    2023,
+    5,
+    15
+   ]
+  ],
+  "date-time": "2023-05-15T20:31:33Z",
+  "timestamp": 1684182693000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://meetingorganizer.copernicus.org/EGU23/EGU23-4074.html"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2023,
+    5,
+    15
+   ]
+  ]
+ },
+ "references-count": 0,
+ "URL": "http://dx.doi.org/10.5194/egusphere-egu23-4074",
+ "relation": {},
+ "subject": [],
+ "published": {
+  "date-parts": [
+   [
+    2023,
+    5,
+    15
+   ]
+  ]
+ },
+ "subtype": "other"
+}

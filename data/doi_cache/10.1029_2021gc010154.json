@@ -1,0 +1,742 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2026,
+    9,
+    3
+   ]
+  ],
+  "date-time": "2026-09-03T01:05:33Z",
+  "timestamp": 1788397533920,
+  "version": "build-2803163510"
+ },
+ "reference-count": 75,
+ "publisher": "American Geophysical Union (AGU)",
+ "issue": "12",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2021,
+      12,
+      16
+     ]
+    ],
+    "date-time": "2021-12-16T00:00:00Z",
+    "timestamp": 1639612800000
+   },
+   "content-version": "vor",
+   "delay-in-days": 15,
+   "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+  }
+ ],
+ "content-domain": {
+  "domain": [
+   "agupubs.onlinelibrary.wiley.com"
+  ],
+  "crossmark-restriction": true
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2021,
+    12
+   ]
+  ]
+ },
+ "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    We present PetroChron Antarctica, a new relational database including petrological, geochemical and geochronological data sets along with computed rock properties from geological samples across Antarctica. The database contains whole‐rock geochemistry with major/trace element and isotope analyses, geochronology from multiple isotopic systems and minerals for given samples, as well as an internally consistent rock classification based on chemical analysis and derived rock properties (i.e., chemical indices, density,\n                    <jats:italic>p</jats:italic>\n                    ‐velocity, and heat production). A broad range of meta‐information such as geographic location, petrology, mineralogy, age statistics and significance are also included and can be used to filter and assess the quality of the data. Currently, the database contains 11,559 entries representing 10,056 unique samples with varying amounts of geochemical and geochronological data. The distribution of rock types is dominated by mafic (36%) and felsic (33%) compositions, followed by intermediate (22%) and ultramafic (9%) compositions. Maps of age distribution and isotopic composition highlight major episodes of tectonic and thermal activity that define well known crustal heterogeneities across the continent, with the oldest rocks preserved in East Antarctica and more juvenile lithosphere characterizing West Antarctica. PetroChron Antarctica allows spatial and temporal variations in geology to be explored at the continental scale and integrated with other Earth‐cryosphere‐biosphere‐ocean data sets. As such, it provides a powerful resource ready for diverse applications including plate tectonic reconstructions, geological/geophysical maps, geothermal heat flow models, lithospheric and glacial isostasy, geomorphology, ice sheet reconstructions, biodiversity evolution, and oceanography.\n                  </jats:p>",
+ "DOI": "10.1029/2021gc010154",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2021,
+    12,
+    8
+   ]
+  ],
+  "date-time": "2021-12-08T15:36:15Z",
+  "timestamp": 1638977775000
+ },
+ "update-policy": "https://doi.org/10.1002/crossmark_policy",
+ "source": "Crossref",
+ "is-referenced-by-count": 23,
+ "title": "PetroChron Antarctica: A Geological Database for Interdisciplinary Use",
+ "prefix": "10.1029",
+ "volume": "22",
+ "author": [
+  {
+   "ORCID": "https://orcid.org/0000-0002-9191-4259",
+   "authenticated-orcid": false,
+   "given": "G.",
+   "family": "Sanchez",
+   "sequence": "first",
+   "affiliation": [
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart TAS Australia"
+    },
+    {
+     "name": "Geoscience Australia  Canberra ACT Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4992-8681",
+   "authenticated-orcid": false,
+   "given": "J. A.",
+   "family": "Halpin",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-7695-2484",
+   "authenticated-orcid": false,
+   "given": "M.",
+   "family": "Gard",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Geoscience Australia  Canberra ACT Australia"
+    },
+    {
+     "name": "Department of Earth Sciences University of Adelaide  Adelaide SA Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-8257-7975",
+   "authenticated-orcid": false,
+   "given": "D.",
+   "family": "Hasterok",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Department of Earth Sciences University of Adelaide  Adelaide SA Australia"
+    },
+    {
+     "name": "Mawson Centre for Geoscience University of Adelaide  Adelaide SA Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4323-6748",
+   "authenticated-orcid": false,
+   "given": "T.",
+   "family": "Stål",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart TAS Australia"
+    },
+    {
+     "name": "School of Natural Sciences (Physics) University of Tasmania  Hobart TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0001-9115-9196",
+   "authenticated-orcid": false,
+   "given": "T.",
+   "family": "Raimondo",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "UniSA STEM University of South Australia  Adelaide SA Australia"
+    },
+    {
+     "name": "Future Industries Institute University of South Australia  Adelaide SA Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-3604-4625",
+   "authenticated-orcid": false,
+   "given": "S.",
+   "family": "Peters",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "UniSA STEM University of South Australia  Adelaide SA Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0003-2208-0075",
+   "authenticated-orcid": false,
+   "given": "A.",
+   "family": "Burton‐Johnson",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "British Antarctic Survey  Cambridge UK"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  }
+ ],
+ "member": "13",
+ "published-online": {
+  "date-parts": [
+   [
+    2021,
+    12,
+    16
+   ]
+  ]
+ },
+ "reference": [
+  {
+   "key": "e_1_2_8_2_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2012.11.011"
+  },
+  {
+   "key": "e_1_2_8_3_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/0016-7606(2002)114<1007:iomdtc>2.0.co;2"
+  },
+  {
+   "key": "e_1_2_8_4_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1086/679468"
+  },
+  {
+   "key": "e_1_2_8_5_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2006.06.009"
+  },
+  {
+   "key": "e_1_2_8_6_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/BF00376336"
+  },
+  {
+   "key": "e_1_2_8_7_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/petrology/egh093"
+  },
+  {
+   "key": "e_1_2_8_8_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gr.2010.09.003"
+  },
+  {
+   "key": "e_1_2_8_9_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2005.12.003"
+  },
+  {
+   "key": "e_1_2_8_10_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2015.01.037"
+  },
+  {
+   "key": "e_1_2_8_11_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc-14-3843-2020"
+  },
+  {
+   "key": "e_1_2_8_12_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/jgs2013-030"
+  },
+  {
+   "key": "e_1_2_8_13_1",
+   "volume-title": "OZCHEM National Whole Rock Geochemistry Dataset",
+   "author": "Champion D. C.",
+   "year": "2007"
+  },
+  {
+   "key": "e_1_2_8_14_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2008.09.001"
+  },
+  {
+   "key": "e_1_2_8_15_1",
+   "volume-title": "SCAR GeoMAP dataset",
+   "author": "Cox S. C.",
+   "year": "2019"
+  },
+  {
+   "key": "e_1_2_8_16_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/S0263593300010117"
+  },
+  {
+   "key": "e_1_2_8_17_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/0009-2541(80)90020-0"
+  },
+  {
+   "key": "e_1_2_8_18_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/jgs2018-146"
+  },
+  {
+   "key": "e_1_2_8_19_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.cageo.2004.06.002"
+  },
+  {
+   "key": "e_1_2_8_20_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1086/684052"
+  },
+  {
+   "key": "e_1_2_8_21_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2014.10.014"
+  },
+  {
+   "key": "e_1_2_8_22_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/96jb03898"
+  },
+  {
+   "key": "e_1_2_8_23_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/GSL.SP.2003.206.01.07"
+  },
+  {
+   "key": "e_1_2_8_24_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/0009-2541(93)90109-V"
+  },
+  {
+   "key": "e_1_2_8_25_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/petrology/42.11.2033"
+  },
+  {
+   "key": "e_1_2_8_26_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/essd-11-1553-2019"
+  },
+  {
+   "key": "e_1_2_8_27_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/0012-821X(87)90102-6"
+  },
+  {
+   "key": "e_1_2_8_28_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc-12-491-2018"
+  },
+  {
+   "key": "e_1_2_8_29_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gr.2019.11.001"
+  },
+  {
+   "key": "e_1_2_8_30_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/B30079.1"
+  },
+  {
+   "key": "e_1_2_8_31_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2016.09.001"
+  },
+  {
+   "key": "e_1_2_8_32_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/petrology/egs043"
+  },
+  {
+   "key": "e_1_2_8_33_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2012.02.016"
+  },
+  {
+   "key": "e_1_2_8_34_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.lithos.2016.07.032"
+  },
+  {
+   "key": "e_1_2_8_35_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/j.1525-1314.2007.00723.x"
+  },
+  {
+   "key": "e_1_2_8_36_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/SP383.9"
+  },
+  {
+   "key": "e_1_2_8_37_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gsf.2017.10.012"
+  },
+  {
+   "key": "e_1_2_8_38_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gsf.2017.03.006"
+  },
+  {
+   "key": "e_1_2_8_39_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020GC009122"
+  },
+  {
+   "key": "e_1_2_8_40_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gsf.2019.04.003"
+  },
+  {
+   "key": "e_1_2_8_41_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/S0301-9268(03)00125-6"
+  },
+  {
+   "key": "e_1_2_8_42_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2015.05.003"
+  },
+  {
+   "key": "e_1_2_8_43_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/gji/ggz376"
+  },
+  {
+   "key": "e_1_2_8_44_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s43017-019-0013-6"
+  },
+  {
+   "key": "e_1_2_8_45_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.lithos.2016.12.028"
+  },
+  {
+   "key": "e_1_2_8_46_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/gsjgs.148.5.0825"
+  },
+  {
+   "key": "e_1_2_8_47_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.13679/j.advps.2018.2.00108"
+  },
+  {
+   "key": "e_1_2_8_48_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2016.08.003"
+  },
+  {
+   "key": "e_1_2_8_49_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020TC006180"
+  },
+  {
+   "key": "e_1_2_8_50_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598-019-46612-y"
+  },
+  {
+   "key": "e_1_2_8_51_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/0012-8252(94)90029-9"
+  },
+  {
+   "key": "e_1_2_8_52_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/SP457.2"
+  },
+  {
+   "key": "e_1_2_8_53_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/SP383.1"
+  },
+  {
+   "key": "e_1_2_8_54_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/petrology/egv082"
+  },
+  {
+   "key": "e_1_2_8_55_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2017.03.005"
+  },
+  {
+   "key": "e_1_2_8_56_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/G45952.1"
+  },
+  {
+   "key": "e_1_2_8_57_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1086/629290"
+  },
+  {
+   "key": "e_1_2_8_58_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/97jb02605"
+  },
+  {
+   "key": "e_1_2_8_59_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/S0016756800058581"
+  },
+  {
+   "key": "e_1_2_8_60_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020GL090003"
+  },
+  {
+   "key": "e_1_2_8_61_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gr.2017.04.025"
+  },
+  {
+   "key": "e_1_2_8_62_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/jgs2016-053"
+  },
+  {
+   "key": "e_1_2_8_63_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2018.10.044"
+  },
+  {
+   "key": "e_1_2_8_64_1",
+   "series-title": "Handbook of terrestrial heat flow density determination",
+   "first-page": "125",
+   "author": "Rybach L.",
+   "year": "1988"
+  },
+  {
+   "key": "e_1_2_8_65_1",
+   "unstructured": "Secretariat SCAR.(1992 updated 2014). Composite Gazetteer of Antarctica Scientific Committee on Antarctic Research. GCMD Metadata. Retrieved fromhttp://gcmd.nasa.gov/records/SCAR_Gazetteer.html"
+  },
+  {
+   "key": "e_1_2_8_66_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gr.2018.04.017"
+  },
+  {
+   "key": "e_1_2_8_67_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3389/feart.2020.577502"
+  },
+  {
+   "key": "e_1_2_8_68_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020GC009428"
+  },
+  {
+   "key": "e_1_2_8_69_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1080/00288306.2016.1157086"
+  },
+  {
+   "key": "e_1_2_8_70_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.lithos.2016.02.010"
+  },
+  {
+   "key": "e_1_2_8_71_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2017.05.013"
+  },
+  {
+   "key": "e_1_2_8_72_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2015.12.018"
+  },
+  {
+   "key": "e_1_2_8_73_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41467-018-08068-y"
+  },
+  {
+   "key": "e_1_2_8_74_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.tecto.2014.05.022"
+  },
+  {
+   "key": "e_1_2_8_75_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2012.02.019"
+  },
+  {
+   "key": "e_1_2_8_76_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.lithos.2018.05.008"
+  }
+ ],
+ "container-title": "Geochemistry, Geophysics, Geosystems",
+ "original-title": [],
+ "language": "en",
+ "link": [
+  {
+   "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1029/2021GC010154",
+   "content-type": "application/pdf",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1029/2021GC010154",
+   "content-type": "application/xml",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2021GC010154",
+   "content-type": "unspecified",
+   "content-version": "vor",
+   "intended-application": "similarity-checking"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2023,
+    8,
+    27
+   ]
+  ],
+  "date-time": "2023-08-27T03:58:10Z",
+  "timestamp": 1693108690000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GC010154"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2021,
+    12
+   ]
+  ]
+ },
+ "references-count": 75,
+ "journal-issue": {
+  "issue": "12",
+  "published-print": {
+   "date-parts": [
+    [
+     2021,
+     12
+    ]
+   ]
+  }
+ },
+ "alternative-id": [
+  "10.1029/2021GC010154"
+ ],
+ "URL": "http://dx.doi.org/10.1029/2021GC010154",
+ "relation": {
+  "has-preprint": [
+   {
+    "id-type": "doi",
+    "id": "10.1002/essoar.10507981.1",
+    "asserted-by": "object"
+   }
+  ]
+ },
+ "ISSN": [
+  "1525-2027",
+  "1525-2027"
+ ],
+ "subject": [],
+ "container-title-short": "Geochem Geophys Geosyst",
+ "published": {
+  "date-parts": [
+   [
+    2021,
+    12
+   ]
+  ]
+ },
+ "assertion": [
+  {
+   "value": "2021-09-08",
+   "order": 0,
+   "name": "received",
+   "label": "Received",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  },
+  {
+   "value": "2021-11-21",
+   "order": 1,
+   "name": "accepted",
+   "label": "Accepted",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  },
+  {
+   "value": "2021-12-16",
+   "order": 2,
+   "name": "published",
+   "label": "Published",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  }
+ ],
+ "article-number": "e2021GC010154"
+}

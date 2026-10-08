@@ -1,0 +1,47 @@
+{
+ "type": "dataset",
+ "id": "https://doi.org/10.7914/sn/z9_2021",
+ "author": [
+  {
+   "literal": "Tobias Stål"
+  },
+  {
+   "literal": "Anya M. Reading"
+  },
+  {
+   "literal": "Shyla Kupis"
+  },
+  {
+   "literal": "James Newlands"
+  }
+ ],
+ "contributor": [
+  {
+   "literal": "University of Tasmania"
+  },
+  {
+   "literal": "Australian National University"
+  },
+  {
+   "literal": "Australian Research Council"
+  },
+  {
+   "literal": "Australian Antarctic Division"
+  },
+  {
+   "literal": "anya.reading@utas.edu.au"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2021
+   ]
+  ]
+ },
+ "abstract": "Rapid Deployment Seismic Recorders for Interdisciplinary Antarctic Research. Targeting ice bedrock interface characterisation, seismic wavefield investigations, and method development for ice sheet seismology.",
+ "DOI": "10.7914/SN/Z9_2021",
+ "publisher": "International Federation of Digital Seismograph Networks",
+ "title": "Casey-Wilkins Adaptable Array",
+ "URL": "https://www.fdsn.org/networks/detail/Z9_2021/"
+}

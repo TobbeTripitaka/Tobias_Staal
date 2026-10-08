@@ -116,3 +116,12 @@ __pycache__/
 *.nav
 *.snm
 *.vrb
+
+##################
+# CV build
+##################
+# copies of imported inbox files (git history already keeps them)
+data/imported/
+# LaTeX intermediate PDFs (final PDFs are moved to cv/ and the repo root)
+cv/tex/*.pdf
+.ipynb_checkpoints/

@@ -1,0 +1,44 @@
+{
+ "type": "dataset",
+ "id": "https://doi.org/10.1594/pangaea.918549",
+ "categories": [
+  "Antarctica",
+  "Interdiciplinary"
+ ],
+ "language": "en",
+ "author": [
+  {
+   "family": "Stål",
+   "given": "Tobias"
+  },
+  {
+   "family": "Reading",
+   "given": "Anya M"
+  },
+  {
+   "family": "Halpin",
+   "given": "Jacqueline A"
+  },
+  {
+   "family": "Phipps",
+   "given": "Steven J"
+  },
+  {
+   "family": "Whittaker",
+   "given": "Joanne"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2020
+   ]
+  ]
+ },
+ "abstract": "Example outputs from agrid model.ant_gia_dem_0.tiff is a simplified GIA model, using seismic data to constrain lithosphere thickness and crustal thickness.Aq0.tiff is a steady-state heat flow model with a simple segmented crust, but not including neotectonism. The values in particularly West Antarctica is therefore underestimated.",
+ "DOI": "10.1594/PANGAEA.918549",
+ "publisher": "PANGAEA",
+ "title": "The Antarctic crust and upper mantle: a flexible 3D model and framework for interdisciplinary research",
+ "URL": "https://doi.pangaea.de/10.1594/PANGAEA.918549",
+ "copyright": "Creative Commons Attribution 4.0 International"
+}

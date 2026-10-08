@@ -1,0 +1,162 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2026,
+    3,
+    13
+   ]
+  ],
+  "date-time": "2026-03-13T23:28:55Z",
+  "timestamp": 1773444535400,
+  "version": "3.50.1"
+ },
+ "posted": {
+  "date-parts": [
+   [
+    2026,
+    3,
+    13
+   ]
+  ]
+ },
+ "group-title": "display",
+ "reference-count": 0,
+ "publisher": "Copernicus GmbH",
+ "content-domain": {
+  "domain": [],
+  "crossmark-restriction": false
+ },
+ "abstract": "<jats:p>Geothermal heat plays an important role in basal ice sheet processes, potentially influencing the stability of Antarctica’s interior ice sheets. Modelled geothermal heat flow can yield discrepancies due to methodological choices and limited data. Recent advances in multivariate analysis and empirical methods have resolved many of these inconsistencies, yielding more consistent outputs that now serve as valuable inputs to ice sheet simulations. Nevertheless, substantial uncertainties remain, particularly in regions with sparse observational coverage. A key factor in addressing these challenges is the spatial resolution of heat flow maps, which governs how basal melt is represented in ice sheet dynamics. We introduce two new geothermal heat flow models designed for glaciated regions: Aq2, developed for continental Antarctica, and Kq2, developed for Greenland. Both models utilise a common framework and employ a multivariate, empirical similarity approach that integrates 18 of the most recent and highest quality observables with the latest reference geothermal heat database, to which we apply weighting and pre-processing to improve representation. Compared to previous empirical models, Aq2 and Kq2 offer reduced uncertainty, greater robustness, and refined spatial resolution. Geothermal heat flow is mapped onto a 0.5 × 0.5 km grid using a forward redistribution approach, which enables higher spatial resolution by leveraging refined observations where available. The models are openly shared in interoperable formats, complete with uncertainty estimates and reproducible code.</jats:p>",
+ "DOI": "10.5194/egusphere-egu26-6138",
+ "type": "posted-content",
+ "created": {
+  "date-parts": [
+   [
+    2026,
+    3,
+    13
+   ]
+  ],
+  "date-time": "2026-03-13T21:58:36Z",
+  "timestamp": 1773439116000
+ },
+ "source": "Crossref",
+ "is-referenced-by-count": 0,
+ "title": "Aq2 and Kq2, refined geothermal heat flow models from multivariate observables for application to ice sheet modelling",
+ "prefix": "10.5194",
+ "author": [
+  {
+   "ORCID": "https://orcid.org/0000-0002-4323-6748",
+   "authenticated-orcid": false,
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "first",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-2324-2120",
+   "authenticated-orcid": false,
+   "given": "Felicity S.",
+   "family": "McCormack",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-9316-7605",
+   "authenticated-orcid": false,
+   "given": "Anya M.",
+   "family": "Reading",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-8033-3846",
+   "authenticated-orcid": false,
+   "given": "Magued",
+   "family": "Al-Aghbary",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "name": "Aq2 Interdisciplinary Research Collaboration",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  }
+ ],
+ "member": "3145",
+ "container-title": [],
+ "original-title": [],
+ "deposited": {
+  "date-parts": [
+   [
+    2026,
+    3,
+    13
+   ]
+  ],
+  "date-time": "2026-03-13T22:01:48Z",
+  "timestamp": 1773439308000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://meetingorganizer.copernicus.org/EGU26/EGU26-6138.html"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2026,
+    3,
+    13
+   ]
+  ]
+ },
+ "references-count": 0,
+ "URL": "http://dx.doi.org/10.5194/egusphere-egu26-6138",
+ "relation": {},
+ "subject": [],
+ "published": {
+  "date-parts": [
+   [
+    2026,
+    3,
+    13
+   ]
+  ]
+ },
+ "subtype": "other"
+}

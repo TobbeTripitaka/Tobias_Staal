@@ -1,0 +1,1092 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2026,
+    10,
+    2
+   ]
+  ],
+  "date-time": "2026-10-02T16:52:38Z",
+  "timestamp": 1790959958942,
+  "version": "4.1.0"
+ },
+ "reference-count": 142,
+ "publisher": "American Geophysical Union (AGU)",
+ "issue": "12",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      16
+     ]
+    ],
+    "date-time": "2025-12-16T00:00:00Z",
+    "timestamp": 1765843200000
+   },
+   "content-version": "vor",
+   "delay-in-days": 15,
+   "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  }
+ ],
+ "content-domain": {
+  "domain": [
+   "agupubs.onlinelibrary.wiley.com"
+  ],
+  "crossmark-restriction": true
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2025,
+    12
+   ]
+  ]
+ },
+ "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The shared tectonic history of southwestern Australia and East Antarctica facilitates the exchange of geological insights between the regions. In this study, we present coupled susceptibility and density models obtained through the joint inversion of magnetic and gravity data. By assuming a common geological source for both signals, our coupling method minimizes misfits and variation in information, thereby enhancing a correlation between susceptibility and density. The resulting anomalies demonstrate structural continuity between the continents, aligning closely with major shear zones and seismic reflectors. Combining these results with machine learning, geochemical, and petrophysical databases, we predict a high‐resolution (10 km) heat production map for East Antarctica. Utilizing a Markov Chain Monte Carlo (MCMC) algorithm, we further develop a geothermal heat flow map with greater spatial variability than previous studies, yielding an average of mW/ in East Antarctica and mW/ in southwestern Australia. Our results provide a crucial high‐resolution boundary condition for ice sheet simulations, enabling more realistic estimates of basal meltwater production and ice temperatures.</jats:p>",
+ "DOI": "10.1029/2024jb030770",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2025,
+    12,
+    16
+   ]
+  ],
+  "date-time": "2025-12-16T18:50:36Z",
+  "timestamp": 1765911036000
+ },
+ "update-policy": "https://doi.org/10.1002/crossmark_policy",
+ "source": "Crossref",
+ "is-referenced-by-count": 4,
+ "title": "Linking Tectonics and Crustal Thermal Properties in Southwestern Australia and East Antarctica Through Coupled Gravity and Magnetic Analysis",
+ "prefix": "10.1029",
+ "volume": "130",
+ "author": [
+  {
+   "ORCID": "https://orcid.org/0000-0002-9222-2107",
+   "authenticated-orcid": false,
+   "given": "Mareen",
+   "family": "Lösing",
+   "sequence": "first",
+   "affiliation": [
+    {
+     "name": "School of Earth and Oceans The University of Western Australia  Perth WA Australia"
+    },
+    {
+     "name": "Australian Centre for Excellence in Antarctic Science The University of Western Australia  Perth WA Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-6375-2504",
+   "authenticated-orcid": false,
+   "given": "Alan",
+   "family": "Aitken",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "School of Earth and Oceans The University of Western Australia  Perth WA Australia"
+    },
+    {
+     "name": "Australian Centre for Excellence in Antarctic Science The University of Western Australia  Perth WA Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0001-7492-5338",
+   "authenticated-orcid": false,
+   "given": "Jörg",
+   "family": "Ebbing",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Institute of Geosciences Kiel University  Kiel Germany"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4992-8681",
+   "authenticated-orcid": false,
+   "given": "Jacqueline A.",
+   "family": "Halpin",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Australian Centre for Excellence in Antarctic Science  Hobart TAS Australia"
+    },
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0001-6165-2828",
+   "authenticated-orcid": false,
+   "given": "Lu",
+   "family": "Li",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "School of Earth and Oceans The University of Western Australia  Perth WA Australia"
+    },
+    {
+     "name": "Australian Centre for Excellence in Antarctic Science The University of Western Australia  Perth WA Australia"
+    },
+    {
+     "name": "Mineral Resources CSIRO  Kensington WA Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-7879-1346",
+   "authenticated-orcid": false,
+   "given": "Max",
+   "family": "Moorkamp",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Institute for Applied Geosciences Technical University Berlin  Berlin Germany"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-9316-7605",
+   "authenticated-orcid": false,
+   "given": "Anya",
+   "family": "Reading",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Australian Centre for Excellence in Antarctic Science  Hobart TAS Australia"
+    },
+    {
+     "name": "School of Natural Sciences (Physics) University of Tasmania  Hobart TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4323-6748",
+   "authenticated-orcid": false,
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Australian Centre for Excellence in Antarctic Science  Hobart TAS Australia"
+    },
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart TAS Australia"
+    },
+    {
+     "name": "School of Natural Sciences (Physics) University of Tasmania  Hobart TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  }
+ ],
+ "member": "13",
+ "published-online": {
+  "date-parts": [
+   [
+    2025,
+    12,
+    16
+   ]
+  ]
+ },
+ "reference": [
+  {
+   "key": "e_1_2_10_2_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gr.2014.10.019"
+  },
+  {
+   "key": "e_1_2_10_3_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2021RG000767"
+  },
+  {
+   "key": "e_1_2_10_4_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.palaeo.2020.110053"
+  },
+  {
+   "key": "e_1_2_10_5_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2014gl059405"
+  },
+  {
+   "key": "e_1_2_10_6_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2014JB011332"
+  },
+  {
+   "key": "e_1_2_10_7_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2015JB011917"
+  },
+  {
+   "key": "e_1_2_10_8_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/gji/ggaa378"
+  },
+  {
+   "key": "e_1_2_10_9_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gr.2010.09.003"
+  },
+  {
+   "key": "e_1_2_10_10_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1190/1.1468618"
+  },
+  {
+   "key": "e_1_2_10_11_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2015gl065782"
+  },
+  {
+   "key": "e_1_2_10_12_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/0264‐8172(95)00089‐5"
+  },
+  {
+   "key": "e_1_2_10_13_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc‐2020‐59"
+  },
+  {
+   "key": "e_1_2_10_14_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2017gl073596"
+  },
+  {
+   "key": "e_1_2_10_15_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/jgs2013‐030"
+  },
+  {
+   "key": "e_1_2_10_16_1",
+   "first-page": "8",
+   "article-title": "An overview of the Yilgarn craton and its crustal evolution",
+   "volume": "14",
+   "author": "Champion D.",
+   "year": "2007",
+   "journal-title": "Geoscience Australia Record"
+  },
+  {
+   "key": "e_1_2_10_17_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1145/2939672.2939785"
+  },
+  {
+   "key": "e_1_2_10_18_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2014GL059250"
+  },
+  {
+   "key": "e_1_2_10_19_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/essd‐14‐2209‐2022"
+  },
+  {
+   "key": "e_1_2_10_20_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2010.08.004"
+  },
+  {
+   "key": "e_1_2_10_21_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3189/172756499781821102"
+  },
+  {
+   "key": "e_1_2_10_22_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1186/s40517‐022‐00232‐4"
+  },
+  {
+   "key": "e_1_2_10_23_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41586‐021‐03427‐0"
+  },
+  {
+   "key": "e_1_2_10_24_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1190/geo2020‐0861.1"
+  },
+  {
+   "key": "e_1_2_10_25_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2019.115961"
+  },
+  {
+   "key": "e_1_2_10_26_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/0040‐1951(76)90023‐8"
+  },
+  {
+   "key": "e_1_2_10_27_1",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Ebbing J.(2021).Conformed aeromagnetic and satellite data for Antarctica Australia and southern Africa[Dataset].Zenodo.https://doi.org/10.5281/zenodo.15962085",
+   "DOI": "10.5281/zenodo.15962085"
+  },
+  {
+   "key": "e_1_2_10_28_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598‐021‐84834‐1"
+  },
+  {
+   "key": "e_1_2_10_29_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598‐018‐34733‐9"
+  },
+  {
+   "key": "e_1_2_10_30_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019gc008818"
+  },
+  {
+   "key": "e_1_2_10_31_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1126/science.1065370"
+  },
+  {
+   "key": "e_1_2_10_32_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2015gl064195"
+  },
+  {
+   "key": "e_1_2_10_33_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/s0012‐821x(01)00459‐9"
+  },
+  {
+   "key": "e_1_2_10_34_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/0091‐7613(1999)027<1087:aloeps>2.3.co;2"
+  },
+  {
+   "key": "e_1_2_10_35_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/gsl.sp.2003.206.01.07"
+  },
+  {
+   "key": "e_1_2_10_36_1",
+   "volume-title": "The global heat flow database: Release 2024",
+   "author": "Fuchs S.",
+   "year": "2024"
+  },
+  {
+   "key": "e_1_2_10_37_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.geothermics.2013.02.002"
+  },
+  {
+   "key": "e_1_2_10_38_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1146/annurev.earth.031208.100051"
+  },
+  {
+   "key": "e_1_2_10_39_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2003GL017370"
+  },
+  {
+   "key": "e_1_2_10_40_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.pepi.2021.106672"
+  },
+  {
+   "key": "e_1_2_10_41_1",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Gard M. Hasterok D. &Halpin J. A.(2019).Global whole‐rock geochemical database compilation[Dataset].Copernicus GmbH 11(4) 1553–1566.https://doi.org/10.5194/essd‐11‐1553‐2019",
+   "DOI": "10.5194/essd‐11‐1553‐2019"
+  },
+  {
+   "key": "e_1_2_10_42_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/se‐15‐63‐2024"
+  },
+  {
+   "key": "e_1_2_10_43_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s40641‐017‐0073‐y"
+  },
+  {
+   "key": "e_1_2_10_44_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.pepi.2020.106509"
+  },
+  {
+   "key": "e_1_2_10_45_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2018gl078153"
+  },
+  {
+   "key": "e_1_2_10_46_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc‐12‐491‐2018"
+  },
+  {
+   "key": "e_1_2_10_47_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2009jb006890"
+  },
+  {
+   "key": "e_1_2_10_48_1",
+   "unstructured": "GSWA. (2023).The department for energy mines industry regulation and safety[Dataset].Geological Survey of Western Australia. Retrieved fromhttp://www.dmp.wa.gov.au/Geological‐Survey/Petrophysics‐30646.aspx"
+  },
+  {
+   "key": "e_1_2_10_49_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc‐7‐647‐2013"
+  },
+  {
+   "key": "e_1_2_10_50_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s00024‐019‐02212‐5"
+  },
+  {
+   "key": "e_1_2_10_51_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2011.04.034"
+  },
+  {
+   "key": "e_1_2_10_52_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gsf.2017.10.012"
+  },
+  {
+   "key": "e_1_2_10_53_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.earscirev.2022.104069"
+  },
+  {
+   "key": "e_1_2_10_54_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2023gl106274"
+  },
+  {
+   "key": "e_1_2_10_55_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/bf00878948"
+  },
+  {
+   "key": "e_1_2_10_56_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.jag.2015.03.001"
+  },
+  {
+   "key": "e_1_2_10_57_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.17850/njg97‐3‐04"
+  },
+  {
+   "key": "e_1_2_10_58_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc‐18‐103‐2024"
+  },
+  {
+   "key": "e_1_2_10_59_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.quascirev.2009.06.004"
+  },
+  {
+   "key": "e_1_2_10_60_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.lithos.2016.07.017"
+  },
+  {
+   "key": "e_1_2_10_61_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41467‐021‐23739‐z"
+  },
+  {
+   "key": "e_1_2_10_62_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/gji/ggs065"
+  },
+  {
+   "key": "e_1_2_10_63_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/gji/ggad035"
+  },
+  {
+   "key": "e_1_2_10_64_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.lithos.2017.01.029"
+  },
+  {
+   "key": "e_1_2_10_65_1",
+   "first-page": "108",
+   "volume-title": "Metamorphic evolution of the southwest Yilgarn. Accelerated Geoscience Program extended abstracts",
+   "author": "Korhonen F.",
+   "year": "2021"
+  },
+  {
+   "key": "e_1_2_10_66_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/jb073i022p06977"
+  },
+  {
+   "key": "e_1_2_10_67_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2023gl106201"
+  },
+  {
+   "key": "e_1_2_10_68_1",
+   "article-title": "Complementing code for the bachelor’s thesis",
+   "author": "Liebsch J.",
+   "year": "2020",
+   "journal-title": "Determining the Sub‐Ice Topography of Svalbard using Gravity Data: A Feasibility Study"
+  },
+  {
+   "key": "e_1_2_10_69_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598‐018‐34748‐2"
+  },
+  {
+   "key": "e_1_2_10_70_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s43017‐021‐00246‐9"
+  },
+  {
+   "key": "e_1_2_10_71_1",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Lösing M. Alan A. Ebbing J. Halpin J. Li L. Moorkamp M. et al. (2025).Supplementary codes and data for linking tectonics and crustal thermal properties in southwestern Australia and east Antarctica through coupled gravity and magnetic analysis[Dataset Software].Zenodo.https://doi.org/10.5281/zenodo.16411045",
+   "DOI": "10.5281/zenodo.16411045"
+  },
+  {
+   "key": "e_1_2_10_72_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020jb021499"
+  },
+  {
+   "key": "e_1_2_10_73_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3389/feart.2020.00105"
+  },
+  {
+   "key": "e_1_2_10_74_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/gji/ggac334"
+  },
+  {
+   "key": "e_1_2_10_75_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2022jb025423"
+  },
+  {
+   "key": "e_1_2_10_76_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019GC008389"
+  },
+  {
+   "key": "e_1_2_10_77_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.31214/ijthfa.v2i1.30"
+  },
+  {
+   "key": "e_1_2_10_78_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.tecto.2012.12.001"
+  },
+  {
+   "key": "e_1_2_10_79_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2016gl071063"
+  },
+  {
+   "key": "e_1_2_10_80_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020tc006180"
+  },
+  {
+   "key": "e_1_2_10_81_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598‐019‐46612‐y"
+  },
+  {
+   "key": "e_1_2_10_82_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2017GL075609"
+  },
+  {
+   "key": "e_1_2_10_83_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2022gl098539"
+  },
+  {
+   "key": "e_1_2_10_84_1",
+   "volume-title": "A review of the geochemical processes controlling the distribution of thorium in the earth’s crust and Australia’s thorium resources",
+   "author": "Mernagh T. P.",
+   "year": "2008"
+  },
+  {
+   "key": "e_1_2_10_85_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.polar.2020.100587"
+  },
+  {
+   "key": "e_1_2_10_86_1",
+   "unstructured": "Milligan P. R. &Franklin R.(2010).Magnetic anomaly map of Australia(5th ed. 1). 5 million scale."
+  },
+  {
+   "key": "e_1_2_10_87_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/s0012‐821x(99)00212‐5"
+  },
+  {
+   "key": "e_1_2_10_88_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2021gl096336"
+  },
+  {
+   "key": "e_1_2_10_89_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/j.1365‐246X.2010.04856.x"
+  },
+  {
+   "key": "e_1_2_10_90_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41561‐019‐0510‐8"
+  },
+  {
+   "key": "e_1_2_10_91_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/jmg.12266"
+  },
+  {
+   "key": "e_1_2_10_92_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2017.03.005"
+  },
+  {
+   "key": "e_1_2_10_93_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3390/rs4092753"
+  },
+  {
+   "key": "e_1_2_10_94_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2018TC005462"
+  },
+  {
+   "key": "e_1_2_10_95_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/j.1365‐246X.1976.tb00323.x"
+  },
+  {
+   "key": "e_1_2_10_96_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/s0012‐821x(00)00268‐5"
+  },
+  {
+   "key": "e_1_2_10_97_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/gji/ggx381"
+  },
+  {
+   "key": "e_1_2_10_98_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/M56‐2020‐5"
+  },
+  {
+   "key": "e_1_2_10_99_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019jb017997"
+  },
+  {
+   "key": "e_1_2_10_100_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019tc005593"
+  },
+  {
+   "key": "e_1_2_10_101_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.palaeo.2019.109346"
+  },
+  {
+   "key": "e_1_2_10_102_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020gl091741"
+  },
+  {
+   "key": "e_1_2_10_103_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2016gl068436"
+  },
+  {
+   "key": "e_1_2_10_104_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/aog.2016.26"
+  },
+  {
+   "key": "e_1_2_10_105_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019GC008418"
+  },
+  {
+   "key": "e_1_2_10_106_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41597‐025‐04672‐y"
+  },
+  {
+   "key": "e_1_2_10_107_1",
+   "unstructured": "Purucker M. E.(2012).Geothermal heat flux data set based on low resolution observations collected by champ satellite between 2000 and 2010 and produced from the mf‐6 model following the technique described in fox Maule et al. (2005). Retrieved fromhttp://websrv.cs.umt.edu/isis/index.php"
+  },
+  {
+   "key": "e_1_2_10_108_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/gji/ggx333"
+  },
+  {
+   "key": "e_1_2_10_109_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s43017‐022‐00348‐y"
+  },
+  {
+   "key": "e_1_2_10_110_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1126/science.1208336"
+  },
+  {
+   "key": "e_1_2_10_111_1",
+   "volume-title": "Thermal modelling in sedimentary basins",
+   "author": "Rybach L.",
+   "year": "1986"
+  },
+  {
+   "key": "e_1_2_10_112_1",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Sanchez G. Halpin J. A. Gard M. Hasterok D. Staal T. Raimondo T. et al. (2021).Petrochron Antarctica: A geological database for interdisciplinary use[Dataset].Wiley Online Library 22(12) e2021GC010154.https://doi.org/10.1029/2021gc010154",
+   "DOI": "10.1029/2021gc010154"
+  },
+  {
+   "key": "e_1_2_10_113_1",
+   "unstructured": "SARIG. (2023).South Australian resources information gateway[Dataset].The Department for Energy and Mining the Government of South Australia Geoscientific Data. Retrieved fromhttps://map.sarig.sa.gov.au/"
+  },
+  {
+   "key": "e_1_2_10_114_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2017JB014423"
+  },
+  {
+   "key": "e_1_2_10_115_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020GL086955"
+  },
+  {
+   "key": "e_1_2_10_116_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/0301‐9268(89)90052‐1"
+  },
+  {
+   "key": "e_1_2_10_117_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3189/S002214300000229X"
+  },
+  {
+   "key": "e_1_2_10_118_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2017.04.041"
+  },
+  {
+   "key": "e_1_2_10_119_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/jog.2020.8"
+  },
+  {
+   "key": "e_1_2_10_120_1",
+   "volume-title": "Variations in granite geochemistry in the southwest yilgarn",
+   "author": "Smithies R.",
+   "year": "2021"
+  },
+  {
+   "key": "e_1_2_10_121_1",
+   "first-page": "84",
+   "volume-title": "Interpreted bedrock geology of the south yilgarn and central Albany‐Fraser Orogen, western Australia",
+   "author": "Spaggiari C.",
+   "year": "2009"
+  },
+  {
+   "key": "e_1_2_10_122_1",
+   "volume-title": "Geological interpretation of the Madura and Coompana provinces along the Eucla–Gawler seismic and Magnetotelluric line 13ga‐eg1",
+   "author": "Spaggiari C.",
+   "year": "2017"
+  },
+  {
+   "key": "e_1_2_10_123_1",
+   "first-page": "92",
+   "volume-title": "The geology of the east Albany–Fraser Orogen–a field guide",
+   "author": "Spaggiari C.",
+   "year": "2011"
+  },
+  {
+   "key": "e_1_2_10_124_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2015.05.036"
+  },
+  {
+   "key": "e_1_2_10_125_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2018.08.025"
+  },
+  {
+   "key": "e_1_2_10_126_1",
+   "first-page": "30",
+   "volume-title": "Eucla basement stratigraphic drilling results release workshop: Extended abstracts",
+   "author": "Spaggiari C.",
+   "year": "2015"
+  },
+  {
+   "key": "e_1_2_10_127_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2024gl110098"
+  },
+  {
+   "key": "e_1_2_10_128_1",
+   "doi-asserted-by": "crossref",
+   "unstructured": "Stål T. Reading A. M. Fuchs S. Halpin J. A. Lösing M. &Turner R. J.(2022).Understanding sampling bias in the global heat flow compilation.https://doi.org/10.3389/feart.2022.963525",
+   "DOI": "10.31223/X5592T"
+  },
+  {
+   "key": "e_1_2_10_129_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020gc009428"
+  },
+  {
+   "key": "e_1_2_10_130_1",
+   "volume-title": "Geophysical investigations of Wilkes land, Antarctica (unpublished doctoral dissertation)",
+   "author": "Steed R. H. N.",
+   "year": "1980"
+  },
+  {
+   "key": "e_1_2_10_131_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/s0012‐821x(04)00066‐4"
+  },
+  {
+   "key": "e_1_2_10_132_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2017.05.013"
+  },
+  {
+   "key": "e_1_2_10_133_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/CBO9780511807442"
+  },
+  {
+   "key": "e_1_2_10_134_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.tecto.2018.11.006"
+  },
+  {
+   "key": "e_1_2_10_135_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41592‐019‐0686‐2"
+  },
+  {
+   "key": "e_1_2_10_136_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2006gl027345"
+  },
+  {
+   "key": "e_1_2_10_137_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019gc008515"
+  },
+  {
+   "key": "e_1_2_10_138_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/jog.2021.38"
+  },
+  {
+   "key": "e_1_2_10_139_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.earscirev.2018.10.011"
+  },
+  {
+   "key": "e_1_2_10_140_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/s095410201200048x"
+  },
+  {
+   "key": "e_1_2_10_141_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1098/rsta.2014.0297"
+  },
+  {
+   "key": "e_1_2_10_142_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/ngeo2521"
+  },
+  {
+   "key": "e_1_2_10_143_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s00190‐020‐01398‐0"
+  }
+ ],
+ "container-title": "Journal of Geophysical Research: Solid Earth",
+ "original-title": [],
+ "language": "en",
+ "link": [
+  {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024JB030770",
+   "content-type": "unspecified",
+   "content-version": "vor",
+   "intended-application": "similarity-checking"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2026,
+    1,
+    10
+   ]
+  ],
+  "date-time": "2026-01-10T10:07:47Z",
+  "timestamp": 1768039667000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB030770"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2025,
+    12
+   ]
+  ]
+ },
+ "references-count": 142,
+ "journal-issue": {
+  "issue": "12",
+  "published-print": {
+   "date-parts": [
+    [
+     2025,
+     12
+    ]
+   ]
+  }
+ },
+ "alternative-id": [
+  "10.1029/2024JB030770"
+ ],
+ "URL": "http://dx.doi.org/10.1029/2024JB030770",
+ "relation": {
+  "has-preprint": [
+   {
+    "id-type": "doi",
+    "id": "10.22541/essoar.173343472.27550878/v1",
+    "asserted-by": "object"
+   }
+  ]
+ },
+ "ISSN": [
+  "2169-9313",
+  "2169-9356"
+ ],
+ "subject": [],
+ "container-title-short": "JGR Solid Earth",
+ "published": {
+  "date-parts": [
+   [
+    2025,
+    12
+   ]
+  ]
+ },
+ "assertion": [
+  {
+   "value": "2024-11-14",
+   "order": 0,
+   "name": "received",
+   "label": "Received",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  },
+  {
+   "value": "2025-12-02",
+   "order": 2,
+   "name": "accepted",
+   "label": "Accepted",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  },
+  {
+   "value": "2025-12-16",
+   "order": 3,
+   "name": "published",
+   "label": "Published",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  }
+ ],
+ "article-number": "e2024JB030770"
+}

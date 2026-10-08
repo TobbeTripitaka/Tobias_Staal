@@ -1,0 +1,26 @@
+{
+ "type": "software",
+ "id": "https://doi.org/10.5281/zenodo.2553966",
+ "author": [
+  {
+   "family": "Stål",
+   "given": "Tobias"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2019,
+    1,
+    31
+   ]
+  ]
+ },
+ "abstract": "This is a first realise of agrid to start testing and for further development. Expect further 0.x releases during the coming weeks after initial tests.",
+ "DOI": "10.5281/ZENODO.2553966",
+ "publisher": "Zenodo",
+ "title": "TobbeTripitaka/grid: First frame",
+ "URL": "https://zenodo.org/record/2553966",
+ "copyright": "Open Access",
+ "version": "0.3.0"
+}

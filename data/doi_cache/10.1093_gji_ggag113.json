@@ -1,0 +1,1092 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2026,
+    9,
+    12
+   ]
+  ],
+  "date-time": "2026-09-12T02:00:00Z",
+  "timestamp": 1789178400079,
+  "version": "build-2803163510"
+ },
+ "reference-count": 72,
+ "publisher": "Oxford University Press (OUP)",
+ "issue": "2",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      18
+     ]
+    ],
+    "date-time": "2026-03-18T00:00:00Z",
+    "timestamp": 1773792000000
+   },
+   "content-version": "vor",
+   "delay-in-days": 8,
+   "URL": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "funder": [
+  {
+   "DOI": "10.13039/100007778",
+   "name": "CERD",
+   "doi-asserted-by": "publisher",
+   "id": [
+    {
+     "id": "10.13039/100007778",
+     "id-type": "DOI",
+     "asserted-by": "publisher"
+    }
+   ]
+  },
+  {
+   "name": "Australian Centre for Excellence in Antarctic Science",
+   "award": [
+    "SR200100008"
+   ],
+   "award-info": [
+    {
+     "award-number": [
+      "SR200100008"
+     ]
+    }
+   ]
+  }
+ ],
+ "content-domain": {
+  "domain": [],
+  "crossmark-restriction": false
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2026,
+    3,
+    10
+   ]
+  ]
+ },
+ "abstract": "<jats:title>SUMMARY</jats:title>\n                  <jats:p>Machine learning models offer powerful predictive capabilities for geoscientific applications but remain limited by their ‘black-box’ nature and lack of rigorous uncertainty quantification. We developed a comprehensive, generalizable uncertainty quantification framework that decomposes predictive uncertainty into aleatoric and epistemic components using Quantile Regression Forests. Additionally, we applied unsupervised k-means clustering to isolate homogeneous data regimes, thereby reducing aleatoric uncertainty across spatially heterogeneous geoscientific data sets. To facilitate interpretation and quality assessment, we introduced five spatial diagnostic tools: bandwidth, variance, robustness, confidence and explainability maps that characterize prediction reliability and identify dominant uncertainty sources. To demonstrate the framework’s applicability, we tested it on three synthetic data sets varying in size and a real-world geothermal heat flow application with 14 geophysical observables across continental Africa. Results show that clustering substantially reduces aleatoric uncertainty while maintaining stable epistemic uncertainty. Clustering also improves predictive accuracy and sharpens prediction intervals, with gains most pronounced in homogeneous regions. Applied to the African geothermal heat flow, the framework reveals region-specific geological controls (lithospheric architecture dominates stable cratons, while tectonic proximity governs active rift zones) and guides targeted data collection by distinguishing high-epistemic regions requiring additional sampling from high-aleatoric zones needing improved observables. While theoretically applicable to other geographic regions and geophysical data sets, the framework’s performance in different geological settings requires validation. This interpretable, uncertainty-aware approach enhances trustworthiness of predictions in spatially heterogeneous, data-sparse geoscientific problems.</jats:p>",
+ "DOI": "10.1093/gji/ggag113",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2026,
+    3,
+    18
+   ]
+  ],
+  "date-time": "2026-03-18T14:36:17Z",
+  "timestamp": 1773844577000
+ },
+ "source": "Crossref",
+ "is-referenced-by-count": 1,
+ "title": "Uncertainty quantification using clustering-based quantile regression forests: with an application to improving geothermal heat flow predictions",
+ "prefix": "10.1093",
+ "volume": "245",
+ "author": [
+  {
+   "ORCID": "https://orcid.org/0000-0002-8033-3846",
+   "authenticated-orcid": false,
+   "given": "Magued",
+   "family": "Al-Aghbary",
+   "sequence": "first",
+   "affiliation": [
+    {
+     "name": "Institute of Geophysics and Geoinformatics , TU Bergakademie Freiberg, D-09599, Freiberg ,",
+     "place": [
+      "Germany"
+     ]
+    },
+    {
+     "name": "Institut des Sciences de la Terre, Centre d’Études et de Recherches de Djibouti (CERD) , P.O.Box.486, Djibouti ,",
+     "place": [
+      "Djibouti"
+     ]
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Mohamed",
+   "family": "Sobh",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Leibniz Institute for Applied Geophysics (LIAG) , 30655, Hannover ,",
+     "place": [
+      "Germany"
+     ]
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "School of Natural Sciences (Physics), University of Tasmania , Hobart TAS 7001 ,",
+     "place": [
+      "Australia"
+     ]
+    },
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science (ACEAS), University of Tasmania , Hobart TAS7001 ,",
+     "place": [
+      "Australia"
+     ]
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Mohamed Osman",
+   "family": "Awaleh",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Institut des Sciences de la Terre, Centre d’Études et de Recherches de Djibouti (CERD) , P.O.Box.486, Djibouti ,",
+     "place": [
+      "Djibouti"
+     ]
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Mohamed",
+   "family": "Jalludin",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Institut des Sciences de la Terre, Centre d’Études et de Recherches de Djibouti (CERD) , P.O.Box.486, Djibouti ,",
+     "place": [
+      "Djibouti"
+     ]
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Christian",
+   "family": "Gerhards",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Institute of Geophysics and Geoinformatics , TU Bergakademie Freiberg, D-09599, Freiberg ,",
+     "place": [
+      "Germany"
+     ]
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  }
+ ],
+ "member": "286",
+ "published-online": {
+  "date-parts": [
+   [
+    2026,
+    3,
+    18
+   ]
+  ]
+ },
+ "reference": [
+  {
+   "key": "2026040208512952300_bib1",
+   "doi-asserted-by": "publisher",
+   "first-page": "243",
+   "DOI": "10.1016/j.inffus.2021.05.008",
+   "article-title": "A review of uncertainty quantification in deep learning: techniques, applications and challenges",
+   "volume": "76",
+   "author": "Abdar",
+   "year": "2021",
+   "journal-title": "Inform. Fusion"
+  },
+  {
+   "issue": "3–4",
+   "key": "2026040208512952300_bib2",
+   "doi-asserted-by": "publisher",
+   "first-page": "119",
+   "DOI": "10.1016/S0899-5362(02)00013-1",
+   "article-title": "The saharan metacraton",
+   "volume": "34",
+   "author": "Abdelsalam",
+   "year": "2002",
+   "journal-title": "J. Afr. Earth Sci."
+  },
+  {
+   "issue": "3",
+   "key": "2026040208512952300_bib3",
+   "doi-asserted-by": "publisher",
+   "first-page": "1602",
+   "DOI": "10.1093/gji/ggz094",
+   "article-title": "A global reference model of the lithosphere and upper mantle from joint inversion and analysis of multiple data sets",
+   "volume": "217",
+   "author": "Afonso",
+   "year": "2019",
+   "journal-title": "Geophys. J. Int."
+  },
+  {
+   "key": "2026040208512952300_bib4",
+   "doi-asserted-by": "publisher",
+   "first-page": "981899",
+   "DOI": "10.3389/feart.2022.981899",
+   "article-title": "A geothermal heat flow model of africa based on random forest regression",
+   "volume": "10",
+   "author": "Al-Aghbary",
+   "year": "2022",
+   "journal-title": "Front. Earth Sci."
+  },
+  {
+   "issue": "1",
+   "key": "2026040208512952300_bib5",
+   "doi-asserted-by": "publisher",
+   "first-page": "1",
+   "DOI": "10.1007/s10518-022-01515-8",
+   "article-title": "Methods for assessing the epistemic uncertainty captured in ground-motion models",
+   "volume": "21",
+   "author": "Aldama-Bustos",
+   "year": "2023",
+   "journal-title": "Bull. Earthq. Eng."
+  },
+  {
+   "issue": "2009",
+   "key": "2026040208512952300_bib6",
+   "doi-asserted-by": "publisher",
+   "first-page": "V5C8276M",
+   "DOI": "10.1594/PANGAEA.104840",
+   "article-title": "ETOPO1 1 arc-minute global relief model: procedures, data sources and analysis. noaa technical memorandum NESDIS NGDC-24",
+   "volume": "10",
+   "author": "Amante",
+   "year": "2009",
+   "journal-title": "National Geophysical Data Center, NOAA"
+  },
+  {
+   "issue": "2",
+   "key": "2026040208512952300_bib7",
+   "doi-asserted-by": "publisher",
+   "first-page": "93",
+   "DOI": "10.1111/j.1538-4632.1995.tb00338.x",
+   "article-title": "Local indicators of spatial association—LISA",
+   "volume": "27",
+   "author": "Anselin",
+   "year": "1995",
+   "journal-title": "Geograph. Anal."
+  },
+  {
+   "key": "2026040208512952300_bib8",
+   "article-title": "Test-time data augmentation for estimation of heteroscedastic aleatoric uncertainty in deep neural networks",
+   "volume-title": "Medical Imaging with Deep Learning",
+   "author": "Ayhan",
+   "year": "2018"
+  },
+  {
+   "issue": "B7",
+   "key": "2026040208512952300_bib9",
+   "doi-asserted-by": "publisher",
+   "first-page": "7767",
+   "DOI": "10.1029/JB093iB07p07767",
+   "article-title": "Analysis of heat transfer processes and geothermal pattern in the alberta basin, canada",
+   "volume": "93",
+   "author": "Bachu",
+   "year": "1988",
+   "journal-title": "J. geophys. Res.: Solid Earth"
+  },
+  {
+   "key": "2026040208512952300_bib10",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1017/CBO9780511606021",
+   "volume-title": "Crustal Heat Flow: A Guide to Measurement and Modelling",
+   "author": "Beardsmore",
+   "year": "2001"
+  },
+  {
+   "issue": "2",
+   "key": "2026040208512952300_bib11",
+   "doi-asserted-by": "publisher",
+   "first-page": "1263",
+   "DOI": "10.3390/make6020059",
+   "article-title": "Machine learning in geosciences: A review of complex environmental monitoring applications",
+   "volume": "6",
+   "author": "Binetti",
+   "year": "2024",
+   "journal-title": "Mach. Learn. Knowl. Extraction"
+  },
+  {
+   "issue": "3",
+   "key": "2026040208512952300_bib12",
+   "doi-asserted-by": "publisher",
+   "first-page": "e2020GC009302",
+   "DOI": "10.1029/2020GC009302",
+   "article-title": "Afrp20: New p-wavespeed model for the african mantle reveals two whole-mantle plumes below east africa and neoproterozoic modification of the tanzania craton",
+   "volume": "22",
+   "author": "Boyce",
+   "year": "2021",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "issue": "1",
+   "key": "2026040208512952300_bib13",
+   "doi-asserted-by": "publisher",
+   "first-page": "5",
+   "DOI": "10.1023/A:1010933404324",
+   "article-title": "Random forests",
+   "volume": "45",
+   "author": "Breiman",
+   "year": "2001",
+   "journal-title": "Mach. Learn."
+  },
+  {
+   "key": "2026040208512952300_bib14",
+   "first-page": "108",
+   "article-title": "API design for machine learning software: experiences from the scikit-learn project",
+   "volume-title": "ECML PKDD Workshop: Languages for Data Mining and Machine Learning",
+   "author": "Buitinck",
+   "year": "2013"
+  },
+  {
+   "issue": "1",
+   "key": "2026040208512952300_bib15",
+   "doi-asserted-by": "publisher",
+   "first-page": "178",
+   "DOI": "10.1093/gji/ggz574",
+   "article-title": "The upper mantle beneath the South Atlantic Ocean, South America and Africa from waveform tomography with massive data sets",
+   "volume": "221",
+   "author": "Celli",
+   "year": "2020",
+   "journal-title": "Geophys. J. Int."
+  },
+  {
+   "issue": "3",
+   "key": "2026040208512952300_bib16",
+   "doi-asserted-by": "publisher",
+   "first-page": "189",
+   "DOI": "10.14358/PERS.82.3.189",
+   "article-title": "Approximating prediction uncertainty for random forest regression models",
+   "volume": "82",
+   "author": "Coulston",
+   "year": "2016",
+   "journal-title": "Photogramm. Eng. Remote Sen."
+  },
+  {
+   "issue": "3",
+   "key": "2026040208512952300_bib17",
+   "doi-asserted-by": "crossref",
+   "first-page": "WB113",
+   "DOI": "10.1190/geo2012-0411.1",
+   "article-title": "The upside of uncertainty: Identification of lithology contact zones from airborne geophysics and satellite data using random forests and support vector machines",
+   "volume": "78",
+   "author": "Cracknell",
+   "year": "2013",
+   "journal-title": "Geophysics"
+  },
+  {
+   "issue": "1",
+   "key": "2026040208512952300_bib18",
+   "doi-asserted-by": "crossref",
+   "first-page": "1",
+   "DOI": "10.1038/s41467-020-19160-7",
+   "article-title": "The misuse of colour in science communication",
+   "volume": "11",
+   "author": "Crameri",
+   "year": "2020",
+   "journal-title": "Nat. Commun."
+  },
+  {
+   "issue": "2",
+   "key": "2026040208512952300_bib19",
+   "doi-asserted-by": "publisher",
+   "first-page": "224",
+   "DOI": "10.1109/TPAMI.1979.4766909",
+   "article-title": "A cluster separation measure",
+   "volume": "PAMI–1",
+   "author": "Davies",
+   "year": "1979",
+   "journal-title": "IEEE Trans. Pattern Anal. Mach. Intell."
+  },
+  {
+   "issue": "1",
+   "key": "2026040208512952300_bib20",
+   "doi-asserted-by": "publisher",
+   "first-page": "5",
+   "DOI": "10.5194/se-1-5-2010",
+   "article-title": "Earth’s surface heat flux",
+   "volume": "1",
+   "author": "Davies",
+   "year": "2010",
+   "journal-title": "Solid Earth"
+  },
+  {
+   "key": "2026040208512952300_bib21",
+   "first-page": "1184",
+   "article-title": "Decomposition of uncertainty in bayesian deep learning for efficient and risk-sensitive learning",
+   "volume-title": "International Conference on Machine Learning",
+   "author": "Depeweg",
+   "year": "2018"
+  },
+  {
+   "issue": "1",
+   "key": "2026040208512952300_bib22",
+   "doi-asserted-by": "publisher",
+   "first-page": "1",
+   "DOI": "10.1038/s41598-018-34733-9",
+   "article-title": "Earth tectonics as seen by GOCE-enhanced satellite gravity gradient imaging",
+   "volume": "8",
+   "author": "Ebbing",
+   "year": "2018",
+   "journal-title": "Sci. Rep."
+  },
+  {
+   "key": "2026040208512952300_bib23",
+   "first-page": "EGU2013",
+   "article-title": "Eigen-6c2-a new combined global gravity field model including goce data up to degree and order 1949 of GFZ Potsdam and GRGS Toulouse",
+   "volume-title": "EGU General Assembly Conference Abstracts",
+   "author": "Förste",
+   "year": "2013"
+  },
+  {
+   "issue": "1",
+   "key": "2026040208512952300_bib24",
+   "doi-asserted-by": "publisher",
+   "first-page": "146",
+   "DOI": "10.1093/gji/ggab094",
+   "article-title": "Winterc-g: mapping the upper mantle thermochemical heterogeneity from coupled geophysical–petrological inversion of seismic waveforms, heat flow, surface elevation and gravity satellite data",
+   "volume": "226",
+   "author": "Fullea",
+   "year": "2021",
+   "journal-title": "Geophys. J. Int."
+  },
+  {
+   "key": "2026040208512952300_bib25",
+   "first-page": "1050",
+   "article-title": "Dropout as a Bayesian approximation: representing model uncertainty in deep learning",
+   "volume-title": "International Conference on Machine Learning",
+   "author": "Gal",
+   "year": "2016"
+  },
+  {
+   "key": "2026040208512952300_bib26",
+   "doi-asserted-by": "publisher",
+   "first-page": "106672",
+   "DOI": "10.1016/j.pepi.2021.106672",
+   "article-title": "A global curie depth model utilising the equivalent source magnetic dipole method",
+   "volume": "313",
+   "author": "Gard",
+   "year": "2021",
+   "journal-title": "Phys. Earth planet. Inter."
+  },
+  {
+   "issue": "S1",
+   "key": "2026040208512952300_bib27",
+   "doi-asserted-by": "publisher",
+   "first-page": "1513",
+   "DOI": "10.1007/s10462-023-10562-9",
+   "article-title": "A survey of uncertainty in deep neural networks",
+   "volume": "56",
+   "author": "Gawlikowski",
+   "year": "2023",
+   "journal-title": "Artif. Intell. Rev."
+  },
+  {
+   "issue": "2",
+   "key": "2026040208512952300_bib28",
+   "doi-asserted-by": "publisher",
+   "first-page": "205",
+   "DOI": "10.1007/s00531-007-0254-3",
+   "article-title": "Spherical harmonic analysis of earth’s conductive heat flow",
+   "volume": "97",
+   "author": "Hamza",
+   "year": "2008",
+   "journal-title": "Int. J. Earth Sci."
+  },
+  {
+   "issue": "12",
+   "key": "2026040208512952300_bib29",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2012GC004370",
+   "article-title": "The new global lithological map database glim: a representation of rock properties at the earth surface",
+   "volume": "13",
+   "author": "Hartmann",
+   "year": "2012",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "issue": "8",
+   "key": "2026040208512952300_bib30",
+   "doi-asserted-by": "publisher",
+   "first-page": "1095",
+   "DOI": "10.1175/2009BAMS2607.1",
+   "article-title": "The potential to narrow uncertainty in regional climate predictions",
+   "volume": "90",
+   "author": "Hawkins",
+   "year": "2009",
+   "journal-title": "Bull. Am. Meteorol. Soc."
+  },
+  {
+   "key": "2026040208512952300_bib31",
+   "doi-asserted-by": "publisher",
+   "first-page": "1",
+   "DOI": "10.1007/978-3-319-02330-4_195-1",
+   "author": "Heidbach",
+   "year": "2019",
+   "journal-title": "Encyclopedia of Petroleum Geoscience"
+  },
+  {
+   "issue": "1",
+   "key": "2026040208512952300_bib32",
+   "doi-asserted-by": "publisher",
+   "first-page": "96",
+   "DOI": "10.1093/gji/ggz394",
+   "article-title": "Global mantle structure from multifrequency tomography using P, PP and P-diffracted waves",
+   "volume": "220",
+   "author": "Hosseini",
+   "year": "2020",
+   "journal-title": "Geophys. J. Int."
+  },
+  {
+   "issue": "3",
+   "key": "2026040208512952300_bib33",
+   "doi-asserted-by": "publisher",
+   "first-page": "457",
+   "DOI": "10.1007/s10994-021-05946-3",
+   "article-title": "Aleatoric and epistemic uncertainty in machine learning: an introduction to concepts and methods",
+   "volume": "110",
+   "author": "Hüllermeier",
+   "year": "2021",
+   "journal-title": "Mach. Learn."
+  },
+  {
+   "issue": "3",
+   "key": "2026040208512952300_bib34",
+   "doi-asserted-by": "publisher",
+   "first-page": "90",
+   "DOI": "10.1109/MCSE.2007.55",
+   "article-title": "Matplotlib: A 2d graphics environment",
+   "volume": "9",
+   "author": "Hunter",
+   "year": "2007",
+   "journal-title": "Comput. Sci. Eng."
+  },
+  {
+   "issue": "2",
+   "key": "2026040208512952300_bib35",
+   "doi-asserted-by": "publisher",
+   "first-page": "647",
+   "DOI": "10.5194/essd-11-647-2019",
+   "article-title": "ICGEM–15 years of successful collection and distribution of global gravitational models, associated services, and future plans",
+   "volume": "11",
+   "author": "Ince",
+   "year": "2019",
+   "journal-title": "Earth Syst. Sci. Data"
+  },
+  {
+   "issue": "1",
+   "key": "2026040208512952300_bib36",
+   "doi-asserted-by": "publisher",
+   "first-page": "79",
+   "DOI": "10.1162/neco.1991.3.1.79",
+   "article-title": "Adaptive mixtures of local experts",
+   "volume": "3",
+   "author": "Jacobs",
+   "year": "1991",
+   "journal-title": "Neural Comput."
+  },
+  {
+   "key": "2026040208512952300_bib37",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.48550/arXiv.1703.04977",
+   "article-title": "What uncertainties do we need in bayesian deep learning for computer vision?",
+   "volume": "30",
+   "author": "Kendall",
+   "year": "2017",
+   "journal-title": "Adv. Neural Inform. Process. Syst."
+  },
+  {
+   "issue": "2",
+   "key": "2026040208512952300_bib38",
+   "doi-asserted-by": "publisher",
+   "first-page": "105",
+   "DOI": "10.1016/j.strusafe.2008.06.020",
+   "article-title": "Aleatory or epistemic? does it matter?",
+   "volume": "31",
+   "author": "Kiureghian",
+   "year": "2009",
+   "journal-title": "Struct. Safety"
+  },
+  {
+   "key": "2026040208512952300_bib39",
+   "first-page": "6405",
+   "article-title": "Simple and scalable predictive uncertainty estimation using deep ensembles",
+   "volume-title": "NIPS'17: Proceedings of the 31st International Conference on Neural Information Processing Systems",
+   "author": "Lakshminarayanan",
+   "year": "2017"
+  },
+  {
+   "key": "2026040208512952300_bib40",
+   "first-page": "2658",
+   "article-title": "Update on crust1. 0—a 1-degree global model of earth’s crust",
+   "volume-title": "Geophys. Res. Abstr.",
+   "author": "Laske",
+   "year": "2013"
+  },
+  {
+   "key": "2026040208512952300_bib41",
+   "doi-asserted-by": "publisher",
+   "first-page": "123826",
+   "DOI": "10.1016/j.apenergy.2024.123826",
+   "article-title": "Advancing fractured geothermal system modeling with artificial neural network and bidirectional gated recurrent unit",
+   "volume": "372",
+   "author": "Li",
+   "year": "2024",
+   "journal-title": "Appl. Energy"
+  },
+  {
+   "issue": "2",
+   "key": "2026040208512952300_bib42",
+   "doi-asserted-by": "publisher",
+   "first-page": "129",
+   "DOI": "10.1109/TIT.1982.1056489",
+   "article-title": "Least squares quantization in pcm",
+   "volume": "28",
+   "author": "Lloyd",
+   "year": "1982",
+   "journal-title": "IEEE Trans. Inform. Theory"
+  },
+  {
+   "issue": "8",
+   "key": "2026040208512952300_bib43",
+   "doi-asserted-by": "publisher",
+   "first-page": "4001",
+   "DOI": "10.1029/2019GC008389",
+   "article-title": "Analysis and mapping of an updated terrestrial heat flow data set",
+   "volume": "20",
+   "author": "Lucazeau",
+   "year": "2019",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "issue": "Jun",
+   "key": "2026040208512952300_bib44",
+   "first-page": "983",
+   "article-title": "Quantile regression forests",
+   "volume": "7",
+   "author": "Meinshausen",
+   "year": "2006",
+   "journal-title": "J. Mach. Learn. Res."
+  },
+  {
+   "issue": "26",
+   "key": "2026040208512952300_bib45",
+   "first-page": "1",
+   "article-title": "Quantifying uncertainty in random forests via confidence intervals and hypothesis tests",
+   "volume": "17",
+   "author": "Mentch",
+   "year": "2016",
+   "journal-title": "J. Mach. Learn. Res."
+  },
+  {
+   "key": "2026040208512952300_bib46",
+   "doi-asserted-by": "publisher",
+   "first-page": "10614",
+   "DOI": "10.7289/V5PN93H7",
+   "article-title": "Emag2 version 3-update of a two arc-minute global magnetic anomaly grid",
+   "volume-title": "EGU General Assembly Conference Abstracts",
+   "author": "Meyer",
+   "year": "2017"
+  },
+  {
+   "key": "2026040208512952300_bib47",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.48550/arXiv.2106.00858",
+   "article-title": "Uncertainty characteristics curves: a systematic assessment of prediction intervals",
+   "author": "Navratil",
+   "year": "2021",
+   "journal-title": "arXiv preprint arXiv:2106.00858"
+  },
+  {
+   "key": "2026040208512952300_bib48",
+   "doi-asserted-by": "crossref",
+   "first-page": "269",
+   "DOI": "10.1007/978-981-13-7279-7_33",
+   "article-title": "Bayes random forest: an R implementation of Bayesian random forest for regression analysis of high-dimensional data",
+   "volume-title": "Proceedings of the Third International Conference on Computing, Mathematics and Statistics (iCMS2017) Transcending Boundaries, Embracing Multidisciplinary Diversities",
+   "author": "Olaniran",
+   "year": "2019"
+  },
+  {
+   "key": "2026040208512952300_bib49",
+   "article-title": "ChatGPT (february 2026 version)",
+   "author": "OpenAI",
+   "year": "2026"
+  },
+  {
+   "issue": "20",
+   "key": "2026040208512952300_bib50",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2010GL044906",
+   "article-title": "Combined satellite gravity field model GOCO01S derived from GOCE and grace",
+   "volume": "37",
+   "author": "Pail",
+   "year": "2010",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "issue": "3",
+   "key": "2026040208512952300_bib51",
+   "doi-asserted-by": "publisher",
+   "first-page": "e1301",
+   "DOI": "10.1002/widm.1301",
+   "article-title": "Hyperparameters and tuning strategies for random forest",
+   "volume": "9",
+   "author": "Probst",
+   "year": "2019",
+   "journal-title": "Wiley Interdiscipl. Rev.: Data Mining Knowl. Discov."
+  },
+  {
+   "issue": "39",
+   "key": "2026040208512952300_bib52",
+   "doi-asserted-by": "publisher",
+   "first-page": "9684",
+   "DOI": "10.1073/pnas.1810286115",
+   "article-title": "Deep learning to represent subgrid processes in climate models",
+   "volume": "115",
+   "author": "Rasp",
+   "year": "2018",
+   "journal-title": "Proc. Natl Acad. Sci."
+  },
+  {
+   "issue": "12",
+   "key": "2026040208512952300_bib53",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2007WR006799",
+   "article-title": "Aleatoric and epistemic uncertainty in groundwater flow and transport simulation",
+   "volume": "45",
+   "author": "Ross",
+   "year": "2009",
+   "journal-title": "Water Resour. Res."
+  },
+  {
+   "issue": "5",
+   "key": "2026040208512952300_bib54",
+   "doi-asserted-by": "publisher",
+   "first-page": "206",
+   "DOI": "10.1038/s42256-019-0048-x",
+   "article-title": "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead",
+   "volume": "1",
+   "author": "Rudin",
+   "year": "2019",
+   "journal-title": "Nat. Mach. Intell."
+  },
+  {
+   "issue": "1",
+   "key": "2026040208512952300_bib55",
+   "doi-asserted-by": "publisher",
+   "first-page": "417",
+   "DOI": "10.1093/gji/ggt095",
+   "article-title": "Global shear speed structure of the upper mantle and transition zone",
+   "volume": "194",
+   "author": "Schaeffer",
+   "year": "2013",
+   "journal-title": "Geophys. J. Int."
+  },
+  {
+   "key": "2026040208512952300_bib56",
+   "doi-asserted-by": "crossref",
+   "first-page": "3",
+   "DOI": "10.1007/978-3-319-15627-9_1",
+   "article-title": "Global heterogeneity of the lithosphere and underlying mantle: a seismological appraisal based on multimode surface-wave dispersion analysis, shear-velocity tomography, and tectonic regionalization",
+   "volume-title": "The Earth’s Heterogeneous Mantle",
+   "author": "Schaeffer",
+   "year": "2015"
+  },
+  {
+   "key": "2026040208512952300_bib57",
+   "first-page": "3183",
+   "article-title": "Evidential deep learning to quantify classification uncertainty",
+   "volume": "31",
+   "author": "Sensoy",
+   "year": "2018",
+   "journal-title": "Adv. Neural Inform. Process. Syst."
+  },
+  {
+   "key": "2026040208512952300_bib58",
+   "first-page": "444",
+   "article-title": "Aleatoric and epistemic uncertainty with random forests",
+   "volume-title": "in Advances in Intelligent Data Analysis XVIII: 18th International Symposium on Intelligent Data Analysis, IDA 2020, Konstanz, Germany, April 27–29, 2020, Proceedings 18",
+   "author": "Shaker",
+   "year": "2020"
+  },
+  {
+   "issue": "3",
+   "key": "2026040208512952300_bib59",
+   "doi-asserted-by": "publisher",
+   "first-page": "379",
+   "DOI": "10.1002/j.1538-7305.1948.tb01338.x",
+   "article-title": "A mathematical theory of communication",
+   "volume": "27",
+   "author": "Shannon",
+   "year": "1948",
+   "journal-title": "Bell Syst. Techn. J."
+  },
+  {
+   "issue": "1–2",
+   "key": "2026040208512952300_bib60",
+   "doi-asserted-by": "publisher",
+   "first-page": "213",
+   "DOI": "10.1016/j.epsl.2004.04.011",
+   "article-title": "Inferring surface heat flux distributions guided by a global seismic model: particular application to antarctica",
+   "volume": "223",
+   "author": "Shapiro",
+   "year": "2004",
+   "journal-title": "Earth planet. Sci. Lett."
+  },
+  {
+   "key": "2026040208512952300_bib61",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1109/TGRS.2024.3476345",
+   "article-title": "Generative diffusion model for seismic imaging improvement of sparsely acquired data and uncertainty quantification",
+   "volume": "62",
+   "author": "Shi",
+   "year": "2024",
+   "journal-title": "IEEE Trans. Geosci. Remote Sens"
+  },
+  {
+   "key": "2026040208512952300_bib62",
+   "doi-asserted-by": "crossref",
+   "first-page": "239",
+   "DOI": "10.1016/B978-0-12-385938-9.00012-2",
+   "article-title": "Earth’s volcanoes and their eruptions: An overview",
+   "volume-title": "The Encyclopedia of Volcanoes",
+   "author": "Siebert",
+   "year": "2015"
+  },
+  {
+   "issue": "10",
+   "key": "2026040208512952300_bib63",
+   "doi-asserted-by": "publisher",
+   "first-page": "e2025JB031541",
+   "DOI": "10.1029/2025JB031541",
+   "article-title": "Geothermal heat flow mapping of germany integrating multi-geophysical and geological constraints with uncertainty quantification",
+   "volume": "130",
+   "author": "Sobh",
+   "year": "2025",
+   "journal-title": "J. geophys. Res.: Solid Earth"
+  },
+  {
+   "issue": "2",
+   "key": "2026040208512952300_bib64",
+   "doi-asserted-by": "publisher",
+   "first-page": "e2020GC009428",
+   "DOI": "10.1029/2020GC009428",
+   "article-title": "Antarctic geothermal heat flow model: Aq1",
+   "volume": "22",
+   "author": "Stål",
+   "year": "2021",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "key": "2026040208512952300_bib65",
+   "doi-asserted-by": "publisher",
+   "first-page": "963525",
+   "DOI": "10.3389/feart.2022.963525",
+   "article-title": "Properties and biases of the global heat flow compilation",
+   "volume": "10",
+   "author": "Stål",
+   "year": "2022",
+   "journal-title": "Front. Earth Sci."
+  },
+  {
+   "key": "2026040208512952300_bib66",
+   "first-page": "6417",
+   "article-title": "Single-model uncertainties for deep learning",
+   "volume-title": "Proc. 33rd International Conference on Neural Information Processing Systems",
+   "author": "Tagasovska",
+   "year": "2019"
+  },
+  {
+   "issue": "4",
+   "key": "2026040208512952300_bib67",
+   "doi-asserted-by": "publisher",
+   "first-page": "267",
+   "DOI": "10.1007/BF02289263",
+   "article-title": "Who belongs in the family?",
+   "volume": "18",
+   "author": "Thorndike",
+   "year": "1953",
+   "journal-title": "Psychometrika"
+  },
+  {
+   "key": "2026040208512952300_bib68",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1017/CBO9780511843877",
+   "volume-title": "Geodynamics",
+   "author": "Turcotte",
+   "year": "2014"
+  },
+  {
+   "key": "2026040208512952300_bib69",
+   "article-title": "PyGMT: A Python interface for the Generic Mapping Tools",
+   "author": "Uieda",
+   "year": "2021"
+  },
+  {
+   "key": "2026040208512952300_bib70",
+   "doi-asserted-by": "crossref",
+   "first-page": "1508",
+   "DOI": "10.1109/CVPRW56347.2022.00157",
+   "article-title": "A deeper look into aleatoric and epistemic uncertainty disentanglement",
+   "volume-title": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+   "author": "Valdenegro-Toro",
+   "year": "2022"
+  },
+  {
+   "key": "2026040208512952300_bib71",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.21105/joss.03021",
+   "article-title": "Seaborn: statistical data visualization",
+   "author": "Waskom",
+   "year": "2021"
+  },
+  {
+   "key": "2026040208512952300_bib72",
+   "doi-asserted-by": "publisher",
+   "first-page": "392",
+   "DOI": "10.1080/00031305.2019.1585288",
+   "article-title": "Random forest prediction intervals",
+   "volume": "74",
+   "author": "Zhang",
+   "year": "2020",
+   "journal-title": "Am. Statist"
+  }
+ ],
+ "container-title": "Geophysical Journal International",
+ "original-title": [],
+ "language": "en",
+ "link": [
+  {
+   "URL": "https://academic.oup.com/gji/advance-article-pdf/doi/10.1093/gji/ggag113/67391073/ggag113.pdf",
+   "content-type": "application/pdf",
+   "content-version": "am",
+   "intended-application": "syndication"
+  },
+  {
+   "URL": "https://academic.oup.com/gji/article-pdf/245/2/ggag113/67391073/ggag113.pdf",
+   "content-type": "application/pdf",
+   "content-version": "vor",
+   "intended-application": "syndication"
+  },
+  {
+   "URL": "https://academic.oup.com/gji/article-pdf/245/2/ggag113/67391073/ggag113.pdf",
+   "content-type": "unspecified",
+   "content-version": "vor",
+   "intended-application": "similarity-checking"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2026,
+    4,
+    2
+   ]
+  ],
+  "date-time": "2026-04-02T12:51:46Z",
+  "timestamp": 1775134306000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://academic.oup.com/gji/article/doi/10.1093/gji/ggag113/8527733"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2026,
+    3,
+    10
+   ]
+  ]
+ },
+ "references-count": 72,
+ "journal-issue": {
+  "issue": "2",
+  "published-print": {
+   "date-parts": [
+    [
+     2026,
+     3,
+     10
+    ]
+   ]
+  }
+ },
+ "URL": "http://dx.doi.org/10.1093/gji/ggag113",
+ "relation": {},
+ "ISSN": [
+  "0956-540X",
+  "1365-246X"
+ ],
+ "subject": [],
+ "published-other": {
+  "date-parts": [
+   [
+    2026,
+    5
+   ]
+  ]
+ },
+ "published": {
+  "date-parts": [
+   [
+    2026,
+    3,
+    10
+   ]
+  ]
+ },
+ "article-number": "ggag113"
+}

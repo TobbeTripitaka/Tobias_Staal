@@ -1,0 +1,588 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2026,
+    9,
+    3
+   ]
+  ],
+  "date-time": "2026-09-03T01:04:52Z",
+  "timestamp": 1788397492887,
+  "version": "build-2803163510"
+ },
+ "reference-count": 57,
+ "publisher": "American Geophysical Union (AGU)",
+ "issue": "13",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2024,
+      7,
+      3
+     ]
+    ],
+    "date-time": "2024-07-03T00:00:00Z",
+    "timestamp": 1719964800000
+   },
+   "content-version": "vor",
+   "delay-in-days": 0,
+   "URL": "http://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "funder": [
+  {
+   "DOI": "10.13039/501100000923",
+   "name": "Australian Research Council",
+   "doi-asserted-by": "publisher",
+   "id": [
+    {
+     "id": "10.13039/501100000923",
+     "id-type": "DOI",
+     "asserted-by": "publisher"
+    }
+   ]
+  }
+ ],
+ "content-domain": {
+  "domain": [
+   "agupubs.onlinelibrary.wiley.com"
+  ],
+  "crossmark-restriction": true
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2024,
+    7,
+    16
+   ]
+  ]
+ },
+ "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Geothermal heat plays a vital role in Antarctic ice sheet stability. The continental geothermal heat flow distribution depends on lithospheric composition and ongoing tectonism. Heat‐producing elements are unevenly enriched in the crust over deep time by various geological processes. The contribution of crustal heat production to geothermal heat flow is widely recognized; however, in Antarctica, crustal geology is largely hidden, and its complexity has frequently been excluded in thermal studies due to limited observations and oversimplified assumptions. Li and Aitken (2024),\n                    <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"https://doi.org/10.1029/2023GL106201\">https://doi.org/10.1029/2023GL106201</jats:ext-link>\n                    take a significant step forward, focusing on Antarctic crustal radiogenic heat. Utilizing gravity inversion and rock composition data, they show that the crustal heterogeneity introduces considerable variability to heat flow. However, modeling crustal heat production proves challenging because it lacks distinct associations with geophysical observables and has a narrow spatial association. Robust quantification of geothermal heat production and heat flow must incorporate explicit aspects of geology.\n                  </jats:p>",
+ "DOI": "10.1029/2024gl110098",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2024,
+    7,
+    3
+   ]
+  ],
+  "date-time": "2024-07-03T09:54:39Z",
+  "timestamp": 1720000479000
+ },
+ "update-policy": "https://doi.org/10.1002/crossmark_policy",
+ "source": "Crossref",
+ "is-referenced-by-count": 8,
+ "title": "Geology Matters for Antarctic Geothermal Heat",
+ "prefix": "10.1029",
+ "volume": "51",
+ "author": [
+  {
+   "ORCID": "https://orcid.org/0000-0002-4323-6748",
+   "authenticated-orcid": false,
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "first",
+   "affiliation": [
+    {
+     "name": "School of Natural Sciences (Physics) University of Tasmania  Hobart TAS Australia"
+    },
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science (ACEAS)  Hobart TAS Australia"
+    },
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4992-8681",
+   "authenticated-orcid": false,
+   "given": "Jacqueline A.",
+   "family": "Halpin",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science (ACEAS)  Hobart TAS Australia"
+    },
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0003-2578-3147",
+   "authenticated-orcid": false,
+   "given": "John W.",
+   "family": "Goodge",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Department of Earth and Environmental Sciences University of Minnesota  Duluth MN USA"
+    },
+    {
+     "name": "Planetary Science Institute  Tucson AZ USA"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-9316-7605",
+   "authenticated-orcid": false,
+   "given": "Anya M.",
+   "family": "Reading",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "School of Natural Sciences (Physics) University of Tasmania  Hobart TAS Australia"
+    },
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science (ACEAS)  Hobart TAS Australia"
+    },
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  }
+ ],
+ "member": "13",
+ "published-online": {
+  "date-parts": [
+   [
+    2024,
+    7,
+    3
+   ]
+  ]
+ },
+ "reference": [
+  {
+   "key": "e_1_2_7_2_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2021RG000767"
+  },
+  {
+   "key": "e_1_2_7_3_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.palaeo.2020.110053"
+  },
+  {
+   "key": "e_1_2_7_4_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2014GL059405"
+  },
+  {
+   "key": "e_1_2_7_5_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3389/feart.2022.981899"
+  },
+  {
+   "key": "e_1_2_7_6_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/G39970.1"
+  },
+  {
+   "key": "e_1_2_7_7_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.lithos.2012.01.017"
+  },
+  {
+   "key": "e_1_2_7_8_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc‐14‐3843‐2020"
+  },
+  {
+   "key": "e_1_2_7_9_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2017GL073596"
+  },
+  {
+   "key": "e_1_2_7_10_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/jgs2013‐030"
+  },
+  {
+   "key": "e_1_2_7_11_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41597‐023‐02152‐9"
+  },
+  {
+   "key": "e_1_2_7_12_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/se‐1‐5‐2010"
+  },
+  {
+   "key": "e_1_2_7_13_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/nature10566"
+  },
+  {
+   "key": "e_1_2_7_14_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/0091‐7613(2000)28〈879:GBPIEA〉2.0.CO;2"
+  },
+  {
+   "key": "e_1_2_7_15_1",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Fuchs S. Neumann F. Norden B. Beardsmore G. Chiozzi P. Colgan W. et al. (2023).The global heat flow database: Update 2023 global heat flow data assessment group[Dataset].https://doi.org/10.5880/fidgeo.2023.008",
+   "DOI": "10.5880/fidgeo.2023.008"
+  },
+  {
+   "key": "e_1_2_7_16_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/essd‐11‐1553‐2019"
+  },
+  {
+   "key": "e_1_2_7_17_1",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Gard M. Hasterok D. &Halpin J. A.(2019b).Global whole‐rock geochemical database compilation[Dataset].Zenodo 11(4) 1553–1566.https://doi.org/10.5281/zenodo.3359791",
+   "DOI": "10.5281/zenodo.3359791"
+  },
+  {
+   "key": "e_1_2_7_18_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.lithos.2019.05.034"
+  },
+  {
+   "key": "e_1_2_7_19_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc‐12‐491‐2018"
+  },
+  {
+   "key": "e_1_2_7_20_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2017.07.026"
+  },
+  {
+   "key": "e_1_2_7_21_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2009JB006890"
+  },
+  {
+   "key": "e_1_2_7_22_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/j.1365‐246X.2011.05228.x"
+  },
+  {
+   "key": "e_1_2_7_23_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2018GC008033"
+  },
+  {
+   "key": "e_1_2_7_24_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2022GC010501"
+  },
+  {
+   "key": "e_1_2_7_25_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2011.04.034"
+  },
+  {
+   "key": "e_1_2_7_26_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2016.06.037"
+  },
+  {
+   "key": "e_1_2_7_27_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gsf.2017.10.012"
+  },
+  {
+   "key": "e_1_2_7_28_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.earscirev.2022.104069"
+  },
+  {
+   "key": "e_1_2_7_29_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gsf.2017.03.006"
+  },
+  {
+   "key": "e_1_2_7_30_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2023GL106274"
+  },
+  {
+   "key": "e_1_2_7_31_1",
+   "unstructured": "Hazzard J. A. N. &Richards F. D.(2024b).Antarctic geothermal heat flow[Dataset].OSF. Retrieved fromhttps://osf.io/54zam/"
+  },
+  {
+   "key": "e_1_2_7_32_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.lithos.2016.07.017"
+  },
+  {
+   "key": "e_1_2_7_33_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598‐018‐35182‐0"
+  },
+  {
+   "key": "e_1_2_7_34_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/GES02701.1"
+  },
+  {
+   "key": "e_1_2_7_35_1",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Li L. &Aitken A.(2023).Antarctic crustal model and radiogenic heat production[Dataset].Zenodo.https://doi.org/10.5281/zenodo.10242299",
+   "DOI": "10.5281/zenodo.10242299"
+  },
+  {
+   "key": "e_1_2_7_36_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2023GL106201"
+  },
+  {
+   "key": "e_1_2_7_37_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41561‐022‐00992‐5"
+  },
+  {
+   "key": "e_1_2_7_38_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3389/feart.2020.00105"
+  },
+  {
+   "key": "e_1_2_7_39_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2022JB025423"
+  },
+  {
+   "key": "e_1_2_7_40_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2022GL098539"
+  },
+  {
+   "key": "e_1_2_7_41_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/0‐8137‐2372‐8.157"
+  },
+  {
+   "key": "e_1_2_7_42_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/g45952.1"
+  },
+  {
+   "key": "e_1_2_7_43_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019RG000663"
+  },
+  {
+   "key": "e_1_2_7_44_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2010.04.025"
+  },
+  {
+   "key": "e_1_2_7_45_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2016GL068436"
+  },
+  {
+   "key": "e_1_2_7_46_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s43017‐022‐00348‐y"
+  },
+  {
+   "key": "e_1_2_7_47_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2021GC010154"
+  },
+  {
+   "key": "e_1_2_7_48_1",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Sanchez G. Halpin J. Gard M. Hasterok D. Stål T. Raimondo T. et al. (2021b).Dataset: PetroChron Antarctica – A geological database for interdisciplinary use[Dataset].Zenodo.https://doi.org/10.5281/ZENODO.5032026",
+   "DOI": "10.5281/ZENODO.5032026"
+  },
+  {
+   "key": "e_1_2_7_49_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020GL086955"
+  },
+  {
+   "key": "e_1_2_7_50_1",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Stål T. Halpin J. A. Goodge J. W. &Reading A. M.(2024).Supplementary material for geology matters for Antarctic geothermal heat[Dataset].Zenodo.https://doi.org/10.5281/zenodo.11123844",
+   "DOI": "10.5281/zenodo.11123844"
+  },
+  {
+   "key": "e_1_2_7_51_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5334/JORS.287"
+  },
+  {
+   "key": "e_1_2_7_52_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3389/feart.2022.963525"
+  },
+  {
+   "key": "e_1_2_7_53_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3389/feart.2020.577502"
+  },
+  {
+   "key": "e_1_2_7_54_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019GL083453"
+  },
+  {
+   "key": "e_1_2_7_55_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020GC009428"
+  },
+  {
+   "key": "e_1_2_7_56_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41467‐018‐08068‐y"
+  },
+  {
+   "key": "e_1_2_7_57_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/jog.2021.38"
+  },
+  {
+   "key": "e_1_2_7_58_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/GL014i003p00295"
+  }
+ ],
+ "container-title": "Geophysical Research Letters",
+ "original-title": [],
+ "language": "en",
+ "link": [
+  {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024GL110098",
+   "content-type": "application/pdf",
+   "content-version": "vor",
+   "intended-application": "syndication"
+  },
+  {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024GL110098",
+   "content-type": "unspecified",
+   "content-version": "vor",
+   "intended-application": "similarity-checking"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2026,
+    1,
+    5
+   ]
+  ],
+  "date-time": "2026-01-05T03:32:11Z",
+  "timestamp": 1767583931000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL110098"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2024,
+    7,
+    3
+   ]
+  ]
+ },
+ "references-count": 57,
+ "journal-issue": {
+  "issue": "13",
+  "published-print": {
+   "date-parts": [
+    [
+     2024,
+     7,
+     16
+    ]
+   ]
+  }
+ },
+ "alternative-id": [
+  "10.1029/2024GL110098"
+ ],
+ "URL": "http://dx.doi.org/10.1029/2024GL110098",
+ "relation": {},
+ "ISSN": [
+  "0094-8276",
+  "1944-8007"
+ ],
+ "subject": [],
+ "container-title-short": "Geophysical Research Letters",
+ "published": {
+  "date-parts": [
+   [
+    2024,
+    7,
+    3
+   ]
+  ]
+ },
+ "assertion": [
+  {
+   "value": "2024-05-07",
+   "order": 0,
+   "name": "received",
+   "label": "Received",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  },
+  {
+   "value": "2024-06-20",
+   "order": 2,
+   "name": "accepted",
+   "label": "Accepted",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  },
+  {
+   "value": "2024-07-03",
+   "order": 3,
+   "name": "published",
+   "label": "Published",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  }
+ ],
+ "article-number": "e2024GL110098"
+}

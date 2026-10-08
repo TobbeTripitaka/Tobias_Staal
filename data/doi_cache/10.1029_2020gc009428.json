@@ -1,0 +1,977 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2026,
+    9,
+    3
+   ]
+  ],
+  "date-time": "2026-09-03T01:05:20Z",
+  "timestamp": 1788397520702,
+  "version": "build-2803163510"
+ },
+ "reference-count": 130,
+ "publisher": "American Geophysical Union (AGU)",
+ "issue": "2",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2021,
+      2,
+      24
+     ]
+    ],
+    "date-time": "2021-02-24T00:00:00Z",
+    "timestamp": 1614124800000
+   },
+   "content-version": "vor",
+   "delay-in-days": 23,
+   "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  }
+ ],
+ "content-domain": {
+  "domain": [
+   "agupubs.onlinelibrary.wiley.com"
+  ],
+  "crossmark-restriction": true
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2021,
+    2
+   ]
+  ]
+ },
+ "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    We present a refined map of geothermal heat flow for Antarctica, Aq1, based on multiple observables. The map is generated using a similarity detection approach by attributing observables from geophysics and geology to a large number of high‐quality heat flow values (\n                    <jats:italic>N</jats:italic>\n                     = 5,792) from other continents. Observables from global, continental, and regional datasets for Antarctica are used with a weighting function that allows the degree of similarity to increase with proximity and how similar the observables are. The similarity detection parameters are optimized through cross correlation. For each grid cell in Antarctica, a weighted average heat flow value and uncertainty metrics are calculated. The Aq1 model provides higher spatial resolution in comparison to previous results. High heat flow is shown in the Thwaites Glacier region, with local values over 150 mW m\n                    <jats:sup>−2</jats:sup>\n                    . We also map elevated values over 80 mW m\n                    <jats:sup>−2</jats:sup>\n                    in Palmer Land, Marie Byrd Land, Victoria Land and Queen Mary Land. Very low heat flow is shown in the interior of Wilkes Land and Coats Land, with values under 40 mW m\n                    <jats:sup>−2</jats:sup>\n                    . We anticipate that the new geothermal heat flow map, Aq1, and its uncertainty bounds will find extended use in providing boundary conditions for ice sheet modeling and understanding the interactions between the cryosphere and solid Earth. The computational framework and open architecture allow for the model to be reproduced, adapted and updated with additional data, or model subsets to be output at higher resolution for regional studies.\n                  </jats:p>",
+ "DOI": "10.1029/2020gc009428",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2020,
+    12,
+    31
+   ]
+  ],
+  "date-time": "2020-12-31T09:12:26Z",
+  "timestamp": 1609405946000
+ },
+ "update-policy": "https://doi.org/10.1002/crossmark_policy",
+ "source": "Crossref",
+ "is-referenced-by-count": 53,
+ "title": "Antarctic Geothermal Heat Flow Model: Aq1",
+ "prefix": "10.1029",
+ "volume": "22",
+ "author": [
+  {
+   "ORCID": "https://orcid.org/0000-0002-4323-6748",
+   "authenticated-orcid": false,
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "first",
+   "affiliation": [
+    {
+     "name": "School of Natural Sciences (Earth Sciences/Physics) University of Tasmania  Hobart TAS Australia"
+    },
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-9316-7605",
+   "authenticated-orcid": false,
+   "given": "Anya M.",
+   "family": "Reading",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "School of Natural Sciences (Earth Sciences/Physics) University of Tasmania  Hobart TAS Australia"
+    },
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4992-8681",
+   "authenticated-orcid": false,
+   "given": "Jacqueline A.",
+   "family": "Halpin",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Joanne M.",
+   "family": "Whittaker",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  }
+ ],
+ "member": "13",
+ "published-online": {
+  "date-parts": [
+   [
+    2021,
+    2,
+    24
+   ]
+  ]
+ },
+ "reference": [
+  {
+   "key": "e_1_2_9_1_2_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/gji/ggz094"
+  },
+  {
+   "key": "e_1_2_9_1_3_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2014GL059405"
+  },
+  {
+   "key": "e_1_2_9_1_4_1",
+   "first-page": "19",
+   "volume-title": "NOAA Tech. Memo. NESDIS NGDC‐24",
+   "author": "Amante C.",
+   "year": "2009"
+  },
+  {
+   "key": "e_1_2_9_1_5_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2014JB011332"
+  },
+  {
+   "key": "e_1_2_9_1_6_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2015JB011917"
+  },
+  {
+   "key": "e_1_2_9_1_7_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/CBO9780511975417"
+  },
+  {
+   "key": "e_1_2_9_1_8_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2000JB900439"
+  },
+  {
+   "key": "e_1_2_9_1_9_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.earscirev.2020.103106"
+  },
+  {
+   "key": "e_1_2_9_1_10_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/CBO9780511606021"
+  },
+  {
+   "key": "e_1_2_9_1_11_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2001GC000168"
+  },
+  {
+   "key": "e_1_2_9_1_12_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2017GL075579"
+  },
+  {
+   "key": "e_1_2_9_1_13_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1145/361002.361007"
+  },
+  {
+   "key": "e_1_2_9_1_14_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gr.2010.09.003"
+  },
+  {
+   "key": "e_1_2_9_1_15_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc-10-1665-2016"
+  },
+  {
+   "key": "e_1_2_9_1_16_1",
+   "first-page": "1",
+   "article-title": "Geothermal heat flow in Antarctica: Current and future directions",
+   "author": "Burton‐Johnson A.",
+   "year": "2020",
+   "journal-title": "The Cryosphere Discussions"
+  },
+  {
+   "key": "e_1_2_9_1_17_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2017GL073596"
+  },
+  {
+   "key": "e_1_2_9_1_18_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/jgs2013-030"
+  },
+  {
+   "key": "e_1_2_9_1_19_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1080/01621459.1979.10481038"
+  },
+  {
+   "key": "e_1_2_9_1_20_1",
+   "unstructured": "G. D. Clow K. Cuffey E. Waddington 2014 American Geophysical Union Washington DC C31A C0577"
+  },
+  {
+   "key": "e_1_2_9_1_21_1",
+   "article-title": "Scientific color maps",
+   "author": "Crameri F.",
+   "year": "2019",
+   "journal-title": "Zenodo"
+  },
+  {
+   "key": "e_1_2_9_1_22_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41467-020-19160-7"
+  },
+  {
+   "key": "e_1_2_9_1_23_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2014.09.023"
+  },
+  {
+   "key": "e_1_2_9_1_24_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/nature17145"
+  },
+  {
+   "key": "e_1_2_9_1_25_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s00190-016-0948-z"
+  },
+  {
+   "key": "e_1_2_9_1_26_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2016GC006755"
+  },
+  {
+   "key": "e_1_2_9_1_27_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598-018-34733-9"
+  },
+  {
+   "key": "e_1_2_9_1_28_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3189/172756404781814203"
+  },
+  {
+   "key": "e_1_2_9_1_29_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/j.1365-246X.1980.tb04865.x"
+  },
+  {
+   "key": "e_1_2_9_1_30_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/S0012-821X(01)00459-9"
+  },
+  {
+   "key": "e_1_2_9_1_31_1",
+   "first-page": "2004",
+   "volume-title": "A keystone in a changing world online proceedings of the 10th International Symposium on Antarctic Earth Sciences (USGS of‐2007‐1047",
+   "author": "Ferraccioli F.",
+   "year": "2007"
+  },
+  {
+   "key": "e_1_2_9_1_32_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1145/358669.358692"
+  },
+  {
+   "key": "e_1_2_9_1_33_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1126/sciadv.1500093"
+  },
+  {
+   "key": "e_1_2_9_1_34_1",
+   "series-title": "EGU general assembly conference abstracts",
+   "first-page": "4077",
+   "author": "Förste C.",
+   "year": "2013"
+  },
+  {
+   "key": "e_1_2_9_1_35_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1126/science.1106888"
+  },
+  {
+   "key": "e_1_2_9_1_36_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tcd-6-4305-2012"
+  },
+  {
+   "key": "e_1_2_9_1_37_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/nature12376"
+  },
+  {
+   "key": "e_1_2_9_1_38_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/essd-11-1553-2019"
+  },
+  {
+   "key": "e_1_2_9_1_39_1",
+   "volume-title": "Volcanoes of the World, v. 4.9.0",
+   "author": "Global Volcanism Program",
+   "year": "2013"
+  },
+  {
+   "key": "e_1_2_9_1_40_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/nature15706"
+  },
+  {
+   "key": "e_1_2_9_1_41_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2018GL078153"
+  },
+  {
+   "key": "e_1_2_9_1_42_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc-12-491-2018"
+  },
+  {
+   "key": "e_1_2_9_1_43_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2009JB006890"
+  },
+  {
+   "key": "e_1_2_9_1_44_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/j.1365-246X.2011.05228.x"
+  },
+  {
+   "key": "e_1_2_9_1_45_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/essd-9-267-2017"
+  },
+  {
+   "key": "e_1_2_9_1_46_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3189/002214311796905659"
+  },
+  {
+   "key": "e_1_2_9_1_47_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s00445-013-0784-4"
+  },
+  {
+   "key": "e_1_2_9_1_48_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2018GC008033"
+  },
+  {
+   "key": "e_1_2_9_1_49_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/SP383.9"
+  },
+  {
+   "key": "e_1_2_9_1_50_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41586-020-2649-2"
+  },
+  {
+   "key": "e_1_2_9_1_51_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2012GC004370"
+  },
+  {
+   "key": "e_1_2_9_1_52_1",
+   "volume-title": "Thermoglobe",
+   "author": "Hasterok D.",
+   "year": "2019"
+  },
+  {
+   "key": "e_1_2_9_1_53_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2011.04.034"
+  },
+  {
+   "key": "e_1_2_9_1_54_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gsf.2017.10.012"
+  },
+  {
+   "key": "e_1_2_9_1_55_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gsf.2017.03.006"
+  },
+  {
+   "key": "e_1_2_9_1_56_1",
+   "first-page": "25",
+   "volume-title": "World geothermal congress 2010",
+   "author": "Holgate F. L.",
+   "year": "2010"
+  },
+  {
+   "key": "e_1_2_9_1_57_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1109/MCSE.2007.55"
+  },
+  {
+   "key": "e_1_2_9_1_58_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2003JB002565"
+  },
+  {
+   "key": "e_1_2_9_1_59_1",
+   "doi-asserted-by": "crossref",
+   "first-page": "53",
+   "DOI": "10.1016/B978-0-08-095975-7.00302-8",
+   "volume-title": "Treatise on Geochemistry",
+   "author": "Jaupart C.",
+   "year": "2014"
+  },
+  {
+   "key": "e_1_2_9_1_60_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.lithos.2016.07.017"
+  },
+  {
+   "key": "e_1_2_9_1_61_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/GSL.SP.1994.078.01.05"
+  },
+  {
+   "key": "e_1_2_9_1_62_1",
+   "volume-title": "SciPy: Open source Scientific tools for Python, 2001",
+   "author": "Jones E.",
+   "year": "2015"
+  },
+  {
+   "key": "e_1_2_9_1_63_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s43017-019-0013-6"
+  },
+  {
+   "key": "e_1_2_9_1_64_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/0262-8856(92)90076-F"
+  },
+  {
+   "key": "e_1_2_9_1_65_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2012JF002371"
+  },
+  {
+   "key": "e_1_2_9_1_66_1",
+   "first-page": "2658",
+   "article-title": "Update on CRUST1.0—A 1‐degree global model of Earth's crust",
+   "volume": "15",
+   "author": "Laske G.",
+   "year": "2013",
+   "journal-title": "EGU general assembly 2013"
+  },
+  {
+   "key": "e_1_2_9_1_67_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1098/rspa.1910.0022"
+  },
+  {
+   "key": "e_1_2_9_1_68_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2009JB006470"
+  },
+  {
+   "key": "e_1_2_9_1_69_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/srep45129"
+  },
+  {
+   "key": "e_1_2_9_1_70_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019JB017823"
+  },
+  {
+   "key": "e_1_2_9_1_71_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3389/feart.2020.00105"
+  },
+  {
+   "key": "e_1_2_9_1_72_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/ngeo1992"
+  },
+  {
+   "key": "e_1_2_9_1_73_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019GC008389"
+  },
+  {
+   "key": "e_1_2_9_1_74_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2015JF003803"
+  },
+  {
+   "key": "e_1_2_9_1_75_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598-019-46612-y"
+  },
+  {
+   "key": "e_1_2_9_1_76_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2017GL075609"
+  },
+  {
+   "key": "e_1_2_9_1_77_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2012.10.018"
+  },
+  {
+   "key": "e_1_2_9_1_78_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2009GC002471"
+  },
+  {
+   "key": "e_1_2_9_1_79_1",
+   "volume-title": "Pandas data analysis library",
+   "author": "McKinney W.",
+   "year": "2015"
+  },
+  {
+   "key": "e_1_2_9_1_80_1",
+   "first-page": "157",
+   "article-title": "The hot southern continent: Heat flow and heat production in Australian Proterozoic terranes",
+   "volume": "372",
+   "author": "McLaren S.",
+   "year": "2003",
+   "journal-title": "Special Paper of the Geological Society of America"
+  },
+  {
+   "key": "e_1_2_9_1_81_1",
+   "volume-title": "EMAG2: Earth magnetic anomaly grid (2‐arc‐minute resolution) version 3",
+   "author": "Meyer B.",
+   "year": "2016"
+  },
+  {
+   "key": "e_1_2_9_1_82_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/jog.2020.27"
+  },
+  {
+   "key": "e_1_2_9_1_83_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/GES00512.1"
+  },
+  {
+   "key": "e_1_2_9_1_84_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41561-019-0510-8"
+  },
+  {
+   "key": "e_1_2_9_1_85_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3389/feart.2019.00274"
+  },
+  {
+   "key": "e_1_2_9_1_86_1",
+   "volume-title": "MEaSUREs Antarctic Boundaries for IPY 2007–2009 from satellite radar, version 2",
+   "author": "Mouginot J.",
+   "year": "2017"
+  },
+  {
+   "key": "e_1_2_9_1_87_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2019.06.024"
+  },
+  {
+   "key": "e_1_2_9_1_88_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2010GL044906"
+  },
+  {
+   "key": "e_1_2_9_1_89_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2010.04.025"
+  },
+  {
+   "key": "e_1_2_9_1_90_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1098/rsta.2014.0296"
+  },
+  {
+   "key": "e_1_2_9_1_91_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.palaeo.2019.109346"
+  },
+  {
+   "key": "e_1_2_9_1_92_1",
+   "first-page": "2825",
+   "article-title": "Scikit‐learn: Machine learning in Python",
+   "volume": "12",
+   "author": "Pedregosa F.",
+   "year": "2011",
+   "journal-title": "Journal of Machine Learning Research"
+  },
+  {
+   "key": "e_1_2_9_1_93_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/se-11-889-2020"
+  },
+  {
+   "key": "e_1_2_9_1_94_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2016GL068436"
+  },
+  {
+   "key": "e_1_2_9_1_95_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/93RG01249"
+  },
+  {
+   "key": "e_1_2_9_1_96_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019GC008418"
+  },
+  {
+   "key": "e_1_2_9_1_97_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1073/pnas.082238999"
+  },
+  {
+   "key": "e_1_2_9_1_98_1",
+   "article-title": "Antarctica Basal Heat Flux: Geothermal heat flux data set based on low resolution observations collected by the CHAMP satellite between 2000 and 2010, and produced from the MF‐6 model following the technique described in Fox Maule et al. (2005)",
+   "author": "Purucker M.",
+   "year": "2012",
+   "journal-title": "University of Montana"
+  },
+  {
+   "key": "e_1_2_9_1_99_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/S1474-7065(03)00058-5"
+  },
+  {
+   "issue": "6",
+   "key": "e_1_2_9_1_100_1",
+   "first-page": "3",
+   "article-title": "The thickness and heat production of Archean lithosphere: Constraints from xenolith thermobarometry and surface heat flow",
+   "volume": "6",
+   "author": "Rudnick R.",
+   "year": "1999",
+   "journal-title": "Mantle Petrology: Field Observations and High Pressure Experimentation: A Tribute to Francis R. (Joe) Boyd"
+  },
+  {
+   "key": "e_1_2_9_1_101_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gr.2018.02.019"
+  },
+  {
+   "key": "e_1_2_9_1_102_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2018JB016683"
+  },
+  {
+   "key": "e_1_2_9_1_103_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/978-3-319-15627-9_1"
+  },
+  {
+   "key": "e_1_2_9_1_104_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2015GL067439"
+  },
+  {
+   "key": "e_1_2_9_1_105_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1073/pnas.1405184111"
+  },
+  {
+   "key": "e_1_2_9_1_106_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/j.1538-7305.1948.tb01338.x"
+  },
+  {
+   "key": "e_1_2_9_1_107_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2004.04.011"
+  },
+  {
+   "key": "e_1_2_9_1_108_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2017JB015346"
+  },
+  {
+   "key": "e_1_2_9_1_109_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020GL086955"
+  },
+  {
+   "key": "e_1_2_9_1_110_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1098/rsta.2014.0306"
+  },
+  {
+   "key": "e_1_2_9_1_111_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/essd-11-647-2019"
+  },
+  {
+   "key": "e_1_2_9_1_112_1",
+   "volume-title": "pyproj4/pyproj: 2.6.0 Release. Zenodo",
+   "author": "Snow A. D.",
+   "year": "2020"
+  },
+  {
+   "key": "e_1_2_9_1_113_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3389/feart.2020.577502"
+  },
+  {
+   "issue": "1",
+   "key": "e_1_2_9_1_114_1",
+   "doi-asserted-by": "crossref",
+   "first-page": "1",
+   "DOI": "10.5334/jors.287",
+   "article-title": "A grid for multidimensional and multivariate spatial representation and data processing",
+   "volume": "8",
+   "author": "Stål T.",
+   "year": "2020",
+   "journal-title": "Journal of Open Research Software"
+  },
+  {
+   "key": "e_1_2_9_1_115_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019GL083453"
+  },
+  {
+   "key": "e_1_2_9_1_116_1",
+   "article-title": "Dataset: Antarctic geothermal heat flow model: Aq1",
+   "author": "Stål T.",
+   "year": "2020",
+   "journal-title": "PANGAEA."
+  },
+  {
+   "key": "e_1_2_9_1_117_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2018JB016593"
+  },
+  {
+   "key": "e_1_2_9_1_118_1",
+   "volume-title": "Schematic geological map of Antarctica",
+   "author": "Tingey R. J.",
+   "year": "1991"
+  },
+  {
+   "key": "e_1_2_9_1_119_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020GC009156"
+  },
+  {
+   "key": "e_1_2_9_1_120_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2017.05.013"
+  },
+  {
+   "key": "e_1_2_9_1_121_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/S1040-6182(01)00050-7"
+  },
+  {
+   "key": "e_1_2_9_1_122_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc-12-2773-2018"
+  },
+  {
+   "key": "e_1_2_9_1_123_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/SP461.7"
+  },
+  {
+   "key": "e_1_2_9_1_124_1",
+   "article-title": "mwaskom/seaborn: v0.10.0 (January 2020)",
+   "author": "Waskom M.",
+   "year": "2020",
+   "journal-title": "Zenodo"
+  },
+  {
+   "key": "e_1_2_9_1_125_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.tecto.2011.05.001"
+  },
+  {
+   "key": "e_1_2_9_1_126_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41467-018-08068-y"
+  },
+  {
+   "key": "e_1_2_9_1_127_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.palaeo.2011.05.028"
+  },
+  {
+   "key": "e_1_2_9_1_128_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc-5-715-2011"
+  },
+  {
+   "key": "e_1_2_9_1_129_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1080/01431160802168210"
+  },
+  {
+   "key": "e_1_2_9_1_130_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2011JF002066"
+  },
+  {
+   "key": "e_1_2_9_2_2_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.tecto.2012.07.009"
+  }
+ ],
+ "container-title": "Geochemistry, Geophysics, Geosystems",
+ "original-title": [],
+ "language": "en",
+ "link": [
+  {
+   "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1029/2020GC009428",
+   "content-type": "application/pdf",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1029/2020GC009428",
+   "content-type": "application/xml",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020GC009428",
+   "content-type": "unspecified",
+   "content-version": "vor",
+   "intended-application": "similarity-checking"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2023,
+    8,
+    28
+   ]
+  ],
+  "date-time": "2023-08-28T04:35:21Z",
+  "timestamp": 1693197321000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GC009428"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2021,
+    2
+   ]
+  ]
+ },
+ "references-count": 130,
+ "journal-issue": {
+  "issue": "2",
+  "published-print": {
+   "date-parts": [
+    [
+     2021,
+     2
+    ]
+   ]
+  }
+ },
+ "alternative-id": [
+  "10.1029/2020GC009428"
+ ],
+ "URL": "http://dx.doi.org/10.1029/2020GC009428",
+ "relation": {},
+ "ISSN": [
+  "1525-2027",
+  "1525-2027"
+ ],
+ "subject": [],
+ "container-title-short": "Geochem Geophys Geosyst",
+ "published": {
+  "date-parts": [
+   [
+    2021,
+    2
+   ]
+  ]
+ },
+ "assertion": [
+  {
+   "value": "2020-09-11",
+   "order": 0,
+   "name": "received",
+   "label": "Received",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  },
+  {
+   "value": "2020-12-05",
+   "order": 1,
+   "name": "accepted",
+   "label": "Accepted",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  },
+  {
+   "value": "2021-02-24",
+   "order": 2,
+   "name": "published",
+   "label": "Published",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  }
+ ],
+ "article-number": "e2020GC009428"
+}

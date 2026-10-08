@@ -1,0 +1,450 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2026,
+    9,
+    11
+   ]
+  ],
+  "date-time": "2026-09-11T17:59:38Z",
+  "timestamp": 1789149578746,
+  "version": "build-2803163510"
+ },
+ "reference-count": 41,
+ "publisher": "Ubiquity Press, Ltd.",
+ "issue": "1",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2020,
+      1,
+      30
+     ]
+    ],
+    "date-time": "2020-01-30T00:00:00Z",
+    "timestamp": 1580342400000
+   },
+   "content-version": "vor",
+   "delay-in-days": 0,
+   "URL": "http://creativecommons.org/licenses/by/4.0"
+  }
+ ],
+ "content-domain": {
+  "domain": [],
+  "crossmark-restriction": false
+ },
+ "DOI": "10.5334/jors.287",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2020,
+    1,
+    30
+   ]
+  ],
+  "date-time": "2020-01-30T09:58:25Z",
+  "timestamp": 1580378305000
+ },
+ "page": "2",
+ "source": "Crossref",
+ "is-referenced-by-count": 9,
+ "title": "A Grid for Multidimensional and Multivariate Spatial Representation and\n                        Data Processing",
+ "prefix": "10.5334",
+ "volume": "8",
+ "author": [
+  {
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "first",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Anya M.",
+   "family": "Reading",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  }
+ ],
+ "member": "3285",
+ "published-online": {
+  "date-parts": [
+   [
+    2020,
+    1,
+    30
+   ]
+  ]
+ },
+ "reference": [
+  {
+   "key": "key20200130045822_B1",
+   "first-page": "2007",
+   "article-title": "S-velocity model and inferred Moho topography beneath the Antarctic Plate from Rayleigh waves",
+   "volume": "120",
+   "year": "2015",
+   "journal-title": "Journal of Geophysical Research, Solid Earth"
+  },
+  {
+   "key": "key20200130045822_B2",
+   "article-title": "Theano: A cpu and gpu math compiler in python",
+   "year": "2010"
+  },
+  {
+   "issue": "3",
+   "key": "key20200130045822_B3",
+   "doi-asserted-by": "crossref",
+   "first-page": "530",
+   "DOI": "10.1785/gssrl.81.3.530",
+   "article-title": "ObsPy: A Python toolbox for seismology",
+   "volume": "81",
+   "year": "2010",
+   "journal-title": "Seismological Research Letters"
+  },
+  {
+   "key": "key20200130045822_B4",
+   "article-title": "Gempy 1.0: Open-source stochastic geological modeling and inversion",
+   "year": "2019",
+   "journal-title": "Geoscientific Model Development"
+  },
+  {
+   "key": "key20200130045822_B5",
+   "article-title": "Tour with Madagascar, Revisiting s. e. p. and SCons",
+   "year": "2013",
+   "journal-title": "Journal of Open research software"
+  },
+  {
+   "key": "key20200130045822_B6",
+   "first-page": "1257",
+   "article-title": "Computational experiments using SCons, reproducible",
+   "year": "2007",
+   "journal-title": "ICASSP, 2007"
+  },
+  {
+   "issue": "1",
+   "key": "key20200130045822_B7",
+   "doi-asserted-by": "crossref",
+   "first-page": "375",
+   "DOI": "10.5194/tc-7-375-2013",
+   "article-title": "Bedmap2: Improved ice bed, surface and thickness datasets for Antarctica",
+   "volume": "7",
+   "year": "2013",
+   "journal-title": "The Cryosphere"
+  },
+  {
+   "key": "key20200130045822_B8",
+   "unstructured": "Gillies, S 2013 The Shapely user manual. URL https://pypi.org/project/Shapely/."
+  },
+  {
+   "key": "key20200130045822_B9",
+   "unstructured": "Gillies, S 2014 The Fiona user manual. URL https://fiona.readthedocs.io/en/latest/manual.html."
+  },
+  {
+   "key": "key20200130045822_B10",
+   "unstructured": "Gillies, S 2018 Rasterio: Geospatial raster I/O for Python programmers. URL https://github.com/mapbox/rasterio."
+  },
+  {
+   "key": "key20200130045822_B11",
+   "doi-asserted-by": "crossref",
+   "first-page": "579",
+   "DOI": "10.1016/j.procs.2011.04.061",
+   "article-title": "A data and code model for reproducible research and executable papers",
+   "volume": "4",
+   "year": "2011",
+   "journal-title": "Procedia Computer Science"
+  },
+  {
+   "issue": "1",
+   "key": "key20200130045822_B12",
+   "article-title": "xarray: N-D labeled arrays and datasets in Python",
+   "volume": "5",
+   "year": "2017",
+   "journal-title": "Journal of Open Research Software"
+  },
+  {
+   "key": "key20200130045822_B13",
+   "unstructured": "Hoyer, S, Fitzgerald, C, Hamman, J, Kleeman, A, Kluyver, T, Roos, M, Helmus, J J, Markel, M, Cable, P, Maussion, F, Miles, A, Kanmae, T, Wolfram, P, Sinclair, S, Bovy, B, Ebrevdo, R, Guedes, R, Abernathey, R, Filipe, S, Hill, N, Richards, A, Lee, N, Koldunov, M, Maciekswat, G, Gerard, J, Babuschkin, I, Deil, C, Welch, E and Hilboll, A 2019 Xarray:. http://xarray.pydata.org/en/stable/."
+  },
+  {
+   "issue": "3",
+   "key": "key20200130045822_B14",
+   "doi-asserted-by": "crossref",
+   "first-page": "90",
+   "DOI": "10.1109/MCSE.2007.55",
+   "article-title": "Matplotlib: A 2D graphics environment",
+   "volume": "9",
+   "year": "2007",
+   "journal-title": "Computing In Science & Engineering"
+  },
+  {
+   "key": "key20200130045822_B15",
+   "unstructured": "Jones, E, Oliphant, T, Peterson, P, et al. 2001 SciPy: Open Source scientific tools for Python. URL http://www.scipy.org/. [Online; accessed 13 Dec 2018]."
+  },
+  {
+   "key": "key20200130045822_B16",
+   "unstructured": "Jordahl, K 2014 GeoPandas: Python tools for geographic data. URL https://github.com/geopandas/geopandas."
+  },
+  {
+   "key": "key20200130045822_B17",
+   "article-title": "Scons user guide",
+   "year": "2010",
+   "journal-title": "Python Software Foundation"
+  },
+  {
+   "issue": "1",
+   "key": "key20200130045822_B18",
+   "doi-asserted-by": "crossref",
+   "first-page": "106",
+   "DOI": "10.1080/17538947.2015.1111952",
+   "article-title": "Rapid, high-resolution detection of environmental change over continental scales from satellite data-the Earth Observation Data Cube",
+   "volume": "9",
+   "year": "2016",
+   "journal-title": "International Journal of Digital Earth"
+  },
+  {
+   "key": "key20200130045822_B19",
+   "doi-asserted-by": "crossref",
+   "first-page": "276",
+   "DOI": "10.1016/j.rse.2017.03.015",
+   "article-title": "The Australian geoscience data cube-Foundations and lessons learned",
+   "volume": "202",
+   "year": "2017",
+   "journal-title": "Remote Sensing of Environment"
+  },
+  {
+   "key": "key20200130045822_B20",
+   "unstructured": "McKinney, W 2015 Pandas: A Python data analysis library. URL http://pandas.pydata.org."
+  },
+  {
+   "issue": "1",
+   "key": "key20200130045822_B21",
+   "first-page": "47",
+   "article-title": "ObsPy – what can it do for data centers and observatories?",
+   "volume": "54",
+   "year": "2011",
+   "journal-title": "Annals of Geophysics"
+  },
+  {
+   "key": "key20200130045822_B22",
+   "article-title": "Well-posed geoscientific visualization through interactive and color mapping",
+   "year": "2019",
+   "journal-title": "Frontiers in Earth Science"
+  },
+  {
+   "key": "key20200130045822_B23",
+   "volume-title": "A guide to NumPy",
+   "year": "2006"
+  },
+  {
+   "issue": "Oct",
+   "key": "key20200130045822_B24",
+   "first-page": "2825",
+   "article-title": "Scikit-learn: Machine learning in python",
+   "volume": "12",
+   "year": "2011",
+   "journal-title": "Journal of machine learning research"
+  },
+  {
+   "key": "key20200130045822_B25",
+   "article-title": "QGIS geographic information system",
+   "author": "QGIS",
+   "year": "2015",
+   "journal-title": "Open Source Geospatial Foundation Project"
+  },
+  {
+   "issue": "2",
+   "key": "key20200130045822_B26",
+   "doi-asserted-by": "crossref",
+   "first-page": "40",
+   "DOI": "10.1109/MCSE.2011.35",
+   "article-title": "Mayavi: 3D visualization of scientific data",
+   "volume": "13",
+   "year": "2011",
+   "journal-title": "Computing in Science and Engineering"
+  },
+  {
+   "issue": "4",
+   "key": "key20200130045822_B27",
+   "doi-asserted-by": "crossref",
+   "first-page": "76",
+   "DOI": "10.1109/38.56302",
+   "article-title": "NetCDF: An Interface for Scientific Data Access",
+   "volume": "10",
+   "year": "1990",
+   "journal-title": "IEEE Computer Graphics and Applications"
+  },
+  {
+   "key": "key20200130045822_B28",
+   "doi-asserted-by": "crossref",
+   "first-page": "A33",
+   "DOI": "10.1051/0004-6361/201322068",
+   "article-title": "Astropy: A community python package for astronomy",
+   "volume": "558",
+   "year": "2013",
+   "journal-title": "Astronomy & Astrophysics"
+  },
+  {
+   "key": "key20200130045822_B29",
+   "first-page": "130",
+   "article-title": "Dask: Parallel computation with blocked algorithms and task scheduling",
+   "year": "2015"
+  },
+  {
+   "key": "key20200130045822_B30",
+   "unstructured": "Roth, G, Matsuoka, K, Skoglund, A, Melvær, Y and Tronstad, S February 2018 Quantarctica: A unique, open, standalone GIS package for Antarctic research and education. URL http://quantarctica.npolar.no."
+  },
+  {
+   "key": "key20200130045822_B31",
+   "article-title": "Kitware, The Visualization Toolkit",
+   "year": "2006",
+   "journal-title": "Technical report. (VTK)"
+  },
+  {
+   "key": "key20200130045822_B32",
+   "article-title": "Agrid code and tests v. 0.4.0",
+   "year": "2020",
+   "journal-title": "Zenodo"
+  },
+  {
+   "key": "key20200130045822_B33",
+   "article-title": "A multivariate approach for mapping lithospheric domain boundaries in east Antarctica",
+   "year": "2019",
+   "journal-title": "Geophysical Research Letters"
+  },
+  {
+   "key": "key20200130045822_B34",
+   "article-title": "The Antarctic crust and upper mantle: A 3D model and framework for interdisciplinary research",
+   "year": "2020",
+   "journal-title": "Manuscript in preparation"
+  },
+  {
+   "key": "key20200130045822_B35",
+   "volume-title": "Handbook of grid generation",
+   "year": "1998"
+  },
+  {
+   "issue": "30",
+   "key": "key20200130045822_B36",
+   "doi-asserted-by": "crossref",
+   "first-page": "957",
+   "DOI": "10.21105/joss.00957",
+   "article-title": "Verde: Processing and gridding spatial data using green’s functions",
+   "volume": "3",
+   "year": "2018",
+   "journal-title": "Journal of Open Source Software"
+  },
+  {
+   "issue": "2",
+   "key": "key20200130045822_B37",
+   "doi-asserted-by": "crossref",
+   "first-page": "22",
+   "DOI": "10.1109/MCSE.2011.37",
+   "article-title": "The NumPy array: A structure for efficient numerical computation",
+   "volume": "13",
+   "year": "2011",
+   "journal-title": "Computing in Science & Engineering"
+  },
+  {
+   "key": "key20200130045822_B38",
+   "unstructured": "Warmerdam, F and GDAL/O. G. R. contributors. software Library, GDAL/OGR Geospatial Data Abstraction. Foundation, Open Source Geospatial, 2018. URL http://gdal.org."
+  },
+  {
+   "issue": "1",
+   "key": "key20200130045822_B39",
+   "article-title": "Best practices for scientific computing",
+   "volume": "12",
+   "year": "2014",
+   "journal-title": "PLoS biology"
+  },
+  {
+   "key": "key20200130045822_B40",
+   "unstructured": "Zwally, H J, Giovinetto, M B, Beckley, M A and Saba, J L 2012 Antarctic and Greenland drainage systems, gsfc cryospheric sciences laboratory. Available at icesat4.gsfc.nasa.gov/cryo_data/ant_grn_drainage_systems.php. Accessed March 1, 2015."
+  },
+  {
+   "key": "key20200130045822_B41",
+   "unstructured": "Met Office 2019 Cartopy: A cartographic python library with a matplotlib interface. Exeter, Devon. URL http://scitools.org.uk/cartopy."
+  }
+ ],
+ "container-title": "Journal of Open Research Software",
+ "original-title": [],
+ "link": [
+  {
+   "URL": "https://doi.org/10.5334/jors.287",
+   "content-type": "unspecified",
+   "content-version": "vor",
+   "intended-application": "similarity-checking"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2022,
+    7,
+    11
+   ]
+  ],
+  "date-time": "2022-07-11T09:08:39Z",
+  "timestamp": 1657530519000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://openresearchsoftware.metajnl.com/article/10.5334/jors.287/"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2020,
+    1,
+    30
+   ]
+  ]
+ },
+ "references-count": 41,
+ "journal-issue": {
+  "issue": "1",
+  "published-online": {
+   "date-parts": [
+    [
+     2020,
+     1,
+     15
+    ]
+   ]
+  }
+ },
+ "URL": "http://dx.doi.org/10.5334/jors.287",
+ "relation": {},
+ "ISSN": [
+  "2049-9647"
+ ],
+ "subject": [],
+ "container-title-short": "JORS",
+ "published": {
+  "date-parts": [
+   [
+    2020,
+    1,
+    30
+   ]
+  ]
+ }
+}

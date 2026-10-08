@@ -1,0 +1,915 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2026,
+    10,
+    2
+   ]
+  ],
+  "date-time": "2026-10-02T16:52:37Z",
+  "timestamp": 1790959957962,
+  "version": "4.1.0"
+ },
+ "reference-count": 98,
+ "publisher": "American Geophysical Union (AGU)",
+ "issue": "7",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2026,
+      7,
+      24
+     ]
+    ],
+    "date-time": "2026-07-24T00:00:00Z",
+    "timestamp": 1784851200000
+   },
+   "content-version": "vor",
+   "delay-in-days": 23,
+   "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  {
+   "start": {
+    "date-parts": [
+     [
+      2026,
+      7,
+      1
+     ]
+    ],
+    "date-time": "2026-07-01T00:00:00Z",
+    "timestamp": 1782864000000
+   },
+   "content-version": "tdm",
+   "delay-in-days": 0,
+   "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  }
+ ],
+ "content-domain": {
+  "domain": [
+   "agupubs.onlinelibrary.wiley.com"
+  ],
+  "crossmark-restriction": true
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2026,
+    7
+   ]
+  ]
+ },
+ "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Understanding the basal conditions of East Antarctica's outlet glaciers is critical for accurately modeling future ice‐sheet evolution. Denman Glacier, one of the continent's fastest‐flowing glaciers, has been identified in bed‐topography models as occupying the deepest continental trough on Earth, potentially acting as a major outlet of the East Antarctic Ice Sheet. Here we present a land‐based magnetotelluric transect across Denman Glacier, acquired approximately 50 km upstream from its grounding line. These measurements provide the first in situ, ground‐based geophysical constraints on the glacier's subglacial structure, enabling evaluation of existing airborne‐derived models and reducing uncertainty and non‐uniqueness in inferred bed topography. The resistivity model images a laterally continuous, highly resistive unit (–), interpreted as glacial ice. This ice overlies lower‐resistivity regions (–) interpreted to be unconsolidated sediments and rock. Along the glacier flanks, the boundary between ice and underlying material aligns closely with radar‐derived trough depths. In contrast, beneath the glacier center, the model indicates a trough depth of  m below sea level, more than 1000 m shallower than previous estimates, indicating that the extreme depths predicted by earlier models are not observed. Basement resistivity is consistent with magnetic source depths and regional geological constraints. A low‐resistivity feature () near the center of the glacier is interpreted as a sedimentary topographic high. Low‐resistivity anomalies beneath the glacier are attributed to saline porewater within till or sedimentary rocks. The inferred bed geometry and basal conditions provide improved constraints for modeling Denman Glacier's stability and future evolution.</jats:p>",
+ "DOI": "10.1029/2026jf009277",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2026,
+    7,
+    24
+   ]
+  ],
+  "date-time": "2026-07-24T12:12:33Z",
+  "timestamp": 1784895153000
+ },
+ "update-policy": "https://doi.org/10.1002/crossmark_policy",
+ "source": "Crossref",
+ "is-referenced-by-count": 1,
+ "title": "Bed Topography and Subglacial Conditions of Denman Glacier, East Antarctica: Insights From Magnetotelluric Data and Interdisciplinary Studies",
+ "prefix": "10.1029",
+ "volume": "131",
+ "author": [
+  {
+   "ORCID": "https://orcid.org/0000-0002-3178-6523",
+   "authenticated-orcid": false,
+   "given": "Maria Constanza",
+   "family": "Manassero",
+   "sequence": "first",
+   "affiliation": [
+    {
+     "name": "School of Natural Sciences (Physics) University of Tasmania  Hobart Tasmania Australia"
+    },
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science University of Tasmania  Hobart Tasmania Australia"
+    },
+    {
+     "name": "School of Natural Sciences Macquarie University  Sydney New South Wales Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0001-5752-7717",
+   "authenticated-orcid": false,
+   "given": "Kate",
+   "family": "Selway",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "School of Natural Sciences (Physics) University of Tasmania  Hobart Tasmania Australia"
+    },
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science University of Tasmania  Hobart Tasmania Australia"
+    },
+    {
+     "name": "School of Natural Sciences Macquarie University  Sydney New South Wales Australia"
+    },
+    {
+     "name": "Vox Geophysics  Perth Western Australia Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4323-6748",
+   "authenticated-orcid": false,
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "School of Natural Sciences (Physics) University of Tasmania  Hobart Tasmania Australia"
+    },
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science University of Tasmania  Hobart Tasmania Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0003-0895-686X",
+   "authenticated-orcid": false,
+   "given": "Matthias",
+   "family": "Scheiter",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "School of Natural Sciences (Physics) University of Tasmania  Hobart Tasmania Australia"
+    },
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science University of Tasmania  Hobart Tasmania Australia"
+    },
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart Tasmania Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-9222-2107",
+   "authenticated-orcid": false,
+   "given": "Mareen",
+   "family": "Loesing",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science University of Tasmania  Hobart Tasmania Australia"
+    },
+    {
+     "name": "School of Earth and Oceans University of Western Australia  Perth Western Australia Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-2324-2120",
+   "authenticated-orcid": false,
+   "given": "Felicity",
+   "family": "McCormack",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Securing Antarctica's Environmental Future School of Earth Atmosphere &amp; Environment Monash University  Clayton Victoria Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Jacqueline A.",
+   "family": "Halpin",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science University of Tasmania  Hobart Tasmania Australia"
+    },
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart Tasmania Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4830-4949",
+   "authenticated-orcid": false,
+   "given": "Bernd",
+   "family": "Kulessa",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science University of Tasmania  Hobart Tasmania Australia"
+    },
+    {
+     "name": "School of Biosciences Geography and Physics Swansea University  Swansea Wales UK"
+    },
+    {
+     "name": "School of Technology Environments and Design University of Tasmania  Hobart Tasmania Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-9316-7605",
+   "authenticated-orcid": false,
+   "given": "Anya M.",
+   "family": "Reading",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "School of Natural Sciences (Physics) University of Tasmania  Hobart Tasmania Australia"
+    },
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science University of Tasmania  Hobart Tasmania Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  }
+ ],
+ "member": "13",
+ "published-online": {
+  "date-parts": [
+   [
+    2026,
+    7,
+    24
+   ]
+  ]
+ },
+ "reference": [
+  {
+   "key": "e_1_2_13_1_2_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3189/2012jog12j018"
+  },
+  {
+   "key": "e_1_2_13_1_3_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/B978-012387582-2/50038-1"
+  },
+  {
+   "key": "e_1_2_13_1_4_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gr.2014.10.019"
+  },
+  {
+   "key": "e_1_2_13_1_5_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2021rg000767"
+  },
+  {
+   "key": "e_1_2_13_1_6_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020jb019825"
+  },
+  {
+   "key": "e_1_2_13_1_7_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.palaeo.2020.110053"
+  },
+  {
+   "key": "e_1_2_13_1_8_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2014gl059405"
+  },
+  {
+   "key": "e_1_2_13_1_9_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/0031‐9201(90)90251‐r"
+  },
+  {
+   "key": "e_1_2_13_1_10_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/j.1365‐246x.2005.02779.x"
+  },
+  {
+   "key": "e_1_2_13_1_11_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/s095410209200066x"
+  },
+  {
+   "key": "e_1_2_13_1_12_1",
+   "volume-title": "IceBridge HiCARS 2 L2 Geolocated Ice Thickness, Version 1",
+   "author": "Blankenship K. S.",
+   "year": "2012"
+  },
+  {
+   "key": "e_1_2_13_1_13_1",
+   "unstructured": "Blankenship Kempf S. &Young D.(2011).Icebridge geometrics 823a cesium magnetometer l2 geolocated magnetic anomalies version 1. (No Title)."
+  },
+  {
+   "key": "e_1_2_13_1_14_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s10712‐013‐9234‐2"
+  },
+  {
+   "key": "e_1_2_13_1_15_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019gl086291"
+  },
+  {
+   "key": "e_1_2_13_1_16_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1190/1.1437915"
+  },
+  {
+   "key": "e_1_2_13_1_17_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/j.1365‐246x.2004.02281.x"
+  },
+  {
+   "key": "e_1_2_13_1_18_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/gji/ggu147"
+  },
+  {
+   "key": "e_1_2_13_1_19_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1109/lgrs.2020.3007514"
+  },
+  {
+   "key": "e_1_2_13_1_20_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/CBO9781139020138.002"
+  },
+  {
+   "key": "e_1_2_13_1_21_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598‐018‐26530‐1"
+  },
+  {
+   "key": "e_1_2_13_1_22_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3189/s0022143000005396"
+  },
+  {
+   "key": "e_1_2_13_1_23_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc‐7‐375‐2013"
+  },
+  {
+   "key": "e_1_2_13_1_24_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1126/science.adt9619"
+  },
+  {
+   "key": "e_1_2_13_1_25_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1190/1.1440923"
+  },
+  {
+   "key": "e_1_2_13_1_26_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1190/1.3509781"
+  },
+  {
+   "key": "e_1_2_13_1_27_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1126/science.abm3301"
+  },
+  {
+   "key": "e_1_2_13_1_28_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/210190a0"
+  },
+  {
+   "key": "e_1_2_13_1_29_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s10712‐019‐09570‐8"
+  },
+  {
+   "key": "e_1_2_13_1_30_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41467‐022‐30627‐7"
+  },
+  {
+   "key": "e_1_2_13_1_31_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2005je002525"
+  },
+  {
+   "key": "e_1_2_13_1_32_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.7910/DVN/EBW8UC"
+  },
+  {
+   "key": "e_1_2_13_1_33_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/s0024‐4937(99)00022‐5"
+  },
+  {
+   "key": "e_1_2_13_1_34_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.cageo.2014.01.010"
+  },
+  {
+   "key": "e_1_2_13_1_35_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2025jb033029"
+  },
+  {
+   "key": "e_1_2_13_1_36_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/jog.2017.36"
+  },
+  {
+   "key": "e_1_2_13_1_37_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/jog.2021.94"
+  },
+  {
+   "key": "e_1_2_13_1_38_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2024jb028929"
+  },
+  {
+   "key": "e_1_2_13_1_39_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.21105/joss.01358"
+  },
+  {
+   "key": "e_1_2_13_1_40_1",
+   "doi-asserted-by": "crossref",
+   "unstructured": "Krieger L. Peacock J. R. et al. (2014).Mtpy: A python toolbox for magnetotelluric data processing.https://github.com/MTgeophysics/mtpy",
+   "DOI": "10.1016/j.cageo.2014.07.013"
+  },
+  {
+   "key": "e_1_2_13_1_41_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.2113/jeeg12.1.23"
+  },
+  {
+   "key": "e_1_2_13_1_42_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s12665‐023‐10998‐w"
+  },
+  {
+   "key": "e_1_2_13_1_43_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2022jf007040"
+  },
+  {
+   "key": "e_1_2_13_1_44_1",
+   "first-page": "1",
+   "volume-title": "Gravity topography modeling of the Denman Glacier region using a geostatistical approach",
+   "author": "Lösing M.",
+   "year": "2026"
+  },
+  {
+   "key": "e_1_2_13_1_45_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019jf005420"
+  },
+  {
+   "key": "e_1_2_13_1_46_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2021jb021962"
+  },
+  {
+   "key": "e_1_2_13_1_47_1",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Manassero M. C. et al. (2025a).Magnetotelluric data and resistivity models from Denman Glacier East Antarctica[Dataset].Zenodo.https://doi.org/10.5281/zenodo.15646543",
+   "DOI": "10.5281/zenodo.15646543"
+  },
+  {
+   "key": "e_1_2_13_1_48_1",
+   "doi-asserted-by": "publisher",
+   "unstructured": "Manassero M. C. et al. (2025b).Magnetotelluric time series data from Denman Glacier East Antarctica[Dataset].Australian Antarctic Data Centre.https://doi.org/10.25914/cqzm‐gv65",
+   "DOI": "10.25914/cqzm‐gv65"
+  },
+  {
+   "key": "e_1_2_13_1_49_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2023jb028257"
+  },
+  {
+   "key": "e_1_2_13_1_50_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2016gl071063"
+  },
+  {
+   "key": "e_1_2_13_1_51_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020tc006180"
+  },
+  {
+   "key": "e_1_2_13_1_52_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1186/s40623‐020‐1143‐2"
+  },
+  {
+   "key": "e_1_2_13_1_53_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2012.10.018"
+  },
+  {
+   "key": "e_1_2_13_1_54_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc‐17‐4705‐2023"
+  },
+  {
+   "key": "e_1_2_13_1_55_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/g37639.1"
+  },
+  {
+   "key": "e_1_2_13_1_56_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.polar.2020.100587"
+  },
+  {
+   "key": "e_1_2_13_1_57_1",
+   "first-page": "1",
+   "article-title": "Recent acceleration of Denman Glacier (1972–2017), East Antarctica, driven by grounding line retreat and changes in ice tongue configuration",
+   "volume": "2020",
+   "author": "Miles B. W.",
+   "year": "2020",
+   "journal-title": "The Cryosphere Discussions"
+  },
+  {
+   "key": "e_1_2_13_1_58_1",
+   "unstructured": "Morlighem M.(2022).Measures bedmachine Antarctica.NASA National Snow and Ice Data Center Distributed Active Archive Center.https://doi.org/10.5067/FPSU0V1MWUB6"
+  },
+  {
+   "key": "e_1_2_13_1_59_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41561‐019‐0510‐8"
+  },
+  {
+   "key": "e_1_2_13_1_60_1",
+   "unstructured": "MTgeophysics‐Developers. (2024).Mtpy‐v2: A python toolbox for magnetotelluric data[Software]. Retrieved fromhttps://github.com/MTgeophysics/mtpy‐v2"
+  },
+  {
+   "key": "e_1_2_13_1_61_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/g45952.1"
+  },
+  {
+   "key": "e_1_2_13_1_62_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/1365‐2478.12012"
+  },
+  {
+   "key": "e_1_2_13_1_63_1",
+   "unstructured": "NOAA Space Weather Prediction Center. (2025).Planetary k‐index. Retrieved fromhttps://www.swpc.noaa.gov/products/planetary‐k‐index"
+  },
+  {
+   "key": "e_1_2_13_1_64_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3189/s0022143000018670"
+  },
+  {
+   "key": "e_1_2_13_1_65_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020gc009126"
+  },
+  {
+   "key": "e_1_2_13_1_66_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1126/science.aaz5487"
+  },
+  {
+   "key": "e_1_2_13_1_67_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2015jb012677"
+  },
+  {
+   "key": "e_1_2_13_1_68_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2023jf007513"
+  },
+  {
+   "key": "e_1_2_13_1_69_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1126/sciadv.adi9014"
+  },
+  {
+   "key": "e_1_2_13_1_70_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/92rs00852"
+  },
+  {
+   "key": "e_1_2_13_1_71_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41597‐025‐04672‐y"
+  },
+  {
+   "key": "e_1_2_13_1_72_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1190/1.1442774"
+  },
+  {
+   "key": "e_1_2_13_1_73_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1073/pnas.1812883116"
+  },
+  {
+   "key": "e_1_2_13_1_74_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/jog.2022.31"
+  },
+  {
+   "key": "e_1_2_13_1_75_1",
+   "unstructured": "Roberts J. Blankenship D. Greenbaum J. Beem L. Kempf S. Young D. et al. (2018).Eagle/icecap ii‐geophysical observations (surface and bed elevation ice thickness gravity disturbance and magnetic anomalies) ver. 1. Australian Antarctic Data Centre.https://doi.org/10.26179/5bcfffdabcf92"
+  },
+  {
+   "key": "e_1_2_13_1_76_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/s0022112006003570"
+  },
+  {
+   "key": "e_1_2_13_1_77_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s10712‐013‐9235‐1"
+  },
+  {
+   "key": "e_1_2_13_1_78_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc‐14‐3033‐2020"
+  },
+  {
+   "key": "e_1_2_13_1_79_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2024ef004561"
+  },
+  {
+   "key": "e_1_2_13_1_80_1",
+   "volume-title": "Matlab, version r2023b",
+   "author": "The MathWorks I.",
+   "year": "2023"
+  },
+  {
+   "key": "e_1_2_13_1_81_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc‐17‐157‐2023"
+  },
+  {
+   "key": "e_1_2_13_1_82_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/s0954102019000403"
+  },
+  {
+   "key": "e_1_2_13_1_83_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/bf02840313"
+  },
+  {
+   "key": "e_1_2_13_1_84_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41467‐017‐01577‐2"
+  },
+  {
+   "key": "e_1_2_13_1_85_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/96gl02887"
+  },
+  {
+   "key": "e_1_2_13_1_86_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/j.1365‐246x.2004.02156.x"
+  },
+  {
+   "key": "e_1_2_13_1_87_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3189/s0022143000023327"
+  },
+  {
+   "key": "e_1_2_13_2_2_1",
+   "volume-title": "The physics of glaciers",
+   "author": "Cuffey K. M.",
+   "year": "2010"
+  },
+  {
+   "key": "e_1_2_13_2_3_1",
+   "unstructured": "EM GeoSci.xyz. (n.d.).Typical values for rocks. Retrieved fromhttps://em.geosci.xyz/content/physical_properties/electrical_conductivity/electrical_conductivity_values.html"
+  },
+  {
+   "key": "e_1_2_13_2_4_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3189/2014JoG13J078"
+  },
+  {
+   "key": "e_1_2_13_2_5_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/978-3-642-03415-2"
+  },
+  {
+   "key": "e_1_2_13_2_6_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.2307/2334940"
+  },
+  {
+   "key": "e_1_2_13_2_7_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/978-94-015-1167-4_5"
+  },
+  {
+   "key": "e_1_2_13_2_8_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s10712‐013‐9233‐3"
+  },
+  {
+   "key": "e_1_2_13_2_9_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.cageo.2020.104436"
+  },
+  {
+   "key": "e_1_2_13_2_10_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1063/1.1699114"
+  },
+  {
+   "key": "e_1_2_13_2_11_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2021.116811"
+  },
+  {
+   "key": "e_1_2_13_2_12_1",
+   "unstructured": "NASA MEaSUREs Project. (2020).MEaSUREs ITS_LIVE regional Glacier and ice sheet surface velocities version 1.NASA National Snow and Ice Data Center Distributed Active Archive Center.https://doi.org/10.5067/6II6VW8LLWJ7"
+  },
+  {
+   "key": "e_1_2_13_2_13_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/366549a0"
+  }
+ ],
+ "container-title": "Journal of Geophysical Research: Earth Surface",
+ "original-title": [],
+ "language": "en",
+ "link": [
+  {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2026JF009277",
+   "content-type": "application/pdf",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/full-xml/10.1029/2026JF009277",
+   "content-type": "application/xml",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2026JF009277",
+   "content-type": "unspecified",
+   "content-version": "vor",
+   "intended-application": "similarity-checking"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2026,
+    8,
+    8
+   ]
+  ],
+  "date-time": "2026-08-08T05:50:39Z",
+  "timestamp": 1786168239000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JF009277"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2026,
+    7
+   ]
+  ]
+ },
+ "references-count": 98,
+ "journal-issue": {
+  "issue": "7",
+  "published-print": {
+   "date-parts": [
+    [
+     2026,
+     7
+    ]
+   ]
+  }
+ },
+ "alternative-id": [
+  "10.1029/2026JF009277"
+ ],
+ "URL": "http://dx.doi.org/10.1029/2026JF009277",
+ "relation": {
+  "has-preprint": [
+   {
+    "id-type": "doi",
+    "id": "10.22541/au.175883281.14619781/v1",
+    "asserted-by": "object"
+   }
+  ]
+ },
+ "ISSN": [
+  "2169-9003",
+  "2169-9011"
+ ],
+ "subject": [],
+ "container-title-short": "JGR Earth Surface",
+ "published": {
+  "date-parts": [
+   [
+    2026,
+    7
+   ]
+  ]
+ },
+ "assertion": [
+  {
+   "value": "2026-03-21",
+   "order": 0,
+   "name": "received",
+   "label": "Received",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  },
+  {
+   "value": "2026-07-03",
+   "order": 2,
+   "name": "accepted",
+   "label": "Accepted",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  },
+  {
+   "value": "2026-07-24",
+   "order": 3,
+   "name": "published",
+   "label": "Published",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  }
+ ],
+ "article-number": "e2026JF009277"
+}

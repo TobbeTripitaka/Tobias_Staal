@@ -1,0 +1,2076 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2026,
+    9,
+    12
+   ]
+  ],
+  "date-time": "2026-09-12T01:50:11Z",
+  "timestamp": 1789177811134,
+  "version": "build-2803163510"
+ },
+ "reference-count": 154,
+ "publisher": "Elsevier BV",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      1
+     ]
+    ],
+    "date-time": "2026-06-01T00:00:00Z",
+    "timestamp": 1780272000000
+   },
+   "content-version": "tdm",
+   "delay-in-days": 0,
+   "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+  },
+  {
+   "start": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      1
+     ]
+    ],
+    "date-time": "2026-06-01T00:00:00Z",
+    "timestamp": 1780272000000
+   },
+   "content-version": "tdm",
+   "delay-in-days": 0,
+   "URL": "https://www.elsevier.com/legal/tdmrep-license"
+  },
+  {
+   "start": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      1
+     ]
+    ],
+    "date-time": "2026-06-01T00:00:00Z",
+    "timestamp": 1780272000000
+   },
+   "content-version": "stm-asf",
+   "delay-in-days": 0,
+   "URL": "https://doi.org/10.15223/policy-017"
+  },
+  {
+   "start": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      1
+     ]
+    ],
+    "date-time": "2026-06-01T00:00:00Z",
+    "timestamp": 1780272000000
+   },
+   "content-version": "stm-asf",
+   "delay-in-days": 0,
+   "URL": "https://doi.org/10.15223/policy-037"
+  },
+  {
+   "start": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      1
+     ]
+    ],
+    "date-time": "2026-06-01T00:00:00Z",
+    "timestamp": 1780272000000
+   },
+   "content-version": "stm-asf",
+   "delay-in-days": 0,
+   "URL": "https://doi.org/10.15223/policy-012"
+  },
+  {
+   "start": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      1
+     ]
+    ],
+    "date-time": "2026-06-01T00:00:00Z",
+    "timestamp": 1780272000000
+   },
+   "content-version": "stm-asf",
+   "delay-in-days": 0,
+   "URL": "https://doi.org/10.15223/policy-029"
+  },
+  {
+   "start": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      1
+     ]
+    ],
+    "date-time": "2026-06-01T00:00:00Z",
+    "timestamp": 1780272000000
+   },
+   "content-version": "stm-asf",
+   "delay-in-days": 0,
+   "URL": "https://doi.org/10.15223/policy-004"
+  }
+ ],
+ "funder": [
+  {
+   "DOI": "10.13039/501100000923",
+   "name": "Australian Research Council",
+   "doi-asserted-by": "publisher",
+   "award": [
+    "DP180104074"
+   ],
+   "award-info": [
+    {
+     "award-number": [
+      "DP180104074"
+     ]
+    }
+   ],
+   "id": [
+    {
+     "id": "10.13039/501100000923",
+     "id-type": "DOI",
+     "asserted-by": "publisher"
+    }
+   ]
+  },
+  {
+   "DOI": "10.13039/501100000923",
+   "name": "Australian Research Council",
+   "doi-asserted-by": "publisher",
+   "award": [
+    "ARC DP190100418"
+   ],
+   "award-info": [
+    {
+     "award-number": [
+      "ARC DP190100418"
+     ]
+    }
+   ],
+   "id": [
+    {
+     "id": "10.13039/501100000923",
+     "id-type": "DOI",
+     "asserted-by": "publisher"
+    }
+   ]
+  },
+  {
+   "DOI": "10.13039/501100020589",
+   "name": "National Centre for Polar and Ocean Research, Ministry of Earth Sciences",
+   "doi-asserted-by": "publisher",
+   "id": [
+    {
+     "id": "10.13039/501100020589",
+     "id-type": "DOI",
+     "asserted-by": "publisher"
+    }
+   ]
+  },
+  {
+   "DOI": "10.13039/501100000706",
+   "name": "Scientific Committee on Antarctic Research",
+   "doi-asserted-by": "publisher",
+   "id": [
+    {
+     "id": "10.13039/501100000706",
+     "id-type": "DOI",
+     "asserted-by": "publisher"
+    }
+   ]
+  }
+ ],
+ "content-domain": {
+  "domain": [
+   "elsevier.com",
+   "sciencedirect.com"
+  ],
+  "crossmark-restriction": true
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2026,
+    6
+   ]
+  ]
+ },
+ "DOI": "10.1016/j.earscirev.2026.105475",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2026,
+    3,
+    21
+   ]
+  ],
+  "date-time": "2026-03-21T00:08:31Z",
+  "timestamp": 1774051711000
+ },
+ "page": "105475",
+ "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+ "source": "Crossref",
+ "is-referenced-by-count": 1,
+ "special_numbering": "C",
+ "title": "Geothermal heat flow in the Princess Elizabeth Land sector, East Antarctica",
+ "prefix": "10.1016",
+ "volume": "277",
+ "author": [
+  {
+   "given": "Devsamridhi",
+   "family": "Arora",
+   "sequence": "first",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Naresh Chandra",
+   "family": "Pant",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Aditya",
+   "family": "Naik",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Mayuri",
+   "family": "Pandey",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "given": "Rashmi",
+   "family": "Gupta",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  }
+ ],
+ "member": "78",
+ "reference": [
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0005",
+   "article-title": "Neoproterozoic crustal evolution of Rayner province, East Antarctica: new insight from subglacial drilling",
+   "author": "Abdrakhmanov",
+   "year": "2025",
+   "journal-title": "Polar Sci."
+  },
+  {
+   "issue": "8077",
+   "key": "10.1016/j.earscirev.2026.105475_bb0010",
+   "doi-asserted-by": "crossref",
+   "first-page": "621",
+   "DOI": "10.1038/s41586-025-09349-5",
+   "article-title": "Emerging evidence of abrupt changes in the Antarctic environment",
+   "volume": "644",
+   "author": "Abram",
+   "year": "2025",
+   "journal-title": "Nature"
+  },
+  {
+   "issue": "3",
+   "key": "10.1016/j.earscirev.2026.105475_bb0015",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2021RG000767",
+   "article-title": "Antarctic sedimentary basins and their influence on ice-sheet dynamics",
+   "volume": "61",
+   "author": "Aitken",
+   "year": "2023",
+   "journal-title": "Rev. Geophys."
+  },
+  {
+   "issue": "12",
+   "key": "10.1016/j.earscirev.2026.105475_bb0020",
+   "doi-asserted-by": "crossref",
+   "first-page": "8720",
+   "DOI": "10.1002/2015JB011917",
+   "article-title": "Temperature, lithosphere-asthenosphere boundary, and heat flux beneath the Antarctic Plate inferred from seismic velocities",
+   "volume": "120",
+   "author": "An",
+   "year": "2015",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "issue": "3–4",
+   "key": "10.1016/j.earscirev.2026.105475_bb0025",
+   "doi-asserted-by": "crossref",
+   "first-page": "243",
+   "DOI": "10.1007/BF01164153",
+   "article-title": "Sm-Nd and Rb-Sr isotopic systematics of the East Antarctic Manning Massif alkaline trachybasalts and the development of the mantle beneath the Lambert-Amery rift",
+   "volume": "63",
+   "author": "Andronikov",
+   "year": "1998",
+   "journal-title": "Mineral. Petrol."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0030",
+   "doi-asserted-by": "crossref",
+   "first-page": "260",
+   "DOI": "10.1016/j.gr.2020.05.002",
+   "article-title": "Insights into geological evolution of Princess Elizabeth Land, East Antarctica-clues for continental suturing and breakup since Rodinian time",
+   "volume": "84",
+   "author": "Arora",
+   "year": "2020",
+   "journal-title": "Gondwana Res."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0040",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1016/j.earscirev.2022.103954",
+   "article-title": "Antarctica ice sheet basal melting enhanced by high mantle heat",
+   "volume": "226",
+   "author": "Artemieva",
+   "year": "2022",
+   "journal-title": "Earth Sci. Rev."
+  },
+  {
+   "issue": "B8",
+   "key": "10.1016/j.earscirev.2026.105475_bb0045",
+   "doi-asserted-by": "crossref",
+   "first-page": "16387",
+   "DOI": "10.1029/2000JB900439",
+   "article-title": "Thermal thickness and evolution of Precambrian lithosphere: a global study",
+   "volume": "106",
+   "author": "Artemieva",
+   "year": "2001",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "issue": "1",
+   "key": "10.1016/j.earscirev.2026.105475_bb0050",
+   "doi-asserted-by": "crossref",
+   "first-page": "6",
+   "DOI": "10.1186/s40517-022-00216-4",
+   "article-title": "Interpretation of gravity–magnetic anomalies to delineate subsurface configuration beneath east geothermal province along the Mahanadi rift basin: a case study of non-volcanic hot springs",
+   "volume": "10",
+   "author": "Basantaray",
+   "year": "2022",
+   "journal-title": "Geotherm. Energy"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0055",
+   "series-title": "Lake Vostok: A Curiosity or a Focus for Interdisciplinary Study?",
+   "author": "Bell",
+   "year": "1999"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0060",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1016/j.tecto.2023.230155",
+   "article-title": "New heat flow data on the south Balearic margin: evidence of regional fluid circulation system",
+   "volume": "870",
+   "author": "Bellucci",
+   "year": "2024",
+   "journal-title": "Tectonophysics"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0065",
+   "series-title": "Heat Flow and Thermal History in New England and New York,. Studies of Appalachian Geology: Northern and Maritime",
+   "first-page": "437",
+   "author": "Birch",
+   "year": "1968"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0070",
+   "unstructured": "Bo, S., Greenbaum, J., Guo, J., Davis, J., Wei, W., Habbal, F., et al. (2019). Assembly and breakup of Indo-Antarctica revealed. In Abstracts, XIII International Symposium on Antarctic Earth Sciences."
+  },
+  {
+   "issue": "1–2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0075",
+   "doi-asserted-by": "crossref",
+   "first-page": "35",
+   "DOI": "10.1016/S0012-821X(03)00692-7",
+   "article-title": "Terminal suturing of Gondwana and the onset of the Ross–Delamerian Orogeny: the cause and effect of an Early Cambrian reconfiguration of plate motions",
+   "volume": "219",
+   "author": "Boger",
+   "year": "2004",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "issue": "B11",
+   "key": "10.1016/j.earscirev.2026.105475_bb0080",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2009JB006494",
+   "article-title": "Mapping Curie temperature depth in the western United States with a fractal model for crustal magnetization",
+   "volume": "114",
+   "author": "Bouligand",
+   "year": "2009",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "issue": "4",
+   "key": "10.1016/j.earscirev.2026.105475_bb0085",
+   "doi-asserted-by": "crossref",
+   "first-page": "235",
+   "DOI": "10.1038/s43017-023-00391-3",
+   "article-title": "Geodynamics of continental rift initiation and evolution",
+   "volume": "4",
+   "author": "Brune",
+   "year": "2023",
+   "journal-title": "Nat. Rev. Earth Environ."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0090",
+   "first-page": "1",
+   "article-title": "Geothermal heat flow in Antarctica: current and future directions",
+   "volume": "2020",
+   "author": "Burton-Johnson",
+   "year": "2020",
+   "journal-title": "Cryosphere Discuss."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0095",
+   "doi-asserted-by": "crossref",
+   "first-page": "23",
+   "DOI": "10.1016/j.jvolgeores.2018.10.015",
+   "article-title": "Heat flow and geothermal gradients of the Campania region (Southern Italy) and their relationship to volcanism and tectonics",
+   "volume": "365",
+   "author": "Carlino",
+   "year": "2018",
+   "journal-title": "J. Volcanol. Geotherm. Res."
+  },
+  {
+   "issue": "1",
+   "key": "10.1016/j.earscirev.2026.105475_bb0100",
+   "doi-asserted-by": "crossref",
+   "first-page": "9",
+   "DOI": "10.1144/jgs2013-030",
+   "article-title": "Hot rocks in a cold place: high sub-glacial heat flow in East Antarctica",
+   "volume": "171",
+   "author": "Carson",
+   "year": "2014",
+   "journal-title": "J. Geol. Soc. Lond."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0105",
+   "series-title": "Geothermal Energy Resources of India",
+   "author": "Chandrasekharam",
+   "year": "2000"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0110",
+   "first-page": "108358",
+   "article-title": "Mid-Neoproterozoic extensional tectonics in the Larsemann Hills, East Antarctica: Implications for Indo-Antarctic correlation in Rodinia",
+   "author": "Chatterjee",
+   "year": "2025",
+   "journal-title": "Lithos"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0115",
+   "doi-asserted-by": "crossref",
+   "first-page": "23",
+   "DOI": "10.1016/j.precamres.2011.11.001",
+   "article-title": "Sedimentary provenance and age of metamorphism of the Vestfold Hills, East Antarctica: evidence for a piece of Chinese Antarctica?",
+   "volume": "196",
+   "author": "Clark",
+   "year": "2012",
+   "journal-title": "Precambrian Res."
+  },
+  {
+   "issue": "7",
+   "key": "10.1016/j.earscirev.2026.105475_bb0120",
+   "doi-asserted-by": "crossref",
+   "first-page": "1121",
+   "DOI": "10.1093/petrology/43.7.1121",
+   "article-title": "Kerguelen hotspot magma output since 130 Ma",
+   "volume": "43",
+   "author": "Coffin",
+   "year": "2002",
+   "journal-title": "J. Petrol."
+  },
+  {
+   "issue": "2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0125",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2020JF005598",
+   "article-title": "Topographic correction of geothermal heat flux in Greenland and Antarctica",
+   "volume": "126",
+   "author": "Colgan",
+   "year": "2021",
+   "journal-title": "J. Geophys. Res. Earth Surf."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0130",
+   "doi-asserted-by": "crossref",
+   "first-page": "156",
+   "DOI": "10.1016/j.earscirev.2013.05.004",
+   "article-title": "Hot springs and the geothermal energy potential of Jammu & Kashmir State, NW Himalaya, India",
+   "volume": "126",
+   "author": "Craig",
+   "year": "2013",
+   "journal-title": "Earth Sci. Rev."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0135",
+   "series-title": "The Physics of Glaciers",
+   "author": "Cuffey",
+   "year": "2010"
+  },
+  {
+   "issue": "4",
+   "key": "10.1016/j.earscirev.2026.105475_bb0140",
+   "doi-asserted-by": "crossref",
+   "first-page": "2765",
+   "DOI": "10.5194/essd-12-2765-2020",
+   "article-title": "Bed topography of princess Elizabeth land in East Antarctica",
+   "volume": "12",
+   "author": "Cui",
+   "year": "2020",
+   "journal-title": "Earth Syst. Sci. Data"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0145",
+   "series-title": "E3S Web of Conferences",
+   "first-page": "04002",
+   "article-title": "Detecting and searching for subglacial lakes through airborne radio-echo sounding in Princess Elizabeth Land (PEL), Antarctica",
+   "volume": "Vol. 163",
+   "author": "Cui",
+   "year": "2020"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0150",
+   "first-page": "11",
+   "article-title": "An appraisal of Australian heatflow data",
+   "volume": "7",
+   "author": "Cull",
+   "year": "1982",
+   "journal-title": "Bur. Miner. Resour. J. Austral. Geol. and Geophys"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0155",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1016/j.epsl.2025.119394",
+   "article-title": "Gondwanan continental collision drives gravitational spreading and collapse of the ancestral East Antarctic mountains",
+   "volume": "662",
+   "author": "Daczko",
+   "year": "2025",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "issue": "7",
+   "key": "10.1016/j.earscirev.2026.105475_bb0160",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2022JB025849",
+   "article-title": "Insights on the interplay of rifting, transcrustal magmatism and formation of geothermal resources in the central segment of the Ethiopian Rift revealed by 3-D magnetotelluric imaging",
+   "volume": "128",
+   "author": "Dambly",
+   "year": "2023",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "issue": "1",
+   "key": "10.1016/j.earscirev.2026.105475_bb0165",
+   "doi-asserted-by": "crossref",
+   "first-page": "5",
+   "DOI": "10.5194/se-1-5-2010",
+   "article-title": "Earth’s surface heat flux",
+   "volume": "1",
+   "author": "Davies",
+   "year": "2010",
+   "journal-title": "Solid Earth"
+  },
+  {
+   "issue": "1–2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0170",
+   "doi-asserted-by": "crossref",
+   "first-page": "1",
+   "DOI": "10.1016/j.tecto.2004.06.011",
+   "article-title": "Evolution of the European Cenozoic Rift System: interaction of the Alpine and Pyrenean orogens with their foreland lithosphere",
+   "volume": "389",
+   "author": "Dèzes",
+   "year": "2004",
+   "journal-title": "Tectonophysics"
+  },
+  {
+   "issue": "11",
+   "key": "10.1016/j.earscirev.2026.105475_bb0175",
+   "doi-asserted-by": "crossref",
+   "first-page": "892",
+   "DOI": "10.1038/s41561-022-01059-1",
+   "article-title": "Antarctic basal environment shaped by high-pressure flow through a subglacial river system",
+   "volume": "15",
+   "author": "Dow",
+   "year": "2022",
+   "journal-title": "Nat. Geosci."
+  },
+  {
+   "issue": "2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0180",
+   "doi-asserted-by": "crossref",
+   "first-page": "421",
+   "DOI": "10.1111/j.1365-246X.1980.tb04865.x",
+   "article-title": "Erosion and the age dependence of continental heat flow",
+   "volume": "62",
+   "author": "England",
+   "year": "1980",
+   "journal-title": "Geophys. J. Int."
+  },
+  {
+   "issue": "7373",
+   "key": "10.1016/j.earscirev.2026.105475_bb0185",
+   "doi-asserted-by": "crossref",
+   "first-page": "388",
+   "DOI": "10.1038/nature10566",
+   "article-title": "East Antarctic rifting triggers uplift of the Gamburtsev Mountains",
+   "volume": "479",
+   "author": "Ferraccioli",
+   "year": "2011",
+   "journal-title": "Nature"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0190",
+   "series-title": "Mantle Rocks in East Antarctica.",
+   "author": "Foley",
+   "year": "2023"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0195",
+   "series-title": "AGU Fall Meeting Abstracts",
+   "first-page": "G51A",
+   "article-title": "EIGEN-6C3-the latest combined global gravity field model including GOCE data up to degree and order 1949 of GFZ Potsdam and GRGS Toulouse",
+   "volume": "Vol. 2011",
+   "author": "Förste",
+   "year": "2011"
+  },
+  {
+   "issue": "2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0200",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2023GL106229",
+   "article-title": "Geophysical evidence of the collisional suture zone in the Prydz Bay, East Antarctica",
+   "volume": "51",
+   "author": "Fu",
+   "year": "2024",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "issue": "1",
+   "key": "10.1016/j.earscirev.2026.105475_bb0205",
+   "doi-asserted-by": "crossref",
+   "first-page": "385",
+   "DOI": "10.1146/annurev.earth.031208.100051",
+   "article-title": "Heat flow, heat generation, and the thermal state of the lithosphere",
+   "volume": "41",
+   "author": "Furlong",
+   "year": "2013",
+   "journal-title": "Annu. Rev. Earth Planet. Sci."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0210",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1016/j.pepi.2021.106672",
+   "article-title": "A global Curie depth model utilising the equivalent source magnetic dipole method",
+   "volume": "313",
+   "author": "Gard",
+   "year": "2021",
+   "journal-title": "Phys. Earth Planet. Inter."
+  },
+  {
+   "issue": "3",
+   "key": "10.1016/j.earscirev.2026.105475_bb0215",
+   "doi-asserted-by": "crossref",
+   "first-page": "1019",
+   "DOI": "10.1016/j.gr.2014.08.013",
+   "article-title": "Discovery of a microcontinent (Gulden Draak Knoll) offshore Western Australia: implications for East Gondwana reconstructions",
+   "volume": "28",
+   "author": "Gardner",
+   "year": "2015",
+   "journal-title": "Gondwana Res."
+  },
+  {
+   "issue": "B6",
+   "key": "10.1016/j.earscirev.2026.105475_bb0220",
+   "doi-asserted-by": "crossref",
+   "first-page": "6491",
+   "DOI": "10.1029/JB091iB06p06491",
+   "article-title": "Crustal structure of southwestern Saudi Arabia",
+   "volume": "91",
+   "author": "Gettings",
+   "year": "1986",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "issue": "153",
+   "key": "10.1016/j.earscirev.2026.105475_bb0225",
+   "doi-asserted-by": "crossref",
+   "first-page": "31",
+   "DOI": "10.1071/PVv2011n153p31",
+   "article-title": "Temperature and heat flow information for geothermal energy exploration in Western Australia",
+   "volume": "2011",
+   "author": "Ghori",
+   "year": "2011",
+   "journal-title": "Preview"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0230",
+   "series-title": "10th International Symposium on Antarctic Earth Sciences, Extended Abstract",
+   "article-title": "Gaussberg rift–illusion or reality",
+   "volume": "Vol. 168",
+   "author": "Golynsky",
+   "year": "2007"
+  },
+  {
+   "issue": "13",
+   "key": "10.1016/j.earscirev.2026.105475_bb0235",
+   "doi-asserted-by": "crossref",
+   "first-page": "6437",
+   "DOI": "10.1029/2018GL078153",
+   "article-title": "New magnetic anomaly map of the Antarctic",
+   "volume": "45",
+   "author": "Golynsky",
+   "year": "2018",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "issue": "2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0240",
+   "doi-asserted-by": "crossref",
+   "first-page": "491",
+   "DOI": "10.5194/tc-12-491-2018",
+   "article-title": "Crustal heat production and estimate of terrestrial heat flow in central East Antarctica, with implications for thermal input to the East Antarctic ice sheet",
+   "volume": "12",
+   "author": "Goodge",
+   "year": "2018",
+   "journal-title": "Cryosphere"
+  },
+  {
+   "issue": "1",
+   "key": "10.1016/j.earscirev.2026.105475_bb0245",
+   "doi-asserted-by": "crossref",
+   "first-page": "1",
+   "DOI": "10.31214/ijthfa.v3i1.51",
+   "article-title": "Heat flow variations in the Antarctic Continent",
+   "volume": "3",
+   "author": "Guimarães",
+   "year": "2020",
+   "journal-title": "Int. J. Terres. Heat Flow Appl. Geother."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0250",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1016/j.polar.2021.100689",
+   "article-title": "Locating the Indo-Antarctica suture–correlating the Rengali, Rauer and Ruker terranes in Gondwana",
+   "volume": "30",
+   "author": "Gupta",
+   "year": "2021",
+   "journal-title": "Polar Sci."
+  },
+  {
+   "issue": "7",
+   "key": "10.1016/j.earscirev.2026.105475_bb0255",
+   "doi-asserted-by": "crossref",
+   "first-page": "2581",
+   "DOI": "10.1002/gj.4430",
+   "article-title": "Evincing the presence of a trans-Gondwanian mobile belt in the interior of the Princess Elizabeth Land, East Antarctica: insights from offshore detrital sediments, rock fragments, and monazite geochronology",
+   "volume": "57",
+   "author": "Gupta",
+   "year": "2022",
+   "journal-title": "Geol. J."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0260",
+   "doi-asserted-by": "crossref",
+   "first-page": "262",
+   "DOI": "10.1016/j.gr.2024.07.008",
+   "article-title": "Neoproterozoic crustal evolution of Indo-Australo-Antarctic Suture domain and Gamburtsev Subglacial Mountains, East Antarctica: insights from the offshore sediments",
+   "volume": "134",
+   "author": "Gupta",
+   "year": "2024",
+   "journal-title": "Gondwana Res."
+  },
+  {
+   "issue": "10",
+   "key": "10.1016/j.earscirev.2026.105475_bb0265",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2022GC010501",
+   "article-title": "Geothermal heat flow and thermal structure of the Antarctic lithosphere",
+   "volume": "23",
+   "author": "Haeger",
+   "year": "2022",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "issue": "7",
+   "key": "10.1016/j.earscirev.2026.105475_bb0270",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2023GL106274",
+   "article-title": "Antarctic geothermal heat flow, crustal conductivity and heat production inferred from seismological data",
+   "volume": "51",
+   "author": "Hazzard",
+   "year": "2024",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0275",
+   "doi-asserted-by": "crossref",
+   "first-page": "14",
+   "DOI": "10.1016/j.earscirev.2014.10.011",
+   "article-title": "Thermal regime of the North China Craton: Implications for craton destruction",
+   "volume": "140",
+   "author": "He",
+   "year": "2015",
+   "journal-title": "Earth Sci. Rev."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0280",
+   "doi-asserted-by": "crossref",
+   "first-page": "164",
+   "DOI": "10.1016/j.gr.2015.04.010",
+   "article-title": "Source region analyses of the morainal detritus from the Grove Mountains: evidence from the subglacial geology of the Ediacaran–Cambrian Prydz Belt of East Antarctica",
+   "volume": "35",
+   "author": "Hu",
+   "year": "2016",
+   "journal-title": "Gondwana Res."
+  },
+  {
+   "issue": "6",
+   "key": "10.1016/j.earscirev.2026.105475_bb0285",
+   "doi-asserted-by": "crossref",
+   "first-page": "345",
+   "DOI": "10.2465/jmps.130621a",
+   "article-title": "Petrology and phase equilibrium modeling of spinel-sapphirine-bearing mafic granulite from Akarui Point, Lützow-Holm complex, East Antarctica: Implications for the PT path",
+   "volume": "108",
+   "author": "Iwamura",
+   "year": "2013",
+   "journal-title": "J. Mineral. Petrol. Sci."
+  },
+  {
+   "issue": "2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0290",
+   "doi-asserted-by": "crossref",
+   "first-page": "87",
+   "DOI": "10.1130/G37220.1",
+   "article-title": "An extensive subglacial lake and canyon system in Princess Elizabeth Land, East Antarctica",
+   "volume": "44",
+   "author": "Jamieson",
+   "year": "2016",
+   "journal-title": "Geology"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0295",
+   "doi-asserted-by": "crossref",
+   "first-page": "398",
+   "DOI": "10.1016/j.lithos.2016.07.017",
+   "article-title": "Radiogenic heat production in the continental crust",
+   "volume": "262",
+   "author": "Jaupart",
+   "year": "2016",
+   "journal-title": "Lithos"
+  },
+  {
+   "issue": "5",
+   "key": "10.1016/j.earscirev.2026.105475_bb0300",
+   "doi-asserted-by": "crossref",
+   "first-page": "298",
+   "DOI": "10.1038/s43017-023-00403-2",
+   "article-title": "Mechanisms to generate ultrahigh-temperature metamorphism",
+   "volume": "4",
+   "author": "Jiao",
+   "year": "2023",
+   "journal-title": "Nat. Rev. Earth Environ."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0305",
+   "doi-asserted-by": "crossref",
+   "first-page": "3619",
+   "DOI": "10.5194/tc-16-3619-2022",
+   "article-title": "Evaluation of six geothermal heat flux maps for the Antarctic Lambert–Amery glacial system",
+   "volume": "16",
+   "author": "Kang",
+   "year": "2022",
+   "journal-title": "Cryosphere"
+  },
+  {
+   "issue": "6584",
+   "key": "10.1016/j.earscirev.2026.105475_bb0310",
+   "doi-asserted-by": "crossref",
+   "first-page": "684",
+   "DOI": "10.1038/381684a0",
+   "article-title": "A large deep freshwater lake beneath the ice of central East Antarctica",
+   "volume": "381",
+   "author": "Kapitsa",
+   "year": "1996",
+   "journal-title": "Nature"
+  },
+  {
+   "issue": "22",
+   "key": "10.1016/j.earscirev.2026.105475_bb0315",
+   "doi-asserted-by": "crossref",
+   "first-page": "6977",
+   "DOI": "10.1029/JB073i022p06977",
+   "article-title": "Preliminary geothermal model of the Sierra Nevada",
+   "volume": "73",
+   "author": "Lachenbruch",
+   "year": "1968",
+   "journal-title": "J. Geophys. Res."
+  },
+  {
+   "issue": "17",
+   "key": "10.1016/j.earscirev.2026.105475_bb0320",
+   "doi-asserted-by": "crossref",
+   "first-page": "3291",
+   "DOI": "10.1029/JB075i017p03291",
+   "article-title": "Crustal temperature and heat production: Implications of the linear heat-flow relation",
+   "volume": "75",
+   "author": "Lachenbruch",
+   "year": "1970",
+   "journal-title": "J. Geophys. Res."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0325",
+   "series-title": "Geological–Geophysical Investigations in Antarctica",
+   "first-page": "35",
+   "article-title": "Stock and dyke bodies of alkaline ultrabasic composition in Jetty Peninsula (Prince Charles Mountains, East Antarctica)",
+   "author": "Laiba",
+   "year": "1987"
+  },
+  {
+   "issue": "11",
+   "key": "10.1016/j.earscirev.2026.105475_bb0330",
+   "doi-asserted-by": "crossref",
+   "first-page": "945",
+   "DOI": "10.1038/ngeo1977",
+   "article-title": "Evidence from ice shelves for channelized meltwater flow beneath the Antarctic Ice Sheet",
+   "volume": "6",
+   "author": "Le Brocq",
+   "year": "2013",
+   "journal-title": "Nat. Geosci."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0335",
+   "doi-asserted-by": "crossref",
+   "first-page": "249",
+   "DOI": "10.1016/j.tecto.2017.11.011",
+   "article-title": "Jurassic high heat production granites associated with the Weddell Sea rift system, Antarctica",
+   "volume": "722",
+   "author": "Leat",
+   "year": "2018",
+   "journal-title": "Tectonophysics"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0340",
+   "series-title": "Doklady Earth Sciences",
+   "first-page": "11",
+   "article-title": "The age of rift-related basalts in East Antarctica",
+   "volume": "Vol. 478",
+   "author": "Leitchenkov",
+   "year": "2018"
+  },
+  {
+   "issue": "2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0350",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2023GL106201",
+   "article-title": "Crustal heterogeneity of Antarctica signals spatially variable radiogenic heat production",
+   "volume": "51",
+   "author": "Li",
+   "year": "2024",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "issue": "14",
+   "key": "10.1016/j.earscirev.2026.105475_bb0355",
+   "doi-asserted-by": "crossref",
+   "first-page": "2760",
+   "DOI": "10.3390/rs13142760",
+   "article-title": "Inversion of geothermal heat flux under the ice sheet of Princess Elizabeth Land, East Antarctica",
+   "volume": "13",
+   "author": "Li",
+   "year": "2021",
+   "journal-title": "Remote Sens."
+  },
+  {
+   "issue": "3",
+   "key": "10.1016/j.earscirev.2026.105475_bb0360",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2024JB029677",
+   "article-title": "Resolving mantle composition suggests a warmer East Antarctic mantle",
+   "volume": "130",
+   "author": "Li",
+   "year": "2025",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0365",
+   "article-title": "Petrogenesis of high heat producing granites and their contribution to geothermal resource in the Huangshadong geothermal field, South China",
+   "volume": "2",
+   "author": "Liao",
+   "year": "2024",
+   "journal-title": "Front. Earth Sci."
+  },
+  {
+   "issue": "2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0370",
+   "doi-asserted-by": "crossref",
+   "first-page": "363",
+   "DOI": "10.1016/S1342-937X(05)70790-5",
+   "article-title": "The evolution of the geothermal gradient from Lambert Graben and Mahanadi Basin–a contribution to the Indo-Antarctic Rift debate",
+   "volume": "7",
+   "author": "Lisker",
+   "year": "2004",
+   "journal-title": "Gondwana Res."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0375",
+   "doi-asserted-by": "crossref",
+   "first-page": "30",
+   "DOI": "10.1016/j.precamres.2016.08.003",
+   "article-title": "Early Mesoproterozoic arc magmatism followed by early Neoproterozoic granulite facies metamorphism with a near-isobaric cooling path at Mount Brown, Princess Elizabeth Land, East Antarctica",
+   "volume": "284",
+   "author": "Liu",
+   "year": "2016",
+   "journal-title": "Precambrian Res."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0380",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1016/j.precamres.2024.107549",
+   "article-title": "Polymetamorphic evolution of the Vestfold Block in East Antarctica and implications for the amalgamation of terranes",
+   "volume": "412",
+   "author": "Liu",
+   "year": "2024",
+   "journal-title": "Precambrian Res."
+  },
+  {
+   "issue": "2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0385",
+   "doi-asserted-by": "crossref",
+   "first-page": "106",
+   "DOI": "10.1038/s43017-021-00246-9",
+   "article-title": "Subglacial lakes and their changing role in a warming climate",
+   "volume": "3",
+   "author": "Livingstone",
+   "year": "2022",
+   "journal-title": "Nat. Rev. Earth Environ."
+  },
+  {
+   "issue": "6",
+   "key": "10.1016/j.earscirev.2026.105475_bb0390",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2020JB021499",
+   "article-title": "Predicting geothermal heat flow in Antarctica with a machine learning approach",
+   "volume": "126",
+   "author": "Lösing",
+   "year": "2021",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0395",
+   "article-title": "Community heat flow recommendations: suitable basal boundary conditions for Greenland and Antarctica in ISMIP7",
+   "author": "Lösing",
+   "year": "2025",
+   "journal-title": "EarthArXiv eprints"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bib776",
+   "doi-asserted-by": "crossref",
+   "first-page": "105",
+   "DOI": "10.3389/feart.2020.00105",
+   "article-title": "Geothermal heat flux in Antarctica: Assessing models and observations by Bayesian inversion",
+   "volume": "8",
+   "author": "Lösing",
+   "year": "2020",
+   "journal-title": "Front. Earth Sci."
+  },
+  {
+   "issue": "8",
+   "key": "10.1016/j.earscirev.2026.105475_bb0400",
+   "doi-asserted-by": "crossref",
+   "first-page": "4001",
+   "DOI": "10.1029/2019GC008389",
+   "article-title": "Analysis and mapping of an updated terrestrial heat flow data set",
+   "volume": "20",
+   "author": "Lucazeau",
+   "year": "2019",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0405",
+   "series-title": "AGU Fall Meeting Abstracts",
+   "first-page": "V11D",
+   "article-title": "Heat flow, Archean thermal regime, and the stabilization of cratons",
+   "volume": "Vol. 2006",
+   "author": "Mareschal",
+   "year": "2006"
+  },
+  {
+   "issue": "20",
+   "key": "10.1016/j.earscirev.2026.105475_bb0410",
+   "doi-asserted-by": "crossref",
+   "first-page": "10",
+   "DOI": "10.1002/2016GL071063",
+   "article-title": "The tectonic development and erosion of the Knox subglacial sedimentary basin, East Antarctica",
+   "volume": "43",
+   "author": "Maritati",
+   "year": "2016",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "issue": "22",
+   "key": "10.1016/j.earscirev.2026.105475_bb0415",
+   "doi-asserted-by": "crossref",
+   "first-page": "11",
+   "DOI": "10.1002/2017GL075609",
+   "article-title": "Heat flux distribution of Antarctica unveiled",
+   "volume": "44",
+   "author": "Martos",
+   "year": "2017",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "issue": "3",
+   "key": "10.1016/j.earscirev.2026.105475_bb0420",
+   "doi-asserted-by": "crossref",
+   "first-page": "839",
+   "DOI": "10.5194/se-10-839-2019",
+   "article-title": "Constraining the geotherm beneath the British Isles from Bayesian inversion of Curie depth: integrated modelling of magnetic, geothermal, and seismic data",
+   "volume": "10",
+   "author": "Mather",
+   "year": "2019",
+   "journal-title": "Solid Earth"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0425",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1016/j.envsoft.2021.105015",
+   "article-title": "Quantarctica, an integrated mapping environment for Antarctica, the Southern Ocean, and sub-Antarctic islands",
+   "volume": "140",
+   "author": "Matsuoka",
+   "year": "2021",
+   "journal-title": "Environ. Model Softw."
+  },
+  {
+   "issue": "5733",
+   "key": "10.1016/j.earscirev.2026.105475_bb0430",
+   "doi-asserted-by": "crossref",
+   "first-page": "464",
+   "DOI": "10.1126/science.1106888",
+   "article-title": "Heat flux anomalies in Antarctica revealed by satellite magnetic data",
+   "volume": "309",
+   "author": "Maule",
+   "year": "2005",
+   "journal-title": "Science"
+  },
+  {
+   "issue": "15",
+   "key": "10.1016/j.earscirev.2026.105475_bb0435",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2022GL098539",
+   "article-title": "Fine-scale geothermal heat flow in Antarctica can increase simulated subglacial melt estimates",
+   "volume": "49",
+   "author": "McCormack",
+   "year": "2022",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "issue": "1",
+   "key": "10.1016/j.earscirev.2026.105475_bb0440",
+   "doi-asserted-by": "crossref",
+   "first-page": "25",
+   "DOI": "10.1016/0012-821X(78)90071-7",
+   "article-title": "Some remarks on the development of sedimentary basins",
+   "volume": "40",
+   "author": "McKenzie",
+   "year": "1978",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0445",
+   "first-page": "151",
+   "article-title": "The hot southern continent: Heat flow and heat production in Australian Proterozoic terranes",
+   "volume": "22",
+   "author": "McLaren",
+   "year": "2003",
+   "journal-title": "Geol. Soc. Austr. Spec. Publ."
+  },
+  {
+   "issue": "9",
+   "key": "10.1016/j.earscirev.2026.105475_bb0450",
+   "doi-asserted-by": "crossref",
+   "first-page": "911",
+   "DOI": "10.1134/S0016702923090082",
+   "article-title": "Composition of phenocrysts in lamproites of Gaussberg Volcano, East Antarctica",
+   "volume": "61",
+   "author": "Migdisova",
+   "year": "2023",
+   "journal-title": "Geochem. Int."
+  },
+  {
+   "issue": "3",
+   "key": "10.1016/j.earscirev.2026.105475_bb0455",
+   "doi-asserted-by": "crossref",
+   "first-page": "297",
+   "DOI": "10.1017/S0954102093000392",
+   "article-title": "Association of dolerite and lamprophyre dykes, Jetty Peninsula (Prince Charles Mountains, East Antarctica)",
+   "volume": "5",
+   "author": "Mikhalsky",
+   "year": "1993",
+   "journal-title": "Antarct. Sci."
+  },
+  {
+   "issue": "3–4",
+   "key": "10.1016/j.earscirev.2026.105475_bb0460",
+   "doi-asserted-by": "crossref",
+   "first-page": "287",
+   "DOI": "10.1016/S0012-821X(99)00212-5",
+   "article-title": "Crustal structure based on gravity–magnetic modelling constrained from seismic studies under Lambert Rift, Antarctica and Godavari and Mahanadi rifts, India and their interrelationship",
+   "volume": "172",
+   "author": "Mishra",
+   "year": "1999",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0465",
+   "series-title": "Encyclopedia of Physical Science and Technology (Third Edition)",
+   "first-page": "265",
+   "article-title": "Heat flow",
+   "author": "Morgan",
+   "year": "2003"
+  },
+  {
+   "issue": "10",
+   "key": "10.1016/j.earscirev.2026.105475_bb0470",
+   "doi-asserted-by": "crossref",
+   "first-page": "1803",
+   "DOI": "10.1016/j.jsg.2004.02.014",
+   "article-title": "Activation of rift oblique and rift parallel pre-existing fabrics during extension and their effect on deformation style: examples from the rifts of Thailand",
+   "volume": "26",
+   "author": "Morley",
+   "year": "2004",
+   "journal-title": "J. Struct. Geol."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0475",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1038/s41561-019-0510-8",
+   "article-title": "Deep glacial troughs and stabilizing ridges unveiled beneath the margins of the Antarctic ice sheet",
+   "volume": "13",
+   "author": "Morlighem",
+   "year": "2020",
+   "journal-title": "Nat. Geosci."
+  },
+  {
+   "issue": "4",
+   "key": "10.1016/j.earscirev.2026.105475_bb0480",
+   "doi-asserted-by": "crossref",
+   "first-page": "364",
+   "DOI": "10.3390/rs9040364",
+   "article-title": "Comprehensive annual ice sheet velocity mapping using Landsat-8, Sentinel-1, and RADARSAT-2 data",
+   "volume": "9",
+   "author": "Mouginot",
+   "year": "2017",
+   "journal-title": "Remote Sens."
+  },
+  {
+   "issue": "16",
+   "key": "10.1016/j.earscirev.2026.105475_bb0485",
+   "doi-asserted-by": "crossref",
+   "first-page": "9710",
+   "DOI": "10.1029/2019GL083826",
+   "article-title": "Continent-wide, interferometric SAR phase, mapping of Antarctic ice velocity",
+   "volume": "46",
+   "author": "Mouginot",
+   "year": "2019",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "issue": "7",
+   "key": "10.1016/j.earscirev.2026.105475_bb0490",
+   "doi-asserted-by": "crossref",
+   "first-page": "645",
+   "DOI": "10.1130/G45952.1",
+   "article-title": "A multiproxy provenance approach to uncovering the assembly of East Gondwana in Antarctica",
+   "volume": "47",
+   "author": "Mulder",
+   "year": "2019",
+   "journal-title": "Geology"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0495",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1016/j.polar.2023.101004",
+   "article-title": "Evidence of Paleoproterozoic metamorphism in Vestfold Hills, East Antarctica: insights from phase equilibria modelling and monazite CHIME dating",
+   "volume": "38",
+   "author": "Naik",
+   "year": "2023",
+   "journal-title": "Polar Sci."
+  },
+  {
+   "issue": "12",
+   "key": "10.1016/j.earscirev.2026.105475_bb0500",
+   "doi-asserted-by": "crossref",
+   "first-page": "4507",
+   "DOI": "10.5194/tc-14-4507-2020",
+   "article-title": "Subglacial lakes and hydrology across the Ellsworth subglacial highlands, West Antarctica",
+   "volume": "14",
+   "author": "Napoleoni",
+   "year": "2020",
+   "journal-title": "Cryosphere"
+  },
+  {
+   "issue": "1–2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0505",
+   "doi-asserted-by": "crossref",
+   "first-page": "107",
+   "DOI": "10.1016/S0012-821X(00)00268-5",
+   "article-title": "Regional geochemistry and continental heat flow: implications for the origin of the south Australian heat flow anomaly",
+   "volume": "183",
+   "author": "Neumann",
+   "year": "2000",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0510",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1016/j.jvolgeores.2019.07.023",
+   "article-title": "Terrestrial heat flow in the Malawi Rifted Zone, East Africa: implications for tectono-thermal inheritance in continental rift basins",
+   "volume": "387",
+   "author": "Njinju",
+   "year": "2019",
+   "journal-title": "J. Volcanol. Geotherm. Res."
+  },
+  {
+   "issue": "1",
+   "key": "10.1016/j.earscirev.2026.105475_bb0515",
+   "doi-asserted-by": "crossref",
+   "first-page": "17",
+   "DOI": "10.1093/gji/ggaa361",
+   "article-title": "Review of Curie point depth determination through different spectral methods applied to magnetic data",
+   "volume": "224",
+   "author": "Núñez Demarco",
+   "year": "2021",
+   "journal-title": "Geophys. J. Int."
+  },
+  {
+   "issue": "5",
+   "key": "10.1016/j.earscirev.2026.105475_bb0520",
+   "doi-asserted-by": "crossref",
+   "first-page": "1256",
+   "DOI": "10.1130/GES01082.1",
+   "article-title": "Introduction: anatomy of rifting: tectonics and magmatism in continental rifts, oceanic spreading centers, and transforms",
+   "volume": "11",
+   "author": "Pagli",
+   "year": "2015",
+   "journal-title": "Geosphere"
+  },
+  {
+   "issue": "6",
+   "key": "10.1016/j.earscirev.2026.105475_bb0525",
+   "doi-asserted-by": "crossref",
+   "first-page": "925",
+   "DOI": "10.17491/jgsi/2025/174185",
+   "article-title": "Singhbhum-an unusually warm and decratonised global craton",
+   "volume": "101",
+   "author": "Pandey",
+   "year": "2025",
+   "journal-title": "J. Geol. Soc. India"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0530",
+   "series-title": "Heavy Mineral Assemblage of Marine Sediments as an Indicator of Provenance and East Antarctic Ice Sheet Fluctuations",
+   "author": "Pandey",
+   "year": "2018"
+  },
+  {
+   "issue": "4",
+   "key": "10.1016/j.earscirev.2026.105475_bb0535",
+   "doi-asserted-by": "crossref",
+   "first-page": "307",
+   "DOI": "10.1017/S0016756800017581",
+   "article-title": "Proterozoic geological evolution of the northern Vestfold Hills, Antarctica",
+   "volume": "128",
+   "author": "Passchier",
+   "year": "1991",
+   "journal-title": "Geol. Mag."
+  },
+  {
+   "issue": "7871",
+   "key": "10.1016/j.earscirev.2026.105475_bb0540",
+   "doi-asserted-by": "crossref",
+   "first-page": "199",
+   "DOI": "10.1038/s41586-021-03600-5",
+   "article-title": "Deep continental roots and cratons",
+   "volume": "596",
+   "author": "Pearson",
+   "year": "2021",
+   "journal-title": "Nature"
+  },
+  {
+   "issue": "3",
+   "key": "10.1016/j.earscirev.2026.105475_bb0545",
+   "doi-asserted-by": "crossref",
+   "first-page": "417",
+   "DOI": "10.1016/j.yqres.2010.12.001",
+   "article-title": "Is the East Antarctic ice sheet stable?",
+   "volume": "75",
+   "author": "Pingree",
+   "year": "2011",
+   "journal-title": "Quat. Res."
+  },
+  {
+   "issue": "73",
+   "key": "10.1016/j.earscirev.2026.105475_bb0550",
+   "doi-asserted-by": "crossref",
+   "first-page": "56",
+   "DOI": "10.1017/aog.2016.26",
+   "article-title": "Sensitivity of the Lambert-Amery glacial system to geothermal heat flux",
+   "volume": "57",
+   "author": "Pittard",
+   "year": "2016",
+   "journal-title": "Ann. Glaciol."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0555",
+   "series-title": "BEDMAP3 - Ice Thickness, Bed and Surface Elevation for Antarctica - Gridding Products (Version 1.0)",
+   "author": "Pritchard",
+   "year": "2024"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0560",
+   "series-title": "Antarctica Basal Heat Flux",
+   "author": "Purucker",
+   "year": "2012"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0565",
+   "series-title": "QGIS Geographic Information System",
+   "author": "QGIS.org",
+   "year": "2025"
+  },
+  {
+   "issue": "4",
+   "key": "10.1016/j.earscirev.2026.105475_bb0570",
+   "doi-asserted-by": "crossref",
+   "first-page": "153",
+   "DOI": "10.1016/0375-6505(74)90014-5",
+   "article-title": "Results of some geothermal studies in Singhbhum thrust belt, India",
+   "volume": "3",
+   "author": "Rao",
+   "year": "1974",
+   "journal-title": "Geothermics"
+  },
+  {
+   "issue": "1–2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0575",
+   "doi-asserted-by": "crossref",
+   "first-page": "105",
+   "DOI": "10.1016/0040-1951(83)90060-4",
+   "article-title": "Heat flow in Indian Gondwana basins and heat production of their basement rocks",
+   "volume": "91",
+   "author": "Rao",
+   "year": "1983",
+   "journal-title": "Tectonophysics"
+  },
+  {
+   "issue": "12",
+   "key": "10.1016/j.earscirev.2026.105475_bb0580",
+   "doi-asserted-by": "crossref",
+   "first-page": "814",
+   "DOI": "10.1038/s43017-022-00348-y",
+   "article-title": "Antarctic geothermal heat flow and its implications for tectonics and ice sheets",
+   "volume": "3",
+   "author": "Reading",
+   "year": "2022",
+   "journal-title": "Nat. Rev. Earth Environ."
+  },
+  {
+   "issue": "6048",
+   "key": "10.1016/j.earscirev.2026.105475_bb0585",
+   "doi-asserted-by": "crossref",
+   "first-page": "1427",
+   "DOI": "10.1126/science.1208336",
+   "article-title": "Ice flow of the Antarctic ice sheet",
+   "volume": "333",
+   "author": "Rignot",
+   "year": "2011",
+   "journal-title": "Science"
+  },
+  {
+   "issue": "4",
+   "key": "10.1016/j.earscirev.2026.105475_bb0590",
+   "doi-asserted-by": "crossref",
+   "first-page": "1095",
+   "DOI": "10.1073/pnas.1812883116",
+   "article-title": "Four decades of Antarctic Ice Sheet mass balance from 1979–2017",
+   "volume": "116",
+   "author": "Rignot",
+   "year": "2019",
+   "journal-title": "Proc. Natl. Acad. Sci."
+  },
+  {
+   "issue": "B11",
+   "key": "10.1016/j.earscirev.2026.105475_bb0595",
+   "doi-asserted-by": "crossref",
+   "first-page": "25587",
+   "DOI": "10.1029/2000JB900257",
+   "article-title": "Heat flow in the Indian shield",
+   "volume": "105",
+   "author": "Roy",
+   "year": "2000",
+   "journal-title": "J. Geophys. Res. Solid Earth"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0600",
+   "doi-asserted-by": "crossref",
+   "first-page": "1",
+   "DOI": "10.1016/S0012-821X(68)80002-0",
+   "article-title": "Heat generation of plutonic rocks and continental heat flow provinces",
+   "volume": "5",
+   "author": "Roy",
+   "year": "1968",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0605",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1016/j.polar.2021.100641",
+   "article-title": "Thermal evolution of mafic granulites of princess Elizabeth land, East Antarctica",
+   "volume": "30",
+   "author": "Sadiq",
+   "year": "2021",
+   "journal-title": "Polar Sci."
+  },
+  {
+   "issue": "12",
+   "key": "10.1016/j.earscirev.2026.105475_bb0610",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2021GC010154",
+   "article-title": "PetroChron Antarctica: a geological database for interdisciplinary use",
+   "volume": "22",
+   "author": "Sanchez",
+   "year": "2021",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "issue": "2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0615",
+   "doi-asserted-by": "crossref",
+   "first-page": "107",
+   "DOI": "10.1080/08120098608729354",
+   "article-title": "The distribution of radioactive heat production in I-and S-type granites and residual source regions: implications to high heat flow areas in the Lachlan Fold Belt, Australia",
+   "volume": "33",
+   "author": "Sawka",
+   "year": "1986",
+   "journal-title": "Aust. J. Earth Sci."
+  },
+  {
+   "issue": "4",
+   "key": "10.1016/j.earscirev.2026.105475_bb0620",
+   "doi-asserted-by": "crossref",
+   "first-page": "389",
+   "DOI": "10.5194/se-14-389-2023",
+   "article-title": "Tectonic interactions during rift linkage: insights from analog and numerical experiments",
+   "volume": "14",
+   "author": "Schmid",
+   "year": "2023",
+   "journal-title": "Solid Earth"
+  },
+  {
+   "issue": "12",
+   "key": "10.1016/j.earscirev.2026.105475_bb0625",
+   "doi-asserted-by": "crossref",
+   "first-page": "5197",
+   "DOI": "10.5194/tc-17-5197-2023",
+   "article-title": "Insights into the vulnerability of Antarctic glaciers from the ISMIP6 ice sheet model ensemble and associated uncertainty",
+   "volume": "17",
+   "author": "Seroussi",
+   "year": "2023",
+   "journal-title": "Cryosphere"
+  },
+  {
+   "issue": "3",
+   "key": "10.1016/j.earscirev.2026.105475_bb0630",
+   "doi-asserted-by": "crossref",
+   "first-page": "211",
+   "DOI": "10.17491/jgsi/1991/370302",
+   "article-title": "Thermal and crustal structure of“ SONATA”. A zone of mid continental rifting in Indian Shield",
+   "volume": "37",
+   "author": "Shanker",
+   "year": "1991",
+   "journal-title": "J. Geol. Soc. India"
+  },
+  {
+   "issue": "1–2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0635",
+   "doi-asserted-by": "crossref",
+   "first-page": "213",
+   "DOI": "10.1016/j.epsl.2004.04.011",
+   "article-title": "Inferring surface heat flux distributions guided by a global seismic model: particular application to Antarctica",
+   "volume": "223",
+   "author": "Shapiro",
+   "year": "2004",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "issue": "14",
+   "key": "10.1016/j.earscirev.2026.105475_bb0640",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2020GL086955",
+   "article-title": "A geothermal heat flux map of Antarctica empirically constrained by seismic structure",
+   "volume": "47",
+   "author": "Shen",
+   "year": "2020",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "issue": "3–4",
+   "key": "10.1016/j.earscirev.2026.105475_bb0645",
+   "doi-asserted-by": "crossref",
+   "first-page": "295",
+   "DOI": "10.1080/00167618308729257",
+   "article-title": "Geochemistry of mafic igneous rocks of the northern Prince Charles Mountains, Antarctica",
+   "volume": "30",
+   "author": "Sheraton",
+   "year": "1983",
+   "journal-title": "J. Geol. Soc. Aust."
+  },
+  {
+   "issue": "1–2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0650",
+   "doi-asserted-by": "crossref",
+   "first-page": "129",
+   "DOI": "10.1080/00167618008729128",
+   "article-title": "Highly potassic mafic dykes from Antarctica",
+   "volume": "27",
+   "author": "Sheraton",
+   "year": "1980",
+   "journal-title": "J. Geol. Soc. Aust."
+  },
+  {
+   "issue": "1",
+   "key": "10.1016/j.earscirev.2026.105475_bb0655",
+   "doi-asserted-by": "crossref",
+   "first-page": "2",
+   "DOI": "10.1186/s40517-014-0002-4",
+   "article-title": "High-heat-producing granites of East Dharwar Craton around Gugi, Karnataka, and their possible influence on the evolution of Rajapur thermal springs, Deccan Volcanic Province, India",
+   "volume": "2",
+   "author": "Singh",
+   "year": "2014",
+   "journal-title": "Geotherm. Energy"
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0660",
+   "series-title": "Volcanism in Antarctica: 200 Million Years of Subduction, Rifting and Continental Break-up",
+   "article-title": "Chapter 5.5. Gaussberg: volcanology and petrology",
+   "author": "Smellie",
+   "year": "2021"
+  },
+  {
+   "issue": "256",
+   "key": "10.1016/j.earscirev.2026.105475_bb0665",
+   "doi-asserted-by": "crossref",
+   "first-page": "303",
+   "DOI": "10.1017/jog.2020.8",
+   "article-title": "The role of subglacial hydrology in ice streams with elevated geothermal heat flux",
+   "volume": "66",
+   "author": "Smith-Johnsen",
+   "year": "2020",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "issue": "2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0670",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2020GC009428",
+   "article-title": "Antarctic geothermal heat flow model: Aq1",
+   "volume": "22",
+   "author": "Stål",
+   "year": "2021",
+   "journal-title": "Geochem. Geophys. Geosyst."
+  },
+  {
+   "issue": "13",
+   "key": "10.1016/j.earscirev.2026.105475_bb0675",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2024GL110098",
+   "article-title": "Geology matters for Antarctic geothermal heat",
+   "volume": "51",
+   "author": "Stål",
+   "year": "2024",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "issue": "4",
+   "key": "10.1016/j.earscirev.2026.105475_bb0680",
+   "doi-asserted-by": "crossref",
+   "first-page": "663",
+   "DOI": "10.1016/S0012-821X(03)00548-X",
+   "article-title": "Geophysical models for the tectonic framework of the Lake Vostok region, East Antarctica",
+   "volume": "216",
+   "author": "Studinger",
+   "year": "2003",
+   "journal-title": "Earth Planet. Sci. Lett."
+  },
+  {
+   "issue": "12",
+   "key": "10.1016/j.earscirev.2026.105475_bb0685",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2004GL019801",
+   "article-title": "Estimating the depth and shape of subglacial Lake Vostok’s water cavity from aerogravity data",
+   "volume": "31",
+   "author": "Studinger",
+   "year": "2004",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "issue": "1",
+   "key": "10.1016/j.earscirev.2026.105475_bb0690",
+   "doi-asserted-by": "crossref",
+   "first-page": "89",
+   "DOI": "10.1016/0264-3707(90)90025-P",
+   "article-title": "Heat flow in the Trans-Aravalli igneous suite, Tusham, India",
+   "volume": "12",
+   "author": "Sundar",
+   "year": "1990",
+   "journal-title": "J. Geodyn."
+  },
+  {
+   "issue": "12",
+   "key": "10.1016/j.earscirev.2026.105475_bb0695",
+   "doi-asserted-by": "crossref",
+   "first-page": "1030",
+   "DOI": "10.1134/S0016702914120106",
+   "article-title": "Geochemical features of the quaternary lamproitic lavas of Gaussberg Volcano, East Antarctica: result of the impact of the Kerguelen plume",
+   "volume": "52",
+   "author": "Sushchevskaya",
+   "year": "2014",
+   "journal-title": "Geochem. Int."
+  },
+  {
+   "issue": "277",
+   "key": "10.1016/j.earscirev.2026.105475_bb0700",
+   "doi-asserted-by": "crossref",
+   "first-page": "1524",
+   "DOI": "10.1017/jog.2023.43",
+   "article-title": "Geothermal heat flow from borehole measurements at the margin of Princess Elizabeth Land (East Antarctic Ice Sheet)",
+   "volume": "69",
+   "author": "Talalay",
+   "year": "2023",
+   "journal-title": "J. Glaciol."
+  },
+  {
+   "issue": "1",
+   "key": "10.1016/j.earscirev.2026.105475_bb0705",
+   "doi-asserted-by": "crossref",
+   "first-page": "189",
+   "DOI": "10.1038/s43247-025-02127-1",
+   "article-title": "Rare ice-base temperature measurements in Antarctica reveal a cold base in contrast with predictions",
+   "volume": "6",
+   "author": "Talalay",
+   "year": "2025",
+   "journal-title": "Commun. Earth Environ."
+  },
+  {
+   "issue": "1–2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0710",
+   "doi-asserted-by": "crossref",
+   "first-page": "241",
+   "DOI": "10.1080/00167618308729251",
+   "article-title": "The age and mode of formation of Gaussberg, Antarctica",
+   "volume": "30",
+   "author": "Tingey",
+   "year": "1983",
+   "journal-title": "J. Geol. Soc. Aust."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0715",
+   "series-title": "Geodynamics (3rd Ed)",
+   "author": "Turcotte",
+   "year": "2014"
+  },
+  {
+   "issue": "12",
+   "key": "10.1016/j.earscirev.2026.105475_bb0720",
+   "doi-asserted-by": "crossref",
+   "DOI": "10.1029/2006GL026020",
+   "article-title": "Radiogenic isotope fingerprint of Wilkes Land–Adélie coast bottom water in the circum-Antarctic Ocean",
+   "volume": "33",
+   "author": "van de Flierdt",
+   "year": "2006",
+   "journal-title": "Geophys. Res. Lett."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0725",
+   "doi-asserted-by": "crossref",
+   "first-page": "206",
+   "DOI": "10.1016/j.earscirev.2018.03.002",
+   "article-title": "Gamburtsev Subglacial Mountains: Age and composition from morainal clasts and U–Pb and Hf-isotopic analysis of detrital zircons in the Lambert Rift, and potential provenance of East Gondwanaland sediments",
+   "volume": "180",
+   "author": "Veevers",
+   "year": "2018",
+   "journal-title": "Earth Sci. Rev."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0730",
+   "doi-asserted-by": "crossref",
+   "first-page": "260",
+   "DOI": "10.1016/j.gr.2022.09.010",
+   "article-title": "Heat flux in volcanic and geothermal areas: methods, principles, applications and future directions",
+   "volume": "122",
+   "author": "Wang",
+   "year": "2023",
+   "journal-title": "Gondwana Res."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0735",
+   "doi-asserted-by": "crossref",
+   "first-page": "58",
+   "DOI": "10.1016/j.gr.2016.08.007",
+   "article-title": "Detrital zircon fingerprints link western North China Craton with East Gondwana during Ordovician",
+   "volume": "40",
+   "author": "Wang",
+   "year": "2016",
+   "journal-title": "Gondwana Res."
+  },
+  {
+   "key": "10.1016/j.earscirev.2026.105475_bb0740",
+   "doi-asserted-by": "crossref",
+   "first-page": "168",
+   "DOI": "10.1016/j.geothermics.2015.06.013",
+   "article-title": "The volcanic, magmatic and tectonic setting of the Taupo Volcanic Zone, New Zealand, reviewed from a geothermal perspective",
+   "volume": "59",
+   "author": "Wilson",
+   "year": "2016",
+   "journal-title": "Geothermics"
+  },
+  {
+   "issue": "3",
+   "key": "10.1016/j.earscirev.2026.105475_bb0745",
+   "doi-asserted-by": "crossref",
+   "first-page": "369",
+   "DOI": "10.1111/j.1400-0952.2004.01063.x",
+   "article-title": "Geochemistry and Rb–Sr geochronology of the alkaline-peralkaline Narraburra complex, central southern New South Wales; tectonic significance of late Devonian granitic magmatism in the Lachlan Fold Belt",
+   "volume": "51",
+   "author": "Wormald",
+   "year": "2004",
+   "journal-title": "Aust. J. Earth Sci."
+  },
+  {
+   "issue": "6",
+   "key": "10.1016/j.earscirev.2026.105475_bb0750",
+   "doi-asserted-by": "crossref",
+   "first-page": "659",
+   "DOI": "10.1017/S095410201200048X",
+   "article-title": "A fourth inventory of Antarctic subglacial lakes",
+   "volume": "24",
+   "author": "Wright",
+   "year": "2012",
+   "journal-title": "Antarct. Sci."
+  },
+  {
+   "issue": "2",
+   "key": "10.1016/j.earscirev.2026.105475_bb0755",
+   "doi-asserted-by": "crossref",
+   "first-page": "306",
+   "DOI": "10.3390/rs15020306",
+   "article-title": "Tectonic implications for the Gamburtsev Subglacial Mountains, East Antarctica, from airborne gravity and magnetic data",
+   "volume": "15",
+   "author": "Wu",
+   "year": "2023",
+   "journal-title": "Remote Sens."
+  },
+  {
+   "issue": "7",
+   "key": "10.1016/j.earscirev.2026.105475_bb0760",
+   "doi-asserted-by": "crossref",
+   "first-page": "1752",
+   "DOI": "10.3390/en17071752",
+   "article-title": "Differences and Causal Mechanisms in the Lithospheric thermal Structures in the Cratons in East China: Implications for their Geothermal Resource potential",
+   "volume": "17",
+   "author": "Wu",
+   "year": "2024",
+   "journal-title": "Energies"
+  },
+  {
+   "issue": "8",
+   "key": "10.1016/j.earscirev.2026.105475_bb0765",
+   "first-page": "949",
+   "article-title": "A newly discovered subglacial lake in East Antarctica likely hosts a valuable sedimentary record of ice and climate change",
+   "volume": "50",
+   "author": "Yan",
+   "year": "2022",
+   "journal-title": "Geology"
+  },
+  {
+   "issue": "4",
+   "key": "10.1016/j.earscirev.2026.105475_bb0770",
+   "doi-asserted-by": "crossref",
+   "first-page": "786",
+   "DOI": "10.3390/jmse13040786",
+   "article-title": "The mantle structure of North China craton and its tectonic implications: insights from teleseismic P-wave tomography",
+   "volume": "13",
+   "author": "Yu",
+   "year": "2025",
+   "journal-title": "J. Mar. Sci. Eng."
+  },
+  {
+   "issue": "1",
+   "key": "10.1016/j.earscirev.2026.105475_bb0775",
+   "doi-asserted-by": "crossref",
+   "first-page": "3187",
+   "DOI": "10.1038/s41467-025-58375-4",
+   "article-title": "Subglacial water amplifies Antarctic contributions to sea-level rise",
+   "volume": "16",
+   "author": "Zhao",
+   "year": "2025",
+   "journal-title": "Nat. Commun."
+  }
+ ],
+ "container-title": "Earth-Science Reviews",
+ "original-title": [],
+ "language": "en",
+ "link": [
+  {
+   "URL": "https://api.elsevier.com/content/article/PII:S0012825226000863?httpAccept=text/xml",
+   "content-type": "text/xml",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://api.elsevier.com/content/article/PII:S0012825226000863?httpAccept=text/plain",
+   "content-type": "text/plain",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2026,
+    7,
+    13
+   ]
+  ],
+  "date-time": "2026-07-13T12:54:32Z",
+  "timestamp": 1783947272000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0012825226000863"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2026,
+    6
+   ]
+  ]
+ },
+ "references-count": 154,
+ "alternative-id": [
+  "S0012825226000863"
+ ],
+ "URL": "http://dx.doi.org/10.1016/j.earscirev.2026.105475",
+ "relation": {},
+ "ISSN": [
+  "0012-8252"
+ ],
+ "subject": [],
+ "container-title-short": "Earth-Science Reviews",
+ "published": {
+  "date-parts": [
+   [
+    2026,
+    6
+   ]
+  ]
+ },
+ "assertion": [
+  {
+   "value": "Elsevier",
+   "name": "publisher",
+   "label": "This article is maintained by"
+  },
+  {
+   "value": "Geothermal heat flow in the Princess Elizabeth Land sector, East Antarctica",
+   "name": "articletitle",
+   "label": "Article Title"
+  },
+  {
+   "value": "Earth-Science Reviews",
+   "name": "journaltitle",
+   "label": "Journal Title"
+  },
+  {
+   "value": "https://doi.org/10.1016/j.earscirev.2026.105475",
+   "name": "articlelink",
+   "label": "CrossRef DOI link to publisher maintained version"
+  },
+  {
+   "value": "article",
+   "name": "content_type",
+   "label": "Content Type"
+  },
+  {
+   "value": "© 2026 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+   "name": "copyright",
+   "label": "Copyright"
+  }
+ ],
+ "article-number": "105475"
+}

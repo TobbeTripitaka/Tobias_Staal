@@ -1,0 +1,32 @@
+{
+ "type": "dataset",
+ "id": "https://doi.org/10.7914/74en-yt90",
+ "author": [
+  {
+   "literal": "Tobias Stål"
+  },
+  {
+   "literal": "Anya M. Reading"
+  },
+  {
+   "literal": "Shyla Kupis"
+  }
+ ],
+ "contributor": [
+  {
+   "literal": "AuScope"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2023
+   ]
+  ]
+ },
+ "abstract": "Broadband and node-type sensors deployed with the aim of understanding ice sheets, the ice-bedrock interface zone, and Earth-ice interactions in East Antarctica.",
+ "DOI": "10.7914/74EN-YT90",
+ "publisher": "International Federation of Digital Seismograph Networks",
+ "title": "Ice Sheets and Interactions, East Antarctica",
+ "URL": "https://www.fdsn.org/networks/detail/5Q_2023/"
+}

@@ -1,21 +1,17 @@
 #!/bin/bash
+# Build everything switched on in data/settings.yaml, then commit and push.
+#   ./update.sh                      -> build, commit "Update CV and publications", push
+#   ./update.sh "Add Nature paper"   -> same, with your own commit message
+# Build only (no git):  python3 tools/build.py   (see docs/BUILD.md)
+set -e
+cd "$(dirname "$0")"
+MESSAGE="${*:-Update CV and publications}"
 
-MESSAGE="${*:-Add new papers}"
+python3 tools/build.py
 
-cd publications
-
-pdflatex -interaction=batchmode publication_list.tex
-biber --quiet publication_list
-pdflatex -interaction=batchmode publication_list.tex
-pdflatex -interaction=batchmode publication_list.tex
-
-echo "PDF built"
-
-cd ..
-
-mv publications/publication_list.pdf .
-
-echo "PDF moved to $(pwd)"
-
-git add .
-git diff --cached --quiet && echo "Nothing to commit" || (git commit -m "$MESSAGE" && git push origin main && echo "✓ Pushed")
+git add -A
+if git diff --cached --quiet; then
+  echo "Nothing to commit"
+else
+  git commit -m "$MESSAGE" && git push origin main && echo "✓ Pushed"
+fi

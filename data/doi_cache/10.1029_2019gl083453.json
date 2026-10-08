@@ -1,0 +1,902 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2026,
+    8,
+    23
+   ]
+  ],
+  "date-time": "2026-08-23T15:11:27Z",
+  "timestamp": 1787497887253,
+  "version": "build-2736575974"
+ },
+ "reference-count": 113,
+ "publisher": "American Geophysical Union (AGU)",
+ "issue": "17-18",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2019,
+      9,
+      10
+     ]
+    ],
+    "date-time": "2019-09-10T00:00:00Z",
+    "timestamp": 1568073600000
+   },
+   "content-version": "vor",
+   "delay-in-days": 9,
+   "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  }
+ ],
+ "funder": [
+  {
+   "DOI": "10.13039/100007615",
+   "name": "Centre of Excellence for Environmental Decisions, Australian Research Council",
+   "doi-asserted-by": "publisher",
+   "award": [
+    "SR140300001"
+   ],
+   "award-info": [
+    {
+     "award-number": [
+      "SR140300001"
+     ]
+    }
+   ],
+   "id": [
+    {
+     "id": "10.13039/100007615",
+     "id-type": "DOI",
+     "asserted-by": "publisher"
+    }
+   ]
+  }
+ ],
+ "content-domain": {
+  "domain": [
+   "agupubs.onlinelibrary.wiley.com"
+  ],
+  "crossmark-restriction": true
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2019,
+    9
+   ]
+  ]
+ },
+ "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Beneath the ice of East Antarctica lies a continent that is likely to be as geologically complex as its neighbors in Gondwana. An improved model of the heterogeneous lithosphere is required to progress research on Antarctica's tectonic evolution and support interdisciplinary studies of cryosphere and solid Earth interaction. We make use of multiple data sets, which were updated following the field campaigns and compilations of the International Polar Year of 2007/2008. Seismic tomography results, gravity anomalies, and surface elevation are used in a novel method, which combines spatial multivariate data to map possible boundaries as projected likelihood functions. Six multivariate combinations are tested and compared with sparse geological observations in East Antarctica. The resulting lithospheric domain boundaries contribute to our understanding of the deep continental structure. New boundaries are suggested in the interior, and models agree with likely surface expressions of crustal tectonic boundaries exposed along the coast.</jats:p>",
+ "DOI": "10.1029/2019gl083453",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2019,
+    8,
+    27
+   ]
+  ],
+  "date-time": "2019-08-27T21:10:11Z",
+  "timestamp": 1566940211000
+ },
+ "page": "10404-10416",
+ "update-policy": "https://doi.org/10.1002/crossmark_policy",
+ "source": "Crossref",
+ "is-referenced-by-count": 23,
+ "title": "A Multivariate Approach for Mapping Lithospheric Domain Boundaries in East Antarctica",
+ "prefix": "10.1029",
+ "volume": "46",
+ "author": [
+  {
+   "ORCID": "https://orcid.org/0000-0002-4323-6748",
+   "authenticated-orcid": false,
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "first",
+   "affiliation": [
+    {
+     "name": "School of Natural Sciences (Earth Sciences) University of Tasmania  Hobart Tasmania Australia"
+    },
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart Tasmania Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-9316-7605",
+   "authenticated-orcid": false,
+   "given": "Anya M.",
+   "family": "Reading",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "School of Natural Sciences (Earth Sciences) University of Tasmania  Hobart Tasmania Australia"
+    },
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart Tasmania Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4992-8681",
+   "authenticated-orcid": false,
+   "given": "Jacqueline A.",
+   "family": "Halpin",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart Tasmania Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-3170-3935",
+   "authenticated-orcid": false,
+   "given": "Joanne M.",
+   "family": "Whittaker",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Institute for Marine and Antarctic Studies University of Tasmania  Hobart Tasmania Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  }
+ ],
+ "member": "13",
+ "published-online": {
+  "date-parts": [
+   [
+    2019,
+    9,
+    10
+   ]
+  ]
+ },
+ "reference": [
+  {
+   "key": "e_1_2_8_1_2_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2014GL059405"
+  },
+  {
+   "key": "e_1_2_8_1_3_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/j.1365-246X.2012.05661.x"
+  },
+  {
+   "key": "e_1_2_8_1_4_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2015JB011917"
+  },
+  {
+   "key": "e_1_2_8_1_5_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2014JB011332"
+  },
+  {
+   "key": "e_1_2_8_1_6_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.tecto.2012.12.023"
+  },
+  {
+   "key": "e_1_2_8_1_7_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s10712-017-9423-5"
+  },
+  {
+   "key": "e_1_2_8_1_8_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/S1342-937X(05)70998-9"
+  },
+  {
+   "key": "e_1_2_8_1_9_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/GES00179.1"
+  },
+  {
+   "key": "e_1_2_8_1_10_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2009.09.022"
+  },
+  {
+   "key": "e_1_2_8_1_11_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/petrology/egh093"
+  },
+  {
+   "key": "e_1_2_8_1_12_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gr.2010.09.003"
+  },
+  {
+   "key": "e_1_2_8_1_13_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/S0012-821X(03)00692-7"
+  },
+  {
+   "key": "e_1_2_8_1_14_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/0091-7613(2001)029<0463:EPTWTE>2.0.CO;2"
+  },
+  {
+   "key": "e_1_2_8_1_15_1",
+   "volume-title": "Introductory combinatorics",
+   "author": "Brualdi R. A.",
+   "year": "1992"
+  },
+  {
+   "key": "e_1_2_8_1_16_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc-10-1665-2016"
+  },
+  {
+   "key": "e_1_2_8_1_17_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2017GL073596"
+  },
+  {
+   "key": "e_1_2_8_1_18_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2013JB010642"
+  },
+  {
+   "key": "e_1_2_8_1_19_1",
+   "series-title": "BAS GEOMAP",
+   "volume-title": "Geological map of the Shackleton Range, Antarctica",
+   "author": "Clarkson P. D.",
+   "year": "1995"
+  },
+  {
+   "key": "e_1_2_8_1_20_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.chemgeo.2017.06.011"
+  },
+  {
+   "key": "e_1_2_8_1_21_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2008.09.001"
+  },
+  {
+   "key": "e_1_2_8_1_22_1",
+   "first-page": "449",
+   "volume-title": "Antarctic tectonics",
+   "author": "Craddock C.",
+   "year": "1972"
+  },
+  {
+   "key": "e_1_2_8_1_23_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598-018-26530-1"
+  },
+  {
+   "key": "e_1_2_8_1_24_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2006.10.002"
+  },
+  {
+   "key": "e_1_2_8_1_25_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598-018-34733-9"
+  },
+  {
+   "key": "e_1_2_8_1_26_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/S0012-821X(01)00459-9"
+  },
+  {
+   "key": "e_1_2_8_1_27_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/nature10566"
+  },
+  {
+   "key": "e_1_2_8_1_28_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/0091-7613(2000)28<879:GBPIEA>2.0.CO;2"
+  },
+  {
+   "key": "e_1_2_8_1_29_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/S0899-5362(00)00069-5"
+  },
+  {
+   "key": "e_1_2_8_1_30_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/GSL.SP.2003.206.01.07"
+  },
+  {
+   "key": "e_1_2_8_1_31_1",
+   "unstructured": "Förste C. Bruinsma S. L. Abrikosov O. Lemoine J.‐M. Marty J. C. Flechtner F. Balmino G. Barthelmes F. &Biancale R.(2014).EIGEN‐6C4 The latest combined global gravity field model including GOCE data up to degree and order 2190 of GFZ Potsdam and GRGS Toulouse GFZ Data Services."
+  },
+  {
+   "key": "e_1_2_8_1_32_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/ter.12041"
+  },
+  {
+   "key": "e_1_2_8_1_33_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc-7-375-2013"
+  },
+  {
+   "key": "e_1_2_8_1_34_1",
+   "unstructured": "Gillies S.(2018).Rasterio: Geospatial raster I/O for Python programmers. Retrieved fromhttps://github.com/mapbox/rasterio"
+  },
+  {
+   "key": "e_1_2_8_1_35_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc-12-491-2018"
+  },
+  {
+   "key": "e_1_2_8_1_36_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/S0301-9268(01)00193-0"
+  },
+  {
+   "key": "e_1_2_8_1_37_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2009JB006890"
+  },
+  {
+   "key": "e_1_2_8_1_38_1",
+   "first-page": "203",
+   "volume-title": "Multiple petrotectonic events in high‐grade metamorphic rocks of the Nimrod Group, central Transantarctic Mountains, Antarctica",
+   "author": "Goodge J. W.",
+   "year": "1992"
+  },
+  {
+   "key": "e_1_2_8_1_39_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/essd-9-267-2017"
+  },
+  {
+   "key": "e_1_2_8_1_40_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/G38784.1"
+  },
+  {
+   "key": "e_1_2_8_1_41_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2018GC008033"
+  },
+  {
+   "key": "e_1_2_8_1_42_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/j.1525-1314.2007.00723.x"
+  },
+  {
+   "key": "e_1_2_8_1_43_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s00410-004-0627-6"
+  },
+  {
+   "key": "e_1_2_8_1_44_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2010.10.022"
+  },
+  {
+   "key": "e_1_2_8_1_45_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/SP383.9"
+  },
+  {
+   "key": "e_1_2_8_1_46_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2015JB012616"
+  },
+  {
+   "key": "e_1_2_8_1_47_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2015.05.003"
+  },
+  {
+   "key": "e_1_2_8_1_48_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1086/516031"
+  },
+  {
+   "key": "e_1_2_8_1_49_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1785/0120160262"
+  },
+  {
+   "key": "e_1_2_8_1_50_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.jog.2004.08.009"
+  },
+  {
+   "key": "e_1_2_8_1_51_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/S0301-9268(02)00028-1"
+  },
+  {
+   "key": "e_1_2_8_1_52_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/s00410-004-0635-6"
+  },
+  {
+   "key": "e_1_2_8_1_53_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2007.09.003"
+  },
+  {
+   "key": "e_1_2_8_1_54_1",
+   "first-page": "1",
+   "volume-title": "Seismological tables: AK135",
+   "author": "Kennett B. L. N.",
+   "year": "2005"
+  },
+  {
+   "key": "e_1_2_8_1_55_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.22459/AC.08.2018"
+  },
+  {
+   "key": "e_1_2_8_1_56_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1109/MCSE.2005.11"
+  },
+  {
+   "key": "e_1_2_8_1_57_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.oregeorev.2015.05.010"
+  },
+  {
+   "key": "e_1_2_8_1_58_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.tecto.2016.05.011"
+  },
+  {
+   "key": "e_1_2_8_1_59_1",
+   "first-page": "2658",
+   "volume-title": "Geophys. res. abstr",
+   "author": "Laske G.",
+   "year": "2013"
+  },
+  {
+   "key": "e_1_2_8_1_60_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1098/rsta.2014.0302"
+  },
+  {
+   "key": "e_1_2_8_1_61_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/petrology/41.8.1271"
+  },
+  {
+   "key": "e_1_2_8_1_62_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/petrology/egq057"
+  },
+  {
+   "key": "e_1_2_8_1_63_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2017GL075609"
+  },
+  {
+   "key": "e_1_2_8_1_64_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3133/ofr20071047SRP048"
+  },
+  {
+   "key": "e_1_2_8_1_65_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/S1342-937X(05)70258-6"
+  },
+  {
+   "key": "e_1_2_8_1_66_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/petrology/egv082"
+  },
+  {
+   "key": "e_1_2_8_1_67_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/S0954102095000125"
+  },
+  {
+   "key": "e_1_2_8_1_68_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2010GL044906"
+  },
+  {
+   "key": "e_1_2_8_1_69_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2018GC008111"
+  },
+  {
+   "key": "e_1_2_8_1_70_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2013JB010626"
+  },
+  {
+   "key": "e_1_2_8_1_71_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/S0301-9268(98)00119-3"
+  },
+  {
+   "key": "e_1_2_8_1_72_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/petrology/egp065"
+  },
+  {
+   "key": "e_1_2_8_1_73_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2006.05.001"
+  },
+  {
+   "key": "e_1_2_8_1_74_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gloplacha.2005.05.003"
+  },
+  {
+   "key": "e_1_2_8_1_75_1",
+   "unstructured": "QGIS(2015).QGIS geographic information system Open Source Geospatial Foundation Project (By development team and community)."
+  },
+  {
+   "key": "e_1_2_8_1_76_1",
+   "volume-title": "Dokembriy Vostochnoy Antarktidy (The Precambrian of East Antarctica)",
+   "author": "Ravich M. G.",
+   "year": "1965"
+  },
+  {
+   "key": "e_1_2_8_1_77_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2006.01.031"
+  },
+  {
+   "issue": "18",
+   "key": "e_1_2_8_1_78_1",
+   "first-page": "285",
+   "article-title": "The seismicity of the Antarctic plate",
+   "volume": "425",
+   "author": "Reading A. M.",
+   "year": "2007",
+   "journal-title": "The Geological Society of America Special Paper"
+  },
+  {
+   "key": "e_1_2_8_1_79_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2003JB002610"
+  },
+  {
+   "key": "e_1_2_8_1_80_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2002JB001777"
+  },
+  {
+   "key": "e_1_2_8_1_81_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2001JB000179"
+  },
+  {
+   "key": "e_1_2_8_1_82_1",
+   "unstructured": "Roth G. Matsuoka K. Skoglund A. Melvær Y. &Tronstad S.(2018).Quantarctica: A unique open standalone GIS package for Antarctic research and education. Retrieved fromhttp://quantarctica.npolar.no"
+  },
+  {
+   "key": "e_1_2_8_1_83_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/0031-9201(94)90032-9"
+  },
+  {
+   "key": "e_1_2_8_1_84_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/0031-9201(94)90033-7"
+  },
+  {
+   "key": "e_1_2_8_1_85_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gr.2018.02.019"
+  },
+  {
+   "key": "e_1_2_8_1_86_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1007/978-3-319-15627-9_1"
+  },
+  {
+   "key": "e_1_2_8_1_87_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1046/j.1365-246X.2002.01742.x"
+  },
+  {
+   "key": "e_1_2_8_1_88_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2017JB015346"
+  },
+  {
+   "key": "e_1_2_8_1_89_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/G39555.1"
+  },
+  {
+   "key": "e_1_2_8_1_90_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1080/00167618008729114"
+  },
+  {
+   "key": "e_1_2_8_1_91_1",
+   "article-title": "Geology of an unusual Precambrian high‐grade metamorphic terrane‐Enderby Land and western Kemp Land, Antarctica",
+   "volume": "223",
+   "author": "Sheraton J. W.",
+   "year": "1987",
+   "journal-title": "Australian Bureau of Mineral Resources Bulletin"
+  },
+  {
+   "key": "e_1_2_8_1_92_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/0301-9268(89)90063-6"
+  },
+  {
+   "key": "e_1_2_8_1_93_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2014.12.034"
+  },
+  {
+   "issue": "3",
+   "key": "e_1_2_8_1_94_1",
+   "first-page": "317",
+   "article-title": "Ross‐age amalgamation of East and West Gondwana: Evidence from the Shackleton Range, Antarctica",
+   "volume": "6",
+   "author": "Tessensohn F.",
+   "year": "1999",
+   "journal-title": "Terra Antartica"
+  },
+  {
+   "key": "e_1_2_8_1_95_1",
+   "series-title": "No. 17",
+   "volume-title": "The geology of Antarctica",
+   "author": "Tingey R. J.",
+   "year": "1991"
+  },
+  {
+   "key": "e_1_2_8_1_96_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.earscirev.2011.11.009"
+  },
+  {
+   "key": "e_1_2_8_1_97_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/S0273-1177(99)00154-4"
+  },
+  {
+   "key": "e_1_2_8_1_98_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/esurf-6-401-2018"
+  },
+  {
+   "key": "e_1_2_8_1_99_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2006GL026568"
+  },
+  {
+   "key": "e_1_2_8_1_100_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2010.03.005"
+  },
+  {
+   "key": "e_1_2_8_1_101_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2009.03.008"
+  },
+  {
+   "key": "e_1_2_8_1_102_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/G20768.1"
+  },
+  {
+   "key": "e_1_2_8_2_2_1",
+   "volume-title": "Gravity anomaly map of the Australian region, scale 1: 5 000 000",
+   "author": "Bacchin M.",
+   "year": "2008"
+  },
+  {
+   "key": "e_1_2_8_2_3_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1046/j.1440-0952.2002.00948.x"
+  },
+  {
+   "key": "e_1_2_8_2_4_1",
+   "doi-asserted-by": "crossref",
+   "unstructured": "Boyden J. A. Müller R. D. Gurnis M. Torsvik T. H. Clark J. A. Turner M. Ivey‐Law H. Watson R. J. &Cannon J. S.(2011).Next‐generation plate‐tectonic reconstructions using GPlates.",
+   "DOI": "10.1017/CBO9780511976308.008"
+  },
+  {
+   "key": "e_1_2_8_2_5_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2008.08.006"
+  },
+  {
+   "key": "e_1_2_8_2_6_1",
+   "volume-title": "Tectonic map of Antarctica",
+   "author": "Craddock C.",
+   "year": "1970"
+  },
+  {
+   "key": "e_1_2_8_2_7_1",
+   "article-title": "Digital Elevation Model (DEM) Shuttle radar Topography Mission (SRTM) 1 Second over Australian Bathymetry Topography WCS",
+   "author": "Geoscience Australia",
+   "year": "2017",
+   "journal-title": "Geoscience Australia"
+  },
+  {
+   "key": "e_1_2_8_2_8_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1093/gji/ggs065"
+  },
+  {
+   "key": "e_1_2_8_2_9_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598-018-34748-2"
+  },
+  {
+   "key": "e_1_2_8_2_10_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.gloplacha.2016.10.002"
+  },
+  {
+   "key": "e_1_2_8_2_11_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.precamres.2017.03.005"
+  },
+  {
+   "key": "e_1_2_8_2_12_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/96TC02356"
+  },
+  {
+   "key": "e_1_2_8_2_13_1",
+   "first-page": "1",
+   "article-title": "Australian crustal elements map",
+   "volume": "23",
+   "author": "Shaw R. D.",
+   "year": "1995",
+   "journal-title": "AGSO Research Newsletter"
+  }
+ ],
+ "container-title": "Geophysical Research Letters",
+ "original-title": [],
+ "language": "en",
+ "link": [
+  {
+   "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1029%2F2019GL083453",
+   "content-type": "application/pdf",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL083453",
+   "content-type": "application/pdf",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1029/2019GL083453",
+   "content-type": "application/xml",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL083453",
+   "content-type": "unspecified",
+   "content-version": "vor",
+   "intended-application": "similarity-checking"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2023,
+    9,
+    2
+   ]
+  ],
+  "date-time": "2023-09-02T04:20:34Z",
+  "timestamp": 1693628434000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL083453"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2019,
+    9
+   ]
+  ]
+ },
+ "references-count": 113,
+ "journal-issue": {
+  "issue": "17-18",
+  "published-print": {
+   "date-parts": [
+    [
+     2019,
+     9
+    ]
+   ]
+  }
+ },
+ "alternative-id": [
+  "10.1029/2019GL083453"
+ ],
+ "URL": "http://dx.doi.org/10.1029/2019GL083453",
+ "relation": {},
+ "ISSN": [
+  "0094-8276",
+  "1944-8007"
+ ],
+ "subject": [],
+ "container-title-short": "Geophysical Research Letters",
+ "published": {
+  "date-parts": [
+   [
+    2019,
+    9
+   ]
+  ]
+ },
+ "assertion": [
+  {
+   "value": "2019-04-24",
+   "order": 0,
+   "name": "received",
+   "label": "Received",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  },
+  {
+   "value": "2019-08-22",
+   "order": 1,
+   "name": "accepted",
+   "label": "Accepted",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  },
+  {
+   "value": "2019-09-10",
+   "order": 2,
+   "name": "published",
+   "label": "Published",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  }
+ ]
+}

@@ -1,0 +1,587 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2026,
+    9,
+    3
+   ]
+  ],
+  "date-time": "2026-09-03T01:04:52Z",
+  "timestamp": 1788397492976,
+  "version": "build-2803163510"
+ },
+ "reference-count": 49,
+ "publisher": "American Geophysical Union (AGU)",
+ "issue": "15",
+ "license": [
+  {
+   "start": {
+    "date-parts": [
+     [
+      2022,
+      8,
+      14
+     ]
+    ],
+    "date-time": "2022-08-14T00:00:00Z",
+    "timestamp": 1660435200000
+   },
+   "content-version": "vor",
+   "delay-in-days": 0,
+   "URL": "http://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "content-domain": {
+  "domain": [
+   "agupubs.onlinelibrary.wiley.com"
+  ],
+  "crossmark-restriction": true
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2022,
+    8,
+    16
+   ]
+  ]
+ },
+ "abstract": "<jats:title>Abstract</jats:title><jats:p>Antarctic geothermal heat flow (GHF) affects the thermal regime of ice sheets and simulations of ice and subglacial meltwater discharge to the ocean, but remains poorly constrained. We use an ice sheet model to investigate the impact of GHF anomalies on subglacial meltwater production in the Aurora Subglacial Basin, East Antarctica. We find that spatially‐variable GHF fields produce more meltwater than a constant GHF with the same background mean, and meltwater production increases as the resolution of GHF anomalies increases. Our results suggest that model simulations of this region systematically underestimate meltwater production using current GHF models. We determine the minimum basal heating required to bring the basal ice temperature to the pressure melting point, which should be taken together with the scale‐length of likely local variability in targeting in‐situ GHF field campaigns.</jats:p>",
+ "DOI": "10.1029/2022gl098539",
+ "type": "journal-article",
+ "created": {
+  "date-parts": [
+   [
+    2022,
+    8,
+    3
+   ]
+  ],
+  "date-time": "2022-08-03T23:24:17Z",
+  "timestamp": 1659569057000
+ },
+ "update-policy": "https://doi.org/10.1002/crossmark_policy",
+ "source": "Crossref",
+ "is-referenced-by-count": 26,
+ "title": "Fine‐Scale Geothermal Heat Flow in Antarctica Can Increase Simulated Subglacial Melt Estimates",
+ "prefix": "10.1029",
+ "volume": "49",
+ "author": [
+  {
+   "ORCID": "https://orcid.org/0000-0002-2324-2120",
+   "authenticated-orcid": false,
+   "given": "Felicity S.",
+   "family": "McCormack",
+   "sequence": "first",
+   "affiliation": [
+    {
+     "name": "Securing Antarctica's Environmental Future School of Earth, Atmosphere &amp; Environment Monash University  Clayton VIC Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-3477-4069",
+   "authenticated-orcid": false,
+   "given": "Jason L.",
+   "family": "Roberts",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Australian Antarctic Division  Kingston TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0003-1346-2258",
+   "authenticated-orcid": false,
+   "given": "Christine F.",
+   "family": "Dow",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Department of Geography and Environmental Management University of Waterloo  Waterloo ON Canada"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4323-6748",
+   "authenticated-orcid": false,
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "School of Natural Sciences (Physics) University of Tasmania  Hobart TAS Australia"
+    },
+    {
+     "name": "Institute for Marine and Antarctica Studies University of Tasmania  Hobart TAS Australia"
+    },
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science University of Tasmania  Hobart TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4992-8681",
+   "authenticated-orcid": false,
+   "given": "Jacqueline A.",
+   "family": "Halpin",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Institute for Marine and Antarctica Studies University of Tasmania  Hobart TAS Australia"
+    },
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science University of Tasmania  Hobart TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-9316-7605",
+   "authenticated-orcid": false,
+   "given": "Anya M.",
+   "family": "Reading",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "School of Natural Sciences (Physics) University of Tasmania  Hobart TAS Australia"
+    },
+    {
+     "name": "Institute for Marine and Antarctica Studies University of Tasmania  Hobart TAS Australia"
+    },
+    {
+     "name": "The Australian Centre for Excellence in Antarctic Science University of Tasmania  Hobart TAS Australia"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-0090-4806",
+   "authenticated-orcid": false,
+   "given": "Martin J.",
+   "family": "Siegert",
+   "sequence": "additional",
+   "affiliation": [
+    {
+     "name": "Grantham Institute and Department of Earth Science and Engineering Imperial College London  London UK"
+    }
+   ],
+   "role": [
+    {
+     "vocabulary": "crossref",
+     "role": "author"
+    }
+   ]
+  }
+ ],
+ "member": "13",
+ "published-online": {
+  "date-parts": [
+   [
+    2022,
+    8,
+    14
+   ]
+  ]
+ },
+ "reference": [
+  {
+   "key": "e_1_2_8_2_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41561‐020‐0616‐z"
+  },
+  {
+   "key": "e_1_2_8_3_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/nature17447"
+  },
+  {
+   "key": "e_1_2_8_4_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2015JB011917"
+  },
+  {
+   "key": "e_1_2_8_5_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3189/2012JoG11J088"
+  },
+  {
+   "key": "e_1_2_8_6_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3189/S002214300001621X"
+  },
+  {
+   "key": "e_1_2_8_7_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3189/S0022143000029804"
+  },
+  {
+   "key": "e_1_2_8_8_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.5194/tc‐14‐3843‐2020"
+  },
+  {
+   "key": "e_1_2_8_9_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1144/jgs2013‐030"
+  },
+  {
+   "key": "e_1_2_8_10_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2019.115961"
+  },
+  {
+   "key": "e_1_2_8_11_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3189/S0022143000034067"
+  },
+  {
+   "key": "e_1_2_8_12_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/172721a0"
+  },
+  {
+   "key": "e_1_2_8_13_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1098/rspa.1955.0066"
+  },
+  {
+   "key": "e_1_2_8_14_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1111/j.1365‐246X.2011.05228.x"
+  },
+  {
+   "key": "e_1_2_8_15_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/ngeo2388"
+  },
+  {
+   "key": "e_1_2_8_16_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1126/sciadv.1701681"
+  },
+  {
+   "key": "e_1_2_8_17_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/9781009157896"
+  },
+  {
+   "key": "e_1_2_8_18_1",
+   "volume-title": "Climate change 2021: The physical science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change",
+   "author": "IPCC",
+   "year": "2021"
+  },
+  {
+   "key": "e_1_2_8_19_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41467‐021‐23739‐z"
+  },
+  {
+   "key": "e_1_2_8_20_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2012JF002371"
+  },
+  {
+   "key": "e_1_2_8_21_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2011JF002140"
+  },
+  {
+   "key": "e_1_2_8_22_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2011GL050713"
+  },
+  {
+   "key": "e_1_2_8_23_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41598‐019‐46612‐y"
+  },
+  {
+   "key": "e_1_2_8_24_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2017GL075609"
+  },
+  {
+   "key": "e_1_2_8_25_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1126/science.1106888"
+  },
+  {
+   "key": "e_1_2_8_26_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/0‐8137‐2372‐8.157"
+  },
+  {
+   "key": "e_1_2_8_27_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41561‐019‐0510‐8"
+  },
+  {
+   "key": "e_1_2_8_28_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/jgrf.20125"
+  },
+  {
+   "key": "e_1_2_8_29_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1130/G45952.1"
+  },
+  {
+   "key": "e_1_2_8_30_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2002JB002329"
+  },
+  {
+   "key": "e_1_2_8_31_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2010.04.025"
+  },
+  {
+   "key": "e_1_2_8_32_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019GL086821"
+  },
+  {
+   "key": "e_1_2_8_33_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2016GL068436"
+  },
+  {
+   "key": "e_1_2_8_34_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1017/aog.2016.26"
+  },
+  {
+   "key": "e_1_2_8_35_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019GC008418"
+  },
+  {
+   "key": "e_1_2_8_36_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1126/science.1208336"
+  },
+  {
+   "key": "e_1_2_8_37_1",
+   "unstructured": "Rignot E. Mouginot J. &Scheuchl B.(2017).MEaSUREs InSAR‐based Antarctica ice velocity map 450 m Version 2.0. NASA National Snow and Ice Data Center Distributed Active Archive Center.https://doi.org/10.5067/D7GK8F5J8M8R"
+  },
+  {
+   "key": "e_1_2_8_38_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1126/sciadv.1601610"
+  },
+  {
+   "key": "e_1_2_8_39_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2001jb000698"
+  },
+  {
+   "key": "e_1_2_8_40_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2017JB014423"
+  },
+  {
+   "key": "e_1_2_8_41_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3189/2013JoG13J054"
+  },
+  {
+   "key": "e_1_2_8_42_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1016/j.epsl.2004.04.011"
+  },
+  {
+   "key": "e_1_2_8_43_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020GL086955"
+  },
+  {
+   "key": "e_1_2_8_44_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.3189/S0022143000003488"
+  },
+  {
+   "key": "e_1_2_8_45_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1002/2016JC012115"
+  },
+  {
+   "key": "e_1_2_8_46_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1126/science.aaz5845"
+  },
+  {
+   "key": "e_1_2_8_47_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2019JF005252"
+  },
+  {
+   "key": "e_1_2_8_48_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2020GC009428"
+  },
+  {
+   "key": "e_1_2_8_49_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1038/s41467‐018‐07083‐3"
+  },
+  {
+   "key": "e_1_2_8_50_1",
+   "doi-asserted-by": "publisher",
+   "DOI": "10.1029/2011JF002066"
+  }
+ ],
+ "container-title": "Geophysical Research Letters",
+ "original-title": [],
+ "language": "en",
+ "link": [
+  {
+   "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1029/2022GL098539",
+   "content-type": "application/pdf",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1029/2022GL098539",
+   "content-type": "application/xml",
+   "content-version": "vor",
+   "intended-application": "text-mining"
+  },
+  {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022GL098539",
+   "content-type": "unspecified",
+   "content-version": "vor",
+   "intended-application": "similarity-checking"
+  }
+ ],
+ "deposited": {
+  "date-parts": [
+   [
+    2025,
+    5,
+    27
+   ]
+  ],
+  "date-time": "2025-05-27T13:29:31Z",
+  "timestamp": 1748352571000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098539"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2022,
+    8,
+    14
+   ]
+  ]
+ },
+ "references-count": 49,
+ "journal-issue": {
+  "issue": "15",
+  "published-print": {
+   "date-parts": [
+    [
+     2022,
+     8,
+     16
+    ]
+   ]
+  }
+ },
+ "alternative-id": [
+  "10.1029/2022GL098539"
+ ],
+ "URL": "http://dx.doi.org/10.1029/2022GL098539",
+ "relation": {},
+ "ISSN": [
+  "0094-8276",
+  "1944-8007"
+ ],
+ "subject": [],
+ "container-title-short": "Geophysical Research Letters",
+ "published": {
+  "date-parts": [
+   [
+    2022,
+    8,
+    14
+   ]
+  ]
+ },
+ "assertion": [
+  {
+   "value": "2022-03-08",
+   "order": 0,
+   "name": "received",
+   "label": "Received",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  },
+  {
+   "value": "2022-07-29",
+   "order": 2,
+   "name": "accepted",
+   "label": "Accepted",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  },
+  {
+   "value": "2022-08-14",
+   "order": 3,
+   "name": "published",
+   "label": "Published",
+   "group": {
+    "name": "publication_history",
+    "label": "Publication History"
+   }
+  }
+ ],
+ "article-number": "e2022GL098539"
+}

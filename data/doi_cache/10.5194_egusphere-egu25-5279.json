@@ -1,0 +1,309 @@
+{
+ "indexed": {
+  "date-parts": [
+   [
+    2025,
+    3,
+    19
+   ]
+  ],
+  "date-time": "2025-03-19T04:16:49Z",
+  "timestamp": 1742357809560,
+  "version": "3.40.1"
+ },
+ "posted": {
+  "date-parts": [
+   [
+    2025,
+    3,
+    18
+   ]
+  ]
+ },
+ "group-title": "oral",
+ "reference-count": 0,
+ "publisher": "Copernicus GmbH",
+ "content-domain": {
+  "domain": [],
+  "crossmark-restriction": false
+ },
+ "abstract": "<jats:p>Denman Glacier is one of the largest outlet glaciers in Antarctica. Despite its potential significance for sea level change, its geometry and dynamics remain poorly constrained, making predictions of its response to the changing climate challenging. Seismic signals arise from internal stress and interaction with the subglacial landscape, however, seismic methods are still an often underutilised tool for investigating glacial characteristics. In fact, seismology provides one of the few tools for directly observing the processes and properties that control outlet glacier stability and flow.&amp;#160;We present an overview of the seismic data acquired from a transect across Denman Glacier during the Denman Terrestrial Campaign (2023/24). The transect is located 50 km upstream from the grounding line, where the glacier is 13 km wide, and modelling studies suggest a very deep subglacial trough.&amp;#160;&amp;#160;&amp;#160;We employ a combination of passive and active seismic techniques to study the glacier&amp;#8217;s geometry, internal structure, and dynamics. Our findings reveal constraints on the glacier's geometry, providing an independent view of the depth extent of the main trough. The recorded seismicity also offers preliminary insights into the glacier's dynamics, the baseline for the monitoring of changing environmental forcing.</jats:p>",
+ "DOI": "10.5194/egusphere-egu25-5279",
+ "type": "posted-content",
+ "created": {
+  "date-parts": [
+   [
+    2025,
+    3,
+    14
+   ]
+  ],
+  "date-time": "2025-03-14T18:55:42Z",
+  "timestamp": 1741978542000
+ },
+ "source": "Crossref",
+ "is-referenced-by-count": 0,
+ "title": "Seismicity of Denman Glacier: Constraints on Geometry and Dynamics",
+ "prefix": "10.5194",
+ "author": [
+  {
+   "ORCID": "https://orcid.org/0000-0002-4323-6748",
+   "authenticated-orcid": false,
+   "given": "Tobias",
+   "family": "Stål",
+   "sequence": "first",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-9316-7605",
+   "authenticated-orcid": false,
+   "given": "Anya M.",
+   "family": "Reading",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Niam",
+   "family": "Askey-Doran",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0001-9878-4218",
+   "authenticated-orcid": false,
+   "given": "Sue",
+   "family": "Cook",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-6365-7902",
+   "authenticated-orcid": false,
+   "given": "Jakob",
+   "family": "Gradl",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0003-2944-883X",
+   "authenticated-orcid": false,
+   "given": "Thomas",
+   "family": "Hudson",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-5511-078X",
+   "authenticated-orcid": false,
+   "given": "Ian",
+   "family": "Kelly",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4830-4949",
+   "authenticated-orcid": false,
+   "given": "Bernd",
+   "family": "Kulessa",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-1382-1890",
+   "authenticated-orcid": false,
+   "given": "Shyla",
+   "family": "Kupis",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Mareen",
+   "family": "Lösing",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-2655-9895",
+   "authenticated-orcid": false,
+   "given": "Jared",
+   "family": "Magyar",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-3178-6523",
+   "authenticated-orcid": false,
+   "given": "Maria Constanza",
+   "family": "Manassero",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Matthias",
+   "family": "Scheiter",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Kate",
+   "family": "Selway",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "given": "Sarah",
+   "family": "Thompson",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  },
+  {
+   "ORCID": "https://orcid.org/0000-0002-4376-5455",
+   "authenticated-orcid": false,
+   "given": "Ross",
+   "family": "Turner",
+   "sequence": "additional",
+   "affiliation": [],
+   "role": [
+    {
+     "role": "author",
+     "vocabulary": "crossref"
+    }
+   ]
+  }
+ ],
+ "member": "3145",
+ "container-title": [],
+ "original-title": [],
+ "deposited": {
+  "date-parts": [
+   [
+    2025,
+    3,
+    18
+   ]
+  ],
+  "date-time": "2025-03-18T07:34:44Z",
+  "timestamp": 1742283284000
+ },
+ "score": 1,
+ "resource": {
+  "primary": {
+   "URL": "https://meetingorganizer.copernicus.org/EGU25/EGU25-5279.html"
+  }
+ },
+ "subtitle": [],
+ "short-title": [],
+ "issued": {
+  "date-parts": [
+   [
+    2025,
+    3,
+    18
+   ]
+  ]
+ },
+ "references-count": 0,
+ "URL": "http://dx.doi.org/10.5194/egusphere-egu25-5279",
+ "relation": {},
+ "subject": [],
+ "published": {
+  "date-parts": [
+   [
+    2025,
+    3,
+    18
+   ]
+  ]
+ },
+ "subtype": "other"
+}

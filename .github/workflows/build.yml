@@ -1,0 +1,52 @@
+# Rebuilds the homepage, CVs, references.bib and publication list on GitHub's servers.
+#
+# Runs when you push changes to data/, templates/ or tools/ (e.g. after editing
+# records.csv or new_entries.yaml in the GitHub web editor), or manually:
+# GitHub -> Actions -> "Build CV and homepage" -> Run workflow.
+# The generated files are committed back to main; GitHub Pages then serves index.html.
+name: Build CV and homepage
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["data/**", "templates/**", "tools/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-cv
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python and LaTeX dependencies
+        run: |
+          pip install pyyaml
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq --no-install-recommends \
+            texlive-xetex texlive-latex-extra texlive-fonts-recommended texlive-fonts-extra lmodern
+
+      - name: Build
+        run: python tools/build.py
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Rebuild homepage, CVs and publication list"
+            git push
+          fi
