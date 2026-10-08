@@ -35,6 +35,9 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install -y -qq --no-install-recommends \
             texlive-xetex texlive-latex-extra texlive-fonts-recommended texlive-fonts-extra lmodern
+          # make the fonts shipped in cv/tex/fonts (FontAwesome, Roboto) visible to XeLaTeX by name
+          mkdir -p ~/.fonts && cp cv/tex/fonts/*.ttf ~/.fonts/ && fc-cache -f
+          for f in $(kpsewhich -var-value TEXMFDIST)/fonts/truetype/public/fontawesome/*.ttf $(kpsewhich -var-value TEXMFDIST)/fonts/opentype/public/fontawesome/*.otf; do [ -f "$f" ] && cp "$f" ~/.fonts/; done; fc-cache -f
 
       - name: Build
         run: python tools/build.py
