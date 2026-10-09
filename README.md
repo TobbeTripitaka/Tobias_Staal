@@ -1,6 +1,6 @@
 # Tobias Stål
 
-Geophysicist and engineer in Tasmania, working on Antarctica's ice-covered interior: geothermal heat, subglacial geology and the solid Earth beneath the ice.
+Geophysicist and engineer in Tasmania, working on Antarctic problems: geothermal heat, subglacial geology and the solid Earth beneath the ice.
 
 ## Homepage and documents
 
